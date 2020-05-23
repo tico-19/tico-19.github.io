@@ -16,6 +16,7 @@ details
 Translations of covid19-related terms in dozens of languages and locales, provided by Fb and G.
 
 ## Other data sources
+details
 
 Other Collections from our friends:
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
