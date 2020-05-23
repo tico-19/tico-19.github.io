@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Transation Initiative for COVID-19
 ---
 
