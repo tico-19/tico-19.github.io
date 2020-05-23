@@ -30,3 +30,6 @@ Other Collections from our friends:
 
 ## Contact/Contributors
 
+
+## License
+All content is made publicly available through a Creative Commons [CC0](LICENSE.md) license.
