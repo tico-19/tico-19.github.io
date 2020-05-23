@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: [Translation Initiative for COVID-19]
 description: [Create Translations]
+show_downloads: false
+theme: jekyll-theme-minimal
+github.is_project_page: false

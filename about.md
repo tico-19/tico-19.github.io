@@ -1,6 +1,6 @@
 ---
-layout: post
-title: TICO-19
+layout: null
+title: Transation Initiative for COVID-19
 ---
 
 # covid19-datashare
