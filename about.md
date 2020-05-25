@@ -43,5 +43,7 @@ Other Collections from our friends:
 ## Contact/Contributors
 details and logos?
 
+![CMU LTI logo](logos/LTI.png)
+
 ## License
 All content is made publicly available through a Creative Commons [CC0](LICENSE.md) license.

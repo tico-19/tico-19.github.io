@@ -6,7 +6,8 @@ layout: tico-default
 <sup><sub>[back to main page](about.html) </sub></sup>
 
 
-Under construction...
+We created translation memoried (in .TMX format) for some language pairs.
+They are free to use under a CC0 license.
 
 
 
