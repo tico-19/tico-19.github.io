@@ -10,14 +10,19 @@ To this end, we have so far created:
 ## TICO-19 Translation Benchmark
 
 The benchmark includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
+Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Congolese Swahili, Tagalog, Tamil, Tigrinya, Urdu, Zulu.
 
-Download the complete dataset [here](#).
-Matrix view [here](testset.html)
+
+* Download the complete dataset [here](#) (XX MB).
+* Matrix view and additional details [here](testset.html).
 
 details and links to data/paper
 
 ## Translation Memories for the Translation Community
 details and links to TMs
+
+Matrix view and additional details [here](memories.html).
+
 
 ## Translated Terminologies
 Translations of covid19-related terms in dozens of languages and locales, provided by Fb and G.
