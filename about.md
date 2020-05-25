@@ -8,6 +8,12 @@ In response to the on-going crisis, several academic (Carnegie Mellon University
 To this end, we have so far created:
 
 ## TICO-19 Translation Benchmark
+
+The benchmark includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
+
+Download the complete dataset [here](#).
+Matrix view [here](testset.html)
+
 details and links to data/paper
 
 ## Translation Memories for the Translation Community
