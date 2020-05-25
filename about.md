@@ -2,15 +2,15 @@
 title: Transation Initiative for COVID-19
 ---
 
-In response to the on-going crisis, several academic (Carnegie Mellon University, John's Hopkins University) and industry (Am, App, Fb, G, M, Tr) partners have partnered with the Translators without Borders and other partners to use state-of-the-art Machine Translation (MT) to prepare COVID-19 materials for a variety of the world's languages. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
+In response to the on-going crisis, several academic (Carnegie Mellon University, Johns Hopkins University) and industry (Am, App, Fb, G, M, Tr) partners have partnered with the Translators without Borders to prepare COVID-19 materials for a variety of the world's languages to be used by professional translators and for training state-of-the-art Machine Translation (MT) models. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
 
-We have compiled several datasets:
+To this end, we have so far created:
 
 ## TICO-19 Translation Benchmark
-details
+details and links to data/paper
 
 ## Translation Memories for the Translation Community
-details
+details and links to TMs
 
 ## Translated Terminologies
 Translations of covid19-related terms in dozens of languages and locales, provided by Fb and G.
@@ -29,7 +29,7 @@ Other Collections from our friends:
 
 
 ## Contact/Contributors
-
+details and logos?
 
 ## License
 All content is made publicly available through a Creative Commons [CC0](LICENSE.md) license.
