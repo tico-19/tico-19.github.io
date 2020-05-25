@@ -2,7 +2,7 @@
 title: Transation Initiative for COVID-19
 ---
 
-In response to the on-going crisis, several academic (Carnegie Mellon Univerisy, John's Hopkins University) and industry (Am, App, Fb, G, M, Tr) partners have partnered with the Translators without Borders and other partners to use state-of-the-art Machine Translation (MT) to prepare COVID-19 materials for a variety of the world's languages. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
+In response to the on-going crisis, several academic (Carnegie Mellon University, John's Hopkins University) and industry (Am, App, Fb, G, M, Tr) partners have partnered with the Translators without Borders and other partners to use state-of-the-art Machine Translation (MT) to prepare COVID-19 materials for a variety of the world's languages. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
 
 We have compiled several datasets:
 
