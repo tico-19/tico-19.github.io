@@ -17,7 +17,7 @@ We have combined the terminologies and other translation data to create translat
 ## Translated Terminologies
 Translations of covid19-related terms in dozens of languages and locales, provided by Facebook and Google.
 
-* Download all terminologies [here](#) (XX MB).
+* Download all terminologies [here](data/terminologies.zip) (zip file, 0.8MB).
 * Complete list and details [here](terminologies.html).
 
 
@@ -27,28 +27,29 @@ The benchmark will include 30 documents (3071 sentences, 69.7k words) translated
 Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Congolese Swahili, Tagalog, Tamil, Tigrinya, Urdu, Zulu.
 
 
-* Download the complete dataset [here](#) (XX MB).
-* Matrix view and additional details [here](testset.html).
-
-
 ## Other data sources
 
-Other Collections from our friends:
+Other COVID19-related collections from our contributors and our friends:
+
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
+* [Neulab](http://www.cs.cmu.edu/~neulab/) members and other collaborators have collected several resources (especially crawled monolingual news data) in this [GitHub repo](https://github.com/neulab/covid19-datashare).
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
-* Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet)
+* Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet).
 * An international team of scientists that tries to estimate the number of cases with COVID-19 symptoms in different countries have put out [surveys](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md) in 57 languages. (HT: @juliakreutzer)
-* The [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) has information in 31+ languages.
+* The [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) has information in 60+ languages.
 * The [EMEA corpus](http://opus.nlpl.eu/EMEA.php) provides pdf conversions of documents from the European Medicines Agency (22 languages, 231 bitexts).
 * SketchEngine has collected an [English in-domain corpus](https://www.sketchengine.eu/covid19/).
 * Amazon has created a [public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/).
 
 
-## Contact/Contributors
+## Contact
 
 Contact us at `tico19 [dot] 2020 [at] gmail [dot] com`.
 
-<img src="logos/LTI.png" alt="CMU LTI logo" width="100">
+## Contributors
+
+<img src="logos/LTI.png" alt="CMU LTI logo" width="150">
+<img src="logos/appen.svg" alt="Appen logo" width="150">
 
 ## License
 All content is made publicly available through a Creative Commons [CC0](LICENSE.md) license.
