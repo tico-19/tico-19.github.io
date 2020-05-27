@@ -3,32 +3,35 @@ title: Transation Initiative for COVID-19
 layout: tico-default
 ---
 
-In response to the on-going crisis, several academic (Carnegie Mellon University, Johns Hopkins University) and industry (Am, App, Fb, G, M, Tr) partners have partnered with the Translators without Borders to prepare COVID-19 materials for a variety of the world's languages to be used by professional translators and for training state-of-the-art Machine Translation (MT) models. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
+In response to the on-going crisis, several academic (Carnegie Mellon University, Johns Hopkins University) and industry (Amazon, Appen, Facebook, Google, Microsoft, Translated) partners have partnered with the Translators without Borders to prepare COVID-19 materials for a variety of the world's languages to be used by professional translators and for training state-of-the-art Machine Translation (MT) models. The focus is on making emergency and crisis-related content available in as many languages as possible. The collected, curated and translated content across nearly 90 languages will be available to the professional translation as well the MT research community.
 
 To this end, we have so far created:
 
+## Translation Memories for the Translation Community
+
+We have combined the terminologies and other translation data to create translation memories in .tmx format for the majority of the language pairs. 
+
+M* atrix view and additional details [here](memories.html).
+
+
+## Translated Terminologies
+Translations of covid19-related terms in dozens of languages and locales, provided by Facebook and Google.
+
+* Download all terminologies [here](#) (XX MB).
+* Complete list and details [here](terminologies.html).
+
+
 ## TICO-19 Translation Benchmark
 
-The benchmark includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
+The benchmark will include 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
 Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Congolese Swahili, Tagalog, Tamil, Tigrinya, Urdu, Zulu.
 
 
 * Download the complete dataset [here](#) (XX MB).
 * Matrix view and additional details [here](testset.html).
 
-details and links to data/paper
-
-## Translation Memories for the Translation Community
-details and links to TMs
-
-Matrix view and additional details [here](memories.html).
-
-
-## Translated Terminologies
-Translations of covid19-related terms in dozens of languages and locales, provided by Fb and G.
 
 ## Other data sources
-details
 
 Other Collections from our friends:
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
@@ -38,10 +41,12 @@ Other Collections from our friends:
 * The [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) has information in 31+ languages.
 * The [EMEA corpus](http://opus.nlpl.eu/EMEA.php) provides pdf conversions of documents from the European Medicines Agency (22 languages, 231 bitexts).
 * SketchEngine has collected an [English in-domain corpus](https://www.sketchengine.eu/covid19/).
+* Amazon has created a [public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/).
 
 
 ## Contact/Contributors
-details and logos?
+
+Contact us at `tico19 [dot] 2020 [at] gmail [dot] com`.
 
 <img src="logos/LTI.png" alt="CMU LTI logo" width="100">
 
