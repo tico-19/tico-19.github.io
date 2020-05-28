@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,xh_ZA,1918 flu,Umbathalala
+2,en,xh_ZA,acute bronchitis,ukosuleleka kakhulu kwemiphunga
+3,en,xh_ZA,acute respiratory disease,isifo semiphunga
+4,en,xh_ZA,AIDS,Isifo sikaGawulayo
+5,en,xh_ZA,airborne droplets,amachaphaza asemoyeni
+6,en,xh_ZA,airway,iimpumlo
+7,en,xh_ZA,alcohol-based,into ene-alcohol
+8,en,xh_ZA,alcohol-based hand rub,ukuhlikihla isandla ngento ene-alcohol
+9,en,xh_ZA,alcohol-based hand sanitizer,into yokucoca isandla eyenziwe nge-alcohol
+10,en,xh_ZA,alveolar disease,isifo semiphunga
+11,en,xh_ZA,an epidemic,ubhubhane
+12,en,xh_ZA,annual flu,umkhuhlane obakho qho ngonyaka
+13,en,xh_ZA,anti-inflammatory drug,ichiza elithintela ukudumba
+14,en,xh_ZA,antiviral drug,ichiza le-antiviral
+15,en,xh_ZA,antiviral treatment,unyango lwe-antiviral
+16,en,xh_ZA,assay,inkqubo yokuvavanya
+17,en,xh_ZA,asymptomatic,ukungabi nazimpawu
+18,en,xh_ZA,avian flu,i-flu yeentaka
+19,en,xh_ZA,Black Plague,Ukufa Okumnyama
+20,en,xh_ZA,blood pressure,ipresha yegazi
+21,en,xh_ZA,body fluid,amanzi omzimba
+22,en,xh_ZA,breathing,ukuphefumla
+23,en,xh_ZA,bubonic plague,isifo sokudunjelwa ngamadlala
+24,en,xh_ZA,c19,i-c19
+25,en,xh_ZA,cv19,i-cv19
+26,en,xh_ZA,case fatality rate,umlinganiselo wokufa kwabantu
+27,en,xh_ZA,causative agent,unobangela wesifo
+28,en,xh_ZA,CDC,I-CDC
+29,en,xh_ZA,chemical disinfection,ukucoca ngeekhemikhali
+30,en,xh_ZA,chest x-ray,i-x-ray yesifuba
+31,en,xh_ZA,clinical diagnosis,uxilongo lwezonyango
+32,en,xh_ZA,clinical trial,uphononongo lwezonyango
+33,en,xh_ZA,close contact,ukusondelelana
+34,en,xh_ZA,cvirus,i-cvirus
+35,en,xh_ZA,chronic respiratory disease,isifo semiphunga esingapheliyo
+36,en,xh_ZA,common cold,ifiva
+37,en,xh_ZA,common flu,umkhuhlane
+38,en,xh_ZA,communicable disease,isifo esosulelayo
+39,en,xh_ZA,community spread,ukusasazeka ekuhlaleni
+40,en,xh_ZA,community transmission,ukosulela ekuhlaleni
+41,en,xh_ZA,compromised immune system,amajoni omzimba angasebenzi kakuhle
+42,en,xh_ZA,contagion,ukusasazeka kwesifo
+43,en,xh_ZA,contagious,isifo esosulelayo
+44,en,xh_ZA,contagiousness,isifo esosulelayo
+45,en,xh_ZA,corona,i-corona
+46,en,xh_ZA,corona virus,intsholongwane ye-corona
+47,en,xh_ZA,corona virus epidemic,ubhubhane wentsholongwane ye-corona
+48,en,xh_ZA,corona virus outbreak,ukuqhambuka kwecorona virus
+49,en,xh_ZA,corona virus scare,ukucinga unecorona virus
+50,en,xh_ZA,coronavirus,icoronavirus
+51,en,xh_ZA,coronavirus cases,iimeko zecoronavirus
+52,en,xh_ZA,coronavirus outbreak,ukuqhambuka kwecoronavirus
+53,en,xh_ZA,coronavirus pandemic,ubhubhane wentsholongwane yecorona
+54,en,xh_ZA,coronavirus scare,ukucinga unecoronavirus
+55,en,xh_ZA,cough,ukukhohlela
+56,en,xh_ZA,cough etiquette,indlela yokukhohlela
+57,en,xh_ZA,coughing,ukukhohlela
+58,en,xh_ZA,cov 19,i-cov 19
+59,en,xh_ZA,cov19,i-cov19
+60,en,xh_ZA,COVID,I-COVID
+61,en,xh_ZA,COVID-19 crisis,Ingxaki ye-COVID-19
+62,en,xh_ZA,covid-19,i-covid-19
+63,en,xh_ZA,covid19,i-covid19
+64,en,xh_ZA,COVID-19 epidemic,Ubhubhane we-COVID-19
+65,en,xh_ZA,COVID-19 outbreak,Ukuqhambuka kwe COVID-19
+66,en,xh_ZA,COVID-19 pandemic,Ubhubhane we-COVID-19
+67,en,xh_ZA,COVID 19,I-COVID 19
+68,en,xh_ZA,current crisis,ingxaki ekhoyo ngoku
+69,en,xh_ZA,current health crisis,ingxaki yezempilo yangoku
+70,en,xh_ZA,current outbreak,ukuqhambuka kwangoku
+71,en,xh_ZA,current pandemic,ubhubhane wangoku
+72,en,xh_ZA,CV,I-CV
+73,en,xh_ZA,CV-19,I-CV-19
+74,en,xh_ZA,deadly,iyabulala
+75,en,xh_ZA,deadly virus,intsholongwane ebulalayo
+76,en,xh_ZA,death rate,izinga lokufa
+77,en,xh_ZA,death toll,inani labafileyo
+78,en,xh_ZA,decontaminate,yenza ingosuleli
+79,en,xh_ZA,detectable,ebonakalayo
+80,en,xh_ZA,detergent,into yokucoca
+81,en,xh_ZA,difficulty breathing,ubunzima bokuphefumla
+82,en,xh_ZA,diabetes,isifo seswekile
+83,en,xh_ZA,diagnosable disease,isifo esinokuxilongeka
+84,en,xh_ZA,diagnostic protocol,inkqubo yokuxilonga
+85,en,xh_ZA,diagnostic testing,ukuvavanyela ukuxilonga
+86,en,xh_ZA,disease itself,isifo ngokwaso
+87,en,xh_ZA,disease outbreak,ukuqhambuka kwesifo
+88,en,xh_ZA,disinfectant,isibulala ntsholongwane
+89,en,xh_ZA,disposable,elahlwayo
+90,en,xh_ZA,droplet transmission,ukosulela ngamachaphaza
+91,en,xh_ZA,droplets,amachaphaza
+92,en,xh_ZA,dry cough,ukukhohlo-khohlo olomileyo
+93,en,xh_ZA,dry surface contamination,indawo eqinileyo enomosuleleko
+94,en,xh_ZA,ebola,isifo se-ebola
+95,en,xh_ZA,effective treatment,indlela esebenzayo yokunyanga
+96,en,xh_ZA,electron microscope,i-electron microscope
+97,en,xh_ZA,emergency department,isebe lezongxamiseko
+98,en,xh_ZA,epidemic,ubhubhane
+99,en,xh_ZA,epidemic curve,uhlobo owanda ngayo ubhubhane
+100,en,xh_ZA,epidemic peak,incopho yobhubhane
+101,en,xh_ZA,epidemiologist,i-epidemiologist
+102,en,xh_ZA,exposure,ukuchanabeka
+103,en,xh_ZA,extreme caution,ukulumka kakhulu
+104,en,xh_ZA,eye protection,ukukhusela amehlo
+105,en,xh_ZA,face mask,imaskhi yokogquma ubuso
+106,en,xh_ZA,face masks,iimaskhi zokogquma ubuso
+107,en,xh_ZA,family cluster,imbumba yentsapho
+108,en,xh_ZA,fatality rate,umyinge wokufa kwabantu
+109,en,xh_ZA,fecal contamination,umosuleleko welindle
+110,en,xh_ZA,fever,umkhuhlane
+111,en,xh_ZA,flatten the infection curve,ukwenza izinga lokosuleleka lingandi
+112,en,xh_ZA,flu,umkhuhlane
+113,en,xh_ZA,food safety,ukukhuseleka kokutya
+114,en,xh_ZA,formaldehyde,i-formaldehyde
+115,en,xh_ZA,gastroenteritis,isifo sesisu
+116,en,xh_ZA,germicide,isibulala ntsholongwane
+117,en,xh_ZA,global pandemic,ubhubhane wehlabathi lonke
+118,en,xh_ZA,global warming,ubushushu bomhlaba
+119,en,xh_ZA,good respiratory hygiene,ukucoceka kwezokuphefumla
+120,en,xh_ZA,Guangdong,E-Guangdong
+121,en,xh_ZA,H1N1,I-H1N1
+122,en,xh_ZA,H1N1 virus,Intsholongwane ye-H1N1
+123,en,xh_ZA,hand disinfectant,isibulala ntsholongwane esisetyenziswa esandleni
+124,en,xh_ZA,hand sanitizer,into yokucoca isandla
+125,en,xh_ZA,health care provider,umboneleli wezempilo
+126,en,xh_ZA,health crisis,ingxaki yezempilo
+127,en,xh_ZA,health plan carrier,iplani yeinshorensi yezempilo
+128,en,xh_ZA,health services,iinkonzo zezempilo
+129,en,xh_ZA,heart failure,ukusilela kwentliziyo
+130,en,xh_ZA,high fever,umkhuhlane onamandla
+131,en,xh_ZA,HIV,I-HIV
+132,en,xh_ZA,hospitalize,lalisa esibhedlele
+133,en,xh_ZA,household bleach,iblitshi yasekhaya
+134,en,xh_ZA,Hubei,E-Hubei
+135,en,xh_ZA,hydrogen peroxide,i-hydrogen peroxide
+136,en,xh_ZA,hygiene,ucoceko
+137,en,xh_ZA,immune system,amajoni omzimba
+138,en,xh_ZA,immunity,ukuxhathisa
+139,en,xh_ZA,immunocompromised,ukungasebenzi kakuhle kwamajoni omzimba
+140,en,xh_ZA,immunologist,i-immunologist
+141,en,xh_ZA,incubation,ukufukama
+142,en,xh_ZA,incubation period,ixesha lokufukama
+143,en,xh_ZA,indirect contact,ukudibana ngokungangqalanga
+144,en,xh_ZA,infect,ukosulela
+145,en,xh_ZA,infection,umosuleleko
+146,en,xh_ZA,infectious,iyosulela
+147,en,xh_ZA,infectivity,indlela ekwazi ngayo ukosulela
+148,en,xh_ZA,influenza,umkhuhlane
+149,en,xh_ZA,initial transmission event,isiganeko sokuqala sokosulela
+150,en,xh_ZA,intensive care equipment,izixhobo zonyameklo olunzulu
+151,en,xh_ZA,intermediate host,indawo egcina intsholongwane ngoxa ingekosuleli
+152,en,xh_ZA,intrauterine,esibelekweni
+153,en,xh_ZA,intubation,ukufaka ityhubhu emlonyeni
+154,en,xh_ZA,isolation,ukubeka bucala
+155,en,xh_ZA,Isopropanol,I-Isopropanol
+156,en,xh_ZA,laboratory test kit,izixhobo zokuvavanya elabhoretri
+157,en,xh_ZA,laboratory testing,ukuvavanya elabhoretri
+158,en,xh_ZA,lack of testing,ukungakwazi ukuvavanya
+159,en,xh_ZA,lack of tests,ukungabikho kweemvavanyo
+160,en,xh_ZA,latest updates,uhlaziyo lwakutshanje
+161,en,xh_ZA,liver failure,ukusilela kwesibindi
+162,en,xh_ZA,local public health authority,igunya lezempilo lasekuhlaleni
+163,en,xh_ZA,lockdown,ukuthintelwa kokuhamba
+164,en,xh_ZA,lungs,imiphunga
+165,en,xh_ZA,masks,iimaskhi
+166,en,xh_ZA,measles,imasisi
+167,en,xh_ZA,mechanical ventilation,ukuphefumliswa ngoomatshini
+168,en,xh_ZA,media coverage,ukusasazwa ziindaba
+169,en,xh_ZA,medical care,ukunyamekelwa kwezempilo
+170,en,xh_ZA,MERS,I-MERS
+171,en,xh_ZA,MERS CoV,I-MERS Cov
+172,en,xh_ZA,microbiologist,i-microbiologist
+173,en,xh_ZA,mild cough,ukukhohlo-khohlo olungephi
+174,en,xh_ZA,mortality rate,umyinge wokufa kwabantu
+175,en,xh_ZA,multi-organ failure,ukusilela kwamalungu abalulekileyo
+176,en,xh_ZA,nasal congestion,ukumfixana
+177,en,xh_ZA,neutral detergent,into yokucoca
+178,en,xh_ZA,new normal,isiqhelo esitsha
+179,en,xh_ZA,novel corona virus,i-novel corona virus
+180,en,xh_ZA,novel coronavirus,i-novel coronavirus
+181,en,xh_ZA,novel coronavirus outbreak,ukuqhambuka kwenovel coronavirus
+182,en,xh_ZA,novel virus,i-novel virus
+183,en,xh_ZA,online medical consultation,ukufumana uxilongo kwi-intanethi
+184,en,xh_ZA,onset,ukuqala kwayo
+185,en,xh_ZA,outbreak,ukuqhambuka
+186,en,xh_ZA,outbreak readiness,ukulungela ukuqhambuka
+187,en,xh_ZA,overall case fatality,uwonke umlinganiselo wokufa kwabantu
+188,en,xh_ZA,pandemic,ubhubhane
+189,en,xh_ZA,pangolin,i-pangolin
+190,en,xh_ZA,pathogen,isifo
+191,en,xh_ZA,pathology,inzululwazi ngesifo
+192,en,xh_ZA,patient care equipment,izixhobo zokunyamekela isigulana
+193,en,xh_ZA,personal protective equipment,impahla yokuzikhusela
+194,en,xh_ZA,person-to-person transmission,ukosuleleka okudluliselwa ngabantu
+195,en,xh_ZA,phlegm,isikhohlela
+196,en,xh_ZA,physical contact,Ukubamba umntu
+197,en,xh_ZA,plague,ubhubhane
+198,en,xh_ZA,pneumonia,inyumoniya
+199,en,xh_ZA,pneumonias,iinyumoniya
+200,en,xh_ZA,positive test,uvavanyo olufumanisa unesigulo
+201,en,xh_ZA,precaution,isithintelo
+202,en,xh_ZA,precautionary,isithintelo
+203,en,xh_ZA,pre-existing condition,imeko yokugula esele ikho
+204,en,xh_ZA,preparedness,ukulungela
+205,en,xh_ZA,prognosis,unobangela wesigulo
+206,en,xh_ZA,protect myself,ukuzikhusela
+207,en,xh_ZA,protect others,ukukhusela abanye
+208,en,xh_ZA,protect yourself,khusela wena
+209,en,xh_ZA,protective measures,amanyathelo okhuseleko
+210,en,xh_ZA,public health crisis,ingxaki yezempilo yoluntu
+211,en,xh_ZA,pulmonary tissue damage,umonakalo wezicwili zemiphunga
+212,en,xh_ZA,quarantine,ukuhlaliswa wedwa
+213,en,xh_ZA,rapid risk assessment,ukuhlola umngcipheko ngokukhawuleza
+214,en,xh_ZA,reagent,into esetyenziswa ukuze kubonwe ikhemikhali isabela njani
+215,en,xh_ZA,regular flu,umkhuhlane oqhelekileyo
+216,en,xh_ZA,reinfection,ukuphinda wosuleleke
+217,en,xh_ZA,renal disease,isifo sezintso
+218,en,xh_ZA,renal failure,ukusilela kwezintso
+219,en,xh_ZA,respirator,into yokuphefumlisa
+220,en,xh_ZA,respiratory,yokuphefumla
+221,en,xh_ZA,respiratory disease,isifo semiphunga
+222,en,xh_ZA,respiratory distress,ukukhawuleza udunjelwe yimiphunga
+223,en,xh_ZA,respiratory droplets,amachaphaza aphuma kwimiphunga
+224,en,xh_ZA,respiratory hygiene,ukucoceka kwezokuphefumla
+225,en,xh_ZA,respiratory illness,isigulo semiphunga
+226,en,xh_ZA,respiratory syndrome,isifo semiphunga
+227,en,xh_ZA,respiratory tract disease,isifo sombhobho wemiphunga
+228,en,xh_ZA,restrictions,imiqathango
+229,en,xh_ZA,resurge,ukwanda
+230,en,xh_ZA,RNA,I-RNA
+231,en,xh_ZA,rubeola,imasisi
+232,en,xh_ZA,runny nose,impumlo evuzayo
+233,en,xh_ZA,SARS,I-SARS
+234,en,xh_ZA,SARS-CoV-2,I-SARS-CoV-2
+235,en,xh_ZA,SARS-CoV,I-SARS-CoV
+236,en,xh_ZA,sars-related coronavirus,icoronavirus enxulumene ne-sars
+237,en,xh_ZA,seasonal flu,umkhuhlane wokutshintsha kwamaxesha onyaka
+238,en,xh_ZA,seasonal influenza,umkhuhlane wokutshintsha kwamaxesha onyaka
+239,en,xh_ZA,secretion,ukukhupha
+240,en,xh_ZA,self-quarantine,ukuzihlalisa wedwa
+241,en,xh_ZA,sepsis,i-sepsis
+242,en,xh_ZA,septic shock,imeko yezempilo ebangelwa yi-sepsis nenokukhokhelela ekufeni
+243,en,xh_ZA,Severe Acute Respiratory Syndrome,Isifo Semiphunga Esiqatha
+244,en,xh_ZA,shortness of breath,ukunzima bokuphefumla
+245,en,xh_ZA,sickened,ukugula
+246,en,xh_ZA,sickness,isigulo
+247,en,xh_ZA,sneeze,ukuthimla
+248,en,xh_ZA,sneezes,ukuthimla
+249,en,xh_ZA,sneezing,ukuthimla
+250,en,xh_ZA,social distancing,ukungasondelelani kwabantu
+251,en,xh_ZA,sore throat,umqala obuhlungu
+252,en,xh_ZA,spanish flu,umbathalala
+253,en,xh_ZA,specimen collection,ukuqokelelwa kweesampule
+254,en,xh_ZA,spread,ukusasazeka
+255,en,xh_ZA,sputum,isikhohlela
+256,en,xh_ZA,stigmatisation,ukuhlaziswa
+257,en,xh_ZA,supportive,inkxaso
+258,en,xh_ZA,surface,indawo
+259,en,xh_ZA,surfaces,iindawo
+260,en,xh_ZA,suspected infection,ukurhanelwa komosuleleko
+261,en,xh_ZA,swab,into yokuthatha isampula
+262,en,xh_ZA,swine flu,isigulo seehagu
+263,en,xh_ZA,symptom,iimpawu
+264,en,xh_ZA,symptomatic,ukubonisa iimpawu
+265,en,xh_ZA,symptoms,iimpawu
+266,en,xh_ZA,targeted disinfection,ukucoca ngeekhemikhali okujolisiweyo
+267,en,xh_ZA,test kit,izixhobo zokuvavanya
+268,en,xh_ZA,testing error,impazamo yokuvavanya
+269,en,xh_ZA,tissue damage,umonakalo wezicwili
+270,en,xh_ZA,tp shortage,ukushota kwephepha langasese
+271,en,xh_ZA,toilet paper shortage,ukushota kwephepha langasese
+272,en,xh_ZA,touch,chukumisa
+273,en,xh_ZA,touching,ukuchukumisa
+274,en,xh_ZA,transmissibility,ukosulela
+275,en,xh_ZA,transmissible,iyosulela
+276,en,xh_ZA,transmission,ukosulela
+277,en,xh_ZA,transmission potential,ukukwazi ukosuleleka
+278,en,xh_ZA,typical flu,umkhuhlane oqhelekileyo
+279,en,xh_ZA,underlying disease,isifo esingunobangela
+280,en,xh_ZA,updates,uhlaziyo
+281,en,xh_ZA,vaccine,iyeza
+282,en,xh_ZA,vaccines,amayeza
+283,en,xh_ZA,ventilation,ukuphefumliswa
+284,en,xh_ZA,ventilator,umatshini wokuphefumlisa
+285,en,xh_ZA,ventilators,oomatshini bokuphefumlisa
+286,en,xh_ZA,viral infection,umosuleleko wentsholongwane
+287,en,xh_ZA,viral outbreak,ukuqhambuka kwentsholongwane
+288,en,xh_ZA,viral pandemic,ubhubhane wentsholongwane
+289,en,xh_ZA,viral pneumonia,inyumoniya ebangelwa yintsholongwane
+290,en,xh_ZA,virtual care,ukunyamekelwa kakuhle
+291,en,xh_ZA,virulence,ukukwazi ukosulela
+292,en,xh_ZA,virus itself,intsholongwane ngokwayo
+293,en,xh_ZA,virus outbreak,ukuqhambuka kwentsholongwane
+294,en,xh_ZA,virus scare,ukucinga unentsholongwane
+295,en,xh_ZA,virus spreads,ukusasazeka kwentsholongwane
+296,en,xh_ZA,virus strain,uhlobo lwentsholongwane
+297,en,xh_ZA,viral transmission,ukosulela kwentsholongwane
+298,en,xh_ZA,vivid-19,i-vivid-19
+299,en,xh_ZA,washing hands,ukuhlamba izandla
+300,en,xh_ZA,washing ones hands,ukuhlamba izandla zikabani
+301,en,xh_ZA,wash your hands,hlamba izandla zakho
+302,en,xh_ZA,white blood cell count,inani leeseli ezimhlophe
+303,en,xh_ZA,widespread transmission,ukusasazeka ngokubanzi komosuleleko
+304,en,xh_ZA,working from home,ukusebenzela ekhaya
+305,en,xh_ZA,WFH,Ukusebenza Usekhaya
+306,en,xh_ZA,Wuhan,E-Wuhan

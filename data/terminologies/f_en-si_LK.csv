@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,si_LK,1918 flu,1918 උණ
+2,en,si_LK,acute bronchitis,දරුණු ශ්වසනාලිකා ප්‍රදාහය
+3,en,si_LK,acute respiratory disease,දරුණු ශ්වසන රෝග
+4,en,si_LK,AIDS,AIDS
+5,en,si_LK,airborne droplets,වාසර බිංදු
+6,en,si_LK,airway,වාමඟ
+7,en,si_LK,alcohol-based,මත්පැන්-පාදක
+8,en,si_LK,alcohol-based hand rub,මත්පැන්-පාදක අත් පිසිනය
+9,en,si_LK,alcohol-based hand sanitizer,මත්පැන්-පාදක අත් සනීපාරක්ෂකය
+10,en,si_LK,alveolar disease,ගර්තික රෝගය
+11,en,si_LK,an epidemic,වසංගතයක්
+12,en,si_LK,annual flu,වාර්ෂික උණ
+13,en,si_LK,anti-inflammatory drug,ප්‍රති-ගිනි අවුලුවන ඖෂධය
+14,en,si_LK,antiviral drug,ප්‍රතිවෛරස් ඖෂධය
+15,en,si_LK,antiviral treatment,ප්‍රතිවෛරස් ප්‍රතිකාරය
+16,en,si_LK,assay,මාත්තු බැලීම
+17,en,si_LK,asymptomatic,අසමමිතික
+18,en,si_LK,avian flu,කුරුළු උණ
+19,en,si_LK,Black Plague,කළු වසංගතය
+20,en,si_LK,blood pressure,රුධිර පීඩනය
+21,en,si_LK,body fluid,ශරීර තරලය
+22,en,si_LK,breathing,හුස්ම ගැනීම
+23,en,si_LK,bubonic plague,මහාමාරිය
+24,en,si_LK,c19,c19
+25,en,si_LK,cv19,cv19
+26,en,si_LK,case fatality rate,සිද්ධි මරණ අනුපාතය
+27,en,si_LK,causative agent,රෝග කාරකය
+28,en,si_LK,CDC,CDC
+29,en,si_LK,chemical disinfection,රසායනික විෂබීජ නාශකය
+30,en,si_LK,chest x-ray,පපුවේ එක්ස්-කිරණ
+31,en,si_LK,clinical diagnosis,සායනික රෝග විනිශ්චය
+32,en,si_LK,clinical trial,සායනික අත්හදා බැලීම
+33,en,si_LK,close contact,සමීප සම්බන්ධතාව
+34,en,si_LK,cvirus,සීවෛරසය
+35,en,si_LK,chronic respiratory disease,නිදන්ගත ශ්වසන රෝගය
+36,en,si_LK,common cold,සෙම්ප්‍රතිශ්‍යාව
+37,en,si_LK,common flu,පොදු උණ
+38,en,si_LK,communicable disease,බෝවන රෝගය
+39,en,si_LK,community spread,ප්‍රජා ව්‍යාප්තිය
+40,en,si_LK,community transmission,ප්‍රජා සම්ප්‍රේෂණය
+41,en,si_LK,compromised immune system,අඩාල වූ ප්‍රතිශක්තිකරණ පද්ධතිය
+42,en,si_LK,contagion,බෝවීම
+43,en,si_LK,contagious,බෝවන
+44,en,si_LK,contagiousness,සංස්පර්ශක
+45,en,si_LK,corona,කොරෝනා
+46,en,si_LK,corona virus,කොරෝනා වෛරසය
+47,en,si_LK,corona virus epidemic,කොරෝනා වෛරස් වසංගතය
+48,en,si_LK,corona virus outbreak,කොරෝනා වෛරස් පැතිරීම
+49,en,si_LK,corona virus scare,කොරෝනා වෛරස් බිය
+50,en,si_LK,coronavirus,කොරෝනාවෛරසය
+51,en,si_LK,coronavirus cases,කොරෝනාවෛරස් සිද්ධි
+52,en,si_LK,coronavirus outbreak,කොරෝනාවෛරස් පැතිරීම
+53,en,si_LK,coronavirus pandemic,කොරෝනාවෛරස් වසංගතය
+54,en,si_LK,coronavirus scare,කොරෝනාවෛරස් බිය
+55,en,si_LK,cough,කැස්ස
+56,en,si_LK,cough etiquette,කැස්සේ සුසිරිත්
+57,en,si_LK,coughing,කැහීම
+58,en,si_LK,cov 19,cov 19
+59,en,si_LK,cov19,cov19
+60,en,si_LK,COVID,COVID
+61,en,si_LK,COVID-19 crisis,COVID-19 අර්බුදය
+62,en,si_LK,covid-19,covid-19
+63,en,si_LK,covid19,covid19
+64,en,si_LK,COVID-19 epidemic,COVID-19 වසංගතය
+65,en,si_LK,COVID-19 outbreak,COVID-19 පැතිරීම
+66,en,si_LK,COVID-19 pandemic,COVID-19 වසංගතය
+67,en,si_LK,COVID 19,COVID 19
+68,en,si_LK,current crisis,වත්මන් අර්බුදය
+69,en,si_LK,current health crisis,වත්මන් සෞඛ්‍ය අර්බුදය
+70,en,si_LK,current outbreak,වත්මන් පැතිරීම
+71,en,si_LK,current pandemic,වත්මන් වසංගතය
+72,en,si_LK,CV,CV
+73,en,si_LK,CV-19,CV-19
+74,en,si_LK,deadly,මාරාන්තිකයි
+75,en,si_LK,deadly virus,මාරාන්තික වෛරසය
+76,en,si_LK,death rate,මරණ අනුපාතය
+77,en,si_LK,death toll,මරණ සංඛ්‍යාව
+78,en,si_LK,decontaminate,අපිරිසිදු කිරීම
+79,en,si_LK,detectable,හඳුනාගත හැකි
+80,en,si_LK,detergent,ක්ෂාලකය
+81,en,si_LK,difficulty breathing,හුස්ම ගැනීමේ අපහසුතාව
+82,en,si_LK,diabetes,දියවැඩියාව
+83,en,si_LK,diagnosable disease,රෝග විනිශ්චය කළ හැකි රෝගය
+84,en,si_LK,diagnostic protocol,රෝග විනිශ්චය ප්‍රොටෝකෝලය
+85,en,si_LK,diagnostic testing,රෝග විනිශ්චය පරීක්ෂණය
+86,en,si_LK,disease itself,රෝගය ම
+87,en,si_LK,disease outbreak,රෝගය පැතිරීම
+88,en,si_LK,disinfectant,විෂබීජ නාශකය
+89,en,si_LK,disposable,ඉවත දැමිය හැකි
+90,en,si_LK,droplet transmission,බිඳිති සම්ප්‍රේෂණය
+91,en,si_LK,droplets,බිඳිති
+92,en,si_LK,dry cough,වියළි කැස්ස
+93,en,si_LK,dry surface contamination,වියළි මතුපිට අපවිත්‍රනය
+94,en,si_LK,ebola,ඉබෝලා
+95,en,si_LK,effective treatment,ඵලදායී ප්‍රතිකාරය
+96,en,si_LK,electron microscope,ඉලෙක්ට්‍රොන අන්වීක්ෂය
+97,en,si_LK,emergency department,හදිසි දෙපාර්තමේන්තුව
+98,en,si_LK,epidemic,වසංගතය
+99,en,si_LK,epidemic curve,වසංගත වක්‍රය
+100,en,si_LK,epidemic peak,වසංගතය උච්චතම අවස්ථාව
+101,en,si_LK,epidemiologist,වසංගත රෝග විද්‍යාඥයා
+102,en,si_LK,exposure,නිරාවරණය
+103,en,si_LK,extreme caution,අතිශයින්ම පරෙස්සම
+104,en,si_LK,eye protection,අක්ෂි ආරක්ෂණය
+105,en,si_LK,face mask,මුහුණු ආවරණය
+106,en,si_LK,face masks,මුහුණු ආවරණ
+107,en,si_LK,family cluster,පවුල් සමූහය
+108,en,si_LK,fatality rate,මරණ අනුපාතය
+109,en,si_LK,fecal contamination,මල අපවිත්‍ර වීම
+110,en,si_LK,fever,උණ
+111,en,si_LK,flatten the infection curve,ආසාදන වක්‍රය පැතැලි කිරීම
+112,en,si_LK,flu,උණ
+113,en,si_LK,food safety,ආහාර සුරක්ෂිතභාවය
+114,en,si_LK,formaldehyde,ෆෝමැල්ඩිහයිඩ්
+115,en,si_LK,gastroenteritis,ආමාශ ආන්ත්‍රයික
+116,en,si_LK,germicide,විෂබීජනාශකය
+117,en,si_LK,global pandemic,ගෝලීය වසංගතය
+118,en,si_LK,global warming,ගෝලීය උෂ්ණත්වය
+119,en,si_LK,good respiratory hygiene,යහපත් ශ්වසන සනීපාරක්ෂාව
+120,en,si_LK,Guangdong,ගුවැන්ඩොං
+121,en,si_LK,H1N1,H1N1
+122,en,si_LK,H1N1 virus,H1N1 වෛරසය
+123,en,si_LK,hand disinfectant,අත් විෂබීජ නාශකය
+124,en,si_LK,hand sanitizer,අත් සනීපාරක්ෂකය
+125,en,si_LK,health care provider,සෞඛ්‍ය සේවා සපයන්නා
+126,en,si_LK,health crisis,සෞඛ්‍ය අර්බුදය
+127,en,si_LK,health plan carrier,සෞඛ්‍ය සැලසුම් වාහකය
+128,en,si_LK,health services,සෞඛ්‍ය සේවා
+129,en,si_LK,heart failure,හෘදයාබාධය
+130,en,si_LK,high fever,අධික උණ
+131,en,si_LK,HIV,HIV
+132,en,si_LK,hospitalize,රෝහල් ගත කිරීම
+133,en,si_LK,household bleach,ගෘහස්ථ විරංජනය
+134,en,si_LK,Hubei,හුබෙයි
+135,en,si_LK,hydrogen peroxide,හයිඩ්‍රජන් පෙරොක්සයිඩ්
+136,en,si_LK,hygiene,සනීපාරක්ෂාව
+137,en,si_LK,immune system,ප්‍රතිශක්තිකරණ පද්ධතිය
+138,en,si_LK,immunity,ප්‍රතිශක්තිය
+139,en,si_LK,immunocompromised,ප්‍රතිශක්තිකරණය අඩාල වීම
+140,en,si_LK,immunologist,ප්‍රතිශක්ති විද්‍යාඥයා
+141,en,si_LK,incubation,බීජෞෂණය
+142,en,si_LK,incubation period,බීජෞෂණ කාලය
+143,en,si_LK,indirect contact,වක්‍ර සම්බන්ධතාව
+144,en,si_LK,infect,ආසාදනය
+145,en,si_LK,infection,ආසාදනය වීම
+146,en,si_LK,infectious,බෝවන
+147,en,si_LK,infectivity,ආසාදනතාව
+148,en,si_LK,influenza,ඉන්ෆ්ලුවෙන්සා
+149,en,si_LK,initial transmission event,ආරම්භක සම්ප්‍රේෂණ සිද්ධිය
+150,en,si_LK,intensive care equipment,දැඩි සත්කාර උපකරණය
+151,en,si_LK,intermediate host,අතරමැදි ධාරකය
+152,en,si_LK,intrauterine,අභ්‍යන්තර ගර්භාෂය
+153,en,si_LK,intubation,අනාලනය
+154,en,si_LK,isolation,හුදකලාව
+155,en,si_LK,Isopropanol,අයිසොප්‍රොපනෝල්
+156,en,si_LK,laboratory test kit,රසායනාගාර පරීක්ෂණ කට්ටලය
+157,en,si_LK,laboratory testing,රසායනාගාර පරීක්ෂණය
+158,en,si_LK,lack of testing,පරීක්ෂණය නොමැතිකම
+159,en,si_LK,lack of tests,පරීක්ෂණ නොමැතිකම
+160,en,si_LK,latest updates,නවතම යාවත්කාලීන
+161,en,si_LK,liver failure,අක්මාව ක්‍රියා නොකිරීම
+162,en,si_LK,local public health authority,දේශීය මහජන සෞඛ්‍ය අධිකාරිය
+163,en,si_LK,lockdown,අගුළු දැමීම
+164,en,si_LK,lungs,පෙනහළු
+165,en,si_LK,masks,මුහුණු ආවරණ
+166,en,si_LK,measles,සරම්ප
+167,en,si_LK,mechanical ventilation,යාන්ත්‍රික වාතාශ්‍රය
+168,en,si_LK,media coverage,මාධ්‍ය ආවරණය
+169,en,si_LK,medical care,වෛද්‍ය ප්‍රතිකාර
+170,en,si_LK,MERS,MERS
+171,en,si_LK,MERS CoV,MERS CoV
+172,en,si_LK,microbiologist,ක්ෂුද්‍රජීව විද්‍යාඥයා
+173,en,si_LK,mild cough,මෘදු කැස්ස
+174,en,si_LK,mortality rate,මරණ අනුපාතය
+175,en,si_LK,multi-organ failure,බහු-අවයව ක්‍රියා නොකිරීම
+176,en,si_LK,nasal congestion,නාසය සිරවීම
+177,en,si_LK,neutral detergent,උදාසීන ක්ෂාලකය
+178,en,si_LK,new normal,නව සාමාන්‍ය
+179,en,si_LK,novel corona virus,නව කොරෝනා වෛරසය
+180,en,si_LK,novel coronavirus,නව කොරෝනාවෛරසය
+181,en,si_LK,novel coronavirus outbreak,නව කොරෝනාවෛරසය පැතිරීම
+182,en,si_LK,novel virus,අලුත් වෛරසය
+183,en,si_LK,online medical consultation,මාර්ගගත වෛද්‍ය උපදේශනය
+184,en,si_LK,onset,ආක්‍රමණය
+185,en,si_LK,outbreak,පැතිරීම
+186,en,si_LK,outbreak readiness,පැතිරීමේ සූදානම
+187,en,si_LK,overall case fatality,සමස්ත සිද්ධි මාරාන්තිකත්වය
+188,en,si_LK,pandemic,වසංගතය
+189,en,si_LK,pangolin,පැන්ගෝලින්
+190,en,si_LK,pathogen,රෝග කාරකය
+191,en,si_LK,pathology,ව්‍යාධිවේදය
+192,en,si_LK,patient care equipment,රෝගී සත්කාර උපකරණය
+193,en,si_LK,personal protective equipment,පුද්ගලික ආරක්ෂණ උපකරණය
+194,en,si_LK,person-to-person transmission,පුද්ගලයාගෙන් පුද්ගලයාට සම්ප්‍රේෂණය
+195,en,si_LK,phlegm,ශ්ලේෂ්ම
+196,en,si_LK,physical contact,භෞතික සම්බන්ධතාව
+197,en,si_LK,plague,වසංගතය
+198,en,si_LK,pneumonia,නියුමෝනියාව
+199,en,si_LK,pneumonias,නියුමෝනියාව
+200,en,si_LK,positive test,ධනාත්මක පරීක්ෂණය
+201,en,si_LK,precaution,පූර්වෝපාය
+202,en,si_LK,precautionary,පූර්වාරක්ෂාව
+203,en,si_LK,pre-existing condition,පෙර-පැවති තත්ත්වය
+204,en,si_LK,preparedness,සූදානම
+205,en,si_LK,prognosis,රෝග විග්‍රහය
+206,en,si_LK,protect myself,මාව ම ආරක්ෂණය
+207,en,si_LK,protect others,අන් අයව ආරක්ෂණය
+208,en,si_LK,protect yourself,ඔබව ආරක්ෂණය
+209,en,si_LK,protective measures,ආරක්ෂක පියවර
+210,en,si_LK,public health crisis,මහජන සෞඛ්‍ය අර්බුදය
+211,en,si_LK,pulmonary tissue damage,පුප්ඵුසීය පටක හානිය
+212,en,si_LK,quarantine,නිරෝධායනය
+213,en,si_LK,rapid risk assessment,වේගවත් අවදානම් තක්සේරුව
+214,en,si_LK,reagent,ප්‍රතික්‍රියාකාරකය
+215,en,si_LK,regular flu,සාමාන්‍ය උණ
+216,en,si_LK,reinfection,ප්‍රත්‍යාසාදනය
+217,en,si_LK,renal disease,වකුගඩු රෝගය
+218,en,si_LK,renal failure,වකුගඩු ක්‍රියා නොකිරීම
+219,en,si_LK,respirator,ශ්වසන යන්ත්‍රය
+220,en,si_LK,respiratory,ශ්වසන
+221,en,si_LK,respiratory disease,ශ්වසන රෝගය
+222,en,si_LK,respiratory distress,ශ්වසන අපහසුතාව
+223,en,si_LK,respiratory droplets,ශ්වසන බිඳිති
+224,en,si_LK,respiratory hygiene,ශ්වසන සනීපාරක්ෂාව
+225,en,si_LK,respiratory illness,ශ්වසන රෝගය
+226,en,si_LK,respiratory syndrome,ශ්වසන සින්ඩ්‍රෝමය
+227,en,si_LK,respiratory tract disease,ශ්වසන කාර්ෂ රෝගය
+228,en,si_LK,restrictions,සීමා
+229,en,si_LK,resurge,සර්ජනය
+230,en,si_LK,RNA,RNA
+231,en,si_LK,rubeola,රුබෙල්ලා
+232,en,si_LK,runny nose,ද්‍රවීය නාසය
+233,en,si_LK,SARS,SARS
+234,en,si_LK,SARS-CoV-2,SARS-CoV-2
+235,en,si_LK,SARS-CoV,SARS-CoV
+236,en,si_LK,sars-related coronavirus,sars-අදාළ කොරෝනාවෛරසය
+237,en,si_LK,seasonal flu,සෘතුමය උණ
+238,en,si_LK,seasonal influenza,සෘතුමය ඉන්ෆ්ලුවෙන්සා
+239,en,si_LK,secretion,ස්‍රාවය
+240,en,si_LK,self-quarantine,ස්වයං-නිරෝධායනය
+241,en,si_LK,sepsis,ලේ විෂවීම
+242,en,si_LK,septic shock,පූතික කම්පනය
+243,en,si_LK,Severe Acute Respiratory Syndrome,දැඩි උග්‍ර ශ්වසන සින්ඩ්‍රෝමය
+244,en,si_LK,shortness of breath,හුස්ම හිරවීම
+245,en,si_LK,sickened,අසනීප වූ
+246,en,si_LK,sickness,අසනීප ගතිය
+247,en,si_LK,sneeze,කිවිසුම් යාම
+248,en,si_LK,sneezes,කිවිසුම් යයි
+249,en,si_LK,sneezing,කිවිසීම
+250,en,si_LK,social distancing,සමාජ දුරස්ථභාවය
+251,en,si_LK,sore throat,උගුර වණ වීම
+252,en,si_LK,spanish flu,ස්පාඤ්ඤ උණ
+253,en,si_LK,specimen collection,නිදර්ශක එකතුව
+254,en,si_LK,spread,පැතිරීම
+255,en,si_LK,sputum,ඛේට
+256,en,si_LK,stigmatisation,අපකීර්තියට පමුණුවීම
+257,en,si_LK,supportive,ආධාරක
+258,en,si_LK,surface,මතුපිට
+259,en,si_LK,surfaces,මතුපිටවල්
+260,en,si_LK,suspected infection,සැක සහිත ආසාදනය
+261,en,si_LK,swab,මාත්තුව
+262,en,si_LK,swine flu,සූකර උණ
+263,en,si_LK,symptom,රෝග ලක්ෂණය
+264,en,si_LK,symptomatic,රෝග ලක්ෂණ ඇති
+265,en,si_LK,symptoms,රෝග ලක්ෂණ
+266,en,si_LK,targeted disinfection,ඉලක්කගත විෂබීජ නාශකය
+267,en,si_LK,test kit,පරීක්ෂණ කට්ටලය
+268,en,si_LK,testing error,පරීක්ෂණ දෝෂය
+269,en,si_LK,tissue damage,පටක හානිය
+270,en,si_LK,tp shortage,tp හිඟය
+271,en,si_LK,toilet paper shortage,වැසිකිලි කඩදාසි හිඟය
+272,en,si_LK,touch,ස්පර්ශය
+273,en,si_LK,touching,ස්පර්ශ කිරීම
+274,en,si_LK,transmissibility,සම්ප්‍රේෂණ හැකියාව
+275,en,si_LK,transmissible,සම්ප්‍රේෂණය කළ හැකි
+276,en,si_LK,transmission,සම්ප්‍රේෂණය
+277,en,si_LK,transmission potential,සම්ප්‍රේෂණ විභවය
+278,en,si_LK,typical flu,සාමාන්‍ය උණ
+279,en,si_LK,underlying disease,යටින් පවතින රෝගය
+280,en,si_LK,updates,යාවත්කාලීන
+281,en,si_LK,vaccine,එන්නත
+282,en,si_LK,vaccines,එන්නත්
+283,en,si_LK,ventilation,වාතාශ්‍රය
+284,en,si_LK,ventilator,සංවාතකය
+285,en,si_LK,ventilators,සංවාතක
+286,en,si_LK,viral infection,වෛරස් ආසාදනය
+287,en,si_LK,viral outbreak,වෛරස් පැතිරීම
+288,en,si_LK,viral pandemic,වෛරස් වසංගතය
+289,en,si_LK,viral pneumonia,වෛරස් නියුමෝනියාව
+290,en,si_LK,virtual care,අතථ්‍ය සත්කාරය
+291,en,si_LK,virulence,උග්‍රතාව
+292,en,si_LK,virus itself,වෛරසය ම
+293,en,si_LK,virus outbreak,වෛරස් පැතිරීම
+294,en,si_LK,virus scare,වෛරස් බිය
+295,en,si_LK,virus spreads,වෛරසය පැතිරීම
+296,en,si_LK,virus strain,වෛරස් ගතිය
+297,en,si_LK,viral transmission,වෛරස් සම්ප්‍රේෂණය
+298,en,si_LK,vivid-19,vivid-19
+299,en,si_LK,washing hands,අත් සේදීම
+300,en,si_LK,washing ones hands,අයෙකුගේ අත් සේදීම
+301,en,si_LK,wash your hands,ඔබේ අත් සේදීම
+302,en,si_LK,white blood cell count,සුදු රුධිරාණු ගණන
+303,en,si_LK,widespread transmission,පුළුල් ලෙස පැතිරෙන සම්ප්‍රේෂණය
+304,en,si_LK,working from home,නිවසේ සිට වැඩ කිරීම
+305,en,si_LK,WFH,WFH
+306,en,si_LK,Wuhan,වූහාන්

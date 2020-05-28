@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ar_AR,1918 flu,إنفلونزا 1918
+2,en,ar_AR,acute bronchitis,التهاب الشعب الهوائية الحاد
+3,en,ar_AR,acute respiratory disease,أمراض الجهاز التنفسي الحادة
+4,en,ar_AR,AIDS,الإيدز
+5,en,ar_AR,airborne droplets,رذاذ في الهواء
+6,en,ar_AR,airway,المسلك الهوائي
+7,en,ar_AR,alcohol-based,كحولي
+8,en,ar_AR,alcohol-based hand rub,تطهير اليدين بالكحول
+9,en,ar_AR,alcohol-based hand sanitizer,مطهر كحولي لليدين
+10,en,ar_AR,alveolar disease,الأمراض السنخية
+11,en,ar_AR,an epidemic,وباء
+12,en,ar_AR,annual flu,الإنفلونزا السنوية
+13,en,ar_AR,anti-inflammatory drug,عقار مضاد للالتهابات
+14,en,ar_AR,antiviral drug,عقار مضاد للفيروسات
+15,en,ar_AR,antiviral treatment,علاج مضاد للفيروسات
+16,en,ar_AR,assay,تحليل
+17,en,ar_AR,asymptomatic,بلا أعراض
+18,en,ar_AR,avian flu,إنفلونزا الطيور
+19,en,ar_AR,Black Plague,وباء أسود
+20,en,ar_AR,blood pressure,ضغط الدم
+21,en,ar_AR,body fluid,سوائل الجسم
+22,en,ar_AR,breathing,التنفس
+23,en,ar_AR,bubonic plague,الطاعون الدُملي
+24,en,ar_AR,c19,كوفيد19
+25,en,ar_AR,cv19,كوفيد 19
+26,en,ar_AR,case fatality rate,معدل حالات الوفيات
+27,en,ar_AR,causative agent,مسبب المرض
+28,en,ar_AR,CDC,مراكز مكافحة الأمراض والوقاية منها (CDC)
+29,en,ar_AR,chemical disinfection,التطهير الكيميائي
+30,en,ar_AR,chest x-ray,أشعة سينية على الصدر
+31,en,ar_AR,clinical diagnosis,تشخيص إكلينيكي
+32,en,ar_AR,clinical trial,تجربة إكلينيكية
+33,en,ar_AR,close contact,شخص قريب
+34,en,ar_AR,cvirus,فيروس الكورونا
+35,en,ar_AR,chronic respiratory disease,أمراض الجهاز التنفسي المزمنة
+36,en,ar_AR,common cold,نزلة برد عادية
+37,en,ar_AR,common flu,إنفلونزا عادية
+38,en,ar_AR,communicable disease,مرض معدٍ
+39,en,ar_AR,community spread,انتشار المرض في المجتمع
+40,en,ar_AR,community transmission,انتقال العدوى بين أفراد المجتمع
+41,en,ar_AR,compromised immune system,ضعف جهاز المناعة
+42,en,ar_AR,contagion,عدوى
+43,en,ar_AR,contagious,معدٍ
+44,en,ar_AR,contagiousness,قابلية انتقال العدوى
+45,en,ar_AR,corona,كورونا
+46,en,ar_AR,corona virus,فيروس كورونا
+47,en,ar_AR,corona virus epidemic,وباء فيروس كورونا
+48,en,ar_AR,corona virus outbreak,تفشي فيروس كورونا
+49,en,ar_AR,corona virus scare,الرعب من فيروس كورونا
+50,en,ar_AR,coronavirus,فيروس كورونا
+51,en,ar_AR,coronavirus cases,حالات فيروس كورونا
+52,en,ar_AR,coronavirus outbreak,تفشي فيروس كورونا
+53,en,ar_AR,coronavirus pandemic,جائحة فيروس كورونا
+54,en,ar_AR,coronavirus scare,الرعب من فيروس كورونا
+55,en,ar_AR,cough,السعال
+56,en,ar_AR,cough etiquette,آداب السعال
+57,en,ar_AR,coughing,سعال
+58,en,ar_AR,cov 19,كوفيد 19
+59,en,ar_AR,cov19,كوفيد-19
+60,en,ar_AR,COVID,كوفيد
+61,en,ar_AR,COVID-19 crisis,أزمة كوفيد-19
+62,en,ar_AR,covid-19,مرض كوفيد 19
+63,en,ar_AR,covid19,مرض كوفيد-19
+64,en,ar_AR,COVID-19 epidemic,وباء كوفيد-19
+65,en,ar_AR,COVID-19 outbreak,تفشي كوفيد-19
+66,en,ar_AR,COVID-19 pandemic,جائحة كوفيد-19
+67,en,ar_AR,COVID 19,كوفيد 19
+68,en,ar_AR,current crisis,الأزمة الحالية
+69,en,ar_AR,current health crisis,الأزمة الصحية الحالية
+70,en,ar_AR,current outbreak,تفشي المرض الحالي
+71,en,ar_AR,current pandemic,الجائحة الحالية
+72,en,ar_AR,CV,كوفيد
+73,en,ar_AR,CV-19,كوفيد 19
+74,en,ar_AR,deadly,مميت
+75,en,ar_AR,deadly virus,فيروس مميت
+76,en,ar_AR,death rate,معدل الوفيات
+77,en,ar_AR,death toll,عدد الوفيات
+78,en,ar_AR,decontaminate,تطهير
+79,en,ar_AR,detectable,قابل للاكتشاف
+80,en,ar_AR,detergent,منظف
+81,en,ar_AR,difficulty breathing,صعوبة في التنفس
+82,en,ar_AR,diabetes,داء السكري
+83,en,ar_AR,diagnosable disease,مرض قابل للتشخيص
+84,en,ar_AR,diagnostic protocol,بروتوكول التشخيص
+85,en,ar_AR,diagnostic testing,اختبار تشخيصي
+86,en,ar_AR,disease itself,المرض نفسه
+87,en,ar_AR,disease outbreak,تفشي المرض
+88,en,ar_AR,disinfectant,مطهر
+89,en,ar_AR,disposable,للاستخدام مرة واحدة
+90,en,ar_AR,droplet transmission,انتقال العدوى عبر الرذاذ
+91,en,ar_AR,droplets,الرذاذ
+92,en,ar_AR,dry cough,سعال جاف
+93,en,ar_AR,dry surface contamination,تلوث الأسطح الجافة
+94,en,ar_AR,ebola,إيبولا
+95,en,ar_AR,effective treatment,علاج فعال
+96,en,ar_AR,electron microscope,مجهر الإلكترون
+97,en,ar_AR,emergency department,قسم الطوارئ
+98,en,ar_AR,epidemic,وباء
+99,en,ar_AR,epidemic curve,منحنى انتشار الوباء
+100,en,ar_AR,epidemic peak,ذروة الوباء
+101,en,ar_AR,epidemiologist,اختصاصي الوبائيات
+102,en,ar_AR,exposure,التعرض
+103,en,ar_AR,extreme caution,حذر شديد
+104,en,ar_AR,eye protection,حماية العين
+105,en,ar_AR,face mask,كمامة الوجه
+106,en,ar_AR,face masks,كمامات الوجه
+107,en,ar_AR,family cluster,التكدس العائلي
+108,en,ar_AR,fatality rate,معدل الوفيات
+109,en,ar_AR,fecal contamination,تلوث البراز
+110,en,ar_AR,fever,الحمى
+111,en,ar_AR,flatten the infection curve,تسطيح منحنى العدوى
+112,en,ar_AR,flu,إنفلونزا
+113,en,ar_AR,food safety,سلامة الغذاء
+114,en,ar_AR,formaldehyde,فورمالدهيد
+115,en,ar_AR,gastroenteritis,التهاب المعدة والأمعاء
+116,en,ar_AR,germicide,مبيد الجراثيم
+117,en,ar_AR,global pandemic,جائحة عالمية
+118,en,ar_AR,global warming,الاحترار العالمي
+119,en,ar_AR,good respiratory hygiene,الاهتمام السليم بصحة الجهاز التنفسي
+120,en,ar_AR,Guangdong,جوانجدونج
+121,en,ar_AR,H1N1,إنفلونزا H1N1
+122,en,ar_AR,H1N1 virus,فيروس إنفلونزا H1N1
+123,en,ar_AR,hand disinfectant,منظف اليدين
+124,en,ar_AR,hand sanitizer,مطهر اليدين
+125,en,ar_AR,health care provider,مقدم الرعاية الصحية
+126,en,ar_AR,health crisis,أزمة صحية
+127,en,ar_AR,health plan carrier,شركة التأمين الصحي
+128,en,ar_AR,health services,الخدمات الصحية
+129,en,ar_AR,heart failure,قصور في القلب
+130,en,ar_AR,high fever,حمى شديدة
+131,en,ar_AR,HIV,فيروس نقص المناعة البشرية
+132,en,ar_AR,hospitalize,دخول المستشفى
+133,en,ar_AR,household bleach,منظف منزلي
+134,en,ar_AR,Hubei,هوبي
+135,en,ar_AR,hydrogen peroxide,بيروكسيد الهيدروجين
+136,en,ar_AR,hygiene,النظافة الصحية
+137,en,ar_AR,immune system,الجهاز المناعي
+138,en,ar_AR,immunity,المناعة
+139,en,ar_AR,immunocompromised,ضعف المناعة
+140,en,ar_AR,immunologist,أخصائي أمراض المناعة
+141,en,ar_AR,incubation,حضانة المرض
+142,en,ar_AR,incubation period,فترة حضانة المرض
+143,en,ar_AR,indirect contact,تواصل غير مباشر
+144,en,ar_AR,infect,إصابة بالعدوى
+145,en,ar_AR,infection,عدوى
+146,en,ar_AR,infectious,معدٍ
+147,en,ar_AR,infectivity,القدرة على العدوى
+148,en,ar_AR,influenza,إنفلونزا
+149,en,ar_AR,initial transmission event,حادثة انتقال العدوى الأولى
+150,en,ar_AR,intensive care equipment,معدات الرعاية المركزة
+151,en,ar_AR,intermediate host,مضيف وسيط
+152,en,ar_AR,intrauterine,داخل الرحم
+153,en,ar_AR,intubation,تنبيب
+154,en,ar_AR,isolation,عزل
+155,en,ar_AR,Isopropanol,إيزوبوبانول
+156,en,ar_AR,laboratory test kit,لوازم الاختبار المعملي
+157,en,ar_AR,laboratory testing,اختبارات معملية
+158,en,ar_AR,lack of testing,نقص إجراء الاختبارات
+159,en,ar_AR,lack of tests,نقص الاختبارات
+160,en,ar_AR,latest updates,آخر المستجدات
+161,en,ar_AR,liver failure,قصور الكبد
+162,en,ar_AR,local public health authority,هيئة الصحة العامة المحلية
+163,en,ar_AR,lockdown,التزام المنزل
+164,en,ar_AR,lungs,الرئتين
+165,en,ar_AR,masks,الكمامات
+166,en,ar_AR,measles,الحصبة
+167,en,ar_AR,mechanical ventilation,جهاز التنفس الصناعي الميكانيكي
+168,en,ar_AR,media coverage,التغطية الإعلامية
+169,en,ar_AR,medical care,الرعاية الطبية
+170,en,ar_AR,MERS,فيروس ميرس
+171,en,ar_AR,MERS CoV,ميرس-كوف
+172,en,ar_AR,microbiologist,أخصائي ميكروبيولوجيا
+173,en,ar_AR,mild cough,سعال خفيف
+174,en,ar_AR,mortality rate,نسبة الوفيات
+175,en,ar_AR,multi-organ failure,قصور في عدة أعضاء
+176,en,ar_AR,nasal congestion,احتقان بالأنف
+177,en,ar_AR,neutral detergent,منظف متعادل
+178,en,ar_AR,new normal,المعدل الطبيعي الجديد
+179,en,ar_AR,novel corona virus,فيروس كورونا المستجد
+180,en,ar_AR,novel coronavirus,فيروس الكورونا المستجد
+181,en,ar_AR,novel coronavirus outbreak,تفشي فيروس كورونا المستجد
+182,en,ar_AR,novel virus,فيروس مستجد
+183,en,ar_AR,online medical consultation,استشارات طبية على الإنترنت
+184,en,ar_AR,onset,ظهور
+185,en,ar_AR,outbreak,تفشي
+186,en,ar_AR,outbreak readiness,الاستعداد لتفشي المرض
+187,en,ar_AR,overall case fatality,مجمل معدل الوفيات
+188,en,ar_AR,pandemic,جائحة
+189,en,ar_AR,pangolin,حيوان البنغول آكل النمل
+190,en,ar_AR,pathogen,مسببات الأمراض
+191,en,ar_AR,pathology,علم الأمراض
+192,en,ar_AR,patient care equipment,معدات رعاية المرضى
+193,en,ar_AR,personal protective equipment,معدات الحماية الشخصية
+194,en,ar_AR,person-to-person transmission,انتقال العدوى من شخص لشخص
+195,en,ar_AR,phlegm,البلغم
+196,en,ar_AR,physical contact,اتصال مباشر
+197,en,ar_AR,plague,طاعون
+198,en,ar_AR,pneumonia,الالتهاب الرئوي
+199,en,ar_AR,pneumonias,التهاب الرئة
+200,en,ar_AR,positive test,نتائج اختبار إيجابية
+201,en,ar_AR,precaution,احتراز
+202,en,ar_AR,precautionary,احترازي
+203,en,ar_AR,pre-existing condition,حالة سابقة
+204,en,ar_AR,preparedness,الاستعداد
+205,en,ar_AR,prognosis,الإنذار
+206,en,ar_AR,protect myself,حماية نفسي
+207,en,ar_AR,protect others,حماية الآخرين
+208,en,ar_AR,protect yourself,حماية نفسك
+209,en,ar_AR,protective measures,تدابير وقائية
+210,en,ar_AR,public health crisis,أزمة صحية عامة
+211,en,ar_AR,pulmonary tissue damage,تلف أنسجة الرئة
+212,en,ar_AR,quarantine,حجر صحي
+213,en,ar_AR,rapid risk assessment,التقييم السريع للمخاطر
+214,en,ar_AR,reagent,الكاشف
+215,en,ar_AR,regular flu,إنفلونزا اعتيادية
+216,en,ar_AR,reinfection,الإصابة مرة أخرى
+217,en,ar_AR,renal disease,مرض كلوي
+218,en,ar_AR,renal failure,فشل كلوي
+219,en,ar_AR,respirator,جهاز تنفس
+220,en,ar_AR,respiratory,تنفسي
+221,en,ar_AR,respiratory disease,مرض تنفسي
+222,en,ar_AR,respiratory distress,ضائقة تنفسية
+223,en,ar_AR,respiratory droplets,رذاذ متطاير من الجهاز التنفسي
+224,en,ar_AR,respiratory hygiene,الحفاظ على صحة الجهاز التنفسي
+225,en,ar_AR,respiratory illness,داء تنفسي
+226,en,ar_AR,respiratory syndrome,المتلازمة التنفسية
+227,en,ar_AR,respiratory tract disease,مرض الجهاز التنفسي
+228,en,ar_AR,restrictions,قيود
+229,en,ar_AR,resurge,الظهور مجددًا
+230,en,ar_AR,RNA,حمض الريبونوكلييك (RNA)
+231,en,ar_AR,rubeola,الحصبة الألمانية
+232,en,ar_AR,runny nose,رشح الأنف
+233,en,ar_AR,SARS,سارس
+234,en,ar_AR,SARS-CoV-2,سارس كوفيد-2
+235,en,ar_AR,SARS-CoV,سارس كوفيد
+236,en,ar_AR,sars-related coronavirus,فيروس كورونا المتعلق بفيروس سارس
+237,en,ar_AR,seasonal flu,الإنفلونزا الموسمية
+238,en,ar_AR,seasonal influenza,إنفلونزا موسمية
+239,en,ar_AR,secretion,إفراز
+240,en,ar_AR,self-quarantine,الحجر الشخصي
+241,en,ar_AR,sepsis,تلوث الدم
+242,en,ar_AR,septic shock,صدمة تلوث الدم
+243,en,ar_AR,Severe Acute Respiratory Syndrome,المتلازمة التنفسية الحادة الشديدة
+244,en,ar_AR,shortness of breath,ضيق التنفس
+245,en,ar_AR,sickened,أصابه المرض
+246,en,ar_AR,sickness,مرض
+247,en,ar_AR,sneeze,عطس
+248,en,ar_AR,sneezes,يعطس
+249,en,ar_AR,sneezing,العطس
+250,en,ar_AR,social distancing,التباعد الاجتماعي
+251,en,ar_AR,sore throat,التهاب الحلق
+252,en,ar_AR,spanish flu,إنفلونزا إسبانية
+253,en,ar_AR,specimen collection,جمع العينات
+254,en,ar_AR,spread,انتشار
+255,en,ar_AR,sputum,بلغم
+256,en,ar_AR,stigmatisation,الرفض الاجتماعي
+257,en,ar_AR,supportive,الداعم
+258,en,ar_AR,surface,سطح
+259,en,ar_AR,surfaces,أسطح
+260,en,ar_AR,suspected infection,الاشتباه بالإصابة
+261,en,ar_AR,swab,مسحة
+262,en,ar_AR,swine flu,إنفلونزا الخنازير
+263,en,ar_AR,symptom,عَرَض
+264,en,ar_AR,symptomatic,عَرَضي
+265,en,ar_AR,symptoms,الأعراض
+266,en,ar_AR,targeted disinfection,التطهير المستهدف
+267,en,ar_AR,test kit,لوازم الاختبار
+268,en,ar_AR,testing error,خطأ في الاختبار
+269,en,ar_AR,tissue damage,تلف الأنسجة
+270,en,ar_AR,tp shortage,نقص مناديل الحمام
+271,en,ar_AR,toilet paper shortage,نقص مناديل الحمام الورقية
+272,en,ar_AR,touch,يلمس
+273,en,ar_AR,touching,لمس
+274,en,ar_AR,transmissibility,إمكانية انتقال المرض
+275,en,ar_AR,transmissible,قابل للانتقال
+276,en,ar_AR,transmission,انتقال المرض
+277,en,ar_AR,transmission potential,احتمال انتقال المرض
+278,en,ar_AR,typical flu,إنفلونزا تقليدية
+279,en,ar_AR,underlying disease,مرض كامن
+280,en,ar_AR,updates,مستجدات
+281,en,ar_AR,vaccine,لقاح
+282,en,ar_AR,vaccines,لقاحات
+283,en,ar_AR,ventilation,التهوية
+284,en,ar_AR,ventilator,جهاز التنفس الصناعي
+285,en,ar_AR,ventilators,أجهزة التنفس الصناعي
+286,en,ar_AR,viral infection,عدوى فيروسية
+287,en,ar_AR,viral outbreak,تفشي فيروسي
+288,en,ar_AR,viral pandemic,جائحة فيروسية
+289,en,ar_AR,viral pneumonia,التهاب رئوي فيروسي
+290,en,ar_AR,virtual care,الرعاية عن بعد
+291,en,ar_AR,virulence,خبث
+292,en,ar_AR,virus itself,الفيروس نفسه
+293,en,ar_AR,virus outbreak,تفشي الفيروس
+294,en,ar_AR,virus scare,الرعب من الفيروس
+295,en,ar_AR,virus spreads,انتشار الفيروس
+296,en,ar_AR,virus strain,سلاسة فيروس
+297,en,ar_AR,viral transmission,انتقال فيروسي
+298,en,ar_AR,vivid-19,vivid-19
+299,en,ar_AR,washing hands,غسل اليدين
+300,en,ar_AR,washing ones hands,غسل الشخص ليديه
+301,en,ar_AR,wash your hands,غسل يديك
+302,en,ar_AR,white blood cell count,عدد خلايا الدم البيضاء
+303,en,ar_AR,widespread transmission,انتشار العدوى
+304,en,ar_AR,working from home,العمل من المنزل
+305,en,ar_AR,WFH,العمل من المنزل
+306,en,ar_AR,Wuhan,ووهان

@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,cs_CZ,1918 flu,chřipka z roku 1918
+2,en,cs_CZ,acute bronchitis,akutní bronchitida
+3,en,cs_CZ,acute respiratory disease,akutní respirační onemocnění
+4,en,cs_CZ,AIDS,AIDS
+5,en,cs_CZ,airborne droplets,kapénková infekce
+6,en,cs_CZ,airway,dýchací cesty
+7,en,cs_CZ,alcohol-based,na bázi alkoholu
+8,en,cs_CZ,alcohol-based hand rub,emulze na ruce na bázi alkoholu
+9,en,cs_CZ,alcohol-based hand sanitizer,dezinfekce na ruce na bázi alkoholu
+10,en,cs_CZ,alveolar disease,alveolární onemocnění
+11,en,cs_CZ,an epidemic,epidemie
+12,en,cs_CZ,annual flu,každoroční chřipka
+13,en,cs_CZ,anti-inflammatory drug,protizánětlivý lék
+14,en,cs_CZ,antiviral drug,antivirový lék
+15,en,cs_CZ,antiviral treatment,antivirová léčba
+16,en,cs_CZ,assay,analýza
+17,en,cs_CZ,asymptomatic,bez příznaků
+18,en,cs_CZ,avian flu,ptačí chřipka
+19,en,cs_CZ,Black Plague,Černý mor
+20,en,cs_CZ,blood pressure,krevní tlak
+21,en,cs_CZ,body fluid,tělesná tekutina
+22,en,cs_CZ,breathing,dýchání
+23,en,cs_CZ,bubonic plague,dýmějový mor
+24,en,cs_CZ,c19,c19
+25,en,cs_CZ,cv19,cv19
+26,en,cs_CZ,case fatality rate,smrtnost
+27,en,cs_CZ,causative agent,původce
+28,en,cs_CZ,CDC,CDC
+29,en,cs_CZ,chemical disinfection,Chemická dezinfekce
+30,en,cs_CZ,chest x-ray,rentgen hrudníku
+31,en,cs_CZ,clinical diagnosis,klinická diagnóza
+32,en,cs_CZ,clinical trial,klinické hodnocení
+33,en,cs_CZ,close contact,blízký kontakt
+34,en,cs_CZ,cvirus,cvirus
+35,en,cs_CZ,chronic respiratory disease,chronické respirační onemocnění
+36,en,cs_CZ,common cold,běžné nachlazení
+37,en,cs_CZ,common flu,běžná chřipka
+38,en,cs_CZ,communicable disease,přenosná nemoc
+39,en,cs_CZ,community spread,šíření ve společnosti
+40,en,cs_CZ,community transmission,přenos ve společnosti
+41,en,cs_CZ,compromised immune system,narušený imunitní systém
+42,en,cs_CZ,contagion,nákaza
+43,en,cs_CZ,contagious,nakažlivý
+44,en,cs_CZ,contagiousness,nakažlivost
+45,en,cs_CZ,corona,korona
+46,en,cs_CZ,corona virus,koronavirus
+47,en,cs_CZ,corona virus epidemic,epidemie koronaviru
+48,en,cs_CZ,corona virus outbreak,vypuknutí koronaviru
+49,en,cs_CZ,corona virus scare,hrozba koronaviru
+50,en,cs_CZ,coronavirus,koronavirus
+51,en,cs_CZ,coronavirus cases,případy nákazy koronavirem
+52,en,cs_CZ,coronavirus outbreak,vypuknutí koronaviru
+53,en,cs_CZ,coronavirus pandemic,pandemie koronaviru
+54,en,cs_CZ,coronavirus scare,hrozba koronaviru
+55,en,cs_CZ,cough,kašel
+56,en,cs_CZ,cough etiquette,etiketa při kašlání
+57,en,cs_CZ,coughing,kašlání
+58,en,cs_CZ,cov 19,cov 19
+59,en,cs_CZ,cov19,cov19
+60,en,cs_CZ,COVID,COVID
+61,en,cs_CZ,COVID-19 crisis,krize COVID-19
+62,en,cs_CZ,covid-19,covid-19
+63,en,cs_CZ,covid19,covid19
+64,en,cs_CZ,COVID-19 epidemic,epidemie COVID-19
+65,en,cs_CZ,COVID-19 outbreak,vypuknutí COVID-19
+66,en,cs_CZ,COVID-19 pandemic,pandemie COVID-19
+67,en,cs_CZ,COVID 19,COVID 19
+68,en,cs_CZ,current crisis,současná krize
+69,en,cs_CZ,current health crisis,současná zdravotní krize
+70,en,cs_CZ,current outbreak,současné ohnisko
+71,en,cs_CZ,current pandemic,současná pandemie
+72,en,cs_CZ,CV,CV
+73,en,cs_CZ,CV-19,CV-19
+74,en,cs_CZ,deadly,smrtelný
+75,en,cs_CZ,deadly virus,smrtelný virus
+76,en,cs_CZ,death rate,míra úmrtnosti
+77,en,cs_CZ,death toll,počet obětí
+78,en,cs_CZ,decontaminate,dekontaminovat
+79,en,cs_CZ,detectable,zjistitelný
+80,en,cs_CZ,detergent,čistící prostředek
+81,en,cs_CZ,difficulty breathing,obtíže s dýcháním
+82,en,cs_CZ,diabetes,cukrovka
+83,en,cs_CZ,diagnosable disease,diagnostikovatelná choroba
+84,en,cs_CZ,diagnostic protocol,diagnostický protokol
+85,en,cs_CZ,diagnostic testing,diagnostické testování
+86,en,cs_CZ,disease itself,samotné onemocnění
+87,en,cs_CZ,disease outbreak,propuknutí onemocnění
+88,en,cs_CZ,disinfectant,dezinfekční přípravek
+89,en,cs_CZ,disposable,na jedno použití
+90,en,cs_CZ,droplet transmission,kapénkový přenos
+91,en,cs_CZ,droplets,kapénky
+92,en,cs_CZ,dry cough,suchý kašel
+93,en,cs_CZ,dry surface contamination,kontaminace suchého povrchu
+94,en,cs_CZ,ebola,ebola
+95,en,cs_CZ,effective treatment,účinné ošetření
+96,en,cs_CZ,electron microscope,elektronový mikroskop
+97,en,cs_CZ,emergency department,pohotovost
+98,en,cs_CZ,epidemic,epidemický
+99,en,cs_CZ,epidemic curve,epidemická křivka
+100,en,cs_CZ,epidemic peak,vrchol epidemie
+101,en,cs_CZ,epidemiologist,epidemiolog
+102,en,cs_CZ,exposure,vystavení
+103,en,cs_CZ,extreme caution,mimořádná obezřetnost
+104,en,cs_CZ,eye protection,ochrana očí
+105,en,cs_CZ,face mask,obličejová roušky
+106,en,cs_CZ,face masks,obličejové roušky
+107,en,cs_CZ,family cluster,rodinné seskupení
+108,en,cs_CZ,fatality rate,úmrtnost
+109,en,cs_CZ,fecal contamination,fekální kontaminace
+110,en,cs_CZ,fever,horečka
+111,en,cs_CZ,flatten the infection curve,zploštění křivky infekce
+112,en,cs_CZ,flu,chřipka
+113,en,cs_CZ,food safety,bezpečnost potravin
+114,en,cs_CZ,formaldehyde,formaldehyd
+115,en,cs_CZ,gastroenteritis,gastroenteritida
+116,en,cs_CZ,germicide,germicid
+117,en,cs_CZ,global pandemic,globální pandemie
+118,en,cs_CZ,global warming,globální oteplování
+119,en,cs_CZ,good respiratory hygiene,dobrá respirační hygiena
+120,en,cs_CZ,Guangdong,Kuang-tung
+121,en,cs_CZ,H1N1,H1N1
+122,en,cs_CZ,H1N1 virus,virus H1N1
+123,en,cs_CZ,hand disinfectant,Přípravek na dezinfekci rukou
+124,en,cs_CZ,hand sanitizer,dezinfekce na ruce
+125,en,cs_CZ,health care provider,poskytovatel zdravotní péče
+126,en,cs_CZ,health crisis,zdravotní krize
+127,en,cs_CZ,health plan carrier,zdravotní pojišťovna
+128,en,cs_CZ,health services,zdravotní služby
+129,en,cs_CZ,heart failure,srdeční selhání
+130,en,cs_CZ,high fever,vysoká teplota
+131,en,cs_CZ,HIV,HIV
+132,en,cs_CZ,hospitalize,hospitalizovat
+133,en,cs_CZ,household bleach,domácí bělidlo
+134,en,cs_CZ,Hubei,Chu-pej (Hubei)
+135,en,cs_CZ,hydrogen peroxide,peroxid vodíku
+136,en,cs_CZ,hygiene,hygiena
+137,en,cs_CZ,immune system,imunitní systém
+138,en,cs_CZ,immunity,imunita
+139,en,cs_CZ,immunocompromised,se sníženou imunitou
+140,en,cs_CZ,immunologist,imunolog
+141,en,cs_CZ,incubation,inkubace
+142,en,cs_CZ,incubation period,inkubační doba
+143,en,cs_CZ,indirect contact,nepřímý kontakt
+144,en,cs_CZ,infect,nakazit
+145,en,cs_CZ,infection,nákaza
+146,en,cs_CZ,infectious,nakažlivý
+147,en,cs_CZ,infectivity,nakažlivost
+148,en,cs_CZ,influenza,influenza
+149,en,cs_CZ,initial transmission event,počáteční událost přenosu
+150,en,cs_CZ,intensive care equipment,zařízení pro intenzivní péči
+151,en,cs_CZ,intermediate host,přechodný hostitel
+152,en,cs_CZ,intrauterine,nitroděložní
+153,en,cs_CZ,intubation,intubace
+154,en,cs_CZ,isolation,izolace
+155,en,cs_CZ,Isopropanol,isopropanol
+156,en,cs_CZ,laboratory test kit,laboratorní testovací souprava
+157,en,cs_CZ,laboratory testing,laboratorní testování
+158,en,cs_CZ,lack of testing,nedostatek testování
+159,en,cs_CZ,lack of tests,nedostatek testů
+160,en,cs_CZ,latest updates,nejnovější aktualizace
+161,en,cs_CZ,liver failure,selhání jater
+162,en,cs_CZ,local public health authority,místní orgán veřejné zdravotní péče
+163,en,cs_CZ,lockdown,uzamčení
+164,en,cs_CZ,lungs,plíce
+165,en,cs_CZ,masks,masky
+166,en,cs_CZ,measles,spalničky
+167,en,cs_CZ,mechanical ventilation,mechanická ventilace
+168,en,cs_CZ,media coverage,medializace
+169,en,cs_CZ,medical care,zdravotní péče
+170,en,cs_CZ,MERS,MERS
+171,en,cs_CZ,MERS CoV,MERS CoV
+172,en,cs_CZ,microbiologist,mikrobiolog
+173,en,cs_CZ,mild cough,mírný kašel
+174,en,cs_CZ,mortality rate,stupeň úmrtnosti
+175,en,cs_CZ,multi-organ failure,selhání několika orgánů
+176,en,cs_CZ,nasal congestion,ucpaný nos
+177,en,cs_CZ,neutral detergent,neutrální čisticí prostředek
+178,en,cs_CZ,new normal,nový normál
+179,en,cs_CZ,novel corona virus,virus nového typu korony
+180,en,cs_CZ,novel coronavirus,nový typ koronaviru
+181,en,cs_CZ,novel coronavirus outbreak,vypuknutí nového typu koronaviru
+182,en,cs_CZ,novel virus,nový virus
+183,en,cs_CZ,online medical consultation,online lékařská konzultace
+184,en,cs_CZ,onset,nástup
+185,en,cs_CZ,outbreak,vypuknutí
+186,en,cs_CZ,outbreak readiness,připravenost na vypuknutí
+187,en,cs_CZ,overall case fatality,celková smrtnost
+188,en,cs_CZ,pandemic,pandemický
+189,en,cs_CZ,pangolin,luskoun
+190,en,cs_CZ,pathogen,patogen
+191,en,cs_CZ,pathology,patologie
+192,en,cs_CZ,patient care equipment,zařízení pro péči o pacienta
+193,en,cs_CZ,personal protective equipment,osobní ochranný prostředek
+194,en,cs_CZ,person-to-person transmission,přenos z osoby na osobu
+195,en,cs_CZ,phlegm,hlen
+196,en,cs_CZ,physical contact,fyzický kontakt
+197,en,cs_CZ,plague,mor
+198,en,cs_CZ,pneumonia,zápal plic
+199,en,cs_CZ,pneumonias,zápaly plic
+200,en,cs_CZ,positive test,pozitivní test
+201,en,cs_CZ,precaution,preventivní opatření
+202,en,cs_CZ,precautionary,preventivní
+203,en,cs_CZ,pre-existing condition,dříve existující onemocnění
+204,en,cs_CZ,preparedness,připravenost
+205,en,cs_CZ,prognosis,prognóza
+206,en,cs_CZ,protect myself,chránit sami sebe
+207,en,cs_CZ,protect others,chránit ostatní
+208,en,cs_CZ,protect yourself,chránit se
+209,en,cs_CZ,protective measures,ochranná opatření
+210,en,cs_CZ,public health crisis,krize v oblasti veřejného zdraví
+211,en,cs_CZ,pulmonary tissue damage,poškození plicní tkáně
+212,en,cs_CZ,quarantine,karanténa
+213,en,cs_CZ,rapid risk assessment,rychlé posouzení rizik
+214,en,cs_CZ,reagent,činidlo
+215,en,cs_CZ,regular flu,běžná chřipka
+216,en,cs_CZ,reinfection,opětovné nakažení
+217,en,cs_CZ,renal disease,onemocnění ledvin
+218,en,cs_CZ,renal failure,selhání ledvin
+219,en,cs_CZ,respirator,respirátor
+220,en,cs_CZ,respiratory,respirační
+221,en,cs_CZ,respiratory disease,respirační onemocnění
+222,en,cs_CZ,respiratory distress,respirační potíže
+223,en,cs_CZ,respiratory droplets,kapénky z dýchacích cest
+224,en,cs_CZ,respiratory hygiene,respirační hygiena
+225,en,cs_CZ,respiratory illness,respirační choroba
+226,en,cs_CZ,respiratory syndrome,respirační syndrom
+227,en,cs_CZ,respiratory tract disease,onemocnění dýchacích cest
+228,en,cs_CZ,restrictions,omezení
+229,en,cs_CZ,resurge,znovuoživit
+230,en,cs_CZ,RNA,RNA
+231,en,cs_CZ,rubeola,zarděnky
+232,en,cs_CZ,runny nose,výtok z nosu
+233,en,cs_CZ,SARS,SARS
+234,en,cs_CZ,SARS-CoV-2,SARS-CoV-2
+235,en,cs_CZ,SARS-CoV,SARS-CoV
+236,en,cs_CZ,sars-related coronavirus,koronavirus podobný SARS
+237,en,cs_CZ,seasonal flu,sezónní chřipka
+238,en,cs_CZ,seasonal influenza,sezónní influenza (chřipka)
+239,en,cs_CZ,secretion,výtok
+240,en,cs_CZ,self-quarantine,samo karanténa
+241,en,cs_CZ,sepsis,sepse
+242,en,cs_CZ,septic shock,septický šok
+243,en,cs_CZ,Severe Acute Respiratory Syndrome,Syndrom akutního respiračního selhání
+244,en,cs_CZ,shortness of breath,dušnost
+245,en,cs_CZ,sickened,onemocnět
+246,en,cs_CZ,sickness,nemoc
+247,en,cs_CZ,sneeze,kýchání
+248,en,cs_CZ,sneezes,kýchání
+249,en,cs_CZ,sneezing,kýchat
+250,en,cs_CZ,social distancing,společenský odstup
+251,en,cs_CZ,sore throat,bolest v krku
+252,en,cs_CZ,spanish flu,španělská chřipka
+253,en,cs_CZ,specimen collection,odběr vzorků
+254,en,cs_CZ,spread,šířit
+255,en,cs_CZ,sputum,výtěr
+256,en,cs_CZ,stigmatisation,stigmatizace
+257,en,cs_CZ,supportive,podpůrný
+258,en,cs_CZ,surface,povrch
+259,en,cs_CZ,surfaces,povrchy
+260,en,cs_CZ,suspected infection,podezření nákazy
+261,en,cs_CZ,swab,tampon
+262,en,cs_CZ,swine flu,prasečí chřipka
+263,en,cs_CZ,symptom,symptom
+264,en,cs_CZ,symptomatic,symptomatický
+265,en,cs_CZ,symptoms,symptomy
+266,en,cs_CZ,targeted disinfection,cílená dezinfekce
+267,en,cs_CZ,test kit,testovací souprava
+268,en,cs_CZ,testing error,chyba v testování
+269,en,cs_CZ,tissue damage,poškození tkáně
+270,en,cs_CZ,tp shortage,nedostatek toaletního papíru
+271,en,cs_CZ,toilet paper shortage,nedostatek toaletního papíru
+272,en,cs_CZ,touch,dotyk
+273,en,cs_CZ,touching,dotknout se
+274,en,cs_CZ,transmissibility,přenosnost
+275,en,cs_CZ,transmissible,přenosný
+276,en,cs_CZ,transmission,přenos
+277,en,cs_CZ,transmission potential,možnost přenosu
+278,en,cs_CZ,typical flu,typická chřipka
+279,en,cs_CZ,underlying disease,skrytá choroba
+280,en,cs_CZ,updates,aktualizace
+281,en,cs_CZ,vaccine,vakcína
+282,en,cs_CZ,vaccines,vakcíny
+283,en,cs_CZ,ventilation,ventilace
+284,en,cs_CZ,ventilator,ventilátor
+285,en,cs_CZ,ventilators,ventilátory
+286,en,cs_CZ,viral infection,virová infekce
+287,en,cs_CZ,viral outbreak,vypuknutí virové nákazy
+288,en,cs_CZ,viral pandemic,virová pandemie
+289,en,cs_CZ,viral pneumonia,virová pneumonie
+290,en,cs_CZ,virtual care,virtuální péče
+291,en,cs_CZ,virulence,virulence
+292,en,cs_CZ,virus itself,virus samotný
+293,en,cs_CZ,virus outbreak,vypuknutí virové nákazy
+294,en,cs_CZ,virus scare,virus děsí
+295,en,cs_CZ,virus spreads,virus se šíří
+296,en,cs_CZ,virus strain,kmen viru
+297,en,cs_CZ,viral transmission,přenos viru
+298,en,cs_CZ,vivid-19,vivid-19
+299,en,cs_CZ,washing hands,umývání rukou
+300,en,cs_CZ,washing ones hands,umývání vlastních rukou
+301,en,cs_CZ,wash your hands,umývejte si ruce
+302,en,cs_CZ,white blood cell count,počet bílých krvinek
+303,en,cs_CZ,widespread transmission,rozšířený přenos
+304,en,cs_CZ,working from home,práce z domova
+305,en,cs_CZ,WFH,práce z domova
+306,en,cs_CZ,Wuhan,Wuhan

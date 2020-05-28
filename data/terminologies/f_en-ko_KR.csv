@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ko_KR,1918 flu,1918년 독감
+2,en,ko_KR,acute bronchitis,급성 기관지염
+3,en,ko_KR,acute respiratory disease,급성 호흡기 질환
+4,en,ko_KR,AIDS,AIDS
+5,en,ko_KR,airborne droplets,공기중 비말
+6,en,ko_KR,airway,기도
+7,en,ko_KR,alcohol-based,알코올 기반
+8,en,ko_KR,alcohol-based hand rub,알코올 기반 손 소독제
+9,en,ko_KR,alcohol-based hand sanitizer,알코올 기반 손 세정제
+10,en,ko_KR,alveolar disease,폐포 질환
+11,en,ko_KR,an epidemic,전염병
+12,en,ko_KR,annual flu,연례
+13,en,ko_KR,anti-inflammatory drug,항염증제
+14,en,ko_KR,antiviral drug,항 바이러스제
+15,en,ko_KR,antiviral treatment,항 바이러스 치료
+16,en,ko_KR,assay,시험
+17,en,ko_KR,asymptomatic,무증상
+18,en,ko_KR,avian flu,조류 독감
+19,en,ko_KR,Black Plague,흑사병
+20,en,ko_KR,blood pressure,혈압
+21,en,ko_KR,body fluid,체액
+22,en,ko_KR,breathing,호흡
+23,en,ko_KR,bubonic plague,림프절 페스트
+24,en,ko_KR,c19,코비드 19
+25,en,ko_KR,cv19,코로나 바이러스 19
+26,en,ko_KR,case fatality rate,확진자 사망률
+27,en,ko_KR,causative agent,원인 인자
+28,en,ko_KR,CDC,CDC
+29,en,ko_KR,chemical disinfection,화학적 소독
+30,en,ko_KR,chest x-ray,흉부 엑스레이
+31,en,ko_KR,clinical diagnosis,임상 진단
+32,en,ko_KR,clinical trial,임상 시험
+33,en,ko_KR,close contact,밀접 접촉
+34,en,ko_KR,cvirus,코로나바이러스
+35,en,ko_KR,chronic respiratory disease,만성 호흡기 질환
+36,en,ko_KR,common cold,일반 감기
+37,en,ko_KR,common flu,일반 독감
+38,en,ko_KR,communicable disease,전염병
+39,en,ko_KR,community spread,지역 사회 확산
+40,en,ko_KR,community transmission,지역 사회 전파
+41,en,ko_KR,compromised immune system,손상된 면역 체계
+42,en,ko_KR,contagion,전염병
+43,en,ko_KR,contagious,전염성이 있는
+44,en,ko_KR,contagiousness,전염성
+45,en,ko_KR,corona,코로나
+46,en,ko_KR,corona virus,코로나 바이러스
+47,en,ko_KR,corona virus epidemic,코로나 바이러스 전염병
+48,en,ko_KR,corona virus outbreak,코로나 바이러스 발생
+49,en,ko_KR,corona virus scare,코로나 바이러스 공포
+50,en,ko_KR,coronavirus,코로나 바이러스
+51,en,ko_KR,coronavirus cases,코로나 바이러스 확진 사례
+52,en,ko_KR,coronavirus outbreak,코로나 바이러스 발생
+53,en,ko_KR,coronavirus pandemic,코로나 바이러스 전염병
+54,en,ko_KR,coronavirus scare,코로나 바이러스 공포
+55,en,ko_KR,cough,기침
+56,en,ko_KR,cough etiquette,기침 에티켓
+57,en,ko_KR,coughing,기침하는
+58,en,ko_KR,cov 19,코비드 19
+59,en,ko_KR,cov19,코비드19
+60,en,ko_KR,COVID,코비드
+61,en,ko_KR,COVID-19 crisis,코비드-19 위기
+62,en,ko_KR,covid-19,코비드-19
+63,en,ko_KR,covid19,코비드 19
+64,en,ko_KR,COVID-19 epidemic,코비드-19 전염병
+65,en,ko_KR,COVID-19 outbreak,코비드-19 발생
+66,en,ko_KR,COVID-19 pandemic,코비드-19 팬데믹
+67,en,ko_KR,COVID 19,코 비드 19
+68,en,ko_KR,current crisis,현재 위기
+69,en,ko_KR,current health crisis,현재 건강 위기
+70,en,ko_KR,current outbreak,현재 발생
+71,en,ko_KR,current pandemic,현재 팬데믹
+72,en,ko_KR,CV,코로나 바이러스
+73,en,ko_KR,CV-19,코로나 바이러스-19
+74,en,ko_KR,deadly,치명적인
+75,en,ko_KR,deadly virus,치명적인 바이러스
+76,en,ko_KR,death rate,사망률
+77,en,ko_KR,death toll,사망자 수
+78,en,ko_KR,decontaminate,오염 제거
+79,en,ko_KR,detectable,탐지 가능
+80,en,ko_KR,detergent,세정제
+81,en,ko_KR,difficulty breathing,호흡 곤란
+82,en,ko_KR,diabetes,당뇨병
+83,en,ko_KR,diagnosable disease,진단 가능한 질병
+84,en,ko_KR,diagnostic protocol,진단 프로토콜
+85,en,ko_KR,diagnostic testing,진단 테스트
+86,en,ko_KR,disease itself,질병 자체
+87,en,ko_KR,disease outbreak,질병 발생
+88,en,ko_KR,disinfectant,살균제
+89,en,ko_KR,disposable,일회용
+90,en,ko_KR,droplet transmission,비말 전파
+91,en,ko_KR,droplets,비말
+92,en,ko_KR,dry cough,마른 기침
+93,en,ko_KR,dry surface contamination,건조 표면 오염
+94,en,ko_KR,ebola,에볼라
+95,en,ko_KR,effective treatment,효과적인 치료
+96,en,ko_KR,electron microscope,전자 현미경
+97,en,ko_KR,emergency department,응급실
+98,en,ko_KR,epidemic,전염병
+99,en,ko_KR,epidemic curve,전염병 곡선
+100,en,ko_KR,epidemic peak,전염병 피크
+101,en,ko_KR,epidemiologist,역학자
+102,en,ko_KR,exposure,노출
+103,en,ko_KR,extreme caution,극도의 주의
+104,en,ko_KR,eye protection,눈 보호
+105,en,ko_KR,face mask,안면 마스크
+106,en,ko_KR,face masks,안면 마스크
+107,en,ko_KR,family cluster,가족 클러스터
+108,en,ko_KR,fatality rate,사망률
+109,en,ko_KR,fecal contamination,대변 ​​오염
+110,en,ko_KR,fever,발열
+111,en,ko_KR,flatten the infection curve,감염 곡선을 평탄화
+112,en,ko_KR,flu,독감
+113,en,ko_KR,food safety,식품 안전
+114,en,ko_KR,formaldehyde,포름알데히드
+115,en,ko_KR,gastroenteritis,위장염
+116,en,ko_KR,germicide,살균제
+117,en,ko_KR,global pandemic,글로벌 팬데믹
+118,en,ko_KR,global warming,지구 온난화
+119,en,ko_KR,good respiratory hygiene,청결한 호흡기 위상 상태
+120,en,ko_KR,Guangdong,광동
+121,en,ko_KR,H1N1,H1N1
+122,en,ko_KR,H1N1 virus,H1N1 바이러스
+123,en,ko_KR,hand disinfectant,손 소독제
+124,en,ko_KR,hand sanitizer,손 소독제
+125,en,ko_KR,health care provider,의료진
+126,en,ko_KR,health crisis,보건 위기
+127,en,ko_KR,health plan carrier,의료 보험사
+128,en,ko_KR,health services,의료 서비스
+129,en,ko_KR,heart failure,심장 마비
+130,en,ko_KR,high fever,고열
+131,en,ko_KR,HIV,HIV
+132,en,ko_KR,hospitalize,입원하다
+133,en,ko_KR,household bleach,가정용 표백제
+134,en,ko_KR,Hubei,후베이
+135,en,ko_KR,hydrogen peroxide,과산화수소
+136,en,ko_KR,hygiene,위생
+137,en,ko_KR,immune system,면역 체계
+138,en,ko_KR,immunity,면역
+139,en,ko_KR,immunocompromised,면역력이 저하된
+140,en,ko_KR,immunologist,면역 학자
+141,en,ko_KR,incubation,잠복
+142,en,ko_KR,incubation period,잠복기
+143,en,ko_KR,indirect contact,간접 접촉
+144,en,ko_KR,infect,감염시키다
+145,en,ko_KR,infection,감염
+146,en,ko_KR,infectious,감염성
+147,en,ko_KR,infectivity,감염성
+148,en,ko_KR,influenza,인플루엔자
+149,en,ko_KR,initial transmission event,초기 전파 사건
+150,en,ko_KR,intensive care equipment,집중 치료 장비
+151,en,ko_KR,intermediate host,중간 호스트
+152,en,ko_KR,intrauterine,자궁 내
+153,en,ko_KR,intubation,삽관
+154,en,ko_KR,isolation,격리
+155,en,ko_KR,Isopropanol,이소프로파놀
+156,en,ko_KR,laboratory test kit,실험실 진단 키트
+157,en,ko_KR,laboratory testing,실험실 검사
+158,en,ko_KR,lack of testing,검사 부족
+159,en,ko_KR,lack of tests,검사 부족
+160,en,ko_KR,latest updates,최신 업데이트
+161,en,ko_KR,liver failure,간 부전
+162,en,ko_KR,local public health authority,지역 보건소
+163,en,ko_KR,lockdown,제재
+164,en,ko_KR,lungs,폐
+165,en,ko_KR,masks,마스크
+166,en,ko_KR,measles,홍역
+167,en,ko_KR,mechanical ventilation,기계적 환기
+168,en,ko_KR,media coverage,미디어 보도
+169,en,ko_KR,medical care,의료 치료
+170,en,ko_KR,MERS,메르스
+171,en,ko_KR,MERS CoV,메르스 코로나 바이러스
+172,en,ko_KR,microbiologist,미생물 학자
+173,en,ko_KR,mild cough,가벼운 기침
+174,en,ko_KR,mortality rate,사망률
+175,en,ko_KR,multi-organ failure,다발성 장기 부전
+176,en,ko_KR,nasal congestion,코 막힘
+177,en,ko_KR,neutral detergent,중성 세제
+178,en,ko_KR,new normal,신규 표준
+179,en,ko_KR,novel corona virus,신종 코로나 바이러스
+180,en,ko_KR,novel coronavirus,신종 코로나바이러스
+181,en,ko_KR,novel coronavirus outbreak,신종 코로나바이러스 발생
+182,en,ko_KR,novel virus,신종 바이러스
+183,en,ko_KR,online medical consultation,온라인 의료 상담
+184,en,ko_KR,onset,발병
+185,en,ko_KR,outbreak,발생
+186,en,ko_KR,outbreak readiness,발생 준비 태세
+187,en,ko_KR,overall case fatality,전반적 확진자 사망율
+188,en,ko_KR,pandemic,팬데믹
+189,en,ko_KR,pangolin,천산갑
+190,en,ko_KR,pathogen,병원체
+191,en,ko_KR,pathology,병리학
+192,en,ko_KR,patient care equipment,환자 치료 장비
+193,en,ko_KR,personal protective equipment,개인 보호 장비
+194,en,ko_KR,person-to-person transmission,개인간 전파
+195,en,ko_KR,phlegm,가래
+196,en,ko_KR,physical contact,신체 접촉
+197,en,ko_KR,plague,전염병
+198,en,ko_KR,pneumonia,폐렴
+199,en,ko_KR,pneumonias,폐렴
+200,en,ko_KR,positive test,양성 검사
+201,en,ko_KR,precaution,예방법
+202,en,ko_KR,precautionary,예방적
+203,en,ko_KR,pre-existing condition,기저 질환
+204,en,ko_KR,preparedness,대비
+205,en,ko_KR,prognosis,예후
+206,en,ko_KR,protect myself,자신을 보호
+207,en,ko_KR,protect others,타인을 보호
+208,en,ko_KR,protect yourself,자신을 보호
+209,en,ko_KR,protective measures,보호 조치
+210,en,ko_KR,public health crisis,공중 보건 위기
+211,en,ko_KR,pulmonary tissue damage,폐 조직 손상
+212,en,ko_KR,quarantine,격리
+213,en,ko_KR,rapid risk assessment,신속한 위험 평가
+214,en,ko_KR,reagent,시약
+215,en,ko_KR,regular flu,일반 독감
+216,en,ko_KR,reinfection,재감염
+217,en,ko_KR,renal disease,신장 질환
+218,en,ko_KR,renal failure,신부전
+219,en,ko_KR,respirator,호흡기
+220,en,ko_KR,respiratory,호흡 기관의
+221,en,ko_KR,respiratory disease,호흡기 질환
+222,en,ko_KR,respiratory distress,호흡 곤란
+223,en,ko_KR,respiratory droplets,호흡기 비말
+224,en,ko_KR,respiratory hygiene,호흡기 위생
+225,en,ko_KR,respiratory illness,호흡기 질환
+226,en,ko_KR,respiratory syndrome,호흡기 증후군
+227,en,ko_KR,respiratory tract disease,호흡기 기도 질환
+228,en,ko_KR,restrictions,제한
+229,en,ko_KR,resurge,재발
+230,en,ko_KR,RNA,RNA
+231,en,ko_KR,rubeola,홍역
+232,en,ko_KR,runny nose,콧물
+233,en,ko_KR,SARS,사스
+234,en,ko_KR,SARS-CoV-2,SARS-CoV-2
+235,en,ko_KR,SARS-CoV,SARS-CoV
+236,en,ko_KR,sars-related coronavirus,중증 급성 호흡 증후군 관련 코로나 바이러스
+237,en,ko_KR,seasonal flu,계절성 독감
+238,en,ko_KR,seasonal influenza,계절성 인플루엔자
+239,en,ko_KR,secretion,분비
+240,en,ko_KR,self-quarantine,자가 격리
+241,en,ko_KR,sepsis,패혈증
+242,en,ko_KR,septic shock,패혈성 쇼크
+243,en,ko_KR,Severe Acute Respiratory Syndrome,중증 급성 호흡 증후군
+244,en,ko_KR,shortness of breath,호흡 곤란
+245,en,ko_KR,sickened,구역질 남
+246,en,ko_KR,sickness,질병
+247,en,ko_KR,sneeze,재채기
+248,en,ko_KR,sneezes,재채기
+249,en,ko_KR,sneezing,재채기하기
+250,en,ko_KR,social distancing,사회적 거리 두기
+251,en,ko_KR,sore throat,인후통
+252,en,ko_KR,spanish flu,스페인 독감
+253,en,ko_KR,specimen collection,표본 수집
+254,en,ko_KR,spread,전파
+255,en,ko_KR,sputum,타액
+256,en,ko_KR,stigmatisation,낙인찍다
+257,en,ko_KR,supportive,지지하는
+258,en,ko_KR,surface,표면
+259,en,ko_KR,surfaces,표면
+260,en,ko_KR,suspected infection,감염 의심
+261,en,ko_KR,swab,면봉
+262,en,ko_KR,swine flu,돼지 인플루엔자
+263,en,ko_KR,symptom,증상
+264,en,ko_KR,symptomatic,증상이 있는
+265,en,ko_KR,symptoms,조짐
+266,en,ko_KR,targeted disinfection,대상 소독
+267,en,ko_KR,test kit,검사 키트
+268,en,ko_KR,testing error,검사 오류
+269,en,ko_KR,tissue damage,조직 손상
+270,en,ko_KR,tp shortage,화장지 부족
+271,en,ko_KR,toilet paper shortage,화장지 부족
+272,en,ko_KR,touch,접촉
+273,en,ko_KR,touching,접촉하는
+274,en,ko_KR,transmissibility,전파력
+275,en,ko_KR,transmissible,전파 가능한
+276,en,ko_KR,transmission,전파
+277,en,ko_KR,transmission potential,전파 잠재력
+278,en,ko_KR,typical flu,전형적인 독감
+279,en,ko_KR,underlying disease,기저 질환
+280,en,ko_KR,updates,업데이트
+281,en,ko_KR,vaccine,백신
+282,en,ko_KR,vaccines,백신
+283,en,ko_KR,ventilation,환기
+284,en,ko_KR,ventilator,환풍기
+285,en,ko_KR,ventilators,환풍기
+286,en,ko_KR,viral infection,바이러스 감염
+287,en,ko_KR,viral outbreak,바이러스 질환 발생
+288,en,ko_KR,viral pandemic,바이러스성 팬데믹
+289,en,ko_KR,viral pneumonia,바이러스성 폐렴
+290,en,ko_KR,virtual care,온라인 치료
+291,en,ko_KR,virulence,독성
+292,en,ko_KR,virus itself,바이러스 자체
+293,en,ko_KR,virus outbreak,바이러스 발생
+294,en,ko_KR,virus scare,바이러스 공포
+295,en,ko_KR,virus spreads,바이러스 확산
+296,en,ko_KR,virus strain,바이러스 균주
+297,en,ko_KR,viral transmission,바이러스성 전파
+298,en,ko_KR,vivid-19,비비드 -19
+299,en,ko_KR,washing hands,손 씻기
+300,en,ko_KR,washing ones hands,손 씻기
+301,en,ko_KR,wash your hands,손을 씻으세요
+302,en,ko_KR,white blood cell count,백혈구 수
+303,en,ko_KR,widespread transmission,광범위한 전파
+304,en,ko_KR,working from home,재택 근무
+305,en,ko_KR,WFH,재택 근무
+306,en,ko_KR,Wuhan,우한

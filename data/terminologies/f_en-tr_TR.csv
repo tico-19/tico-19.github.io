@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,tr_TR,1918 flu,1918 gribi
+2,en,tr_TR,acute bronchitis,akut bronşit
+3,en,tr_TR,acute respiratory disease,akut solunum hastalığı
+4,en,tr_TR,AIDS,AIDS
+5,en,tr_TR,airborne droplets,havadan gelen damlacıklar
+6,en,tr_TR,airway,hava yolu
+7,en,tr_TR,alcohol-based,alkol bazlı
+8,en,tr_TR,alcohol-based hand rub,alkol bazlı el temizleyici
+9,en,tr_TR,alcohol-based hand sanitizer,alkol bazlı el dezenfektanı
+10,en,tr_TR,alveolar disease,alveoler hastalık
+11,en,tr_TR,an epidemic,bir epidemik
+12,en,tr_TR,annual flu,yıllık grip
+13,en,tr_TR,anti-inflammatory drug,antienflamatuvar ilaç
+14,en,tr_TR,antiviral drug,antiviral ilaç
+15,en,tr_TR,antiviral treatment,antiviral tedavi
+16,en,tr_TR,assay,tahlil
+17,en,tr_TR,asymptomatic,asemptomatik
+18,en,tr_TR,avian flu,kuş gribi
+19,en,tr_TR,Black Plague,Kara Veba
+20,en,tr_TR,blood pressure,tansiyon
+21,en,tr_TR,body fluid,vücut sıvısı
+22,en,tr_TR,breathing,nefes alma
+23,en,tr_TR,bubonic plague,bubonik veba
+24,en,tr_TR,c19,c19
+25,en,tr_TR,cv19,cv19
+26,en,tr_TR,case fatality rate,vaka ölüm oranı
+27,en,tr_TR,causative agent,nedensel ajan
+28,en,tr_TR,CDC,CDC
+29,en,tr_TR,chemical disinfection,kimyasal dezenfekte
+30,en,tr_TR,chest x-ray,göğüs filmi
+31,en,tr_TR,clinical diagnosis,klinik teşhis
+32,en,tr_TR,clinical trial,klinik deney
+33,en,tr_TR,close contact,yakın temas
+34,en,tr_TR,cvirus,cvirus
+35,en,tr_TR,chronic respiratory disease,kronik solunum hastalığı
+36,en,tr_TR,common cold,yaygın soğuk algınlığı
+37,en,tr_TR,common flu,yaygın grip
+38,en,tr_TR,communicable disease,bulaşıcı hastalık
+39,en,tr_TR,community spread,etkileşim dışı yayılım
+40,en,tr_TR,community transmission,toplumsal bulaşma
+41,en,tr_TR,compromised immune system,riskli bağışıklık sistemi
+42,en,tr_TR,contagion,bulaşma
+43,en,tr_TR,contagious,bulaşıcı
+44,en,tr_TR,contagiousness,bulaşıcılık
+45,en,tr_TR,corona,korona
+46,en,tr_TR,corona virus,korona virüs
+47,en,tr_TR,corona virus epidemic,korona virüs epidemiği
+48,en,tr_TR,corona virus outbreak,korona virüs salgını
+49,en,tr_TR,corona virus scare,korona virüs duyurusu
+50,en,tr_TR,coronavirus,koronavirüs
+51,en,tr_TR,coronavirus cases,koronavirüs vakaları
+52,en,tr_TR,coronavirus outbreak,koronavirüs paniği
+53,en,tr_TR,coronavirus pandemic,koronavirüs pandemisi
+54,en,tr_TR,coronavirus scare,koronavirüs duyurusu
+55,en,tr_TR,cough,öksürük
+56,en,tr_TR,cough etiquette,öksürük adabı
+57,en,tr_TR,coughing,öksürme
+58,en,tr_TR,cov 19,cov 19
+59,en,tr_TR,cov19,cov19
+60,en,tr_TR,COVID,COVID
+61,en,tr_TR,COVID-19 crisis,COVID-19 krizleri
+62,en,tr_TR,covid-19,covid-19
+63,en,tr_TR,covid19,covid19
+64,en,tr_TR,COVID-19 epidemic,COVID-19 epidemiği
+65,en,tr_TR,COVID-19 outbreak,COVID-19 salgını
+66,en,tr_TR,COVID-19 pandemic,COVID-19 pandemisi
+67,en,tr_TR,COVID 19,COVID 19
+68,en,tr_TR,current crisis,mevcut krizler
+69,en,tr_TR,current health crisis,mevcut sağlık krizleri
+70,en,tr_TR,current outbreak,mevcut salgın
+71,en,tr_TR,current pandemic,mevcut pandemi
+72,en,tr_TR,CV,CV
+73,en,tr_TR,CV-19,CV-19
+74,en,tr_TR,deadly,ölümcül
+75,en,tr_TR,deadly virus,ölümcül virüs
+76,en,tr_TR,death rate,ölüm oranı
+77,en,tr_TR,death toll,ölüm sayısı
+78,en,tr_TR,decontaminate,temizleme
+79,en,tr_TR,detectable,tespit edilebilir
+80,en,tr_TR,detergent,deterjan
+81,en,tr_TR,difficulty breathing,solunum güçlüğü
+82,en,tr_TR,diabetes,diyabet
+83,en,tr_TR,diagnosable disease,teşhis edilebilir hastalık
+84,en,tr_TR,diagnostic protocol,teşhis protokolü
+85,en,tr_TR,diagnostic testing,teşhis testi
+86,en,tr_TR,disease itself,hastalığın kendisi
+87,en,tr_TR,disease outbreak,hastalık salgını
+88,en,tr_TR,disinfectant,dezenfektan
+89,en,tr_TR,disposable,tek kullanımlık
+90,en,tr_TR,droplet transmission,damlacık bulaşması
+91,en,tr_TR,droplets,damlacıklar
+92,en,tr_TR,dry cough,kuru öksürük
+93,en,tr_TR,dry surface contamination,kuru yüzeyden bulaşma
+94,en,tr_TR,ebola,ebola
+95,en,tr_TR,effective treatment,etkili tedavi
+96,en,tr_TR,electron microscope,elektron mikroskopu
+97,en,tr_TR,emergency department,acil servis
+98,en,tr_TR,epidemic,epidemik
+99,en,tr_TR,epidemic curve,epidemik eğri
+100,en,tr_TR,epidemic peak,epidemik zirve
+101,en,tr_TR,epidemiologist,epidemiolojist
+102,en,tr_TR,exposure,maruziyet
+103,en,tr_TR,extreme caution,yüksek dikkat
+104,en,tr_TR,eye protection,göz koruma
+105,en,tr_TR,face mask,yüz maskesi
+106,en,tr_TR,face masks,yüz maskeleri
+107,en,tr_TR,family cluster,aile kümesi
+108,en,tr_TR,fatality rate,aile oranı
+109,en,tr_TR,fecal contamination,dışkıdan kirlenme
+110,en,tr_TR,fever,ateş
+111,en,tr_TR,flatten the infection curve,enfeksiyon eğrisinin düzleşmesi
+112,en,tr_TR,flu,grip
+113,en,tr_TR,food safety,gıda güvenliği
+114,en,tr_TR,formaldehyde,formaldehit
+115,en,tr_TR,gastroenteritis,mide bağırsak iltihabı
+116,en,tr_TR,germicide,antiseptik
+117,en,tr_TR,global pandemic,küresel pandemi
+118,en,tr_TR,global warming,küresel ısınma
+119,en,tr_TR,good respiratory hygiene,iyi solunum hijyeni
+120,en,tr_TR,Guangdong,Guangdong
+121,en,tr_TR,H1N1,H1N1
+122,en,tr_TR,H1N1 virus,H1N1 virüsü
+123,en,tr_TR,hand disinfectant,el dezenfektanı
+124,en,tr_TR,hand sanitizer,el temizleyici
+125,en,tr_TR,health care provider,sağlık hizmetleri kuruluşu
+126,en,tr_TR,health crisis,sağlık krizleri
+127,en,tr_TR,health plan carrier,sağlık planı taşıyıcısı
+128,en,tr_TR,health services,sağlık hizmetleri
+129,en,tr_TR,heart failure,kalp yetmezliği
+130,en,tr_TR,high fever,yüksek ateş
+131,en,tr_TR,HIV,HIV
+132,en,tr_TR,hospitalize,hastaneye yatırmak
+133,en,tr_TR,household bleach,çamaşır suyu
+134,en,tr_TR,Hubei,Hubei
+135,en,tr_TR,hydrogen peroxide,hidrojen peroksit
+136,en,tr_TR,hygiene,hijyen
+137,en,tr_TR,immune system,bağışıklık sistemi
+138,en,tr_TR,immunity,bağışıklık
+139,en,tr_TR,immunocompromised,bağışıklığı tehlikede
+140,en,tr_TR,immunologist,bağışıklık uzmanı
+141,en,tr_TR,incubation,kuluçka
+142,en,tr_TR,incubation period,kuluçka dönemi
+143,en,tr_TR,indirect contact,indirekt temas
+144,en,tr_TR,infect,enfekte
+145,en,tr_TR,infection,enfeksiyon
+146,en,tr_TR,infectious,bulaşıcı
+147,en,tr_TR,infectivity,bulaşıcılık
+148,en,tr_TR,influenza,influenza
+149,en,tr_TR,initial transmission event,ilk bulaşma etkinliği
+150,en,tr_TR,intensive care equipment,yoğun bakım ekipmanı
+151,en,tr_TR,intermediate host,arakonak
+152,en,tr_TR,intrauterine,döl yatağı içi
+153,en,tr_TR,intubation,tübaj
+154,en,tr_TR,isolation,izolasyon
+155,en,tr_TR,Isopropanol,Isopropanol
+156,en,tr_TR,laboratory test kit,laboratuvar test kiti
+157,en,tr_TR,laboratory testing,laboratuvar testi
+158,en,tr_TR,lack of testing,test eksikliği
+159,en,tr_TR,lack of tests,testlerin eksikliği
+160,en,tr_TR,latest updates,son güncellemeler
+161,en,tr_TR,liver failure,karaciğer yetmezliği
+162,en,tr_TR,local public health authority,yerel halk sağlığı otoritesi
+163,en,tr_TR,lockdown,tecrit
+164,en,tr_TR,lungs,akciğerler
+165,en,tr_TR,masks,maskeler
+166,en,tr_TR,measles,kızamık
+167,en,tr_TR,mechanical ventilation,mekanik ventilasyon
+168,en,tr_TR,media coverage,medya ilgisi
+169,en,tr_TR,medical care,tıbbi bakım
+170,en,tr_TR,MERS,MERS
+171,en,tr_TR,MERS CoV,MERS CoV
+172,en,tr_TR,microbiologist,mikrobiyolojist
+173,en,tr_TR,mild cough,hafif öksürük
+174,en,tr_TR,mortality rate,ölüm oranı
+175,en,tr_TR,multi-organ failure,çoklu organ yetmezliği
+176,en,tr_TR,nasal congestion,burun tıkanıklığı
+177,en,tr_TR,neutral detergent,nötr deterjan
+178,en,tr_TR,new normal,yeni normal
+179,en,tr_TR,novel corona virus,yeni korona virüs
+180,en,tr_TR,novel coronavirus,yeni koronavirüs
+181,en,tr_TR,novel coronavirus outbreak,yeni koronavirüs salgını
+182,en,tr_TR,novel virus,yeni virüs
+183,en,tr_TR,online medical consultation,online tıbbi danışma
+184,en,tr_TR,onset,başlama
+185,en,tr_TR,outbreak,salgın
+186,en,tr_TR,outbreak readiness,salgın hızı
+187,en,tr_TR,overall case fatality,genel vaka öldürücülüğü
+188,en,tr_TR,pandemic,pandemi
+189,en,tr_TR,pangolin,karıncayiyen
+190,en,tr_TR,pathogen,patojen
+191,en,tr_TR,pathology,patoloji
+192,en,tr_TR,patient care equipment,hasta bakım ekipmanı
+193,en,tr_TR,personal protective equipment,kişisel koruma ekipmanı
+194,en,tr_TR,person-to-person transmission,kişiden kişiye bulaşma
+195,en,tr_TR,phlegm,balgam
+196,en,tr_TR,physical contact,fiziksel temas
+197,en,tr_TR,plague,veba
+198,en,tr_TR,pneumonia,akciğer iltihabı
+199,en,tr_TR,pneumonias,akciğer iltihaplanmaları
+200,en,tr_TR,positive test,pozitif test
+201,en,tr_TR,precaution,tedbir
+202,en,tr_TR,precautionary,tedbirli
+203,en,tr_TR,pre-existing condition,önceden mevcut koşul
+204,en,tr_TR,preparedness,hazırlıklı olma
+205,en,tr_TR,prognosis,prognoz
+206,en,tr_TR,protect myself,kendimi koruyayım
+207,en,tr_TR,protect others,diğerlerini koru
+208,en,tr_TR,protect yourself,kendini koru
+209,en,tr_TR,protective measures,koruyucu önlemler
+210,en,tr_TR,public health crisis,genel sağlık krizleri
+211,en,tr_TR,pulmonary tissue damage,akciğerde doku hasarı
+212,en,tr_TR,quarantine,karantina
+213,en,tr_TR,rapid risk assessment,hızlı risk ölçümü
+214,en,tr_TR,reagent,reaktif
+215,en,tr_TR,regular flu,alışıldık grip
+216,en,tr_TR,reinfection,yeniden enfekte olma
+217,en,tr_TR,renal disease,böbrek hastalığı
+218,en,tr_TR,renal failure,böbrek yetmezliği
+219,en,tr_TR,respirator,solunum cihazı
+220,en,tr_TR,respiratory,respiratuar
+221,en,tr_TR,respiratory disease,solunum hastalığı
+222,en,tr_TR,respiratory distress,solunum bozukluğu
+223,en,tr_TR,respiratory droplets,solunum damlacıkları
+224,en,tr_TR,respiratory hygiene,solunum hijyeni
+225,en,tr_TR,respiratory illness,solunum hastalığı
+226,en,tr_TR,respiratory syndrome,solunum sendromu
+227,en,tr_TR,respiratory tract disease,solunum yolu hastalıklığı
+228,en,tr_TR,restrictions,kısıtlamalar
+229,en,tr_TR,resurge,yeniden meydana gelme
+230,en,tr_TR,RNA,RNA
+231,en,tr_TR,rubeola,kızamık
+232,en,tr_TR,runny nose,burun akıntısı
+233,en,tr_TR,SARS,SARS
+234,en,tr_TR,SARS-CoV-2,SARS-CoV-2
+235,en,tr_TR,SARS-CoV,SARS-CoV
+236,en,tr_TR,sars-related coronavirus,sars bağlantılı koronavirüs
+237,en,tr_TR,seasonal flu,mevsimsel grip
+238,en,tr_TR,seasonal influenza,mevsimsel influenza
+239,en,tr_TR,secretion,salgı
+240,en,tr_TR,self-quarantine,kişisel karantina
+241,en,tr_TR,sepsis,sepsis
+242,en,tr_TR,septic shock,septik şok
+243,en,tr_TR,Severe Acute Respiratory Syndrome,Ağır Akut Solunum Yolu Yetersizliği Sendromu
+244,en,tr_TR,shortness of breath,nefes darlığı
+245,en,tr_TR,sickened,hastalık bulaşmış
+246,en,tr_TR,sickness,hastalık
+247,en,tr_TR,sneeze,hapşırma
+248,en,tr_TR,sneezes,hapşırmalar
+249,en,tr_TR,sneezing,aksırma
+250,en,tr_TR,social distancing,sosyal izolasyon
+251,en,tr_TR,sore throat,boğaz ağrısı
+252,en,tr_TR,spanish flu,ispanyol gribi
+253,en,tr_TR,specimen collection,numune toplama
+254,en,tr_TR,spread,yayılım
+255,en,tr_TR,sputum,salya
+256,en,tr_TR,stigmatisation,damgalama
+257,en,tr_TR,supportive,destekleyici
+258,en,tr_TR,surface,yüzey
+259,en,tr_TR,surfaces,yüzeyler
+260,en,tr_TR,suspected infection,şüpheli enfeksiyon
+261,en,tr_TR,swab,temizlik bezi
+262,en,tr_TR,swine flu,domuz gribi
+263,en,tr_TR,symptom,semptom
+264,en,tr_TR,symptomatic,semptomatik
+265,en,tr_TR,symptoms,semptomlar
+266,en,tr_TR,targeted disinfection,hedefli dezenfeksiyon
+267,en,tr_TR,test kit,test kiti
+268,en,tr_TR,testing error,test hatası
+269,en,tr_TR,tissue damage,doku hasarı
+270,en,tr_TR,tp shortage,tuvalet kağıdı yetersizliği
+271,en,tr_TR,toilet paper shortage,tuvalet kağıdı yetersizliği
+272,en,tr_TR,touch,dokunma
+273,en,tr_TR,touching,dokunmak
+274,en,tr_TR,transmissibility,bulaşabilirlik
+275,en,tr_TR,transmissible,bulaşalabilir
+276,en,tr_TR,transmission,bulaşma
+277,en,tr_TR,transmission potential,bulaşma potansiyeli
+278,en,tr_TR,typical flu,tipik grip
+279,en,tr_TR,underlying disease,altta yatan hastalık
+280,en,tr_TR,updates,güncellemeler
+281,en,tr_TR,vaccine,aşı
+282,en,tr_TR,vaccines,aşılar
+283,en,tr_TR,ventilation,ventilasyon
+284,en,tr_TR,ventilator,suni solunum cihazı
+285,en,tr_TR,ventilators,suni solunum cihazları
+286,en,tr_TR,viral infection,viral enfeksiyon
+287,en,tr_TR,viral outbreak,viral salgın
+288,en,tr_TR,viral pandemic,viral pandemi
+289,en,tr_TR,viral pneumonia,viral zatürre
+290,en,tr_TR,virtual care,sanal bakım
+291,en,tr_TR,virulence,virülans
+292,en,tr_TR,virus itself,virüsün kendisi
+293,en,tr_TR,virus outbreak,virüs salgını
+294,en,tr_TR,virus scare,virüs korkusu
+295,en,tr_TR,virus spreads,virüs yayılımları
+296,en,tr_TR,virus strain,virüs suşu
+297,en,tr_TR,viral transmission,viral aktarım
+298,en,tr_TR,vivid-19,vivid-19
+299,en,tr_TR,washing hands,el yıkamak
+300,en,tr_TR,washing ones hands,birinin ellerini yıkaması
+301,en,tr_TR,wash your hands,ellerinizi yıkayın
+302,en,tr_TR,white blood cell count,akyuvar sayısı
+303,en,tr_TR,widespread transmission,geniş çaplı aktarım
+304,en,tr_TR,working from home,evden çalışma
+305,en,tr_TR,WFH,Evden Çalışma
+306,en,tr_TR,Wuhan,Wuhan

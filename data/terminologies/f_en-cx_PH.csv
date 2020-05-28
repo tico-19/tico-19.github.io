@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,cx_PH,1918 flu,trangkaso niadtong 1918
+2,en,cx_PH,acute bronchitis,grabe nga bronchitis
+3,en,cx_PH,acute respiratory disease,grabe nga sakit sa respiratory
+4,en,cx_PH,AIDS,AIDS
+5,en,cx_PH,airborne droplets,tulo nga dala sa hangin
+6,en,cx_PH,airway,agianan sa hangin
+7,en,cx_PH,alcohol-based,nakabase sa alkohol
+8,en,cx_PH,alcohol-based hand rub,panlimpyo sa kamot nga nakabase sa alkohol
+9,en,cx_PH,alcohol-based hand sanitizer,panlimpyo sa kamot nga nakabase sa alkohol
+10,en,cx_PH,alveolar disease,sakit sa alveolar
+11,en,cx_PH,an epidemic,usa ka epidemya
+12,en,cx_PH,annual flu,tinuig nga trangkaso
+13,en,cx_PH,anti-inflammatory drug,kontra-panghubag nga tambal
+14,en,cx_PH,antiviral drug,kontra-viral nga tambal
+15,en,cx_PH,antiviral treatment,kontra-viral nga pagtambal
+16,en,cx_PH,assay,pagtuki
+17,en,cx_PH,asymptomatic,wala’y simtomas
+18,en,cx_PH,avian flu,trangkaso sa langgam
+19,en,cx_PH,Black Plague,Itom nga katalagman
+20,en,cx_PH,blood pressure,presyon sa dugo
+21,en,cx_PH,body fluid,pluwido sa lawas
+22,en,cx_PH,breathing,pagginhawa
+23,en,cx_PH,bubonic plague,Itom nga paghampak
+24,en,cx_PH,c19,c19
+25,en,cx_PH,cv19,cv19
+26,en,cx_PH,case fatality rate,pagbanabana sa kaso sa pagkamatay
+27,en,cx_PH,causative agent,hinungdan
+28,en,cx_PH,CDC,Mga Sentro alang sa Pagpugong sa Sakit
+29,en,cx_PH,chemical disinfection,disimpeksyon sa kemikal
+30,en,cx_PH,chest x-ray,x-ray sa dughan
+31,en,cx_PH,clinical diagnosis,pagdayagnos sa klinika
+32,en,cx_PH,clinical trial,klinikal nga pagsulay
+33,en,cx_PH,close contact,duol nga kontak
+34,en,cx_PH,cvirus,cvirus
+35,en,cx_PH,chronic respiratory disease,kanunay nga pagkasakit sa respiratory
+36,en,cx_PH,common cold,kasagaran nga sip-on
+37,en,cx_PH,common flu,kasagaran nga trangkaso
+38,en,cx_PH,communicable disease,makatakod nga sakit
+39,en,cx_PH,community spread,pagkaylap sa komunidad
+40,en,cx_PH,community transmission,pagtakod sa komunidad
+41,en,cx_PH,compromised immune system,nakompromiso sa naandang systema sa lawas
+42,en,cx_PH,contagion,panagsumpaki
+43,en,cx_PH,contagious,makatakod
+44,en,cx_PH,contagiousness,ang pagka-makatakod
+45,en,cx_PH,corona,corona
+46,en,cx_PH,corona virus,corona virus
+47,en,cx_PH,corona virus epidemic,epidemya sa corona virus
+48,en,cx_PH,corona virus outbreak,pag-ulbo sa corona virus
+49,en,cx_PH,corona virus scare,kahadlok sa corona virus
+50,en,cx_PH,coronavirus,coronavirus
+51,en,cx_PH,coronavirus cases,mga kaso sa coronavirus
+52,en,cx_PH,coronavirus outbreak,pag-ulbo sa coronavirus
+53,en,cx_PH,coronavirus pandemic,pandemya sa coronavirus
+54,en,cx_PH,coronavirus scare,kahadlok sa coronavirus
+55,en,cx_PH,cough,ubo
+56,en,cx_PH,cough etiquette,pamatasan sa pag-ubo
+57,en,cx_PH,coughing,pag-ubo
+58,en,cx_PH,cov 19,cov 19
+59,en,cx_PH,cov19,cov19
+60,en,cx_PH,COVID,COVID
+61,en,cx_PH,COVID-19 crisis,Krisis sa COVID-19
+62,en,cx_PH,covid-19,covid-19
+63,en,cx_PH,covid19,covid19
+64,en,cx_PH,COVID-19 epidemic,Epidemya sa COVID-19
+65,en,cx_PH,COVID-19 outbreak,Pag-ulbo sa COVID-19
+66,en,cx_PH,COVID-19 pandemic,Pagkaylap sa COVID-19
+67,en,cx_PH,COVID 19,COVID 19
+68,en,cx_PH,current crisis,karon nga krisis
+69,en,cx_PH,current health crisis,karon nga krisis sa panglawas
+70,en,cx_PH,current outbreak,kasamtangan nga pag-ulbo
+71,en,cx_PH,current pandemic,karon nga pandemya
+72,en,cx_PH,CV,CV
+73,en,cx_PH,CV-19,CV-19
+74,en,cx_PH,deadly,makamatay
+75,en,cx_PH,deadly virus,makamatay nga virus
+76,en,cx_PH,death rate,banabana sa nangamatay
+77,en,cx_PH,death toll,ihap sa nangamatay
+78,en,cx_PH,decontaminate,poohon ang kagaw
+79,en,cx_PH,detectable,makit-an
+80,en,cx_PH,detergent,panglimpyo
+81,en,cx_PH,difficulty breathing,kalisud sa pagginhawa
+82,en,cx_PH,diabetes,dayabitis
+83,en,cx_PH,diagnosable disease,mahibal-an nga sakit
+84,en,cx_PH,diagnostic protocol,diagnostic nga kasabutan
+85,en,cx_PH,diagnostic testing,pagsulay sa diagnostic
+86,en,cx_PH,disease itself,sakit mismo
+87,en,cx_PH,disease outbreak,pag-ulbo sa sakit
+88,en,cx_PH,disinfectant,disimpektante
+89,en,cx_PH,disposable,dili magamit pag-usab
+90,en,cx_PH,droplet transmission,transmisyon sa tinulo
+91,en,cx_PH,droplets,tinulo
+92,en,cx_PH,dry cough,uga nga pag-ubo
+93,en,cx_PH,dry surface contamination,kontaminasyon sa uga nga ibabaw
+94,en,cx_PH,ebola,ebola
+95,en,cx_PH,effective treatment,epektibo nga pagtambal
+96,en,cx_PH,electron microscope,mikroskopyo sa elektron
+97,en,cx_PH,emergency department,departamento sa emerhensya
+98,en,cx_PH,epidemic,epidemya
+99,en,cx_PH,epidemic curve,kurbada sa sakit nga epidemya
+100,en,cx_PH,epidemic peak,tumoy sa epidemya
+101,en,cx_PH,epidemiologist,epidemiologist
+102,en,cx_PH,exposure,pagbutyag
+103,en,cx_PH,extreme caution,grabeng pagbantay
+104,en,cx_PH,eye protection,pagpanalipod sa mata
+105,en,cx_PH,face mask,maskara sa nawong
+106,en,cx_PH,face masks,mga maskara sa nawong
+107,en,cx_PH,family cluster,kumpol sa pamilya
+108,en,cx_PH,fatality rate,banabana sa nangamatay
+109,en,cx_PH,fecal contamination,fecal kontaminasyon
+110,en,cx_PH,fever,hilanat
+111,en,cx_PH,flatten the infection curve,pag-abog sa kurba sa impeksyon
+112,en,cx_PH,flu,trangkaso
+113,en,cx_PH,food safety,luwas nga pagkaon
+114,en,cx_PH,formaldehyde,formaldehyde
+115,en,cx_PH,gastroenteritis,gastroenteritis
+116,en,cx_PH,germicide,germicide
+117,en,cx_PH,global pandemic,global pandemic
+118,en,cx_PH,global warming,global warming
+119,en,cx_PH,good respiratory hygiene,good respiratory hygiene
+120,en,cx_PH,Guangdong,Guangdong
+121,en,cx_PH,H1N1,H1N1
+122,en,cx_PH,H1N1 virus,H1N1 nga virus
+123,en,cx_PH,hand disinfectant,disimpektante sa kamot
+124,en,cx_PH,hand sanitizer,sanitizer sa kamot
+125,en,cx_PH,health care provider,tighatag sa pag-atiman sa kahimsog
+126,en,cx_PH,health crisis,krisis sa panglawas
+127,en,cx_PH,health plan carrier,tagdala sa plano sa kahimsog
+128,en,cx_PH,health services,mga serbisyo sa panglawas
+129,en,cx_PH,heart failure,pagkapakyas sa kasingkasing
+130,en,cx_PH,high fever,taas nga hilanat
+131,en,cx_PH,HIV,HIV
+132,en,cx_PH,hospitalize,ospital
+133,en,cx_PH,household bleach,pagbuto sa balay
+134,en,cx_PH,Hubei,Hubei
+135,en,cx_PH,hydrogen peroxide,hydrogen peroxide
+136,en,cx_PH,hygiene,kahinlo
+137,en,cx_PH,immune system,immune system
+138,en,cx_PH,immunity,imyunidad
+139,en,cx_PH,immunocompromised,immunocompromised
+140,en,cx_PH,immunologist,immunologist
+141,en,cx_PH,incubation,paglumlum
+142,en,cx_PH,incubation period,panahon sa inkubasyon
+143,en,cx_PH,indirect contact,dili direkta nga kontak
+144,en,cx_PH,infect,makatakod
+145,en,cx_PH,infection,impeksyon
+146,en,cx_PH,infectious,makatakod
+147,en,cx_PH,infectivity,pagkasayup
+148,en,cx_PH,influenza,trangkaso
+149,en,cx_PH,initial transmission event,pasiuna nga panghitabo nga transmission
+150,en,cx_PH,intensive care equipment,pasiuna nga panghitabo nga transmission
+151,en,cx_PH,intermediate host,tigpataliwala nga tig-abiabi
+152,en,cx_PH,intrauterine,intrauterine
+153,en,cx_PH,intubation,intubation
+154,en,cx_PH,isolation,pagkalain
+155,en,cx_PH,Isopropanol,Isopropanol
+156,en,cx_PH,laboratory test kit,kit sa pagsulay sa laboratoryo
+157,en,cx_PH,laboratory testing,pagsulay sa laboratoryo
+158,en,cx_PH,lack of testing,kakulang sa pagsulay
+159,en,cx_PH,lack of tests,kakulang sa mga pagsulay
+160,en,cx_PH,latest updates,labing bag-ong update
+161,en,cx_PH,liver failure,pagkapakyas sa atay
+162,en,cx_PH,local public health authority,awtoridad sa panglawas sa publiko
+163,en,cx_PH,lockdown,pagkandado
+164,en,cx_PH,lungs,baga
+165,en,cx_PH,masks,maskara
+166,en,cx_PH,measles,tipdas
+167,en,cx_PH,mechanical ventilation,mekanikal nga bentilasyon
+168,en,cx_PH,media coverage,pagsakop sa media
+169,en,cx_PH,medical care,medikal nga pag-atiman
+170,en,cx_PH,MERS,MERS
+171,en,cx_PH,MERS CoV,MERS CoV
+172,en,cx_PH,microbiologist,microbiologist
+173,en,cx_PH,mild cough,malumo nga ubo
+174,en,cx_PH,mortality rate,rate sa pagka-mortal
+175,en,cx_PH,multi-organ failure,kapakyas sa multi-organ
+176,en,cx_PH,nasal congestion,kasumaran sa ilong
+177,en,cx_PH,neutral detergent,neyutral nga paghugas
+178,en,cx_PH,new normal,bag-ong normal
+179,en,cx_PH,novel corona virus,virus nga corona virus
+180,en,cx_PH,novel coronavirus,nobela coronavirus
+181,en,cx_PH,novel coronavirus outbreak,pagbuto sa nobela coronavirus
+182,en,cx_PH,novel virus,nobela nga virus
+183,en,cx_PH,online medical consultation,konsultasyon sa medikal sa online
+184,en,cx_PH,onset,pagsugod
+185,en,cx_PH,outbreak,pagbuto
+186,en,cx_PH,outbreak readiness,outbreak kaandam
+187,en,cx_PH,overall case fatality,kinatibuk-ang pagkamatay sa kaso
+188,en,cx_PH,pandemic,pandemanda
+189,en,cx_PH,pangolin,pangolin
+190,en,cx_PH,pathogen,patogen
+191,en,cx_PH,pathology,patolohiya
+192,en,cx_PH,patient care equipment,kagamitan sa pag-atiman sa pasyente
+193,en,cx_PH,personal protective equipment,personal nga kagamitan sa pagpanalipod
+194,en,cx_PH,person-to-person transmission,pagpasa sa tawo-sa-tawo
+195,en,cx_PH,phlegm,plema
+196,en,cx_PH,physical contact,pisikal nga kontak
+197,en,cx_PH,plague,hampak
+198,en,cx_PH,pneumonia,pulmonya
+199,en,cx_PH,pneumonias,pneuteras
+200,en,cx_PH,positive test,positibo nga pagsulay
+201,en,cx_PH,precaution,panagana
+202,en,cx_PH,precautionary,pag-iingat
+203,en,cx_PH,pre-existing condition,kahimtang kaniadto
+204,en,cx_PH,preparedness,pagpangandam
+205,en,cx_PH,prognosis,prognosis
+206,en,cx_PH,protect myself,pagpanalipod sa akong kaugalingon
+207,en,cx_PH,protect others,pagpanalipod sa uban
+208,en,cx_PH,protect yourself,pagpanalipod sa imong kaugalingon
+209,en,cx_PH,protective measures,mga lakang sa pagpanalipod
+210,en,cx_PH,public health crisis,krisis sa panglawas sa publiko
+211,en,cx_PH,pulmonary tissue damage,pagkadaot sa baga nga tisyu
+212,en,cx_PH,quarantine,kuwarentik
+213,en,cx_PH,rapid risk assessment,paspas nga pagsusi sa peligro
+214,en,cx_PH,reagent,reagent
+215,en,cx_PH,regular flu,regular nga trangkaso
+216,en,cx_PH,reinfection,pag-usab sa impeksyon
+217,en,cx_PH,renal disease,sakit sa pantog
+218,en,cx_PH,renal failure,sakit sa pantog
+219,en,cx_PH,respirator,respirator
+220,en,cx_PH,respiratory,respiratory
+221,en,cx_PH,respiratory disease,sakit sa respiratory
+222,en,cx_PH,respiratory distress,kasakit sa pagginhawa
+223,en,cx_PH,respiratory droplets,mga tinulo sa respiratoryo
+224,en,cx_PH,respiratory hygiene,paghinlo sa pagginhawa
+225,en,cx_PH,respiratory illness,sakit sa respiratory
+226,en,cx_PH,respiratory syndrome,respiratory syndrome
+227,en,cx_PH,respiratory tract disease,sakit sa respiratory tract
+228,en,cx_PH,restrictions,mga pagdili
+229,en,cx_PH,resurge,pag-uli
+230,en,cx_PH,RNA,RNA
+231,en,cx_PH,rubeola,rubeola
+232,en,cx_PH,runny nose,gisip-on
+233,en,cx_PH,SARS,SARS
+234,en,cx_PH,SARS-CoV-2,SARS-CoV-2
+235,en,cx_PH,SARS-CoV,SARS-CoV
+236,en,cx_PH,sars-related coronavirus,may kalabutan sa sars nga coronavirus
+237,en,cx_PH,seasonal flu,pana-panahon nga trangkaso
+238,en,cx_PH,seasonal influenza,pana-panahon nga influenza
+239,en,cx_PH,secretion,gipagawas
+240,en,cx_PH,self-quarantine,pag-kwarentinas sa kaugalingon
+241,en,cx_PH,sepsis,sepsis
+242,en,cx_PH,septic shock,septic shock
+243,en,cx_PH,Severe Acute Respiratory Syndrome,Grabe nga sakit sa respiratory Syndrome
+244,en,cx_PH,shortness of breath,kamubo sa pagginhawa
+245,en,cx_PH,sickened,nasakit
+246,en,cx_PH,sickness,sakit
+247,en,cx_PH,sneeze,pag-atsi
+248,en,cx_PH,sneezes,moatsi
+249,en,cx_PH,sneezing,niatsi
+250,en,cx_PH,social distancing,pagpalayo sa isig ka-tawo
+251,en,cx_PH,sore throat,Sakit sa totonlan
+252,en,cx_PH,spanish flu,trangkaso sa spanya
+253,en,cx_PH,specimen collection,pagkolekta nga espesimen
+254,en,cx_PH,spread,mikaylap
+255,en,cx_PH,sputum,laway
+256,en,cx_PH,stigmatisation,hinungdan sa stigmatization
+257,en,cx_PH,supportive,nagpaluyo
+258,en,cx_PH,surface,ibabaw
+259,en,cx_PH,surfaces,mga ibabaw
+260,en,cx_PH,suspected infection,gidudahang impeksyon
+261,en,cx_PH,swab,swab
+262,en,cx_PH,swine flu,trangkaso sa baboy
+263,en,cx_PH,symptom,sintomas
+264,en,cx_PH,symptomatic,wala'y sintomas
+265,en,cx_PH,symptoms,mga simtomas
+266,en,cx_PH,targeted disinfection,gipunting nga disimpeksyon
+267,en,cx_PH,test kit,pagsulay nga kit
+268,en,cx_PH,testing error,sayup sa pagsulay
+269,en,cx_PH,tissue damage,kadaot sa tisyu
+270,en,cx_PH,tp shortage,kakulangan sa papel sa kasilyas
+271,en,cx_PH,toilet paper shortage,kakulangan sa papel sa kasilyas
+272,en,cx_PH,touch,paghikap
+273,en,cx_PH,touching,matandog
+274,en,cx_PH,transmissibility,pagkabalhin
+275,en,cx_PH,transmissible,mabalhin
+276,en,cx_PH,transmission,transmisyon
+277,en,cx_PH,transmission potential,tipikal nga potensyal sa transmission sa trangkaso
+278,en,cx_PH,typical flu,tipikal nga trangkaso
+279,en,cx_PH,underlying disease,nagpailalum nga sakit
+280,en,cx_PH,updates,update
+281,en,cx_PH,vaccine,bakuna
+282,en,cx_PH,vaccines,mga bakuna
+283,en,cx_PH,ventilation,bentilasyon
+284,en,cx_PH,ventilator,bentilador
+285,en,cx_PH,ventilators,mga bentilador
+286,en,cx_PH,viral infection,impeksyon sa virus
+287,en,cx_PH,viral outbreak,pag-ulbo sa virus
+288,en,cx_PH,viral pandemic,pagkaylap sa virus
+289,en,cx_PH,viral pneumonia,nag-viral nga pulmonya
+290,en,cx_PH,virtual care,epektibo nga pag-atiman
+291,en,cx_PH,virulence,pagkabalaan
+292,en,cx_PH,virus itself,virus mismo
+293,en,cx_PH,virus outbreak,pag-ulbo sa virus
+294,en,cx_PH,virus scare,kahadlok sa virus
+295,en,cx_PH,virus spreads,mikaylap ang virus
+296,en,cx_PH,virus strain,gigikanan sa virus
+297,en,cx_PH,viral transmission,pagpakatay sa virus
+298,en,cx_PH,vivid-19,klaro-19
+299,en,cx_PH,washing hands,paghugas sa mga kamot
+300,en,cx_PH,washing ones hands,paghugas sa mga kamot
+301,en,cx_PH,wash your hands,hugasi imong kamot
+302,en,cx_PH,white blood cell count,puti nga selula sa dugo
+303,en,cx_PH,widespread transmission,mikaylap nga transmisyon
+304,en,cx_PH,working from home,nagtrabaho sa balay
+305,en,cx_PH,WFH,Nagtrabaho Sa Balay
+306,en,cx_PH,Wuhan,Wuhan

@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,km_KH,1918 flu,ជម្ងឺផ្ដាសាយ ឆ្នាំ 1918
+2,en,km_KH,acute bronchitis,ជម្ងឺរលាកទងសួតស្រួចស្រាវ
+3,en,km_KH,acute respiratory disease,ជម្ងឺផ្លូវដង្ហើមស្រួចស្រាវ
+4,en,km_KH,AIDS,ជម្ងឺអេដស៍
+5,en,km_KH,airborne droplets,តំណក់ទឹកតូចៗតាមខ្យល់
+6,en,km_KH,airway,បំពង់ខ្យល់
+7,en,km_KH,alcohol-based,មានជាតិអាល់កុល
+8,en,km_KH,alcohol-based hand rub,ទឹកលាងដៃមានជាតិអាល់កុល
+9,en,km_KH,alcohol-based hand sanitizer,ទឹកសម្អាតដៃមានជាតិអាល់កុល
+10,en,km_KH,alveolar disease,ជម្ងឺថង់សួត
+11,en,km_KH,an epidemic,ការរីករាលដាលជម្ងឺ
+12,en,km_KH,annual flu,ជម្ងឺផ្ដាសាយដែលកើតរាល់ឆ្នាំ
+13,en,km_KH,anti-inflammatory drug,ថ្នាំប្រឆាំងនឹងការរលាក
+14,en,km_KH,antiviral drug,ថ្នាំប្រឆាំងវីរុស
+15,en,km_KH,antiviral treatment,ការព្យាបាលដោយប្រើថ្នាំប្រឆាំងវីរុស
+16,en,km_KH,assay,ការធ្វើតេស្ដវិភាគ
+17,en,km_KH,asymptomatic,ការមិនចេញរោគសញ្ញា
+18,en,km_KH,avian flu,ជម្ងឺផ្ដាសាយបក្សី
+19,en,km_KH,Black Plague,ជម្ងឺអាសន្នរោគខ្មៅ
+20,en,km_KH,blood pressure,សម្ពាធឈាម
+21,en,km_KH,body fluid,អង្គធាតុរាវក្នុងខ្លួន
+22,en,km_KH,breathing,ការដកដង្ហើម
+23,en,km_KH,bubonic plague,ជម្ងឺអាសន្នរោគកូនកណ្តុរ
+24,en,km_KH,c19,c19
+25,en,km_KH,cv19,cv19
+26,en,km_KH,case fatality rate,អត្រាករណីស្លាប់
+27,en,km_KH,causative agent,ភ្នាក់ងារបង្កជម្ងឺ
+28,en,km_KH,CDC,CDC
+29,en,km_KH,chemical disinfection,ការរម្ងាប់មេរោគដោយប្រើសារជាតិគីមី
+30,en,km_KH,chest x-ray,ការថតកាំរស្មីអ៊ិចទ្រូង
+31,en,km_KH,clinical diagnosis,ការធ្វើរោគវិនិច្ឆ័យគ្លីនិច
+32,en,km_KH,clinical trial,ការសាកល្បងព្យាបាល
+33,en,km_KH,close contact,ការប៉ះពាល់ជិតស្និទ្ធ
+34,en,km_KH,cvirus,វីរុស C
+35,en,km_KH,chronic respiratory disease,ជម្ងឺផ្លូវដង្ហើមរ៉ាំរ៉ៃ
+36,en,km_KH,common cold,ជម្ងឺផ្ដាសាយធម្មតា
+37,en,km_KH,common flu,ជម្ងឺផ្ដាសាយធម្មតា
+38,en,km_KH,communicable disease,ជម្ងឺឆ្លង
+39,en,km_KH,community spread,ការរាលដាលក្នុងសហគមន៍
+40,en,km_KH,community transmission,ការចម្លងក្នុងសហគមន៍
+41,en,km_KH,compromised immune system,ប្រព័ន្ធភាពស៊ាំចុះខ្សោយ
+42,en,km_KH,contagion,ការឆ្លង
+43,en,km_KH,contagious,ដែលឆ្លង
+44,en,km_KH,contagiousness,ភាពអាចឆ្លងបាន
+45,en,km_KH,corona,កូរ៉ូណា
+46,en,km_KH,corona virus,វីរុសកូរ៉ូណា
+47,en,km_KH,corona virus epidemic,ការរាតត្បាតនៃជំងឺកូរ៉ូណា
+48,en,km_KH,corona virus outbreak,ការផ្ទុះឡើងនៃវីរុសកូរ៉ូណា
+49,en,km_KH,corona virus scare,ការភ័យខ្លាចវីរុសកូរ៉ូណា
+50,en,km_KH,coronavirus,វីរុសកូរ៉ូណា
+51,en,km_KH,coronavirus cases,ករណីវីរុសកូរ៉ូណា
+52,en,km_KH,coronavirus outbreak,ការផ្ទុះឡើងនៃវីរុសកូរ៉ូណា
+53,en,km_KH,coronavirus pandemic,ជម្ងឺរាលដាលវីរុសកូរ៉ូណា
+54,en,km_KH,coronavirus scare,ការភ័យខ្លាចវីរុសកូរ៉ូណា
+55,en,km_KH,cough,ក្អក
+56,en,km_KH,cough etiquette,របៀបក្អក
+57,en,km_KH,coughing,ការក្អក
+58,en,km_KH,cov 19,កូវីដ 19
+59,en,km_KH,cov19,កូវីដ19
+60,en,km_KH,COVID,កូវីដ
+61,en,km_KH,COVID-19 crisis,វិបត្តិកូវីដ-19
+62,en,km_KH,covid-19,កូវីដ-19
+63,en,km_KH,covid19,កូវីដ19
+64,en,km_KH,COVID-19 epidemic,ការរាតត្បាតនៃជម្ងឺកូវីដ-19
+65,en,km_KH,COVID-19 outbreak,ការផ្ទុះឡើងនៃជម្ងឺកូវីដ-19
+66,en,km_KH,COVID-19 pandemic,ជម្ងឺរាតត្បាតកូវីដ-19
+67,en,km_KH,COVID 19,កូវីដ 19
+68,en,km_KH,current crisis,វិបត្តិបច្ចុប្បន្ន
+69,en,km_KH,current health crisis,វិបត្តិសុខភាពបច្ចុប្បន្ន
+70,en,km_KH,current outbreak,ការផ្ទុះឡើងបច្ចុប្បន្ន
+71,en,km_KH,current pandemic,ជម្ងឺរាតត្បាតបច្ចុប្បន្ន
+72,en,km_KH,CV,CV
+73,en,km_KH,CV-19,CV-19
+74,en,km_KH,deadly,សាហាវ
+75,en,km_KH,deadly virus,វីរុសដ៏សាហាវ
+76,en,km_KH,death rate,អត្រាស្លាប់
+77,en,km_KH,death toll,ចំនួនអ្នកស្លាប់
+78,en,km_KH,decontaminate,កម្ចាត់មេរោគ
+79,en,km_KH,detectable,អាចរកឃើញ
+80,en,km_KH,detergent,សាប៊ូ
+81,en,km_KH,difficulty breathing,ពិបាកដកដង្ហើម
+82,en,km_KH,diabetes,ជម្ងឺទឹកនោមផ្អែម
+83,en,km_KH,diagnosable disease,ជម្ងឺដែលអាចធ្វើរោគវិនិច្ឆ័យបាន
+84,en,km_KH,diagnostic protocol,ពិធីសារធ្វើរោគវិនិច្ឆ័យ
+85,en,km_KH,diagnostic testing,ការធ្វើតេស្តរោគវិនិច្ឆ័យ
+86,en,km_KH,disease itself,ជម្ងឺខ្លួនវា
+87,en,km_KH,disease outbreak,ការផ្ទុះឡើងនៃជម្ងឺ
+88,en,km_KH,disinfectant,សារធាតុសម្លាប់មេរោគ
+89,en,km_KH,disposable,ដែលប្រើម្ដងបោះចោល
+90,en,km_KH,droplet transmission,ការចម្លងតាមតំណក់ទឹកតូចៗ
+91,en,km_KH,droplets,តំណក់ទឹកតូចៗ
+92,en,km_KH,dry cough,ក្អកស្ងួត
+93,en,km_KH,dry surface contamination,ការចម្លងនៅលើផ្ទៃស្ងួត
+94,en,km_KH,ebola,អេបូឡា
+95,en,km_KH,effective treatment,ការព្យាបាលដែលមានប្រសិទ្ធភាព
+96,en,km_KH,electron microscope,មីក្រូទស្សន៍អេឡិចត្រុង
+97,en,km_KH,emergency department,ផ្នែកសង្គ្រោះបន្ទាន់
+98,en,km_KH,epidemic,ការរាតត្បាតជម្ងឺ
+99,en,km_KH,epidemic curve,ខ្សែកោងនៃការរាតត្បាតជម្ងឺ
+100,en,km_KH,epidemic peak,ចំណុចកំពូលនៃការរាតត្បាតជម្ងឺ
+101,en,km_KH,epidemiologist,អ្នកជំនាញខាងរោគរាតត្បាត
+102,en,km_KH,exposure,ការប៉ះពាល់
+103,en,km_KH,extreme caution,ការប្រុងប្រយ័ត្នខ្ពស់បំផុត
+104,en,km_KH,eye protection,ការការពារភ្នែក
+105,en,km_KH,face mask,ម៉ាស់មុខ
+106,en,km_KH,face masks,ម៉ាស់មុខនានា
+107,en,km_KH,family cluster,ចង្កោមគ្រួសារ
+108,en,km_KH,fatality rate,អត្រាស្លាប់
+109,en,km_KH,fecal contamination,ការចម្លងតាមលាមក
+110,en,km_KH,fever,គ្រុនក្តៅ
+111,en,km_KH,flatten the infection curve,ធ្វើឲ្យខ្សែកោងនៃការឆ្លងរោគរាបស្មើ
+112,en,km_KH,flu,ផ្ដាសាយ
+113,en,km_KH,food safety,សុវត្ថិភាពចំណីអាហារ
+114,en,km_KH,formaldehyde,ហ្វម៉ាល់ដេអ៊ីត
+115,en,km_KH,gastroenteritis,ការរលាកក្រពះពោះវៀន
+116,en,km_KH,germicide,ថ្នាំសម្លាប់មេរោគ
+117,en,km_KH,global pandemic,ជម្ងឺរាលដាលពេញពិភពលោក
+118,en,km_KH,global warming,ការកើនឡើងនៃកម្ដៅផែនដី
+119,en,km_KH,good respiratory hygiene,អនាម័យផ្លូវដង្ហើមល្អ
+120,en,km_KH,Guangdong,គ័ងទុង
+121,en,km_KH,H1N1,H1N1
+122,en,km_KH,H1N1 virus,វីរុស H1N1
+123,en,km_KH,hand disinfectant,សារធាតុសម្លាប់មេរោគនៅដៃ
+124,en,km_KH,hand sanitizer,ទឹកសម្អាតដៃ
+125,en,km_KH,health care provider,អ្នកផ្តល់សេវាថែទាំសុខភាព
+126,en,km_KH,health crisis,វិបត្តិសុខភាព
+127,en,km_KH,health plan carrier,អ្នកផ្តល់ផែនការសុខភាព
+128,en,km_KH,health services,សេវាកម្មសុខភាព
+129,en,km_KH,heart failure,ខ្សោយបេះដូង
+130,en,km_KH,high fever,គ្រុនក្តៅខ្លាំង
+131,en,km_KH,HIV,វីរុសហ៊ីវ
+132,en,km_KH,hospitalize,ចូលសម្រាកពេទ្យ
+133,en,km_KH,household bleach,ថ្នាំសម្អាតផ្ទះ
+134,en,km_KH,Hubei,ហ៊ូប៉ី
+135,en,km_KH,hydrogen peroxide,អ៊ីដ្រូសែនពែរអុកស៊ីត
+136,en,km_KH,hygiene,អនាម័យ
+137,en,km_KH,immune system,ប្រព័ន្ធភាពស៊ាំ
+138,en,km_KH,immunity,ភាពស៊ាំ
+139,en,km_KH,immunocompromised,ដែលចុះខ្សោយភាពស៊ាំ
+140,en,km_KH,immunologist,ភាពស៊ាំវិទូ
+141,en,km_KH,incubation,ការសំងំលូតលាស់
+142,en,km_KH,incubation period,រយៈពេលសំងំលូតលាស់
+143,en,km_KH,indirect contact,ការប៉ះពាល់ដោយប្រយោល
+144,en,km_KH,infect,ឆ្លងរោគ
+145,en,km_KH,infection,ការឆ្លងរោគ
+146,en,km_KH,infectious,ដែលឆ្លង
+147,en,km_KH,infectivity,សភាពឆ្លង
+148,en,km_KH,influenza,គ្រុនផ្ដាសាយ
+149,en,km_KH,initial transmission event,ព្រឹត្តិការណ៍ចម្លងដំបូង
+150,en,km_KH,intensive care equipment,ឧបករណ៍ថែទាំជម្ងឺធ្ងន់
+151,en,km_KH,intermediate host,អន្តរការីមេរោគ
+152,en,km_KH,intrauterine,ដែលនៅក្នុងស្បូន
+153,en,km_KH,intubation,ការស៊កបំពង់ចូល
+154,en,km_KH,isolation,ការដាក់ឲ្យនៅដាច់ពីគេ
+155,en,km_KH,Isopropanol,អ៊ីសូប្រូប៉ាណុល
+156,en,km_KH,laboratory test kit,ឧបករណ៍តេស្តនៅមន្ទីរពិសោធន៍
+157,en,km_KH,laboratory testing,ការធ្វើតេស្តនៅមន្ទីរពិសោធន៍
+158,en,km_KH,lack of testing,កង្វះការធ្វើតេស្ត
+159,en,km_KH,lack of tests,កង្វះតេស្ត
+160,en,km_KH,latest updates,ការធ្វើបច្ចុប្បន្នភាពចុងក្រោយ
+161,en,km_KH,liver failure,ការខូចថ្លើម
+162,en,km_KH,local public health authority,អាជ្ញាធរសុខភាពសាធារណៈក្នុងមូលដ្ឋាន
+163,en,km_KH,lockdown,ការហាមឃាត់ការចេញចូល
+164,en,km_KH,lungs,សួត
+165,en,km_KH,masks,ម៉ាស់
+166,en,km_KH,measles,ជម្ងឺកញ្ជ្រឹល
+167,en,km_KH,mechanical ventilation,ការបញ្ចេញបញ្ចូលខ្យល់ដោយម៉ាស៊ីន
+168,en,km_KH,media coverage,ការផ្សព្វផ្សាយព័ត៌មាន
+169,en,km_KH,medical care,ការថែទាំវេជ្ជសាស្ត្រ
+170,en,km_KH,MERS,MERS
+171,en,km_KH,MERS CoV,MERS CoV
+172,en,km_KH,microbiologist,អតិសុខុមជីវវិទូ
+173,en,km_KH,mild cough,ក្អកស្រាល
+174,en,km_KH,mortality rate,អត្រាមរណភាព
+175,en,km_KH,multi-organ failure,ការខូចសរីរាង្គច្រើន
+176,en,km_KH,nasal congestion,ការតឹងច្រមុះ
+177,en,km_KH,neutral detergent,សាប៊ូណឺត
+178,en,km_KH,new normal,ភាពធម្មតាថ្មី
+179,en,km_KH,novel corona virus,វីរុសកូរ៉ូណាថ្មី
+180,en,km_KH,novel coronavirus,វីរុសកូរ៉ូណាថ្មី
+181,en,km_KH,novel coronavirus outbreak,ការផ្ទុះឡើងនៃវីរុសកូរ៉ូណាថ្មី
+182,en,km_KH,novel virus,វីរុសថ្មី
+183,en,km_KH,online medical consultation,ការប្រឹក្សាវេជ្ជសាស្រ្តលើបណ្ដាញ
+184,en,km_KH,onset,ការចាប់ផ្ដើម
+185,en,km_KH,outbreak,ការផ្ទុះឡើង
+186,en,km_KH,outbreak readiness,ការត្រៀមខ្លួនសម្រាប់ការផ្ទុះឡើង
+187,en,km_KH,overall case fatality,ករណីស្លាប់សរុប
+188,en,km_KH,pandemic,ជម្ងឺរាលដាល
+189,en,km_KH,pangolin,ពង្រូល
+190,en,km_KH,pathogen,មេរោគ
+191,en,km_KH,pathology,រោគសាស្ត្រ
+192,en,km_KH,patient care equipment,ឧបករណ៍ថែទាំអ្នកជំងឺ
+193,en,km_KH,personal protective equipment,ឧបករណ៍ការពារផ្ទាល់ខ្លួន
+194,en,km_KH,person-to-person transmission,ការចម្លងពីមនុស្សទៅមនុស្ស
+195,en,km_KH,phlegm,ស្លេស្ម
+196,en,km_KH,physical contact,ការប៉ះពាល់រាងកាយ
+197,en,km_KH,plague,ជម្ងឺអាសន្នរោគ
+198,en,km_KH,pneumonia,ជម្ងឺរលាកសួត
+199,en,km_KH,pneumonias,រោគរលាកសួត
+200,en,km_KH,positive test,តេស្តវិជ្ជមាន
+201,en,km_KH,precaution,ការប្រុងប្រយ័ត្ន
+202,en,km_KH,precautionary,ដែលប្រុងប្រយ័ត្ន
+203,en,km_KH,pre-existing condition,ជម្ងឺដែលមានស្រាប់ពីមុន
+204,en,km_KH,preparedness,ការត្រៀមខ្លួន
+205,en,km_KH,prognosis,បុរេនិម្មិត
+206,en,km_KH,protect myself,ការពារខ្លួនឯង
+207,en,km_KH,protect others,ការពារអ្នកដទៃ
+208,en,km_KH,protect yourself,ការពារខ្លួនអ្នក
+209,en,km_KH,protective measures,វិធានការការពារ
+210,en,km_KH,public health crisis,វិបត្តិសុខភាពសាធារណៈ
+211,en,km_KH,pulmonary tissue damage,ការខូចជាលិកាសួត
+212,en,km_KH,quarantine,ចត្តាឡឺស័ក
+213,en,km_KH,rapid risk assessment,ការវាយតម្លៃហានិភ័យរហ័ស
+214,en,km_KH,reagent,សារធាតុសម្រាប់ធ្វើតេស្ត
+215,en,km_KH,regular flu,ផ្ដាសាយធម្មតា
+216,en,km_KH,reinfection,ដំណើរលាប់
+217,en,km_KH,renal disease,ជម្ងឺតម្រងនោម
+218,en,km_KH,renal failure,ការខូចតម្រងនោម
+219,en,km_KH,respirator,ឧបករណ៍ដកដង្ហើម
+220,en,km_KH,respiratory,នៃការដកដង្ហើម
+221,en,km_KH,respiratory disease,ជម្ងឺផ្លូវដង្ហើម
+222,en,km_KH,respiratory distress,ពិបាកដកដង្ហើម
+223,en,km_KH,respiratory droplets,តំណក់ទឹកតូចៗពីផ្លូវដង្ហើម
+224,en,km_KH,respiratory hygiene,អនាម័យផ្លូវដង្ហើម
+225,en,km_KH,respiratory illness,ជម្ងឺផ្លូវដង្ហើម
+226,en,km_KH,respiratory syndrome,រោគសញ្ញាដកដង្ហើម
+227,en,km_KH,respiratory tract disease,ជម្ងឺផ្លូវដកដង្ហើម
+228,en,km_KH,restrictions,ការដាក់កម្រិត
+229,en,km_KH,resurge,លេចចេញឡើងវិញ
+230,en,km_KH,RNA,RNA
+231,en,km_KH,rubeola,ជម្ងឺកញ្ជ្រឹល
+232,en,km_KH,runny nose,ហៀរសំបោរ
+233,en,km_KH,SARS,SARS
+234,en,km_KH,SARS-CoV-2,SARS-CoV-2
+235,en,km_KH,SARS-CoV,SARS-CoV
+236,en,km_KH,sars-related coronavirus,វីរុសកូរ៉ូណាពាក់ព័ន្ធនឹងជំងឺសារ
+237,en,km_KH,seasonal flu,ផ្ដាសាយតាមរដូវ
+238,en,km_KH,seasonal influenza,គ្រុនផ្ដាសាយតាមរដូវ
+239,en,km_KH,secretion,វត្ថុរាវក្នុងខ្លួន
+240,en,km_KH,self-quarantine,ការនៅដាច់ដោយឡែកខ្លួនឯង
+241,en,km_KH,sepsis,ជម្ងឺមេរោគចូលឈាម
+242,en,km_KH,septic shock,ជម្ងឺរាងកាយខ្វះឈាមខ្លាំង
+243,en,km_KH,Severe Acute Respiratory Syndrome,រោគសញ្ញាដកដង្ហើមទាន់ហន់ធ្ងន់ធ្ងរ
+244,en,km_KH,shortness of breath,ការថប់ដង្ហើម
+245,en,km_KH,sickened,ដែលឈឺ
+246,en,km_KH,sickness,ជម្ងឺ
+247,en,km_KH,sneeze,កណ្តាស់
+248,en,km_KH,sneezes,កណ្តាស់
+249,en,km_KH,sneezing,ការកណ្តាស់
+250,en,km_KH,social distancing,ការនៅឲ្យឆ្ងាយពីគ្នា
+251,en,km_KH,sore throat,ឈឺក
+252,en,km_KH,spanish flu,ផ្ដាសាយអេស្ប៉ាញ
+253,en,km_KH,specimen collection,ការប្រមូលសំណាក
+254,en,km_KH,spread,ការរាលដាល
+255,en,km_KH,sputum,កំហាក
+256,en,km_KH,stigmatisation,ការមាក់ងាយ
+257,en,km_KH,supportive,ដែលជួយគាំទ្រ
+258,en,km_KH,surface,ផ្ទៃ
+259,en,km_KH,surfaces,ផ្ទៃនានា
+260,en,km_KH,suspected infection,ការឆ្លងដែលសង្ស័យ
+261,en,km_KH,swab,សំឡី
+262,en,km_KH,swine flu,ផ្ដាសាយជ្រូក
+263,en,km_KH,symptom,រោគសញ្ញា
+264,en,km_KH,symptomatic,មានរោគសញ្ញា
+265,en,km_KH,symptoms,រោគសញ្ញានានា
+266,en,km_KH,targeted disinfection,ការរំងាប់មេរោគគោលដៅ
+267,en,km_KH,test kit,ប្រដាប់ធ្វើតេស្ត
+268,en,km_KH,testing error,កំហុសការធ្វើតេស្ត
+269,en,km_KH,tissue damage,ការបំផ្លាញជាលិកា
+270,en,km_KH,tp shortage,កង្វះ tp
+271,en,km_KH,toilet paper shortage,កង្វះក្រដាសអនាម័យ
+272,en,km_KH,touch,ប៉ះ
+273,en,km_KH,touching,ការប៉ះ
+274,en,km_KH,transmissibility,ភាពអាចចម្លងបាន
+275,en,km_KH,transmissible,អាចចម្លងបាន
+276,en,km_KH,transmission,ការចម្លង
+277,en,km_KH,transmission potential,សក្តានុពលនៃការចម្លង
+278,en,km_KH,typical flu,ជម្ងឺផ្ដាសាយធម្មតា
+279,en,km_KH,underlying disease,ជម្ងឺដែលមានស្រាប់
+280,en,km_KH,updates,ការធ្វើបច្ចុប្បន្នភាព
+281,en,km_KH,vaccine,ថ្នាំវ៉ាក់សាំង
+282,en,km_KH,vaccines,ថ្នាំវ៉ាក់សាំងនានា
+283,en,km_KH,ventilation,ការបញ្ចេញបញ្ចូលខ្យល់
+284,en,km_KH,ventilator,ឧបករណ៍បញ្ចេញបញ្ចូលខ្យល់
+285,en,km_KH,ventilators,ឧបករណ៍បញ្ចេញបញ្ចូលខ្យល់នានា
+286,en,km_KH,viral infection,ការឆ្លងដោយសារវីរុស
+287,en,km_KH,viral outbreak,ការផ្ទុះឡើងដោយសារវីរុស
+288,en,km_KH,viral pandemic,ជម្ងឺរាលដាលដោយសារវីរុស
+289,en,km_KH,viral pneumonia,ជម្ងឺរលាកសួតដោយសារវីរុស
+290,en,km_KH,virtual care,ការថែទាំនិម្មិត
+291,en,km_KH,virulence,កម្លាំងរាតត្បាត
+292,en,km_KH,virus itself,វីរុសខ្លួនវាផ្ទាល់
+293,en,km_KH,virus outbreak,ការផ្ទុះឡើងនៃវីរុស
+294,en,km_KH,virus scare,ការភ័យខ្លាចវីរុស
+295,en,km_KH,virus spreads,វីរុសរាលដាល
+296,en,km_KH,virus strain,ពូជវីរុស
+297,en,km_KH,viral transmission,ការចម្លងវីរុស
+298,en,km_KH,vivid-19,vivid-19
+299,en,km_KH,washing hands,ការលាងដៃ
+300,en,km_KH,washing ones hands,ការលាងដៃគ្រប់គ្នា
+301,en,km_KH,wash your hands,លាងដៃរបស់អ្នក
+302,en,km_KH,white blood cell count,ចំនួនកោសិកាឈាមស
+303,en,km_KH,widespread transmission,ការចម្លងរាលដាលខ្លាំង
+304,en,km_KH,working from home,ការធ្វើការពីផ្ទះ
+305,en,km_KH,WFH,WFH
+306,en,km_KH,Wuhan,វ៉ូហាន

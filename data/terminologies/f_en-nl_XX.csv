@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,nl_XX,1918 flu,griep 1918
+2,en,nl_XX,acute bronchitis,acute bronchitis
+3,en,nl_XX,acute respiratory disease,acute ademhalingsaandoening
+4,en,nl_XX,AIDS,AIDS
+5,en,nl_XX,airborne droplets,luchtgedragen druppeltjes
+6,en,nl_XX,airway,luchtwegen
+7,en,nl_XX,alcohol-based,alcoholhoudend
+8,en,nl_XX,alcohol-based hand rub,alcoholhoudende handreiniger
+9,en,nl_XX,alcohol-based hand sanitizer,alcoholhoudende handontsmetter
+10,en,nl_XX,alveolar disease,alveolaire ziekte
+11,en,nl_XX,an epidemic,een epidemie
+12,en,nl_XX,annual flu,jaarlijkse griep
+13,en,nl_XX,anti-inflammatory drug,ontstekingsremmende medicatie
+14,en,nl_XX,antiviral drug,antivirale medicatie
+15,en,nl_XX,antiviral treatment,antivirale behandeling
+16,en,nl_XX,assay,test
+17,en,nl_XX,asymptomatic,asymptomatisch
+18,en,nl_XX,avian flu,vogelgriep
+19,en,nl_XX,Black Plague,zwarte pest
+20,en,nl_XX,blood pressure,bloeddruk
+21,en,nl_XX,body fluid,lichaamsvocht
+22,en,nl_XX,breathing,ademhaling
+23,en,nl_XX,bubonic plague,builenpest
+24,en,nl_XX,c19,c19
+25,en,nl_XX,cv19,cv19
+26,en,nl_XX,case fatality rate,sterftecijfer
+27,en,nl_XX,causative agent,veroorzakende factor
+28,en,nl_XX,CDC,CDC
+29,en,nl_XX,chemical disinfection,chemische ontsmetting
+30,en,nl_XX,chest x-ray,röntgenfoto borstkas
+31,en,nl_XX,clinical diagnosis,klinische diagnose
+32,en,nl_XX,clinical trial,klinische test
+33,en,nl_XX,close contact,nauw contact
+34,en,nl_XX,cvirus,cvirus
+35,en,nl_XX,chronic respiratory disease,chronische ademhalingsaandoening
+36,en,nl_XX,common cold,gewone verkoudheid
+37,en,nl_XX,common flu,gewone griep
+38,en,nl_XX,communicable disease,overdraagbare ziekte
+39,en,nl_XX,community spread,verspreiding in de gemeenschap
+40,en,nl_XX,community transmission,overdracht in de gemeenschap
+41,en,nl_XX,compromised immune system,aangetast immuunsysteem
+42,en,nl_XX,contagion,besmetting
+43,en,nl_XX,contagious,besmettelijk
+44,en,nl_XX,contagiousness,besmettelijkheid
+45,en,nl_XX,corona,corona
+46,en,nl_XX,corona virus,coronavirus
+47,en,nl_XX,corona virus epidemic,epidemie corona virus
+48,en,nl_XX,corona virus outbreak,uitbraak corona virus
+49,en,nl_XX,corona virus scare,schrik corona virus
+50,en,nl_XX,coronavirus,coronavirus
+51,en,nl_XX,coronavirus cases,gevallen coronavirus
+52,en,nl_XX,coronavirus outbreak,uitbraak coronavirus
+53,en,nl_XX,coronavirus pandemic,pandemie coronavirus
+54,en,nl_XX,coronavirus scare,schrik coronavirus
+55,en,nl_XX,cough,hoest
+56,en,nl_XX,cough etiquette,hoest etiket
+57,en,nl_XX,coughing,hoesten
+58,en,nl_XX,cov 19,cov 19
+59,en,nl_XX,cov19,cov19
+60,en,nl_XX,COVID,COVID
+61,en,nl_XX,COVID-19 crisis,COVID-19 crisis
+62,en,nl_XX,covid-19,covid-19
+63,en,nl_XX,covid19,covid19
+64,en,nl_XX,COVID-19 epidemic,epidemie COVID-19
+65,en,nl_XX,COVID-19 outbreak,uitbraak COVID-19
+66,en,nl_XX,COVID-19 pandemic,pandemie COVID-19
+67,en,nl_XX,COVID 19,COVID 19
+68,en,nl_XX,current crisis,huidige crisis
+69,en,nl_XX,current health crisis,huidige gezondheidscrisis
+70,en,nl_XX,current outbreak,huidige uitbraak
+71,en,nl_XX,current pandemic,huidige pandemie
+72,en,nl_XX,CV,CV
+73,en,nl_XX,CV-19,CV-19
+74,en,nl_XX,deadly,dodelijk
+75,en,nl_XX,deadly virus,dodelijk virus
+76,en,nl_XX,death rate,sterftecijfer
+77,en,nl_XX,death toll,dodental
+78,en,nl_XX,decontaminate,ontsmetten
+79,en,nl_XX,detectable,detecteerbaar
+80,en,nl_XX,detergent,reinigingsmiddel
+81,en,nl_XX,difficulty breathing,moeite met ademhalen
+82,en,nl_XX,diabetes,suikerziekte
+83,en,nl_XX,diagnosable disease,diagnosticeerbare ziekte
+84,en,nl_XX,diagnostic protocol,diagnoseprotocol
+85,en,nl_XX,diagnostic testing,diagnosetesten
+86,en,nl_XX,disease itself,de ziekte zelf
+87,en,nl_XX,disease outbreak,ziekte-uitbraak
+88,en,nl_XX,disinfectant,ontsmettingsmiddel
+89,en,nl_XX,disposable,wegwerpbaar
+90,en,nl_XX,droplet transmission,overbrenging via druppeltjes
+91,en,nl_XX,droplets,druppeltjes
+92,en,nl_XX,dry cough,droge hoest
+93,en,nl_XX,dry surface contamination,besmetting droog oppervlak
+94,en,nl_XX,ebola,ebola
+95,en,nl_XX,effective treatment,doeltreffende behandeling
+96,en,nl_XX,electron microscope,elektronenmicroscoop
+97,en,nl_XX,emergency department,spoedgevallenafdeling
+98,en,nl_XX,epidemic,epidemie
+99,en,nl_XX,epidemic curve,curve epidemie
+100,en,nl_XX,epidemic peak,piek epidemie
+101,en,nl_XX,epidemiologist,epidemioloog
+102,en,nl_XX,exposure,blootstelling
+103,en,nl_XX,extreme caution,uiterste voorzichtigheid
+104,en,nl_XX,eye protection,oogbescherming
+105,en,nl_XX,face mask,gezichtsmasker
+106,en,nl_XX,face masks,gezichtsmaskers
+107,en,nl_XX,family cluster,familiegroep
+108,en,nl_XX,fatality rate,sterftecijfer
+109,en,nl_XX,fecal contamination,fecale besmetting
+110,en,nl_XX,fever,koorts
+111,en,nl_XX,flatten the infection curve,de infectiecurve afvlakken
+112,en,nl_XX,flu,influenza
+113,en,nl_XX,food safety,voedselveiligheid
+114,en,nl_XX,formaldehyde,formaldehyde
+115,en,nl_XX,gastroenteritis,darmontsteking
+116,en,nl_XX,germicide,germicide
+117,en,nl_XX,global pandemic,wereldwijde pandemie
+118,en,nl_XX,global warming,aardopwarming
+119,en,nl_XX,good respiratory hygiene,goede ademhalingshygiëne
+120,en,nl_XX,Guangdong,Guangdong
+121,en,nl_XX,H1N1,H1N1
+122,en,nl_XX,H1N1 virus,H1N1 virus
+123,en,nl_XX,hand disinfectant,handontsmettingsmiddel
+124,en,nl_XX,hand sanitizer,handontsmetter
+125,en,nl_XX,health care provider,gezondheidszorgverlener
+126,en,nl_XX,health crisis,gezondheidscrisis
+127,en,nl_XX,health plan carrier,zorgverzekeraar
+128,en,nl_XX,health services,gezondheidsdiensten
+129,en,nl_XX,heart failure,hartfalen
+130,en,nl_XX,high fever,hoge koorts
+131,en,nl_XX,HIV,HIV
+132,en,nl_XX,hospitalize,hospitaliseren
+133,en,nl_XX,household bleach,huishoudelijk bleekwater
+134,en,nl_XX,Hubei,Hubei
+135,en,nl_XX,hydrogen peroxide,waterstofperoxide
+136,en,nl_XX,hygiene,hygiëne
+137,en,nl_XX,immune system,immuunsysteem
+138,en,nl_XX,immunity,immuniteit
+139,en,nl_XX,immunocompromised,immuungecompromiteerd
+140,en,nl_XX,immunologist,immunoloog
+141,en,nl_XX,incubation,incubatie
+142,en,nl_XX,incubation period,incubatieperiode
+143,en,nl_XX,indirect contact,indirect contact
+144,en,nl_XX,infect,infecteren
+145,en,nl_XX,infection,infectie
+146,en,nl_XX,infectious,besmettelijk
+147,en,nl_XX,infectivity,besmettelijkheid
+148,en,nl_XX,influenza,influenza
+149,en,nl_XX,initial transmission event,aanvankelijk overdrachtsevenement
+150,en,nl_XX,intensive care equipment,uitrusting intensieve verzorging
+151,en,nl_XX,intermediate host,tussenpersoon
+152,en,nl_XX,intrauterine,intra-uterien
+153,en,nl_XX,intubation,intubatie
+154,en,nl_XX,isolation,isolatie
+155,en,nl_XX,Isopropanol,isopropanol
+156,en,nl_XX,laboratory test kit,kit laboratoriumtest
+157,en,nl_XX,laboratory testing,laboratoriumtest
+158,en,nl_XX,lack of testing,gebrek aan testen
+159,en,nl_XX,lack of tests,gebrek aan testkits
+160,en,nl_XX,latest updates,laatste nieuws
+161,en,nl_XX,liver failure,leverfalen
+162,en,nl_XX,local public health authority,plaatselijke autoriteiten volksgezondheid
+163,en,nl_XX,lockdown,lockdown
+164,en,nl_XX,lungs,longen
+165,en,nl_XX,masks,maskers
+166,en,nl_XX,measles,mazelen
+167,en,nl_XX,mechanical ventilation,mechanische ventilatie
+168,en,nl_XX,media coverage,verslaggeving
+169,en,nl_XX,medical care,medische zorg
+170,en,nl_XX,MERS,MERS
+171,en,nl_XX,MERS CoV,MERS CoV
+172,en,nl_XX,microbiologist,microbioloog
+173,en,nl_XX,mild cough,lichte hoest
+174,en,nl_XX,mortality rate,sterftecijfer
+175,en,nl_XX,multi-organ failure,multi-orgaanfalen
+176,en,nl_XX,nasal congestion,neusverstopping
+177,en,nl_XX,neutral detergent,neutraal reinigingsmiddel
+178,en,nl_XX,new normal,nieuwe normaal
+179,en,nl_XX,novel corona virus,nieuw corona virus
+180,en,nl_XX,novel coronavirus,nieuw coronavirus
+181,en,nl_XX,novel coronavirus outbreak,uitbraak nieuw coronavirus
+182,en,nl_XX,novel virus,nieuw virus
+183,en,nl_XX,online medical consultation,online medische consultatie
+184,en,nl_XX,onset,begin
+185,en,nl_XX,outbreak,uitbraak
+186,en,nl_XX,outbreak readiness,op uitbraak voorbereid
+187,en,nl_XX,overall case fatality,algehele letaliteit
+188,en,nl_XX,pandemic,pandemie
+189,en,nl_XX,pangolin,schubdier
+190,en,nl_XX,pathogen,pathogeen
+191,en,nl_XX,pathology,pathologie
+192,en,nl_XX,patient care equipment,uitrusting patiëntverzorging
+193,en,nl_XX,personal protective equipment,persoonlijke beschermende uitrusting
+194,en,nl_XX,person-to-person transmission,overdracht persoon op persoon
+195,en,nl_XX,phlegm,slijm
+196,en,nl_XX,physical contact,lichamelijk contact
+197,en,nl_XX,plague,plaag
+198,en,nl_XX,pneumonia,longontsteking
+199,en,nl_XX,pneumonias,longontstekingen
+200,en,nl_XX,positive test,positieve test
+201,en,nl_XX,precaution,voorzorgsmaatregel
+202,en,nl_XX,precautionary,preventie
+203,en,nl_XX,pre-existing condition,voorafbestaande aandoening
+204,en,nl_XX,preparedness,voorbereidheid
+205,en,nl_XX,prognosis,prognose
+206,en,nl_XX,protect myself,mezelf beschermen
+207,en,nl_XX,protect others,anderen beschermen
+208,en,nl_XX,protect yourself,jezelf beschermen
+209,en,nl_XX,protective measures,beschermende maatregelen
+210,en,nl_XX,public health crisis,volksgezondheidscrisis
+211,en,nl_XX,pulmonary tissue damage,longweefselschade
+212,en,nl_XX,quarantine,quarantaine
+213,en,nl_XX,rapid risk assessment,snelle risicobeoordeling
+214,en,nl_XX,reagent,reagens
+215,en,nl_XX,regular flu,normale griep
+216,en,nl_XX,reinfection,herbesmetting
+217,en,nl_XX,renal disease,nierziekte
+218,en,nl_XX,renal failure,nierfalen
+219,en,nl_XX,respirator,ademhalingsapparaat
+220,en,nl_XX,respiratory,ademhalinggerelateerd
+221,en,nl_XX,respiratory disease,ademhalingsaandoening
+222,en,nl_XX,respiratory distress,ademnood
+223,en,nl_XX,respiratory droplets,ademhalingsdruppeltjes
+224,en,nl_XX,respiratory hygiene,ademhalingshygiëne
+225,en,nl_XX,respiratory illness,luchtwegaandoening
+226,en,nl_XX,respiratory syndrome,ademhalingssyndroom
+227,en,nl_XX,respiratory tract disease,luchtwegziekte
+228,en,nl_XX,restrictions,beperkingen
+229,en,nl_XX,resurge,heropkomst
+230,en,nl_XX,RNA,RNA
+231,en,nl_XX,rubeola,rodehond
+232,en,nl_XX,runny nose,lopende neus
+233,en,nl_XX,SARS,SARS
+234,en,nl_XX,SARS-CoV-2,SARS-CoV-2
+235,en,nl_XX,SARS-CoV,SARS-CoV
+236,en,nl_XX,sars-related coronavirus,sars-gerelateerde coronavirus
+237,en,nl_XX,seasonal flu,seizoensgriep
+238,en,nl_XX,seasonal influenza,seizoensinfluenza
+239,en,nl_XX,secretion,uitscheiding
+240,en,nl_XX,self-quarantine,zelfquarantaine
+241,en,nl_XX,sepsis,sepsis
+242,en,nl_XX,septic shock,septische shock
+243,en,nl_XX,Severe Acute Respiratory Syndrome,Ernstig acuut ademhalingssyndroom
+244,en,nl_XX,shortness of breath,kortademigheid
+245,en,nl_XX,sickened,verziekt
+246,en,nl_XX,sickness,ziekte
+247,en,nl_XX,sneeze,niezen
+248,en,nl_XX,sneezes,niest
+249,en,nl_XX,sneezing,niezend
+250,en,nl_XX,social distancing,beperken van sociale contacten
+251,en,nl_XX,sore throat,pijnlijke keel
+252,en,nl_XX,spanish flu,spaanse griep
+253,en,nl_XX,specimen collection,verzameling proefmonsters
+254,en,nl_XX,spread,verspreiden
+255,en,nl_XX,sputum,sputum
+256,en,nl_XX,stigmatisation,stigmatisering
+257,en,nl_XX,supportive,ondersteunend
+258,en,nl_XX,surface,oppervlak
+259,en,nl_XX,surfaces,oppervlakken
+260,en,nl_XX,suspected infection,vermoede besmetting
+261,en,nl_XX,swab,wattenstaafje
+262,en,nl_XX,swine flu,varkensgriep
+263,en,nl_XX,symptom,symptoom
+264,en,nl_XX,symptomatic,symptomatisch
+265,en,nl_XX,symptoms,symptomen
+266,en,nl_XX,targeted disinfection,doelgerichte ontsmetting
+267,en,nl_XX,test kit,testkit
+268,en,nl_XX,testing error,testvergissing
+269,en,nl_XX,tissue damage,weefselschade
+270,en,nl_XX,tp shortage,tekort wc-papier
+271,en,nl_XX,toilet paper shortage,tekort toiletpapier
+272,en,nl_XX,touch,aanraken
+273,en,nl_XX,touching,aanraking
+274,en,nl_XX,transmissibility,overdraagbaarheid
+275,en,nl_XX,transmissible,overdraagbaar
+276,en,nl_XX,transmission,overdracht
+277,en,nl_XX,transmission potential,overdrachtspotentieel
+278,en,nl_XX,typical flu,typische griep
+279,en,nl_XX,underlying disease,onderliggende ziekte
+280,en,nl_XX,updates,updates
+281,en,nl_XX,vaccine,vaccin
+282,en,nl_XX,vaccines,vaccins
+283,en,nl_XX,ventilation,ventilatie
+284,en,nl_XX,ventilator,ventilator
+285,en,nl_XX,ventilators,ventilators
+286,en,nl_XX,viral infection,virale infectie
+287,en,nl_XX,viral outbreak,virale uitbraak
+288,en,nl_XX,viral pandemic,virale pandemie
+289,en,nl_XX,viral pneumonia,virale longontsteking
+290,en,nl_XX,virtual care,virtuele zorg
+291,en,nl_XX,virulence,virulentie
+292,en,nl_XX,virus itself,virus zelf
+293,en,nl_XX,virus outbreak,virus uitbraak
+294,en,nl_XX,virus scare,virus schrik
+295,en,nl_XX,virus spreads,virus verspreiding
+296,en,nl_XX,virus strain,virusstam
+297,en,nl_XX,viral transmission,virusoverdracht
+298,en,nl_XX,vivid-19,vivid-19
+299,en,nl_XX,washing hands,handen wassen
+300,en,nl_XX,washing ones hands,zich de handen wassen
+301,en,nl_XX,wash your hands,je handen wassen
+302,en,nl_XX,white blood cell count,telling witte bloedlichaampjes
+303,en,nl_XX,widespread transmission,wijdverspreide overdracht
+304,en,nl_XX,working from home,thuis werken
+305,en,nl_XX,WFH,WFH
+306,en,nl_XX,Wuhan,Wuhan

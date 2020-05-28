@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,lg_UG,1918 flu,Senyiga wa 1918
+2,en,lg_UG,acute bronchitis,Oburwadde bwomawugwe
+3,en,lg_UG,acute respiratory disease,Oburwade obukwagagana nekubo lyokusizamu
+4,en,lg_UG,AIDS,Mukenenya
+5,en,lg_UG,airborne droplets,Omatondo agaletebwa nendwadde yomumpewo
+6,en,lg_UG,airway,Ekubo lyenyonyi
+7,en,lg_UG,alcohol-based,Kivamu mwenge
+8,en,lg_UG,alcohol-based hand rub,Kivamu mwenge ngakyakusiga mungalo
+9,en,lg_UG,alcohol-based hand sanitizer,Kivamu mwenge ngakita vayirasi mungalo
+10,en,lg_UG,alveolar disease,Ndwadde yambusuwa mawugwe
+11,en,lg_UG,an epidemic,Endwadde esasanye wano mbitundu
+12,en,lg_UG,annual flu,Senyiga womwaka
+13,en,lg_UG,anti-inflammatory drug,Edagara erilwanyisa ebyenzisa
+14,en,lg_UG,antiviral drug,Edagara erita vayirasi
+15,en,lg_UG,antiviral treatment,Enzijanjaba ya vayirasi
+16,en,lg_UG,assay,Ebiwandikidwa
+17,en,lg_UG,asymptomatic,obubonero
+18,en,lg_UG,avian flu,Senyiga webinyonyi
+19,en,lg_UG,Black Plague,Endwadde eletebwa ensekele
+20,en,lg_UG,blood pressure,Engeri omusayi bwegutambulamu
+21,en,lg_UG,body fluid,Amazi gomubiri
+22,en,lg_UG,breathing,okusa
+23,en,lg_UG,bubonic plague,Oburwadde bwamagumba
+24,en,lg_UG,c19,c19
+25,en,lg_UG,cv19,cv19
+26,en,lg_UG,case fatality rate,Egeri yekizibu bwegenda yeyongera
+27,en,lg_UG,causative agent,Ekiletera endwadde
+28,en,lg_UG,CDC,CDC
+29,en,lg_UG,chemical disinfection,Edagara elita obuwuka
+30,en,lg_UG,chest x-ray,Okeberebwa mukifuba
+31,en,lg_UG,clinical diagnosis,Okebejebwa mbulwariro obutono
+32,en,lg_UG,clinical trial,Okugezako mbulwariro obutono
+33,en,lg_UG,close contact,Okuba ngamwelinanye
+34,en,lg_UG,cvirus,korona vayirasi
+35,en,lg_UG,chronic respiratory disease,Oburwadde bwomawugwe
+36,en,lg_UG,common cold,Obunyogovu obwabulijjo
+37,en,lg_UG,common flu,Senyiga owabulijjo
+38,en,lg_UG,communicable disease,Endwadde namuta
+39,en,lg_UG,community spread,Ensansanya mbatuzze
+40,en,lg_UG,community transmission,Engeri bwesasana mbatuzze
+41,en,lg_UG,compromised immune system,Engeri omubiri bwegwelwanako
+42,en,lg_UG,contagion,kontagiyoni
+43,en,lg_UG,contagious,bwebukwata
+44,en,lg_UG,contagiousness,enkwata
+45,en,lg_UG,corona,korona
+46,en,lg_UG,corona virus,Korona vayirasi
+47,en,lg_UG,corona virus epidemic,Endwadde yakorona vayirasi esasanye
+48,en,lg_UG,corona virus outbreak,Endwadde ya korona vayirasi eggude enakku zino
+49,en,lg_UG,corona virus scare,Entisa yobulwadde bwa korona vayirasi
+50,en,lg_UG,coronavirus,Korona vayirasi
+51,en,lg_UG,coronavirus cases,Ensonga ezikwata kukilwadde kya korona vayirasi
+52,en,lg_UG,coronavirus outbreak,Endwadde ya korona vayirasi eggude enakku zino
+53,en,lg_UG,coronavirus pandemic,Ekilwadde kya korona vayirasi
+54,en,lg_UG,coronavirus scare,Entisa yobulwadde bwa korona vayirasi
+55,en,lg_UG,cough,kukolora
+56,en,lg_UG,cough etiquette,Ekizibu kyokolora
+57,en,lg_UG,coughing,okukolora
+58,en,lg_UG,cov 19,cov 19
+59,en,lg_UG,cov19,cov19
+60,en,lg_UG,COVID,COVID
+61,en,lg_UG,COVID-19 crisis,Ensasage ya COVID-19
+62,en,lg_UG,covid-19,covid-19
+63,en,lg_UG,covid19,covid19
+64,en,lg_UG,COVID-19 epidemic,Ekilwadde kya COVID -19
+65,en,lg_UG,COVID-19 outbreak,Entandikwa ya COVID-19
+66,en,lg_UG,COVID-19 pandemic,Obulwadde bwa Covid-19
+67,en,lg_UG,COVID 19,COVID 19
+68,en,lg_UG,current crisis,Ensasage yakakati
+69,en,lg_UG,current health crisis,Ensasage yakakati munsonga yebyebulamu
+70,en,lg_UG,current outbreak,Ensasanya yekisera kino
+71,en,lg_UG,current pandemic,Ekilwadde kyekisera kino
+72,en,lg_UG,CV,CV
+73,en,lg_UG,CV-19,CV-19
+74,en,lg_UG,deadly,Namutaa
+75,en,lg_UG,deadly virus,Vayirasi namutaa
+76,en,lg_UG,death rate,Engeri enfa jyetambulamu
+77,en,lg_UG,death toll,Abafu benkanaki
+78,en,lg_UG,decontaminate,Okwewala okusigibwa
+79,en,lg_UG,detectable,Kisoboka okukazura
+80,en,lg_UG,detergent,Sabuni ezita obuwukka
+81,en,lg_UG,difficulty breathing,Obuzibu mukusa
+82,en,lg_UG,diabetes,Endwadde yasukali
+83,en,lg_UG,diagnosable disease,Endwadde esoboka okwekebejebwa
+84,en,lg_UG,diagnostic protocol,Amakubo mukwekebeja
+85,en,lg_UG,diagnostic testing,Engeri yokukebera
+86,en,lg_UG,disease itself,Ekilwadde kyenyini
+87,en,lg_UG,disease outbreak,Ekilwadde kyekisera kino
+88,en,lg_UG,disinfectant,Ekitaa obuwukka
+89,en,lg_UG,disposable,Kisulibwa oluvanyuma yokukozesebwa
+90,en,lg_UG,droplet transmission,Engeri yensansanya yebivambantu nga byamatondo
+91,en,lg_UG,droplets,amatondo
+92,en,lg_UG,dry cough,Okukorola ngakukalu
+93,en,lg_UG,dry surface contamination,Okusigibwa ngakuva mbifo ebikalu
+94,en,lg_UG,ebola,ebola
+95,en,lg_UG,effective treatment,Enzijanjaba entufu
+96,en,lg_UG,electron microscope,Ekyuma ekyekebeja
+97,en,lg_UG,emergency department,Ekitundu ekikwatibwa kunsonga ezikudewo ngazamangu
+98,en,lg_UG,epidemic,Ensasanya
+99,en,lg_UG,epidemic curve,Engeri ensasana bweri
+100,en,lg_UG,epidemic peak,Wa ensasana wetuse
+101,en,lg_UG,epidemiologist,Ajanjaba ebyamaso
+102,en,lg_UG,exposure,Okwemanyiza
+103,en,lg_UG,extreme caution,Okulabula okwamanyi
+104,en,lg_UG,eye protection,Okukuma amaso
+105,en,lg_UG,face mask,Masiki ebika fesii
+106,en,lg_UG,face masks,Masiki zomu fesii
+107,en,lg_UG,family cluster,Ebibinja byomumaka
+108,en,lg_UG,fatality rate,Egeri yekizibu bwegenda yeyongera
+109,en,lg_UG,fecal contamination,Eneri bwekisigibwa mu fesii
+110,en,lg_UG,fever,omusujja
+111,en,lg_UG,flatten the infection curve,Kendeza kunkwatibwa kwekilwadde
+112,en,lg_UG,flu,senyiga
+113,en,lg_UG,food safety,Enkuma yemere enungi
+114,en,lg_UG,formaldehyde,formaldehyde
+115,en,lg_UG,gastroenteritis,gastroenteritis
+116,en,lg_UG,germicide,Ekita obuwukka
+117,en,lg_UG,global pandemic,Ekilwadde kunsiyona
+118,en,lg_UG,global warming,Ebugumu kunsiyona
+119,en,lg_UG,good respiratory hygiene,Engeri enungi eyokukuma enzisayo
+120,en,lg_UG,Guangdong,Guangdong
+121,en,lg_UG,H1N1,H1N1
+122,en,lg_UG,H1N1 virus,H1N1 vayirasi
+123,en,lg_UG,hand disinfectant,Ekita obuwuka bwomungaro
+124,en,lg_UG,hand sanitizer,Ekita vayirasi yomungaro
+125,en,lg_UG,health care provider,Akwasibwako ensonga yebyobulamu
+126,en,lg_UG,health crisis,Ensasage mbyobulamu
+127,en,lg_UG,health plan carrier,Engeri ku pulani yentambuza kubyobulamu
+128,en,lg_UG,health services,Empereza kubyobulamu
+129,en,lg_UG,heart failure,Omutima okulemererwa okukola
+130,en,lg_UG,high fever,Omusujja omunji
+131,en,lg_UG,HIV,Akawuka akaleta obulwadde bwasilimu
+132,en,lg_UG,hospitalize,Mutwale mudwaliro
+133,en,lg_UG,household bleach,Ebyokosesa mumakka
+134,en,lg_UG,Hubei,Hubei
+135,en,lg_UG,hydrogen peroxide,Hayidurogeni perokisayidi
+136,en,lg_UG,hygiene,ebyobuyonjo
+137,en,lg_UG,immune system,Amakubo agalwana nokuma omubiri ngamulamu
+138,en,lg_UG,immunity,Engeri ekuma emibiri ngamilamu
+139,en,lg_UG,immunocompromised,Engeri yomubiri ngantuffu
+140,en,lg_UG,immunologist,Akwasibwa kunsonga zebyokwerinda mibili
+141,en,lg_UG,incubation,Okukula
+142,en,lg_UG,incubation period,Obudde obumalibwa okukula
+143,en,lg_UG,indirect contact,Okusigibwa mungeri endala
+144,en,lg_UG,infect,okusiga
+145,en,lg_UG,infection,okusigibwa
+146,en,lg_UG,infectious,okukwatibwa
+147,en,lg_UG,infectivity,ensigibwa
+148,en,lg_UG,influenza,senyiga
+149,en,lg_UG,initial transmission event,Entandikwa yensingibwa yakino
+150,en,lg_UG,intensive care equipment,Ekikozesebwa mukifo kyebyobulamu
+151,en,lg_UG,intermediate host,Owawakati akyaza
+152,en,lg_UG,intrauterine,Ekikwata mbyenda
+153,en,lg_UG,intubation,Ekisera okula
+154,en,lg_UG,isolation,okwawula
+155,en,lg_UG,Isopropanol,isopropanol
+156,en,lg_UG,laboratory test kit,Ekikozesebwa mukwekebejja mubagiro
+157,en,lg_UG,laboratory testing,Okwekebejja mubagiro
+158,en,lg_UG,lack of testing,Obutasobola kwekebejja
+159,en,lg_UG,lack of tests,Okulemerebwa okwekebejja
+160,en,lg_UG,latest updates,Amawulile agakafuluma
+161,en,lg_UG,liver failure,Ekibumba okulemerebwa
+162,en,lg_UG,local public health authority,Abavunanyizibwa kunsonga yebitundu mbyobulamu
+163,en,lg_UG,lockdown,okulemesebwa
+164,en,lg_UG,lungs,amawugwe
+165,en,lg_UG,masks,Zi masiki
+166,en,lg_UG,measles,olukusense
+167,en,lg_UG,mechanical ventilation,Okutekawo engeri eingiza empewo
+168,en,lg_UG,media coverage,Banamawulire byebagobeledde
+169,en,lg_UG,medical care,Ebyobujanjabi
+170,en,lg_UG,MERS,MERS
+171,en,lg_UG,MERS CoV,MERS CoV
+172,en,lg_UG,microbiologist,Eyasoma ensonga ezikwata kubya vayirasi
+173,en,lg_UG,mild cough,Okukolora okwawagulu
+174,en,lg_UG,mortality rate,Enfa mbana abato
+175,en,lg_UG,multi-organ failure,Okulemerebwa okukola kwebitundu byonna mubiri
+176,en,lg_UG,nasal congestion,Okubera ngamunyindo mwonna mukwatilide ebikyaffu
+177,en,lg_UG,neutral detergent,Sabuni atalina buzibu
+178,en,lg_UG,new normal,Azalidwa mumbera enungi
+179,en,lg_UG,novel corona virus,Novel korona vayirasi
+180,en,lg_UG,novel coronavirus,Novel korona vayirasi
+181,en,lg_UG,novel coronavirus outbreak,Ensasanya ya novel korona vayirasi
+182,en,lg_UG,novel virus,Novel vayirasi
+183,en,lg_UG,online medical consultation,Okwebuza kumutimbagano kunsonga yebyobujanjabi
+184,en,lg_UG,onset,entandikwa
+185,en,lg_UG,outbreak,ensasanya
+186,en,lg_UG,outbreak readiness,Ensasanya mukwetegeka
+187,en,lg_UG,overall case fatality,Mbufunze ensonga kunfuna yembuto
+188,en,lg_UG,pandemic,Ensasage yekilwadde
+189,en,lg_UG,pangolin,Olugave
+190,en,lg_UG,pathogen,Obuwuka bunamuta
+191,en,lg_UG,pathology,Okusoma kubikwata kubuwuka bunamuta
+192,en,lg_UG,patient care equipment,Ekyuma ekikozesebwa okuwa abalwadde obuyambi
+193,en,lg_UG,personal protective equipment,Ekyuma kyobwanakyewa ekiyamba okwewala
+194,en,lg_UG,person-to-person transmission,Engeri yokusigibwa okuva kumuntu omu nomulala
+195,en,lg_UG,phlegm,phlegm
+196,en,lg_UG,physical contact,Okwekwata awamu
+197,en,lg_UG,plague,pulegi
+198,en,lg_UG,pneumonia,lulakila
+199,en,lg_UG,pneumonias,Obulwade bwalulakila
+200,en,lg_UG,positive test,Okakasa kwobulwadde
+201,en,lg_UG,precaution,Okwegendeleza
+202,en,lg_UG,precautionary,Engeri yokwegendeleza
+203,en,lg_UG,pre-existing condition,Engeri embera bweyari muntandika
+204,en,lg_UG,preparedness,okwetegekka
+205,en,lg_UG,prognosis,okwekebejja
+206,en,lg_UG,protect myself,Okwewala jendi
+207,en,lg_UG,protect others,Okwewala mbalala
+208,en,lg_UG,protect yourself,wewale
+209,en,lg_UG,protective measures,Engeri yokwewalamu
+210,en,lg_UG,public health crisis,Ensasage kunsonga yebyobulamu mbantu
+211,en,lg_UG,pulmonary tissue damage,Okuleta okwonona emisuwa jomumutima
+212,en,lg_UG,quarantine,okuwerebwa
+213,en,lg_UG,rapid risk assessment,Engeli yamangu yokwewalamu
+214,en,lg_UG,reagent,ekikozesebwa
+215,en,lg_UG,regular flu,Senyiga owabuli kisela
+216,en,lg_UG,reinfection,Okudamu okwatibwa obulwadde
+217,en,lg_UG,renal disease,Obulwadde bwomutima
+218,en,lg_UG,renal failure,Okulemwa omutima okukola
+219,en,lg_UG,respirator,okusa
+220,en,lg_UG,respiratory,Engeri yokusamu
+221,en,lg_UG,respiratory disease,Endwadde kungeri yokusamu
+222,en,lg_UG,respiratory distress,Okulemwa okusa obulungi
+223,en,lg_UG,respiratory droplets,Amatondo agava mungeri jetusizamu
+224,en,lg_UG,respiratory hygiene,Obuyonjo kungeri jetusamu
+225,en,lg_UG,respiratory illness,Obulwadde kungeri jetusamu
+226,en,lg_UG,respiratory syndrome,Ekilaga ekizibu mukusa
+227,en,lg_UG,respiratory tract disease,Endwadde mumakubo getusizamu
+228,en,lg_UG,restrictions,Okwewalibwa
+229,en,lg_UG,resurge,Okuyamba okusa
+230,en,lg_UG,RNA,RNA
+231,en,lg_UG,rubeola,rubeola
+232,en,lg_UG,runny nose,Enyindo ngaziyika eminyira
+233,en,lg_UG,SARS,SARS
+234,en,lg_UG,SARS-CoV-2,SARS-CoV-2
+235,en,lg_UG,SARS-CoV,SARS CoV
+236,en,lg_UG,sars-related coronavirus,Okwekusa kwa sars ne korona vayirasi
+237,en,lg_UG,seasonal flu,Senyiga wekisera
+238,en,lg_UG,seasonal influenza,Senyiga wekisera
+239,en,lg_UG,secretion,okufulumya
+240,en,lg_UG,self-quarantine,Okusalawo kwomuntu okubera wamu
+241,en,lg_UG,sepsis,Okulwala kwomusayi
+242,en,lg_UG,septic shock,Okulemesebwa okola okulungi olwomusayi omutono
+243,en,lg_UG,Severe Acute Respiratory Syndrome,Obulumi mungeri yokusa
+244,en,lg_UG,shortness of breath,Okulemesebwa okusa
+245,en,lg_UG,sickened,okulwala
+246,en,lg_UG,sickness,obulwadde
+247,en,lg_UG,sneeze,okunyiza
+248,en,lg_UG,sneezes,anyiza
+249,en,lg_UG,sneezing,okunyiza
+250,en,lg_UG,social distancing,Okwewala okubela mumugoteko nabalala
+251,en,lg_UG,sore throat,Okulumibwa mumimilo
+252,en,lg_UG,spanish flu,Senyiga waba spanish
+253,en,lg_UG,specimen collection,Awakunganyizibwa ebyokwekebejja
+254,en,lg_UG,spread,Ensasanya
+255,en,lg_UG,sputum,ekikolondolwa
+256,en,lg_UG,stigmatisation,Okuyisibwa obubi mbalala
+257,en,lg_UG,supportive,obuwagizi
+258,en,lg_UG,surface,kungulu
+259,en,lg_UG,surfaces,Kungulu wabyona
+260,en,lg_UG,suspected infection,Ateberezebwa okwatibwa
+261,en,lg_UG,swab,Akakozesebwa okujako ekyokebela
+262,en,lg_UG,swine flu,Senyiga wembizi
+263,en,lg_UG,symptom,akabonero
+264,en,lg_UG,symptomatic,Kilaga obubonero
+265,en,lg_UG,symptoms,obubonero
+266,en,lg_UG,targeted disinfection,Ekigendelerwa mbujanjabi
+267,en,lg_UG,test kit,Ekikozesebwa mukwekebejja
+268,en,lg_UG,testing error,Ensobi mukwekebejja
+269,en,lg_UG,tissue damage,Okulumizibwa kwenyama
+270,en,lg_UG,tp shortage,Obutaba na tp zimala
+271,en,lg_UG,toilet paper shortage,Obutaba na toyileti peppa zimala
+272,en,lg_UG,touch,kwata
+273,en,lg_UG,touching,okukwata
+274,en,lg_UG,transmissibility,okusigibwa
+275,en,lg_UG,transmissible,Kisoboka okutambuzibwa
+276,en,lg_UG,transmission,entambuza
+277,en,lg_UG,transmission potential,Obusobozi muntambuza
+278,en,lg_UG,typical flu,Senyiga owanamadala
+279,en,lg_UG,underlying disease,Ekilwadde ekileta ekizibu
+280,en,lg_UG,updates,Ebyakagwawo
+281,en,lg_UG,vaccine,edagala
+282,en,lg_UG,vaccines,amadagala
+283,en,lg_UG,ventilation,Ebiyingiza empewo
+284,en,lg_UG,ventilator,akamoli
+285,en,lg_UG,ventilators,obumoli
+286,en,lg_UG,viral infection,Insigibwa ya vayirasi
+287,en,lg_UG,viral outbreak,Entandikwa ya vayirasi
+288,en,lg_UG,viral pandemic,Endwadde ya vayirasilulakila wa vayirasi
+289,en,lg_UG,viral pneumonia,Lulakila wa vayirasi
+290,en,lg_UG,virtual care,Endabilila enungi
+291,en,lg_UG,virulence,endwadde
+292,en,lg_UG,virus itself,Vayirasi yenyini
+293,en,lg_UG,virus outbreak,Entandikwa ya vayirasi
+294,en,lg_UG,virus scare,Ensasanya ya vayirasi
+295,en,lg_UG,virus spreads,Ensasanya ya vayirasi
+296,en,lg_UG,virus strain,Engeri ya vayirasi
+297,en,lg_UG,viral transmission,Entambuza ya vayirasi
+298,en,lg_UG,vivid-19,vivid-19
+299,en,lg_UG,washing hands,Okunaba mungaro
+300,en,lg_UG,washing ones hands,Okunaza engaro zomulala
+301,en,lg_UG,wash your hands,Naba engaro zo
+302,en,lg_UG,white blood cell count,Obutafali obukuma omubili nengeri jebwenkana
+303,en,lg_UG,widespread transmission,Ensasanya eyamanyi
+304,en,lg_UG,working from home,Okukolela awaka
+305,en,lg_UG,WFH,Okukolera awaka
+306,en,lg_UG,Wuhan,Wuhan

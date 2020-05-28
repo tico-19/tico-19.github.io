@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,zh_CN,1918 flu,1918 年流感
+2,en,zh_CN,acute bronchitis,急性支气管炎
+3,en,zh_CN,acute respiratory disease,急性呼吸道疾病
+4,en,zh_CN,AIDS,艾滋病（AIDS）
+5,en,zh_CN,airborne droplets,空气播散飞沫
+6,en,zh_CN,airway,呼吸道
+7,en,zh_CN,alcohol-based,乙醇基
+8,en,zh_CN,alcohol-based hand rub,含酒精搓手液
+9,en,zh_CN,alcohol-based hand sanitizer,含酒精洗手液
+10,en,zh_CN,alveolar disease,肺泡疾病
+11,en,zh_CN,an epidemic,流行病
+12,en,zh_CN,annual flu,年度流感
+13,en,zh_CN,anti-inflammatory drug,消炎药
+14,en,zh_CN,antiviral drug,抗病毒药
+15,en,zh_CN,antiviral treatment,抗病毒治疗
+16,en,zh_CN,assay,试验
+17,en,zh_CN,asymptomatic,无症状
+18,en,zh_CN,avian flu,禽流感
+19,en,zh_CN,Black Plague,鼠疫
+20,en,zh_CN,blood pressure,血压
+21,en,zh_CN,body fluid,体液
+22,en,zh_CN,breathing,呼吸
+23,en,zh_CN,bubonic plague,腺鼠疫
+24,en,zh_CN,c19,c19
+25,en,zh_CN,cv19,cv19
+26,en,zh_CN,case fatality rate,病死率
+27,en,zh_CN,causative agent,致病物
+28,en,zh_CN,CDC,CDC
+29,en,zh_CN,chemical disinfection,化学消毒
+30,en,zh_CN,chest x-ray,胸部 X 光检查
+31,en,zh_CN,clinical diagnosis,临床诊断
+32,en,zh_CN,clinical trial,临床试验
+33,en,zh_CN,close contact,近距离接触
+34,en,zh_CN,cvirus,丙型病毒
+35,en,zh_CN,chronic respiratory disease,慢性呼吸系统疾病
+36,en,zh_CN,common cold,普通感冒
+37,en,zh_CN,common flu,普通流感
+38,en,zh_CN,communicable disease,传染病
+39,en,zh_CN,community spread,社区扩散
+40,en,zh_CN,community transmission,社区传播
+41,en,zh_CN,compromised immune system,缺乏抵抗力的免疫系统
+42,en,zh_CN,contagion,扩散
+43,en,zh_CN,contagious,传染性
+44,en,zh_CN,contagiousness,接触传染性
+45,en,zh_CN,corona,冠状
+46,en,zh_CN,corona virus,冠状病毒
+47,en,zh_CN,corona virus epidemic,冠状病毒流行
+48,en,zh_CN,corona virus outbreak,冠状病毒爆发
+49,en,zh_CN,corona virus scare,冠状病毒恐慌
+50,en,zh_CN,coronavirus,冠状病毒
+51,en,zh_CN,coronavirus cases,冠状病毒病例
+52,en,zh_CN,coronavirus outbreak,冠状病毒爆发
+53,en,zh_CN,coronavirus pandemic,冠状病毒流行病
+54,en,zh_CN,coronavirus scare,冠状病毒恐慌
+55,en,zh_CN,cough,咳嗽
+56,en,zh_CN,cough etiquette,咳嗽礼仪
+57,en,zh_CN,coughing,咳嗽
+58,en,zh_CN,cov 19,cov 19
+59,en,zh_CN,cov19,cov19
+60,en,zh_CN,COVID,COVID
+61,en,zh_CN,COVID-19 crisis,COVID-19 危机
+62,en,zh_CN,covid-19,covid-19
+63,en,zh_CN,covid19,covid19
+64,en,zh_CN,COVID-19 epidemic,COVID-19 流行病
+65,en,zh_CN,COVID-19 outbreak,COVID-19 爆发
+66,en,zh_CN,COVID-19 pandemic,COVID-19 流行病
+67,en,zh_CN,COVID 19,COVID 19
+68,en,zh_CN,current crisis,当前的危机
+69,en,zh_CN,current health crisis,当前的健康危机
+70,en,zh_CN,current outbreak,当前的疫情爆发
+71,en,zh_CN,current pandemic,目前的流行病
+72,en,zh_CN,CV,CV
+73,en,zh_CN,CV-19,CV-19
+74,en,zh_CN,deadly,致命
+75,en,zh_CN,deadly virus,致命病毒
+76,en,zh_CN,death rate,死亡率
+77,en,zh_CN,death toll,死亡人数
+78,en,zh_CN,decontaminate,净化
+79,en,zh_CN,detectable,可检测
+80,en,zh_CN,detergent,清洁剂
+81,en,zh_CN,difficulty breathing,呼吸困难
+82,en,zh_CN,diabetes,糖尿病
+83,en,zh_CN,diagnosable disease,可诊断疾病
+84,en,zh_CN,diagnostic protocol,诊断方案
+85,en,zh_CN,diagnostic testing,诊断检测
+86,en,zh_CN,disease itself,疾病本身
+87,en,zh_CN,disease outbreak,疾病爆发
+88,en,zh_CN,disinfectant,消毒剂
+89,en,zh_CN,disposable,一次性用品
+90,en,zh_CN,droplet transmission,飞沫传播
+91,en,zh_CN,droplets,飞沫
+92,en,zh_CN,dry cough,干咳
+93,en,zh_CN,dry surface contamination,干燥表面污染
+94,en,zh_CN,ebola,埃博拉
+95,en,zh_CN,effective treatment,有效治疗
+96,en,zh_CN,electron microscope,电子显微镜
+97,en,zh_CN,emergency department,急诊科
+98,en,zh_CN,epidemic,流行病
+99,en,zh_CN,epidemic curve,流行曲线
+100,en,zh_CN,epidemic peak,流行高峰
+101,en,zh_CN,epidemiologist,流行病学家
+102,en,zh_CN,exposure,暴露
+103,en,zh_CN,extreme caution,非常谨慎
+104,en,zh_CN,eye protection,护目用具
+105,en,zh_CN,face mask,口罩
+106,en,zh_CN,face masks,口罩
+107,en,zh_CN,family cluster,家庭群集
+108,en,zh_CN,fatality rate,致死率
+109,en,zh_CN,fecal contamination,粪便性污染
+110,en,zh_CN,fever,发热
+111,en,zh_CN,flatten the infection curve,使感染曲线变平
+112,en,zh_CN,flu,流感
+113,en,zh_CN,food safety,食品安全
+114,en,zh_CN,formaldehyde,甲醛
+115,en,zh_CN,gastroenteritis,肠胃炎
+116,en,zh_CN,germicide,杀菌剂
+117,en,zh_CN,global pandemic,全球大流行
+118,en,zh_CN,global warming,全球变暖
+119,en,zh_CN,good respiratory hygiene,良好的呼吸卫生
+120,en,zh_CN,Guangdong,广东
+121,en,zh_CN,H1N1,H1N1
+122,en,zh_CN,H1N1 virus,H1N1 病毒
+123,en,zh_CN,hand disinfectant,手部消毒剂
+124,en,zh_CN,hand sanitizer,洗手液
+125,en,zh_CN,health care provider,医疗服务人员
+126,en,zh_CN,health crisis,健康危机
+127,en,zh_CN,health plan carrier,卫生计划载体
+128,en,zh_CN,health services,卫生服务
+129,en,zh_CN,heart failure,心力衰竭
+130,en,zh_CN,high fever,高热
+131,en,zh_CN,HIV,艾滋病病毒
+132,en,zh_CN,hospitalize,就医
+133,en,zh_CN,household bleach,家用漂白剂
+134,en,zh_CN,Hubei,湖北
+135,en,zh_CN,hydrogen peroxide,双氧水
+136,en,zh_CN,hygiene,卫生政策
+137,en,zh_CN,immune system,免疫系统
+138,en,zh_CN,immunity,免疫
+139,en,zh_CN,immunocompromised,免疫功能不全
+140,en,zh_CN,immunologist,免疫学者
+141,en,zh_CN,incubation,潜伏
+142,en,zh_CN,incubation period,潜伏期
+143,en,zh_CN,indirect contact,间接接触
+144,en,zh_CN,infect,感染
+145,en,zh_CN,infection,感染
+146,en,zh_CN,infectious,感染性
+147,en,zh_CN,infectivity,感染力
+148,en,zh_CN,influenza,流行性感冒
+149,en,zh_CN,initial transmission event,初次传播事件
+150,en,zh_CN,intensive care equipment,重症监护设备
+151,en,zh_CN,intermediate host,中间宿主
+152,en,zh_CN,intrauterine,子宫内
+153,en,zh_CN,intubation,插管
+154,en,zh_CN,isolation,隔离
+155,en,zh_CN,Isopropanol,异丙醇
+156,en,zh_CN,laboratory test kit,实验室试剂盒
+157,en,zh_CN,laboratory testing,实验室检测
+158,en,zh_CN,lack of testing,缺少检测
+159,en,zh_CN,lack of tests,缺少检测
+160,en,zh_CN,latest updates,最近更新
+161,en,zh_CN,liver failure,肝功能衰竭
+162,en,zh_CN,local public health authority,地方公共卫生当局
+163,en,zh_CN,lockdown,封锁
+164,en,zh_CN,lungs,肺
+165,en,zh_CN,masks,口罩
+166,en,zh_CN,measles,麻疹
+167,en,zh_CN,mechanical ventilation,机械通气
+168,en,zh_CN,media coverage,媒体报道
+169,en,zh_CN,medical care,医疗护理
+170,en,zh_CN,MERS,中东呼吸综合征（MERS）
+171,en,zh_CN,MERS CoV,冠状病毒（MERS CoV）
+172,en,zh_CN,microbiologist,微生物学家
+173,en,zh_CN,mild cough,轻咳
+174,en,zh_CN,mortality rate,死亡率
+175,en,zh_CN,multi-organ failure,多器官衰竭
+176,en,zh_CN,nasal congestion,鼻塞
+177,en,zh_CN,neutral detergent,中性洗涤剂
+178,en,zh_CN,new normal,新常态
+179,en,zh_CN,novel corona virus,新型冠状病毒
+180,en,zh_CN,novel coronavirus,新型冠状病毒
+181,en,zh_CN,novel coronavirus outbreak,新型冠状病毒爆发
+182,en,zh_CN,novel virus,新型病毒
+183,en,zh_CN,online medical consultation,在线医疗咨询
+184,en,zh_CN,onset,发作
+185,en,zh_CN,outbreak,爆发
+186,en,zh_CN,outbreak readiness,爆发准备
+187,en,zh_CN,overall case fatality,总病死率
+188,en,zh_CN,pandemic,流行病
+189,en,zh_CN,pangolin,穿山甲
+190,en,zh_CN,pathogen,病原体
+191,en,zh_CN,pathology,病理学
+192,en,zh_CN,patient care equipment,患者护理设备
+193,en,zh_CN,personal protective equipment,个人防护装备
+194,en,zh_CN,person-to-person transmission,人际传播
+195,en,zh_CN,phlegm,痰
+196,en,zh_CN,physical contact,身体接触
+197,en,zh_CN,plague,瘟疫
+198,en,zh_CN,pneumonia,肺炎
+199,en,zh_CN,pneumonias,肺炎
+200,en,zh_CN,positive test,阳性检测
+201,en,zh_CN,precaution,预防措施
+202,en,zh_CN,precautionary,预防性
+203,en,zh_CN,pre-existing condition,已有疾病
+204,en,zh_CN,preparedness,做好准备
+205,en,zh_CN,prognosis,预后
+206,en,zh_CN,protect myself,保护我自己
+207,en,zh_CN,protect others,保护其他人
+208,en,zh_CN,protect yourself,保护你自己
+209,en,zh_CN,protective measures,保护措施
+210,en,zh_CN,public health crisis,公共卫生危机
+211,en,zh_CN,pulmonary tissue damage,肺组织损伤
+212,en,zh_CN,quarantine,检疫
+213,en,zh_CN,rapid risk assessment,快速风险评估
+214,en,zh_CN,reagent,试剂
+215,en,zh_CN,regular flu,普通流感
+216,en,zh_CN,reinfection,再感染
+217,en,zh_CN,renal disease,肾脏疾病
+218,en,zh_CN,renal failure,肾衰竭
+219,en,zh_CN,respirator,呼吸器
+220,en,zh_CN,respiratory,呼吸
+221,en,zh_CN,respiratory disease,呼吸疾病
+222,en,zh_CN,respiratory distress,呼吸窘迫
+223,en,zh_CN,respiratory droplets,呼吸道分泌物
+224,en,zh_CN,respiratory hygiene,呼吸道卫生
+225,en,zh_CN,respiratory illness,呼吸系统疾病
+226,en,zh_CN,respiratory syndrome,呼吸道综合症
+227,en,zh_CN,respiratory tract disease,呼吸道疾病
+228,en,zh_CN,restrictions,限制
+229,en,zh_CN,resurge,复活
+230,en,zh_CN,RNA,核糖核酸（RNA）
+231,en,zh_CN,rubeola,风疹
+232,en,zh_CN,runny nose,流鼻涕
+233,en,zh_CN,SARS,非典型肺炎（SARS）
+234,en,zh_CN,SARS-CoV-2,非典型肺炎冠状病毒 2 型（SARS-CoV-2）
+235,en,zh_CN,SARS-CoV,非典型肺炎冠状病毒（SARS-CoV）
+236,en,zh_CN,sars-related coronavirus,非典型肺炎（SARS）相关的冠状病毒
+237,en,zh_CN,seasonal flu,季节性流感
+238,en,zh_CN,seasonal influenza,季节性流感
+239,en,zh_CN,secretion,分泌物
+240,en,zh_CN,self-quarantine,自我隔离
+241,en,zh_CN,sepsis,败血症
+242,en,zh_CN,septic shock,感染性休克
+243,en,zh_CN,Severe Acute Respiratory Syndrome,严重急性呼吸综合征
+244,en,zh_CN,shortness of breath,呼吸短促
+245,en,zh_CN,sickened,生病
+246,en,zh_CN,sickness,疾病
+247,en,zh_CN,sneeze,打喷嚏
+248,en,zh_CN,sneezes,打喷嚏
+249,en,zh_CN,sneezing,打喷嚏
+250,en,zh_CN,social distancing,社交距离
+251,en,zh_CN,sore throat,咽喉痛
+252,en,zh_CN,spanish flu,西班牙流感
+253,en,zh_CN,specimen collection,样本采集
+254,en,zh_CN,spread,传播
+255,en,zh_CN,sputum,唾液
+256,en,zh_CN,stigmatisation,侮辱
+257,en,zh_CN,supportive,支持性
+258,en,zh_CN,surface,表面
+259,en,zh_CN,surfaces,表面
+260,en,zh_CN,suspected infection,疑似感染
+261,en,zh_CN,swab,拭子
+262,en,zh_CN,swine flu,猪流感
+263,en,zh_CN,symptom,症状
+264,en,zh_CN,symptomatic,有症状的
+265,en,zh_CN,symptoms,症状
+266,en,zh_CN,targeted disinfection,靶向消毒
+267,en,zh_CN,test kit,试剂盒
+268,en,zh_CN,testing error,检测错误
+269,en,zh_CN,tissue damage,组织挫伤
+270,en,zh_CN,tp shortage,卫生纸短缺
+271,en,zh_CN,toilet paper shortage,卫生纸短缺
+272,en,zh_CN,touch,触摸
+273,en,zh_CN,touching,触摸
+274,en,zh_CN,transmissibility,传染力
+275,en,zh_CN,transmissible,可传染
+276,en,zh_CN,transmission,传染
+277,en,zh_CN,transmission potential,传染可能性
+278,en,zh_CN,typical flu,典型流感
+279,en,zh_CN,underlying disease,基础疾病
+280,en,zh_CN,updates,更新
+281,en,zh_CN,vaccine,疫苗
+282,en,zh_CN,vaccines,疫苗
+283,en,zh_CN,ventilation,呼吸
+284,en,zh_CN,ventilator,呼吸机
+285,en,zh_CN,ventilators,呼吸机
+286,en,zh_CN,viral infection,病毒性感染
+287,en,zh_CN,viral outbreak,病毒爆发
+288,en,zh_CN,viral pandemic,病毒流行
+289,en,zh_CN,viral pneumonia,病毒性肺炎
+290,en,zh_CN,virtual care,虚拟护理
+291,en,zh_CN,virulence,毒性
+292,en,zh_CN,virus itself,病毒自身
+293,en,zh_CN,virus outbreak,病毒爆发
+294,en,zh_CN,virus scare,病毒恐慌
+295,en,zh_CN,virus spreads,病毒传播
+296,en,zh_CN,virus strain,病毒株
+297,en,zh_CN,viral transmission,病毒传播
+298,en,zh_CN,vivid-19,vivid-19
+299,en,zh_CN,washing hands,洗手
+300,en,zh_CN,washing ones hands,洗手
+301,en,zh_CN,wash your hands,清洗您的双手
+302,en,zh_CN,white blood cell count,白细胞计数
+303,en,zh_CN,widespread transmission,广泛传播
+304,en,zh_CN,working from home,在家上班
+305,en,zh_CN,WFH,在家上班（WFH）
+306,en,zh_CN,Wuhan,武汉

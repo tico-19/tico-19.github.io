@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,az_AZ,1918 flu,1918-ci il qripi
+2,en,az_AZ,acute bronchitis,kəskin bronxit
+3,en,az_AZ,acute respiratory disease,kəskin respirator xəstəlik
+4,en,az_AZ,AIDS,SPİD
+5,en,az_AZ,airborne droplets,hava damcıları
+6,en,az_AZ,airway,tənəffüs yolları
+7,en,az_AZ,alcohol-based,spirt əsaslı
+8,en,az_AZ,alcohol-based hand rub,əl üçün spirt əsaslı antiseptik
+9,en,az_AZ,alcohol-based hand sanitizer,əl üçün spirt əsaslı antiseptik
+10,en,az_AZ,alveolar disease,alveol xəstəliyi
+11,en,az_AZ,an epidemic,epidemiya
+12,en,az_AZ,annual flu,illik qrip
+13,en,az_AZ,anti-inflammatory drug,iltihab əleyhinə dərman
+14,en,az_AZ,antiviral drug,virus əleyhinə dərman
+15,en,az_AZ,antiviral treatment,virus əleyhinə müalicə
+16,en,az_AZ,assay,sınaq
+17,en,az_AZ,asymptomatic,simptomsuz
+18,en,az_AZ,avian flu,quş qripi
+19,en,az_AZ,Black Plague,Qara Vəba
+20,en,az_AZ,blood pressure,qan təzyiqi
+21,en,az_AZ,body fluid,bədən mayesi
+22,en,az_AZ,breathing,tənəffüs
+23,en,az_AZ,bubonic plague,bubon taunu
+24,en,az_AZ,c19,c19
+25,en,az_AZ,cv19,cv19
+26,en,az_AZ,case fatality rate,letallıq
+27,en,az_AZ,causative agent,törədici
+28,en,az_AZ,CDC,XNM
+29,en,az_AZ,chemical disinfection,kimyəvi dezinfeksiya
+30,en,az_AZ,chest x-ray,döş qəfəsinin rentgen müayinəsi
+31,en,az_AZ,clinical diagnosis,klinik diaqnoz
+32,en,az_AZ,clinical trial,klinik sınaq
+33,en,az_AZ,close contact,yaxın təmas
+34,en,az_AZ,cvirus,cvirus
+35,en,az_AZ,chronic respiratory disease,xroniki respirator xəstəlik
+36,en,az_AZ,common cold,soyuqdəymə
+37,en,az_AZ,common flu,adi qrip
+38,en,az_AZ,communicable disease,yoluxucu xəstəlik
+39,en,az_AZ,community spread,icmada yayılma
+40,en,az_AZ,community transmission,icmada ötürülmə
+41,en,az_AZ,compromised immune system,pozulmuş immun sistemi
+42,en,az_AZ,contagion,yoluxma
+43,en,az_AZ,contagious,yoluxucu
+44,en,az_AZ,contagiousness,yoluxuculuq
+45,en,az_AZ,corona,korona
+46,en,az_AZ,corona virus,korona virusu
+47,en,az_AZ,corona virus epidemic,korona virus epidemiyası
+48,en,az_AZ,corona virus outbreak,korona virus alovlanması
+49,en,az_AZ,corona virus scare,korona virus panikası
+50,en,az_AZ,coronavirus,koronavirus
+51,en,az_AZ,coronavirus cases,koronavirus hadisələri
+52,en,az_AZ,coronavirus outbreak,koronavirus alovlanması
+53,en,az_AZ,coronavirus pandemic,koronavirus pandemiyası
+54,en,az_AZ,coronavirus scare,koronavirus panikası
+55,en,az_AZ,cough,öskürək
+56,en,az_AZ,cough etiquette,öskürək etiketi
+57,en,az_AZ,coughing,öskürmə
+58,en,az_AZ,cov 19,cov 19
+59,en,az_AZ,cov19,cov19
+60,en,az_AZ,COVID,COVID
+61,en,az_AZ,COVID-19 crisis,COVID-19 böhranı
+62,en,az_AZ,covid-19,covid-19
+63,en,az_AZ,covid19,covid19
+64,en,az_AZ,COVID-19 epidemic,COVID-19 epidemiyası
+65,en,az_AZ,COVID-19 outbreak,COVID-19 alovlanması
+66,en,az_AZ,COVID-19 pandemic,COVID-19 pandemiyası
+67,en,az_AZ,COVID 19,COVID 19
+68,en,az_AZ,current crisis,hazırki böhran
+69,en,az_AZ,current health crisis,hazırki səhiyyə böhranı
+70,en,az_AZ,current outbreak,hazırki alovlanma
+71,en,az_AZ,current pandemic,hazırki pandemiya
+72,en,az_AZ,CV,CV
+73,en,az_AZ,CV-19,CV-19
+74,en,az_AZ,deadly,ölümcül
+75,en,az_AZ,deadly virus,ölümcül virus
+76,en,az_AZ,death rate,ölüm dərəcəsi
+77,en,az_AZ,death toll,ölənlərin sayı
+78,en,az_AZ,decontaminate,dekontaminasiya etmək
+79,en,az_AZ,detectable,aşkarlana bilən
+80,en,az_AZ,detergent,yuyucu vasitə
+81,en,az_AZ,difficulty breathing,nəfəs darlığı
+82,en,az_AZ,diabetes,diabet
+83,en,az_AZ,diagnosable disease,aşkarlanan xəstəlik
+84,en,az_AZ,diagnostic protocol,diaqnostik protokol
+85,en,az_AZ,diagnostic testing,diaqnostik sınaq
+86,en,az_AZ,disease itself,xəstəlik özü
+87,en,az_AZ,disease outbreak,xəstəlik alovlanması
+88,en,az_AZ,disinfectant,dezinfeksiyaedici vasitə
+89,en,az_AZ,disposable,birdəfəlik istifadə üçün nəzərdə tutulmuş
+90,en,az_AZ,droplet transmission,damcı ilə ötürülmə
+91,en,az_AZ,droplets,damcılar
+92,en,az_AZ,dry cough,quru öskürək
+93,en,az_AZ,dry surface contamination,quru səthin kontaminasiyası
+94,en,az_AZ,ebola,ebola
+95,en,az_AZ,effective treatment,effektiv müalicə
+96,en,az_AZ,electron microscope,elektron mikroskop
+97,en,az_AZ,emergency department,fövqəladə hallar departamenti
+98,en,az_AZ,epidemic,epidemiya
+99,en,az_AZ,epidemic curve,epidemiya əyrisi
+100,en,az_AZ,epidemic peak,epidemiya piki
+101,en,az_AZ,epidemiologist,epidemioloq
+102,en,az_AZ,exposure,məruz qalma
+103,en,az_AZ,extreme caution,son dərəcə ehtiyatlılıq
+104,en,az_AZ,eye protection,qoruyucu eynək
+105,en,az_AZ,face mask,üz maskası
+106,en,az_AZ,face masks,üz maskaları
+107,en,az_AZ,family cluster,ailə klasteri
+108,en,az_AZ,fatality rate,ölüm dərəcəsi
+109,en,az_AZ,fecal contamination,fekal kontaminasiya
+110,en,az_AZ,fever,qızdırma
+111,en,az_AZ,flatten the infection curve,infeksiya əyrisini düzləşdirmək
+112,en,az_AZ,flu,qrip
+113,en,az_AZ,food safety,qida təhlükəsizliyi
+114,en,az_AZ,formaldehyde,formaldehid
+115,en,az_AZ,gastroenteritis,qastroenterit
+116,en,az_AZ,germicide,hermisid
+117,en,az_AZ,global pandemic,qlobal pandemiya
+118,en,az_AZ,global warming,qlobal xəbərdarlıq
+119,en,az_AZ,good respiratory hygiene,qabaqcıl respirator gigiyena
+120,en,az_AZ,Guangdong,Quandun
+121,en,az_AZ,H1N1,H1N1
+122,en,az_AZ,H1N1 virus,H1N1 virusu
+123,en,az_AZ,hand disinfectant,əl üçün dezinfeksiyaedici vasitə
+124,en,az_AZ,hand sanitizer,əl üçün antiseptic
+125,en,az_AZ,health care provider,səhiyyə təminatçısı
+126,en,az_AZ,health crisis,səhiyyə böhranı
+127,en,az_AZ,health plan carrier,tibbi sığorta planı təmin edən sığorta şirkəti
+128,en,az_AZ,health services,səhiyyə xidmətləri
+129,en,az_AZ,heart failure,ürək çatışmazlığı
+130,en,az_AZ,high fever,yüksək qızdırma
+131,en,az_AZ,HIV,HİV
+132,en,az_AZ,hospitalize,hospitallaşdırma
+133,en,az_AZ,household bleach,məişət ağardıcısı
+134,en,az_AZ,Hubei,hubey
+135,en,az_AZ,hydrogen peroxide,hydrogen peroksid
+136,en,az_AZ,hygiene,gigiyena
+137,en,az_AZ,immune system,immun sistemi
+138,en,az_AZ,immunity,immunitet
+139,en,az_AZ,immunocompromised,immune çatışmazlığı olan
+140,en,az_AZ,immunologist,immunoloq
+141,en,az_AZ,incubation,inkubasiya
+142,en,az_AZ,incubation period,inkubasiya dövrü
+143,en,az_AZ,indirect contact,dolayı təmas
+144,en,az_AZ,infect,yoluxdurma
+145,en,az_AZ,infection,infeksiya
+146,en,az_AZ,infectious,yoluxucu
+147,en,az_AZ,infectivity,yoluxuculuq
+148,en,az_AZ,influenza,influenza
+149,en,az_AZ,initial transmission event,ilkin ötürülmə hadisəsi
+150,en,az_AZ,intensive care equipment,reanimasiya avadanlığı
+151,en,az_AZ,intermediate host,aralıq sahib
+152,en,az_AZ,intrauterine,uşaqlıqdaxili
+153,en,az_AZ,intubation,intubasiya
+154,en,az_AZ,isolation,izolyasiya
+155,en,az_AZ,Isopropanol,İzopropanol
+156,en,az_AZ,laboratory test kit,laborator sınaq dəsti
+157,en,az_AZ,laboratory testing,laborator sınaq
+158,en,az_AZ,lack of testing,sınaq çatışmazlığı
+159,en,az_AZ,lack of tests,sınaqların çatışmaması
+160,en,az_AZ,latest updates,son yeniliklər
+161,en,az_AZ,liver failure,qaraciyər çatışmazlığı
+162,en,az_AZ,local public health authority,yerli səhiyyə orqanı
+163,en,az_AZ,lockdown,ciddi izolyasiya
+164,en,az_AZ,lungs,ağciyər
+165,en,az_AZ,masks,maskalar
+166,en,az_AZ,measles,qızılca
+167,en,az_AZ,mechanical ventilation,mexaniki ventilyasiya
+168,en,az_AZ,media coverage,media coverage
+169,en,az_AZ,medical care,tibbi yardım
+170,en,az_AZ,MERS,MERS
+171,en,az_AZ,MERS CoV,MERS CoV
+172,en,az_AZ,microbiologist,mikrobioloq
+173,en,az_AZ,mild cough,yumşaq öskürək
+174,en,az_AZ,mortality rate,ölüm dərəcəsi
+175,en,az_AZ,multi-organ failure,multiorqan çatışmazlığı
+176,en,az_AZ,nasal congestion,burun tıxanıqlığı
+177,en,az_AZ,neutral detergent,neytral yuyucu vasitə
+178,en,az_AZ,new normal,yeni forma
+179,en,az_AZ,novel corona virus,yeni korona virus
+180,en,az_AZ,novel coronavirus,yeni koronavirus
+181,en,az_AZ,novel coronavirus outbreak,yeni koronavirus alovlanması
+182,en,az_AZ,novel virus,yeni virus
+183,en,az_AZ,online medical consultation,onlayn tibbi konsultasiya
+184,en,az_AZ,onset,hücum
+185,en,az_AZ,outbreak,alovlanma
+186,en,az_AZ,outbreak readiness,alovlanmaya hazırlıq
+187,en,az_AZ,overall case fatality,ümumi letallıq
+188,en,az_AZ,pandemic,pandemiya
+189,en,az_AZ,pangolin,panqolin
+190,en,az_AZ,pathogen,pathogen
+191,en,az_AZ,pathology,patologiya
+192,en,az_AZ,patient care equipment,xəstəyə qulluq avadanlığı
+193,en,az_AZ,personal protective equipment,fərdi mühafizə avadanlığı
+194,en,az_AZ,person-to-person transmission,insandan insane yoluxma
+195,en,az_AZ,phlegm,bəlğəm
+196,en,az_AZ,physical contact,fiziki təmas
+197,en,az_AZ,plague,taun
+198,en,az_AZ,pneumonia,sətəlcəm
+199,en,az_AZ,pneumonias,sətəlcəm
+200,en,az_AZ,positive test,müsbət test
+201,en,az_AZ,precaution,ehtiyat tədbiri
+202,en,az_AZ,precautionary,qabaqlayıcı
+203,en,az_AZ,pre-existing condition,əvvəldən mövcud olan xəstəlik
+204,en,az_AZ,preparedness,hazırlıq
+205,en,az_AZ,prognosis,proqnoz
+206,en,az_AZ,protect myself,özümü qorumaq
+207,en,az_AZ,protect others,başqalarını qorumaq
+208,en,az_AZ,protect yourself,özünü qorumaq
+209,en,az_AZ,protective measures,qoruyucu tədbirlər
+210,en,az_AZ,public health crisis,səhiyyə böhranı
+211,en,az_AZ,pulmonary tissue damage,ağciyər toxumasının zədələnməsi
+212,en,az_AZ,quarantine,karantin
+213,en,az_AZ,rapid risk assessment,çevik risk qiymətləndirməsi
+214,en,az_AZ,reagent,reagent
+215,en,az_AZ,regular flu,adi qrip
+216,en,az_AZ,reinfection,təkrar yoluxma
+217,en,az_AZ,renal disease,böyrək xəstəliyi
+218,en,az_AZ,renal failure,böyrək çatışmazlığı
+219,en,az_AZ,respirator,respirator
+220,en,az_AZ,respiratory,respirator
+221,en,az_AZ,respiratory disease,respirator xəstəlik
+222,en,az_AZ,respiratory distress,tənəffüsün pozulması
+223,en,az_AZ,respiratory droplets,respirator damcılar
+224,en,az_AZ,respiratory hygiene,respirator gigiyena
+225,en,az_AZ,respiratory illness,respirator xəstəlik
+226,en,az_AZ,respiratory syndrome,respirator sindrom
+227,en,az_AZ,respiratory tract disease,respirator trakt xəstəliyi
+228,en,az_AZ,restrictions,məhdudiyyətlər
+229,en,az_AZ,resurge,yeni dalğa
+230,en,az_AZ,RNA,RNT
+231,en,az_AZ,rubeola,Qızılca
+232,en,az_AZ,runny nose,zökəm
+233,en,az_AZ,SARS,SARS
+234,en,az_AZ,SARS-CoV-2,SARS-CoV-2
+235,en,az_AZ,SARS-CoV,SARS-CoV
+236,en,az_AZ,sars-related coronavirus,SARS ilə əlaqəli koronavirus
+237,en,az_AZ,seasonal flu,mövsümi qrip
+238,en,az_AZ,seasonal influenza,mövsümi qrip
+239,en,az_AZ,secretion,sekresiya
+240,en,az_AZ,self-quarantine,özünü karantinə alma
+241,en,az_AZ,sepsis,sepsis
+242,en,az_AZ,septic shock,septik şok
+243,en,az_AZ,Severe Acute Respiratory Syndrome,ağır kəskin respirator xəstəlik
+244,en,az_AZ,shortness of breath,təngnəfəslik
+245,en,az_AZ,sickened,naxoş
+246,en,az_AZ,sickness,naxoşluq
+247,en,az_AZ,sneeze,asqırma
+248,en,az_AZ,sneezes,asqırır
+249,en,az_AZ,sneezing,asqırmaq
+250,en,az_AZ,social distancing,social məsafə
+251,en,az_AZ,sore throat,angina
+252,en,az_AZ,spanish flu,ispan qripi
+253,en,az_AZ,specimen collection,nümunə alma
+254,en,az_AZ,spread,yayılma
+255,en,az_AZ,sputum,ağız suyu
+256,en,az_AZ,stigmatisation,stiqmatizasiya
+257,en,az_AZ,supportive,dəstəkləyici
+258,en,az_AZ,surface,səth
+259,en,az_AZ,surfaces,səthlər
+260,en,az_AZ,suspected infection,şübhəli yoluxma
+261,en,az_AZ,swab,yaxma
+262,en,az_AZ,swine flu,donuz qripi
+263,en,az_AZ,symptom,symptom
+264,en,az_AZ,symptomatic,simptomatik
+265,en,az_AZ,symptoms,simptomlar
+266,en,az_AZ,targeted disinfection,nəzərdə tutulan dezinfeksiya
+267,en,az_AZ,test kit,sınaq dəsti
+268,en,az_AZ,testing error,sınaq xətası
+269,en,az_AZ,tissue damage,toxuma zədələnməsi
+270,en,az_AZ,tp shortage,tk çatışmazlığı
+271,en,az_AZ,toilet paper shortage,tualet kağızı çatışmazlığı
+272,en,az_AZ,touch,toxunma
+273,en,az_AZ,touching,toxunmaq
+274,en,az_AZ,transmissibility,transmissivlik
+275,en,az_AZ,transmissible,transmissiv
+276,en,az_AZ,transmission,ötürülmə
+277,en,az_AZ,transmission potential,ötürülmə potensialı
+278,en,az_AZ,typical flu,tipik qrip
+279,en,az_AZ,underlying disease,əsas xəstəlik
+280,en,az_AZ,updates,yeniliklər
+281,en,az_AZ,vaccine,peyvənd
+282,en,az_AZ,vaccines,peyvəndlər
+283,en,az_AZ,ventilation,ventilyasiya
+284,en,az_AZ,ventilator,ventilyator
+285,en,az_AZ,ventilators,ventilyatorlar
+286,en,az_AZ,viral infection,virus infeksiyası
+287,en,az_AZ,viral outbreak,virus alovlanması
+288,en,az_AZ,viral pandemic,virus pandemiyası
+289,en,az_AZ,viral pneumonia,viruslu sətəlcəm
+290,en,az_AZ,virtual care,virtual qulluq
+291,en,az_AZ,virulence,virulentlik
+292,en,az_AZ,virus itself,virus özü
+293,en,az_AZ,virus outbreak,virus alovlanması
+294,en,az_AZ,virus scare,virus panikası
+295,en,az_AZ,virus spreads,virus yayılır
+296,en,az_AZ,virus strain,virus ştammı
+297,en,az_AZ,viral transmission,virusun ötürülməsi
+298,en,az_AZ,vivid-19,vivid-19
+299,en,az_AZ,washing hands,əlləri yuma
+300,en,az_AZ,washing ones hands,əllərini yumaq
+301,en,az_AZ,wash your hands,əllərinizi yuyun
+302,en,az_AZ,white blood cell count,leykositlərin sayı
+303,en,az_AZ,widespread transmission,geniş səviyyədə ötürülmə
+304,en,az_AZ,working from home,evdən işləmək
+305,en,az_AZ,WFH,wfh
+306,en,az_AZ,Wuhan,Uhan

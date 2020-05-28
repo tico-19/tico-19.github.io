@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,tn_BW,1918 flu,Flu ya 1918
+2,en,tn_BW,acute bronchitis,boronkhaethisi e e maswe thata
+3,en,tn_BW,acute respiratory disease,bolwetsi jo bo maswe thata jwa mafatlha
+4,en,tn_BW,AIDS,AIDS
+5,en,tn_BW,airborne droplets,mathenyana a a mo phefong
+6,en,tn_BW,airway,kgokgotsho
+7,en,tn_BW,alcohol-based,e e nang le seka-bojalwa
+8,en,tn_BW,alcohol-based hand rub,seitshaso sa diatla se se nang le seka-bojalwa
+9,en,tn_BW,alcohol-based hand sanitizer,sanitizer ya diatla e e nang le seka-bojalwa
+10,en,tn_BW,alveolar disease,bolwetsi jwa alveolar
+11,en,tn_BW,an epidemic,leroborobo
+12,en,tn_BW,annual flu,flu ya ngwaga le ngwaga
+13,en,tn_BW,anti-inflammatory drug,molemo o o alafang boruruga
+14,en,tn_BW,antiviral drug,molemo o o alafang mogare
+15,en,tn_BW,antiviral treatment,kalafi ya mogare
+16,en,tn_BW,assay,tlhatlhobo
+17,en,tn_BW,asymptomatic,go bontsha matshwao a bolwetse
+18,en,tn_BW,avian flu,flu ya avian
+19,en,tn_BW,Black Plague,Bolwetsi jwa Leroborobo
+20,en,tn_BW,blood pressure,kgatelelo ya madi
+21,en,tn_BW,body fluid,seedi sa mmele
+22,en,tn_BW,breathing,go hema
+23,en,tn_BW,bubonic plague,bolwetsi jwa dipeba
+24,en,tn_BW,c19,c19
+25,en,tn_BW,cv19,cv19
+26,en,tn_BW,case fatality rate,palo ya balwetsi ba ba tlhokafalang
+27,en,tn_BW,causative agent,se se bakang bolwetse
+28,en,tn_BW,CDC,CDC
+29,en,tn_BW,chemical disinfection,sebolaya-mogare sa dikhemikhale
+30,en,tn_BW,chest x-ray,x-ray ya mafatlha
+31,en,tn_BW,clinical diagnosis,tlhatlhobo ya bongaka
+32,en,tn_BW,clinical trial,tekeletso ya kalafi
+33,en,tn_BW,close contact,go kgomana gaufi
+34,en,tn_BW,cvirus,cvirus
+35,en,tn_BW,chronic respiratory disease,bolwetsi jo bo sa foleng jwa mafatlha
+36,en,tn_BW,common cold,mofikela
+37,en,tn_BW,common flu,flu e e tlwaelegileng
+38,en,tn_BW,communicable disease,bolwetse jo bo tshelanwang
+39,en,tn_BW,community spread,jo bo anamisiwang ke batho
+40,en,tn_BW,community transmission,tshelano ka batho
+41,en,tn_BW,compromised immune system,masole a mmele a a tlhaelang
+42,en,tn_BW,contagion,jo bo anamisiwang
+43,en,tn_BW,contagious,jo bo tshelanwang
+44,en,tn_BW,contagiousness,go tshelanwa
+45,en,tn_BW,corona,corona
+46,en,tn_BW,corona virus,mogare wa corona
+47,en,tn_BW,corona virus epidemic,leroborobo la mogare wa corona
+48,en,tn_BW,corona virus outbreak,tlhaselo ya mogare wa corona
+49,en,tn_BW,corona virus scare,letshogo la mogare wa corona
+50,en,tn_BW,coronavirus,mogare wa corona
+51,en,tn_BW,coronavirus cases,balwetse ba mogare wa corona
+52,en,tn_BW,coronavirus outbreak,tlhaselo ya mogare wa corona
+53,en,tn_BW,coronavirus pandemic,leroborobo la mogare wa corona
+54,en,tn_BW,coronavirus scare,letshogo la mogare wa corona
+55,en,tn_BW,cough,kgotlholo
+56,en,tn_BW,cough etiquette,maitseo fa o gotlhola
+57,en,tn_BW,coughing,go gotlhola
+58,en,tn_BW,cov 19,cov 19
+59,en,tn_BW,cov19,cov19
+60,en,tn_BW,COVID,COVID
+61,en,tn_BW,COVID-19 crisis,Mathata a COVID-19
+62,en,tn_BW,covid-19,covid-19
+63,en,tn_BW,covid19,covid19
+64,en,tn_BW,COVID-19 epidemic,Leroborobo la COVID-19
+65,en,tn_BW,COVID-19 outbreak,Tlhaselo ya COVID-19
+66,en,tn_BW,COVID-19 pandemic,Leroborobo la COVID-19
+67,en,tn_BW,COVID 19,COVID 19
+68,en,tn_BW,current crisis,mathata a a masisi a nako eno
+69,en,tn_BW,current health crisis,mathata a a masisi a botsogo a nako eno
+70,en,tn_BW,current outbreak,tlhaselo ya bolwetsi ya nako eno
+71,en,tn_BW,current pandemic,leroborobo la nako eno
+72,en,tn_BW,CV,CV
+73,en,tn_BW,CV-19,CV-19
+74,en,tn_BW,deadly,jo bo bolayang
+75,en,tn_BW,deadly virus,mogare o o bolayang
+76,en,tn_BW,death rate,palo ya ba ba tlhokafalang
+77,en,tn_BW,death toll,palo ya ba ba tlhokafetseng
+78,en,tn_BW,decontaminate,bolaya megare
+79,en,tn_BW,detectable,lemotshegang
+80,en,tn_BW,detergent,sebolaya megare
+81,en,tn_BW,difficulty breathing,go hema ka thata
+82,en,tn_BW,diabetes,bolwetse jwa sukiri
+83,en,tn_BW,diagnosable disease,bolwetse jo bo sa lemotshegeng
+84,en,tn_BW,diagnostic protocol,porothokholo ya tlhatlhobo ya bolwetse
+85,en,tn_BW,diagnostic testing,tlhatlhobo ya bolwetse
+86,en,tn_BW,disease itself,bolwetse ka bobone
+87,en,tn_BW,disease outbreak,tlhaselo ya bolwetse
+88,en,tn_BW,disinfectant,sebolaya ditwatsi
+89,en,tn_BW,disposable,e e ka latlhiwang
+90,en,tn_BW,droplet transmission,tshelano ka mathenyana
+91,en,tn_BW,droplets,mathenyana
+92,en,tn_BW,dry cough,sehuba se se omeletseng
+93,en,tn_BW,dry surface contamination,kgotlelo ya bofagodimo jo bo seng metsi
+94,en,tn_BW,ebola,ebola
+95,en,tn_BW,effective treatment,kalafi e e kgonang
+96,en,tn_BW,electron microscope,makerosekoupo wa motlakase
+97,en,tn_BW,emergency department,lefapha la maemo a tshoganyetso
+98,en,tn_BW,epidemic,leroborobo
+99,en,tn_BW,epidemic curve,phekela ya leroborobo
+100,en,tn_BW,epidemic peak,palokgolo ya leroborobo
+101,en,tn_BW,epidemiologist,moitseanape wa malwetsi a leroborobo
+102,en,tn_BW,exposure,kgomano le
+103,en,tn_BW,extreme caution,kelotlhoko e kgolo
+104,en,tn_BW,eye protection,tshireletso ya matlho
+105,en,tn_BW,face mask,mmaseke a sefatlhego
+106,en,tn_BW,face masks,dimmaseke tsa sefatlhego
+107,en,tn_BW,family cluster,setlhopha sa balelapa
+108,en,tn_BW,fatality rate,palo ya ba ba tlhokafalang
+109,en,tn_BW,fecal contamination,kgotlelo ya mantle
+110,en,tn_BW,fever,letshoroma
+111,en,tn_BW,flatten the infection curve,kokobetsa phekela ya tshwaetsego
+112,en,tn_BW,flu,flu
+113,en,tn_BW,food safety,tshireletsego ya dijo
+114,en,tn_BW,formaldehyde,formaldehyde
+115,en,tn_BW,gastroenteritis,bolwetse jwa thurugo ya mala le mpa
+116,en,tn_BW,germicide,sebolaya megare
+117,en,tn_BW,global pandemic,leroborobo la lefatshe lotlhe
+118,en,tn_BW,global warming,thuthafalo ya lefatshe
+119,en,tn_BW,good respiratory hygiene,bophepa jo bo siameng jwa mafatlha
+120,en,tn_BW,Guangdong,Guangdong
+121,en,tn_BW,H1N1,H1N1
+122,en,tn_BW,H1N1 virus,Mogare wa H1N1
+123,en,tn_BW,hand disinfectant,sebolaya ditwatsi sa diatla
+124,en,tn_BW,hand sanitizer,sanitizer ya diatla
+125,en,tn_BW,health care provider,motlhokomedi wa botsogo
+126,en,tn_BW,health crisis,mathata a a masisi a botsogo
+127,en,tn_BW,health plan carrier,khamphane ya tshireletso ya botsogo
+128,en,tn_BW,health services,ditirelo tsa botsogo
+129,en,tn_BW,heart failure,botsogo jwa pelo
+130,en,tn_BW,high fever,letshoroma le le kwa godimo
+131,en,tn_BW,HIV,HIV
+132,en,tn_BW,hospitalize,robadiwa kwa bookelong
+133,en,tn_BW,household bleach,jiki ya mo ntlong
+134,en,tn_BW,Hubei,Hubei
+135,en,tn_BW,hydrogen peroxide,peroxide ya hydrogen
+136,en,tn_BW,hygiene,bophepa jwa mmele
+137,en,tn_BW,immune system,masole a a mmele
+138,en,tn_BW,immunity,seemo sa masole a mmele
+139,en,tn_BW,immunocompromised,masole a mmele a a tlhaelang
+140,en,tn_BW,immunologist,ngaka ya masole a mmele
+141,en,tn_BW,incubation,bothuthuso
+142,en,tn_BW,incubation period,nako ya bothuthuso
+143,en,tn_BW,indirect contact,kgomano ka tlhamalalo
+144,en,tn_BW,infect,tshwaetsa
+145,en,tn_BW,infection,tshwaetso
+146,en,tn_BW,infectious,ya tshwaetsa
+147,en,tn_BW,infectivity,tshwaetsego
+148,en,tn_BW,influenza,mokgotlhwane
+149,en,tn_BW,initial transmission event,tiragalo ya tshelano ya ntlha
+150,en,tn_BW,intensive care equipment,sedirisiwa sa tlhokomelo e kgolo
+151,en,tn_BW,intermediate host,setshola mogare o o golang
+152,en,tn_BW,intrauterine,mo popelong
+153,en,tn_BW,intubation,go tsenngwa ga tšhubu
+154,en,tn_BW,isolation,boiphapo
+155,en,tn_BW,Isopropanol,Isopropanol
+156,en,tn_BW,laboratory test kit,khiti ya tlhatlhobo ya laborathori
+157,en,tn_BW,laboratory testing,tlhatlhobo ya laborathori
+158,en,tn_BW,lack of testing,go sa tlhatlhobiwa
+159,en,tn_BW,lack of tests,go senang ditlhaatlhobo
+160,en,tn_BW,latest updates,dintšhafatsa tsa bosheng
+161,en,tn_BW,liver failure,bolwetse jwa sebete
+162,en,tn_BW,local public health authority,bolaodi jwa lefelo leno jwa botsogo jwa morafe
+163,en,tn_BW,lockdown,go tswalelwa
+164,en,tn_BW,lungs,mafatlha
+165,en,tn_BW,masks,dimmaseke
+166,en,tn_BW,measles,mmokwana
+167,en,tn_BW,mechanical ventilation,go hema ka motšhine
+168,en,tn_BW,media coverage,pego ya boradikgang
+169,en,tn_BW,medical care,tlhokomelo ya bongaka
+170,en,tn_BW,MERS,MERS
+171,en,tn_BW,MERS CoV,MERS CoV
+172,en,tn_BW,microbiologist,moitseanape wa ditshidinyana tsa megare
+173,en,tn_BW,mild cough,sehuba se se magareng
+174,en,tn_BW,mortality rate,palo ba ba tlhokafalang
+175,en,tn_BW,multi-organ failure,go palelwa ga dirwe tse dintsi
+176,en,tn_BW,nasal congestion,go thibana dinko
+177,en,tn_BW,neutral detergent,sebolaya megare se se seng bogale
+178,en,tn_BW,new normal,e e tlwaelegileng e ntšha
+179,en,tn_BW,novel corona virus,mogare wa corona o o iseng o ke o bonwe
+180,en,tn_BW,novel coronavirus,mogare wa corona o o iseng o ke o bonwe
+181,en,tn_BW,novel coronavirus outbreak,tlhaselo ya mogare wa corona o o iseng o ke o bonwe
+182,en,tn_BW,novel virus,mogare o o iseng o ke o bonwe
+183,en,tn_BW,online medical consultation,go bona ngaka mo inthaneteng
+184,en,tn_BW,onset,tshimololo
+185,en,tn_BW,outbreak,tlhaselo
+186,en,tn_BW,outbreak readiness,go ipaakanyetsa tlhaselo ya bolwetse
+187,en,tn_BW,overall case fatality,kakaretso ya palo ya balwetsi ba ba tlhokafetseng
+188,en,tn_BW,pandemic,leroborobo
+189,en,tn_BW,pangolin,pangolin
+190,en,tn_BW,pathogen,mogare o o lwatsang
+191,en,tn_BW,pathology,tlhatlhobo ya bolwetse
+192,en,tn_BW,patient care equipment,sedirisiwa sa tlhokomelo ya molwetse
+193,en,tn_BW,personal protective equipment,sedirisiwa sa go itshireletsa
+194,en,tn_BW,person-to-person transmission,go tshelana bolwetse ga batho
+195,en,tn_BW,phlegm,segotlhola
+196,en,tn_BW,physical contact,kgomano ka mmele
+197,en,tn_BW,plague,leroborobo
+198,en,tn_BW,pneumonia,nyumonia
+199,en,tn_BW,pneumonias,dinyumonia
+200,en,tn_BW,positive test,tlhatlhobo e e supang bolwetse
+201,en,tn_BW,precaution,kelotlhoko
+202,en,tn_BW,precautionary,go elatlhoko
+203,en,tn_BW,pre-existing condition,bolwetse jo bo ntseng bo le teng
+204,en,tn_BW,preparedness,boiketleetso
+205,en,tn_BW,prognosis,ponelopele
+206,en,tn_BW,protect myself,itshireletsa
+207,en,tn_BW,protect others,sireletsa ba bangwe
+208,en,tn_BW,protect yourself,itshireletsa
+209,en,tn_BW,protective measures,dikgato tsa go sireletsa
+210,en,tn_BW,public health crisis,mathata a a masisi a botsogo jwa morafe
+211,en,tn_BW,pulmonary tissue damage,tshenyego ya ditogwa tsa mafatlha
+212,en,tn_BW,quarantine,tswalelo
+213,en,tn_BW,rapid risk assessment,tshekatsheko ya kotsi ka bonako
+214,en,tn_BW,reagent,setlhatlhobi
+215,en,tn_BW,regular flu,flu e e tlwaelegileng
+216,en,tn_BW,reinfection,tshwaetsego gape
+217,en,tn_BW,renal disease,bolwetse jwa diphilo
+218,en,tn_BW,renal failure,go palelwa ga diphilo
+219,en,tn_BW,respirator,motšhinenyana wa go hema
+220,en,tn_BW,respiratory,go hema
+221,en,tn_BW,respiratory disease,bolwetsi jwa mafatlha
+222,en,tn_BW,respiratory distress,bothata jwa mafatlha
+223,en,tn_BW,respiratory droplets,mathenyana a mafatlha
+224,en,tn_BW,respiratory hygiene,bophepa jwa mafatlha
+225,en,tn_BW,respiratory illness,bolwetse jwa mafatlha
+226,en,tn_BW,respiratory syndrome,matshwao a bolwetse jwa mafatlha
+227,en,tn_BW,respiratory tract disease,bolwetsi jwa mosele wa mafatlha
+228,en,tn_BW,restrictions,dithibelo
+229,en,tn_BW,resurge,tlhatlogo gape
+230,en,tn_BW,RNA,RNA
+231,en,tn_BW,rubeola,mmokwana
+232,en,tn_BW,runny nose,go elela mamina
+233,en,tn_BW,SARS,SARS
+234,en,tn_BW,SARS-CoV-2,SARS-CoV-2
+235,en,tn_BW,SARS-CoV,SARS-CoV
+236,en,tn_BW,sars-related coronavirus,mogare wa corona o o amanang le sars
+237,en,tn_BW,seasonal flu,flu ya dipaka
+238,en,tn_BW,seasonal influenza,mokgotlhwane wa dipaka
+239,en,tn_BW,secretion,tswenatswena
+240,en,tn_BW,self-quarantine,itswalelo
+241,en,tn_BW,sepsis,bolwetse jo bo masisi
+242,en,tn_BW,septic shock,letshogo ka baka la bolwetsi jo bo masisi
+243,en,tn_BW,Severe Acute Respiratory Syndrome,Matshwao a Bolwetse jo bo Masisis jwa Mafatlha
+244,en,tn_BW,shortness of breath,go tlhaela mowa
+245,en,tn_BW,sickened,lwaditswe
+246,en,tn_BW,sickness,bolwetse
+247,en,tn_BW,sneeze,ethimola
+248,en,tn_BW,sneezes,go ethimola mo gontsi
+249,en,tn_BW,sneezing,go ethimola
+250,en,tn_BW,social distancing,go ikatoganya le batho
+251,en,tn_BW,sore throat,mometso o botlhoko
+252,en,tn_BW,spanish flu,Spanish flu
+253,en,tn_BW,specimen collection,go tsewa ga disepesimene
+254,en,tn_BW,spread,anama
+255,en,tn_BW,sputum,segotlhola
+256,en,tn_BW,stigmatisation,go nyonyiwa
+257,en,tn_BW,supportive,tshegetso
+258,en,tn_BW,surface,bofagodimo
+259,en,tn_BW,surfaces,bofagodimo jo bontsi
+260,en,tn_BW,suspected infection,tshwaetso e e belaelwang
+261,en,tn_BW,swab,swabo
+262,en,tn_BW,swine flu,flu ya dikolobe
+263,en,tn_BW,symptom,matshwao a bolwetse
+264,en,tn_BW,symptomatic,go bontsha matshwao a bolwetse
+265,en,tn_BW,symptoms,matshwao a bolwetse
+266,en,tn_BW,targeted disinfection,sebolaya-mogare se se lwantshiwang
+267,en,tn_BW,test kit,khiti ya tlhatlhobo
+268,en,tn_BW,testing error,phoso ya tlhatlhobo
+269,en,tn_BW,tissue damage,tshenyego ya togwa
+270,en,tn_BW,tp shortage,tlhaelo ya tp
+271,en,tn_BW,toilet paper shortage,tlhaelo ya pampiri ya mo ntlwaneng
+272,en,tn_BW,touch,kgoma
+273,en,tn_BW,touching,go kgoma
+274,en,tn_BW,transmissibility,go ka tshelanwa
+275,en,tn_BW,transmissible,tshelanwang
+276,en,tn_BW,transmission,tshelano
+277,en,tn_BW,transmission potential,kgonego ya tshelano
+278,en,tn_BW,typical flu,flu e e tlwaelegileng
+279,en,tn_BW,underlying disease,bolwetse jo bo sa bonaleng
+280,en,tn_BW,updates,tsa bosheng
+281,en,tn_BW,vaccine,moento
+282,en,tn_BW,vaccines,meento
+283,en,tn_BW,ventilation,tlhabisophefo
+284,en,tn_BW,ventilator,setlhabisaphefo
+285,en,tn_BW,ventilators,ditlhabisaphefo
+286,en,tn_BW,viral infection,tshwaetso ya mogare
+287,en,tn_BW,viral outbreak,tlhaselo ya mogare
+288,en,tn_BW,viral pandemic,leroborobo la mogare
+289,en,tn_BW,viral pneumonia,nyumonia ya mogare
+290,en,tn_BW,virtual care,tlhokomelo ya mogare
+291,en,tn_BW,virulence,bomasisi jwa bolwetse
+292,en,tn_BW,virus itself,mogare ka boone
+293,en,tn_BW,virus outbreak,tlhaselo ya mogare
+294,en,tn_BW,virus scare,letshogo la mogare
+295,en,tn_BW,virus spreads,mogare o a anama
+296,en,tn_BW,virus strain,mofuta wa mogare
+297,en,tn_BW,viral transmission,tshelano ya mogare
+298,en,tn_BW,vivid-19,vivid-19
+299,en,tn_BW,washing hands,go tlhapa diatla
+300,en,tn_BW,washing ones hands,go tlhapa diatla tse eleng tsa motho
+301,en,tn_BW,wash your hands,go tlhapa diatla tsa gago
+302,en,tn_BW,white blood cell count,palo ya disele tse ditshweu tsa madi
+303,en,tn_BW,widespread transmission,tshelano e e anameng
+304,en,tn_BW,working from home,go berekela mo gae
+305,en,tn_BW,WFH,WFH
+306,en,tn_BW,Wuhan,Wuhan

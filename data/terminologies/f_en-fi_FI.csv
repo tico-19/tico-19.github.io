@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,fi_FI,1918 flu,1918 influenssa
+2,en,fi_FI,acute bronchitis,akuutti keuhkoputkentulehdus
+3,en,fi_FI,acute respiratory disease,akuutti hengityselinsairaus
+4,en,fi_FI,AIDS,AIDS
+5,en,fi_FI,airborne droplets,ilmassa kulkevat pisarat
+6,en,fi_FI,airway,hengitystie
+7,en,fi_FI,alcohol-based,alkoholipohjainen
+8,en,fi_FI,alcohol-based hand rub,alkoholipohjainen käsidesi
+9,en,fi_FI,alcohol-based hand sanitizer,alkoholipohjainen desinfektiohuuhde
+10,en,fi_FI,alveolar disease,alveolaarinen sairaus
+11,en,fi_FI,an epidemic,epidemia
+12,en,fi_FI,annual flu,kausi-influenssa
+13,en,fi_FI,anti-inflammatory drug,tulehduskipulääke
+14,en,fi_FI,antiviral drug,viruslääke
+15,en,fi_FI,antiviral treatment,virustentorjuntahoito
+16,en,fi_FI,assay,koe
+17,en,fi_FI,asymptomatic,oireeton
+18,en,fi_FI,avian flu,lintuinfluenssa
+19,en,fi_FI,Black Plague,Musta surma
+20,en,fi_FI,blood pressure,verenpaine
+21,en,fi_FI,body fluid,ruumiinneste
+22,en,fi_FI,breathing,hengitys
+23,en,fi_FI,bubonic plague,paiserutto
+24,en,fi_FI,c19,c19
+25,en,fi_FI,cv19,cv19
+26,en,fi_FI,case fatality rate,kuolevuus
+27,en,fi_FI,causative agent,taudinaiheuttaja
+28,en,fi_FI,CDC,CDC
+29,en,fi_FI,chemical disinfection,kemiallinen desinfiointi
+30,en,fi_FI,chest x-ray,rintakehän röntgenkuvaus
+31,en,fi_FI,clinical diagnosis,kliininen diagnoosi
+32,en,fi_FI,clinical trial,kliininen tutkimus
+33,en,fi_FI,close contact,läheinen kosketus
+34,en,fi_FI,cvirus,c-virus
+35,en,fi_FI,chronic respiratory disease,krooninen hengityselinsairaus
+36,en,fi_FI,common cold,vilustuminen
+37,en,fi_FI,common flu,flunssa
+38,en,fi_FI,communicable disease,tartuntatauti
+39,en,fi_FI,community spread,leviäminen yhteisössä
+40,en,fi_FI,community transmission,tartunnat yhteisössä
+41,en,fi_FI,compromised immune system,heikentynyt immuunijärjestelmä
+42,en,fi_FI,contagion,tartunta
+43,en,fi_FI,contagious,tarttuva
+44,en,fi_FI,contagiousness,tarttuvuus
+45,en,fi_FI,corona,korona
+46,en,fi_FI,corona virus,koronavirus
+47,en,fi_FI,corona virus epidemic,koronavirusepidemia
+48,en,fi_FI,corona virus outbreak,koronavirusaalto
+49,en,fi_FI,corona virus scare,koronaviruksen pelko
+50,en,fi_FI,coronavirus,koronavirus
+51,en,fi_FI,coronavirus cases,koronavirustapaukset
+52,en,fi_FI,coronavirus outbreak,koronavirusaalto
+53,en,fi_FI,coronavirus pandemic,koronaviruspandemia
+54,en,fi_FI,coronavirus scare,koronaviruksen pelko
+55,en,fi_FI,cough,yskä
+56,en,fi_FI,cough etiquette,yskimisetiketti
+57,en,fi_FI,coughing,yskiminen
+58,en,fi_FI,cov 19,cov 19
+59,en,fi_FI,cov19,cov19
+60,en,fi_FI,COVID,COVID
+61,en,fi_FI,COVID-19 crisis,COVID-19 -kriisi
+62,en,fi_FI,covid-19,covid-19
+63,en,fi_FI,covid19,covid19
+64,en,fi_FI,COVID-19 epidemic,COVID-19 -epidemia
+65,en,fi_FI,COVID-19 outbreak,COVID-19 -aalto
+66,en,fi_FI,COVID-19 pandemic,COVID-19 -pandemia
+67,en,fi_FI,COVID 19,COVID 19
+68,en,fi_FI,current crisis,nykyinen kriisi
+69,en,fi_FI,current health crisis,nykyinen terveyskriisi
+70,en,fi_FI,current outbreak,nykyinen aalto
+71,en,fi_FI,current pandemic,nykyinen pandemia
+72,en,fi_FI,CV,CV
+73,en,fi_FI,CV-19,CV-19
+74,en,fi_FI,deadly,tappava
+75,en,fi_FI,deadly virus,tappava virus
+76,en,fi_FI,death rate,kuolleisuusaste
+77,en,fi_FI,death toll,kuolleiden määrä
+78,en,fi_FI,decontaminate,dekontaminointi
+79,en,fi_FI,detectable,havaittava
+80,en,fi_FI,detergent,puhdistusaine
+81,en,fi_FI,difficulty breathing,hengitysvaikeudet
+82,en,fi_FI,diabetes,diabetes
+83,en,fi_FI,diagnosable disease,diagnosoitava tauti
+84,en,fi_FI,diagnostic protocol,diagnostinen protokolla
+85,en,fi_FI,diagnostic testing,diagnostinen testaus
+86,en,fi_FI,disease itself,itse tauti
+87,en,fi_FI,disease outbreak,tautiaalto
+88,en,fi_FI,disinfectant,desinfiointiaine
+89,en,fi_FI,disposable,kertakäyttöinen
+90,en,fi_FI,droplet transmission,pisaratartunta
+91,en,fi_FI,droplets,pisarat
+92,en,fi_FI,dry cough,kuiva yskä
+93,en,fi_FI,dry surface contamination,kuiva pintakontaminaatio
+94,en,fi_FI,ebola,ebola
+95,en,fi_FI,effective treatment,tehokas hoito
+96,en,fi_FI,electron microscope,elektronimikroskooppi
+97,en,fi_FI,emergency department,ensiapuosasto
+98,en,fi_FI,epidemic,epidemia
+99,en,fi_FI,epidemic curve,epidemiakäyrä
+100,en,fi_FI,epidemic peak,epidemian huippu
+101,en,fi_FI,epidemiologist,epidemiologi
+102,en,fi_FI,exposure,altistuminen
+103,en,fi_FI,extreme caution,äärimmäinen varovaisuus
+104,en,fi_FI,eye protection,silmien suojaus
+105,en,fi_FI,face mask,suu-nenäsuojus
+106,en,fi_FI,face masks,suu-nenäsuojukset
+107,en,fi_FI,family cluster,perheyhteisö
+108,en,fi_FI,fatality rate,kuolevuus
+109,en,fi_FI,fecal contamination,ulostetartunta
+110,en,fi_FI,fever,kuume
+111,en,fi_FI,flatten the infection curve,infektiokäyrän madaltaminen
+112,en,fi_FI,flu,flunssa
+113,en,fi_FI,food safety,elintarvikkeiden turvallisuus
+114,en,fi_FI,formaldehyde,formaldehydi
+115,en,fi_FI,gastroenteritis,suolistotulehdus
+116,en,fi_FI,germicide,bakteereja tuhoava
+117,en,fi_FI,global pandemic,globaali pandemia
+118,en,fi_FI,global warming,maapallon lämpeneminen
+119,en,fi_FI,good respiratory hygiene,hyvä hengityshygienia
+120,en,fi_FI,Guangdong,Guangdong
+121,en,fi_FI,H1N1,H1N1
+122,en,fi_FI,H1N1 virus,H1N1-virus
+123,en,fi_FI,hand disinfectant,käsien desinfektiohuuhde
+124,en,fi_FI,hand sanitizer,käsidesi
+125,en,fi_FI,health care provider,terveydenhoitopalvelujen tarjoaja
+126,en,fi_FI,health crisis,terveyskriisi
+127,en,fi_FI,health plan carrier,sairausvakuutuksen ottaja
+128,en,fi_FI,health services,terveyspalvelut
+129,en,fi_FI,heart failure,sydämen vajaatoiminta
+130,en,fi_FI,high fever,korkea kuume
+131,en,fi_FI,HIV,HIV
+132,en,fi_FI,hospitalize,sairaalahoito
+133,en,fi_FI,household bleach,valkaisuaine
+134,en,fi_FI,Hubei,Hubei
+135,en,fi_FI,hydrogen peroxide,vetyperoksidi
+136,en,fi_FI,hygiene,hygienia
+137,en,fi_FI,immune system,immuunijärjestelmä
+138,en,fi_FI,immunity,immuniteetti
+139,en,fi_FI,immunocompromised,heikentynyt vastustuskyky
+140,en,fi_FI,immunologist,immunologi
+141,en,fi_FI,incubation,itäminen
+142,en,fi_FI,incubation period,itämisaika
+143,en,fi_FI,indirect contact,epäsuora kosketus
+144,en,fi_FI,infect,tartuttaa
+145,en,fi_FI,infection,tartunta
+146,en,fi_FI,infectious,tarttuva
+147,en,fi_FI,infectivity,tarttuvuus
+148,en,fi_FI,influenza,influenssa
+149,en,fi_FI,initial transmission event,alkuperäinen tartuntatapahtuma
+150,en,fi_FI,intensive care equipment,tehohoidon laitteet
+151,en,fi_FI,intermediate host,väli-isäntä
+152,en,fi_FI,intrauterine,kohdun sisäinen
+153,en,fi_FI,intubation,intubointi
+154,en,fi_FI,isolation,eristys
+155,en,fi_FI,Isopropanol,Isopropanoli
+156,en,fi_FI,laboratory test kit,laboratoriotestipakkaus
+157,en,fi_FI,laboratory testing,laboratoriotestaus
+158,en,fi_FI,lack of testing,testauksen puute
+159,en,fi_FI,lack of tests,testien puute
+160,en,fi_FI,latest updates,tuoreimmat uutiset
+161,en,fi_FI,liver failure,maksan vajaatoiminta
+162,en,fi_FI,local public health authority,paikallinen kansanterveysviranomainen
+163,en,fi_FI,lockdown,liikkumiskielto
+164,en,fi_FI,lungs,keuhkot
+165,en,fi_FI,masks,naamiot
+166,en,fi_FI,measles,tuhkarokko
+167,en,fi_FI,mechanical ventilation,mekaaninen hengitys
+168,en,fi_FI,media coverage,näkyvyys mediassa
+169,en,fi_FI,medical care,lääketieteellinen hoito
+170,en,fi_FI,MERS,MERS
+171,en,fi_FI,MERS CoV,MERS CoV
+172,en,fi_FI,microbiologist,mikrobiologi
+173,en,fi_FI,mild cough,lievä yskä
+174,en,fi_FI,mortality rate,kuolevuus
+175,en,fi_FI,multi-organ failure,monielinvaurio
+176,en,fi_FI,nasal congestion,nenän tukkoisuus
+177,en,fi_FI,neutral detergent,neutraalipesuaine
+178,en,fi_FI,new normal,uusi normaali
+179,en,fi_FI,novel corona virus,uusi koronavirus
+180,en,fi_FI,novel coronavirus,uusi koronavirus
+181,en,fi_FI,novel coronavirus outbreak,uusi koronavirusaalto
+182,en,fi_FI,novel virus,uusi virus
+183,en,fi_FI,online medical consultation,lääkärissäkäynti verkossa
+184,en,fi_FI,onset,puhkeaminen
+185,en,fi_FI,outbreak,aalto
+186,en,fi_FI,outbreak readiness,influenssavalmius
+187,en,fi_FI,overall case fatality,tapausten kokonaiskuolevuus
+188,en,fi_FI,pandemic,pandemia
+189,en,fi_FI,pangolin,muurahaiskäpy
+190,en,fi_FI,pathogen,patogeeni
+191,en,fi_FI,pathology,patologia
+192,en,fi_FI,patient care equipment,potilaiden hoitolaitteet
+193,en,fi_FI,personal protective equipment,henkilönsuojaimet
+194,en,fi_FI,person-to-person transmission,tartunta ihmisestä ihmiseen
+195,en,fi_FI,phlegm,lima
+196,en,fi_FI,physical contact,fyysinen kosketus
+197,en,fi_FI,plague,rutto
+198,en,fi_FI,pneumonia,keuhkokuume
+199,en,fi_FI,pneumonias,keuhkokuumeet
+200,en,fi_FI,positive test,positiivinen testi
+201,en,fi_FI,precaution,varotoimi
+202,en,fi_FI,precautionary,ennaltaehkäisevä
+203,en,fi_FI,pre-existing condition,perussairaus
+204,en,fi_FI,preparedness,valmius
+205,en,fi_FI,prognosis,ennuste
+206,en,fi_FI,protect myself,suojata itseäni
+207,en,fi_FI,protect others,suojata muita
+208,en,fi_FI,protect yourself,suojaa itseäsi
+209,en,fi_FI,protective measures,suojelutoimet
+210,en,fi_FI,public health crisis,kansanterveydellinen kriisi
+211,en,fi_FI,pulmonary tissue damage,keuhkokudoksen vaurio
+212,en,fi_FI,quarantine,karanteeni
+213,en,fi_FI,rapid risk assessment,nopea riskinarviointi
+214,en,fi_FI,reagent,reagenssi
+215,en,fi_FI,regular flu,tavallinen flunssa
+216,en,fi_FI,reinfection,toistuva tartunta
+217,en,fi_FI,renal disease,munuaistauti
+218,en,fi_FI,renal failure,munuaisten vajaatoiminta
+219,en,fi_FI,respirator,hengityslaite
+220,en,fi_FI,respiratory,hengitys-
+221,en,fi_FI,respiratory disease,hengityselinsairaus
+222,en,fi_FI,respiratory distress,hengitysvaikeus
+223,en,fi_FI,respiratory droplets,hengityspisarat
+224,en,fi_FI,respiratory hygiene,hengityshygienia
+225,en,fi_FI,respiratory illness,hengityselinsairaus
+226,en,fi_FI,respiratory syndrome,hengitystieoireyhtymä
+227,en,fi_FI,respiratory tract disease,hengitystiesairaus
+228,en,fi_FI,restrictions,rajoitukset
+229,en,fi_FI,resurge,kasvu
+230,en,fi_FI,RNA,RNA
+231,en,fi_FI,rubeola,tuhkarokko
+232,en,fi_FI,runny nose,vuotava nenä
+233,en,fi_FI,SARS,SARS
+234,en,fi_FI,SARS-CoV-2,SARS-CoV-2
+235,en,fi_FI,SARS-CoV,SARS-CoV
+236,en,fi_FI,sars-related coronavirus,sarsiin liittyvä koronavirus
+237,en,fi_FI,seasonal flu,kausiflunssa
+238,en,fi_FI,seasonal influenza,kausi-influenssa
+239,en,fi_FI,secretion,erite
+240,en,fi_FI,self-quarantine,omatoiminen karanteeni
+241,en,fi_FI,sepsis,verenmyrkytys
+242,en,fi_FI,septic shock,septinen sokki
+243,en,fi_FI,Severe Acute Respiratory Syndrome,Vakava äkillinen hengitystieoireyhtymä
+244,en,fi_FI,shortness of breath,hengenahdistus
+245,en,fi_FI,sickened,sairastunut
+246,en,fi_FI,sickness,sairaus
+247,en,fi_FI,sneeze,aivastus
+248,en,fi_FI,sneezes,aivastukset
+249,en,fi_FI,sneezing,aivastelu
+250,en,fi_FI,social distancing,sosiaalinen eristäytyminen
+251,en,fi_FI,sore throat,kipeä kurkku
+252,en,fi_FI,spanish flu,espanjantauti
+253,en,fi_FI,specimen collection,näytteiden keruu
+254,en,fi_FI,spread,leviäminen
+255,en,fi_FI,sputum,yskös
+256,en,fi_FI,stigmatisation,leimaaminen
+257,en,fi_FI,supportive,tukea antava
+258,en,fi_FI,surface,pinta
+259,en,fi_FI,surfaces,pinnat
+260,en,fi_FI,suspected infection,epäilty tartunta
+261,en,fi_FI,swab,näyte
+262,en,fi_FI,swine flu,sikainfluenssa
+263,en,fi_FI,symptom,oire
+264,en,fi_FI,symptomatic,oireellinen
+265,en,fi_FI,symptoms,oireet
+266,en,fi_FI,targeted disinfection,kohdennettu desinfiointi
+267,en,fi_FI,test kit,testipakkaus
+268,en,fi_FI,testing error,testausvirhe
+269,en,fi_FI,tissue damage,kudosvaurio
+270,en,fi_FI,tp shortage,vessapaperin puute
+271,en,fi_FI,toilet paper shortage,vessapaperin puute
+272,en,fi_FI,touch,kosketus
+273,en,fi_FI,touching,koskettelu
+274,en,fi_FI,transmissibility,tarttuminen
+275,en,fi_FI,transmissible,tarttuva
+276,en,fi_FI,transmission,tartuttaminen
+277,en,fi_FI,transmission potential,tartuntapotentiaali
+278,en,fi_FI,typical flu,tyypillinen flunssa
+279,en,fi_FI,underlying disease,perussairaus
+280,en,fi_FI,updates,päivitykset
+281,en,fi_FI,vaccine,rokote
+282,en,fi_FI,vaccines,rokotteet
+283,en,fi_FI,ventilation,hengitys
+284,en,fi_FI,ventilator,hengityskone
+285,en,fi_FI,ventilators,hengityskoneet
+286,en,fi_FI,viral infection,virustauti
+287,en,fi_FI,viral outbreak,virusaalto
+288,en,fi_FI,viral pandemic,viruspandemia
+289,en,fi_FI,viral pneumonia,viruskeuhkokuume
+290,en,fi_FI,virtual care,virtuaalihoito
+291,en,fi_FI,virulence,virulenssi
+292,en,fi_FI,virus itself,itse virus
+293,en,fi_FI,virus outbreak,virusaalto
+294,en,fi_FI,virus scare,viruksen pelko
+295,en,fi_FI,virus spreads,virus leviää
+296,en,fi_FI,virus strain,viruskanta
+297,en,fi_FI,viral transmission,virussaastuminen
+298,en,fi_FI,vivid-19,vivid-19
+299,en,fi_FI,washing hands,käsien pesu
+300,en,fi_FI,washing ones hands,omien käsien pesu
+301,en,fi_FI,wash your hands,pese kätesi
+302,en,fi_FI,white blood cell count,valkosolujen määrä
+303,en,fi_FI,widespread transmission,laaja leviäminen
+304,en,fi_FI,working from home,työskentely kotona
+305,en,fi_FI,WFH,WFH
+306,en,fi_FI,Wuhan,Wuhan

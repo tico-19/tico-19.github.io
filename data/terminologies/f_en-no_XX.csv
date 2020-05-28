@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,no_XX,1918 flu,1918 influensa
+2,en,no_XX,acute bronchitis,akutt bronkitt
+3,en,no_XX,acute respiratory disease,akutt luftveissykdom
+4,en,no_XX,AIDS,AIDS
+5,en,no_XX,airborne droplets,luftbårne dråper
+6,en,no_XX,airway,luftveier
+7,en,no_XX,alcohol-based,alkoholbasert
+8,en,no_XX,alcohol-based hand rub,alkoholbasert hånddesinfeksjon
+9,en,no_XX,alcohol-based hand sanitizer,alkoholbasert hånddesinfeksjonsmiddel
+10,en,no_XX,alveolar disease,alveolar sykdom
+11,en,no_XX,an epidemic,en epidemi
+12,en,no_XX,annual flu,årlig influensa
+13,en,no_XX,anti-inflammatory drug,betennelseshemmende medikament
+14,en,no_XX,antiviral drug,antiviralt medikament
+15,en,no_XX,antiviral treatment,antiviral behandling
+16,en,no_XX,assay,analyse
+17,en,no_XX,asymptomatic,asymptomatisk
+18,en,no_XX,avian flu,fugleinfluensa
+19,en,no_XX,Black Plague,Svartedauden
+20,en,no_XX,blood pressure,blodtrykk
+21,en,no_XX,body fluid,kroppsvæske
+22,en,no_XX,breathing,puste
+23,en,no_XX,bubonic plague,byllepest
+24,en,no_XX,c19,c19
+25,en,no_XX,cv19,cv19
+26,en,no_XX,case fatality rate,tilfeller dødelighetsrate
+27,en,no_XX,causative agent,forårsakende agent
+28,en,no_XX,CDC,CDC
+29,en,no_XX,chemical disinfection,kjemisk desinfeksjon
+30,en,no_XX,chest x-ray,røntgen av brystet
+31,en,no_XX,clinical diagnosis,klinisk diagnose
+32,en,no_XX,clinical trial,klinisk utprøving
+33,en,no_XX,close contact,nærkontakt
+34,en,no_XX,cvirus,cvirus
+35,en,no_XX,chronic respiratory disease,kronisk luftveissykdom
+36,en,no_XX,common cold,forkjølelse
+37,en,no_XX,common flu,vanlig influensa
+38,en,no_XX,communicable disease,smittsom sykdom
+39,en,no_XX,community spread,utbredelse i samfunnet
+40,en,no_XX,community transmission,overføring i samfunnet
+41,en,no_XX,compromised immune system,kompromittert immunforsvaret
+42,en,no_XX,contagion,smitte
+43,en,no_XX,contagious,smittsom
+44,en,no_XX,contagiousness,smittsomhet
+45,en,no_XX,corona,korona
+46,en,no_XX,corona virus,koronavirus
+47,en,no_XX,corona virus epidemic,koronavirus epidemi
+48,en,no_XX,corona virus outbreak,koronavirusutbrudd
+49,en,no_XX,corona virus scare,koronavirus frykt
+50,en,no_XX,coronavirus,koronavirus
+51,en,no_XX,coronavirus cases,koronavirus tilfeller
+52,en,no_XX,coronavirus outbreak,koronavirus utbrudd
+53,en,no_XX,coronavirus pandemic,koronavirus pandemi
+54,en,no_XX,coronavirus scare,koronavirus frykt
+55,en,no_XX,cough,hoste
+56,en,no_XX,cough etiquette,hosteetikette
+57,en,no_XX,coughing,hoste
+58,en,no_XX,cov 19,cov 19
+59,en,no_XX,cov19,cov19
+60,en,no_XX,COVID,COVID
+61,en,no_XX,COVID-19 crisis,COVID-19 krise
+62,en,no_XX,covid-19,covid-19
+63,en,no_XX,covid19,covid19
+64,en,no_XX,COVID-19 epidemic,COVID-19 epidemi
+65,en,no_XX,COVID-19 outbreak,COVID-19 utbrudd
+66,en,no_XX,COVID-19 pandemic,COVID-19 pandemi
+67,en,no_XX,COVID 19,COVID 19
+68,en,no_XX,current crisis,nåværende krise
+69,en,no_XX,current health crisis,nåværende helsekrise
+70,en,no_XX,current outbreak,nåværende utbrudd
+71,en,no_XX,current pandemic,nåværende pandemi
+72,en,no_XX,CV,CV
+73,en,no_XX,CV-19,CV-19
+74,en,no_XX,deadly,dødelig
+75,en,no_XX,deadly virus,dødelig virus
+76,en,no_XX,death rate,dødsrate
+77,en,no_XX,death toll,dødstall
+78,en,no_XX,decontaminate,dekontaminere
+79,en,no_XX,detectable,påvisbar
+80,en,no_XX,detergent,vaskemiddel
+81,en,no_XX,difficulty breathing,pustevansker
+82,en,no_XX,diabetes,diabetes
+83,en,no_XX,diagnosable disease,diagnostiserbar sykdom
+84,en,no_XX,diagnostic protocol,diagnostisk protokoll
+85,en,no_XX,diagnostic testing,diagnostisk testing
+86,en,no_XX,disease itself,selve sykdommen
+87,en,no_XX,disease outbreak,sykdomsutbrudd
+88,en,no_XX,disinfectant,desinfeksjonsmiddel
+89,en,no_XX,disposable,engangs
+90,en,no_XX,droplet transmission,dråpeoverføring
+91,en,no_XX,droplets,dråper
+92,en,no_XX,dry cough,tørrhoste
+93,en,no_XX,dry surface contamination,kontaminering på tørr overflate
+94,en,no_XX,ebola,ebola
+95,en,no_XX,effective treatment,effektiv behandling
+96,en,no_XX,electron microscope,elektronmikroskop
+97,en,no_XX,emergency department,akuttmottak
+98,en,no_XX,epidemic,epidemi
+99,en,no_XX,epidemic curve,epidemikurve
+100,en,no_XX,epidemic peak,epidemitopp
+101,en,no_XX,epidemiologist,epidemiolog
+102,en,no_XX,exposure,eksponering
+103,en,no_XX,extreme caution,ekstrem forsiktighet
+104,en,no_XX,eye protection,øyebeskyttelse
+105,en,no_XX,face mask,ansiktsmaske
+106,en,no_XX,face masks,ansiktsmasker
+107,en,no_XX,family cluster,familiegruppe
+108,en,no_XX,fatality rate,dødelighet
+109,en,no_XX,fecal contamination,fekal kontaminering
+110,en,no_XX,fever,feber
+111,en,no_XX,flatten the infection curve,flate ut infeksjonskurven
+112,en,no_XX,flu,influensa
+113,en,no_XX,food safety,matsikkerhet
+114,en,no_XX,formaldehyde,formaldehyd
+115,en,no_XX,gastroenteritis,gastroenteritt
+116,en,no_XX,germicide,bakteriedrepende middel
+117,en,no_XX,global pandemic,global pandemi
+118,en,no_XX,global warming,global oppvarming
+119,en,no_XX,good respiratory hygiene,god åndedrettshygiene
+120,en,no_XX,Guangdong,Guangdong
+121,en,no_XX,H1N1,H1N1
+122,en,no_XX,H1N1 virus,H1N1-virus
+123,en,no_XX,hand disinfectant,hånddesinfiserende middel
+124,en,no_XX,hand sanitizer,håndrenser
+125,en,no_XX,health care provider,helsepersonell
+126,en,no_XX,health crisis,helsekrise
+127,en,no_XX,health plan carrier,helseforsikringsselskap
+128,en,no_XX,health services,helsetjenester
+129,en,no_XX,heart failure,hjertefeil
+130,en,no_XX,high fever,høy feber
+131,en,no_XX,HIV,HIV
+132,en,no_XX,hospitalize,sykehusinnleggelse
+133,en,no_XX,household bleach,husholdningsklor
+134,en,no_XX,Hubei,Hubei
+135,en,no_XX,hydrogen peroxide,hydrogenperoksyd
+136,en,no_XX,hygiene,hygiene
+137,en,no_XX,immune system,immunsystem
+138,en,no_XX,immunity,immunitet
+139,en,no_XX,immunocompromised,svekket immunforsvar
+140,en,no_XX,immunologist,immunolog
+141,en,no_XX,incubation,inkubasjon
+142,en,no_XX,incubation period,inkubasjonstid
+143,en,no_XX,indirect contact,indirekte kontakt
+144,en,no_XX,infect,smitte
+145,en,no_XX,infection,infeksjon
+146,en,no_XX,infectious,smittsom
+147,en,no_XX,infectivity,smittsomhet
+148,en,no_XX,influenza,influensa
+149,en,no_XX,initial transmission event,første smitteoverføring
+150,en,no_XX,intensive care equipment,intensivpleieutstyr
+151,en,no_XX,intermediate host,mellomvert
+152,en,no_XX,intrauterine,intrauterin
+153,en,no_XX,intubation,intubasjon
+154,en,no_XX,isolation,isolasjon
+155,en,no_XX,Isopropanol,isopropanol
+156,en,no_XX,laboratory test kit,laboratorietestesett
+157,en,no_XX,laboratory testing,laboratorietesting
+158,en,no_XX,lack of testing,mangel på testing
+159,en,no_XX,lack of tests,mangel på tester
+160,en,no_XX,latest updates,siste oppdateringer
+161,en,no_XX,liver failure,leversvikt
+162,en,no_XX,local public health authority,lokal folkehelsemyndighet
+163,en,no_XX,lockdown,lockdown
+164,en,no_XX,lungs,lunger
+165,en,no_XX,masks,masker
+166,en,no_XX,measles,meslinger
+167,en,no_XX,mechanical ventilation,mekanisk ventilasjon
+168,en,no_XX,media coverage,mediadekning
+169,en,no_XX,medical care,medisinsk behandling
+170,en,no_XX,MERS,MERS
+171,en,no_XX,MERS CoV,MERS CoV
+172,en,no_XX,microbiologist,mikrobiolog
+173,en,no_XX,mild cough,mild hoste
+174,en,no_XX,mortality rate,dødelighetsrate
+175,en,no_XX,multi-organ failure,multiorgansvikt
+176,en,no_XX,nasal congestion,tett nese
+177,en,no_XX,neutral detergent,nøytralt vaskemiddel
+178,en,no_XX,new normal,ny normal
+179,en,no_XX,novel corona virus,nytt korona-virus
+180,en,no_XX,novel coronavirus,nytt koronavirus
+181,en,no_XX,novel coronavirus outbreak,nye koronavirusutbrudd
+182,en,no_XX,novel virus,nytt virus
+183,en,no_XX,online medical consultation,online medisinsk konsultasjon
+184,en,no_XX,onset,inntreden
+185,en,no_XX,outbreak,utbrudd
+186,en,no_XX,outbreak readiness,utbrudd beredskap
+187,en,no_XX,overall case fatality,total dødelighet
+188,en,no_XX,pandemic,pandemi
+189,en,no_XX,pangolin,pangolin
+190,en,no_XX,pathogen,patogen
+191,en,no_XX,pathology,patologi
+192,en,no_XX,patient care equipment,pasientpleieutstyr
+193,en,no_XX,personal protective equipment,personlig verneutstyr
+194,en,no_XX,person-to-person transmission,person-til-person overføring
+195,en,no_XX,phlegm,slim
+196,en,no_XX,physical contact,fysisk kontakt
+197,en,no_XX,plague,pest
+198,en,no_XX,pneumonia,lungebetennelse
+199,en,no_XX,pneumonias,lungebetennelser
+200,en,no_XX,positive test,positiv test
+201,en,no_XX,precaution,forholdsregel
+202,en,no_XX,precautionary,sikkerhetstiltak
+203,en,no_XX,pre-existing condition,eksisterende tilstand
+204,en,no_XX,preparedness,beredskap
+205,en,no_XX,prognosis,prognose
+206,en,no_XX,protect myself,beskytte meg selv
+207,en,no_XX,protect others,beskytte andre
+208,en,no_XX,protect yourself,beskytt deg selv
+209,en,no_XX,protective measures,beskyttende tiltak
+210,en,no_XX,public health crisis,folkehelsekrise
+211,en,no_XX,pulmonary tissue damage,lungevevskader
+212,en,no_XX,quarantine,karantene
+213,en,no_XX,rapid risk assessment,rask risikovurdering
+214,en,no_XX,reagent,reagent
+215,en,no_XX,regular flu,vanlig influensa
+216,en,no_XX,reinfection,reinfeksjon
+217,en,no_XX,renal disease,nyresykdom
+218,en,no_XX,renal failure,nyresvikt
+219,en,no_XX,respirator,respirator
+220,en,no_XX,respiratory,luftveiene
+221,en,no_XX,respiratory disease,luftveissykdom
+222,en,no_XX,respiratory distress,åndenød
+223,en,no_XX,respiratory droplets,luftveisdråper
+224,en,no_XX,respiratory hygiene,åndedrettshygiene
+225,en,no_XX,respiratory illness,luftveissykdom
+226,en,no_XX,respiratory syndrome,luftveissyndrom
+227,en,no_XX,respiratory tract disease,luftveissykdom
+228,en,no_XX,restrictions,begrensninger
+229,en,no_XX,resurge,gjenoppblussing
+230,en,no_XX,RNA,RNA
+231,en,no_XX,rubeola,rubeola
+232,en,no_XX,runny nose,rennende nese
+233,en,no_XX,SARS,SARS
+234,en,no_XX,SARS-CoV-2,SARS-CoV-2
+235,en,no_XX,SARS-CoV,SARS-CoV
+236,en,no_XX,sars-related coronavirus,sars-relatert koronavirus
+237,en,no_XX,seasonal flu,periodisk influensa
+238,en,no_XX,seasonal influenza,sesonginfluensa
+239,en,no_XX,secretion,sekresjon
+240,en,no_XX,self-quarantine,selv-karantene
+241,en,no_XX,sepsis,sepsis
+242,en,no_XX,septic shock,septisk sjokk
+243,en,no_XX,Severe Acute Respiratory Syndrome,Alvorlig akutt luftveissyndrom (SARS)
+244,en,no_XX,shortness of breath,kortpustethet
+245,en,no_XX,sickened,ble syk
+246,en,no_XX,sickness,sykdom
+247,en,no_XX,sneeze,nyse
+248,en,no_XX,sneezes,nyser
+249,en,no_XX,sneezing,nysing
+250,en,no_XX,social distancing,sosial distansering
+251,en,no_XX,sore throat,sår hals
+252,en,no_XX,spanish flu,spanskesyken
+253,en,no_XX,specimen collection,prøvetaking
+254,en,no_XX,spread,spredning
+255,en,no_XX,sputum,sputum
+256,en,no_XX,stigmatisation,stigmatisering
+257,en,no_XX,supportive,støttende
+258,en,no_XX,surface,flate
+259,en,no_XX,surfaces,flater
+260,en,no_XX,suspected infection,mistenkt infeksjon
+261,en,no_XX,swab,vattpensel
+262,en,no_XX,swine flu,svineinfluensa
+263,en,no_XX,symptom,symptom
+264,en,no_XX,symptomatic,symptomatisk
+265,en,no_XX,symptoms,symptomer
+266,en,no_XX,targeted disinfection,målrettet desinfeksjon
+267,en,no_XX,test kit,prøvesett
+268,en,no_XX,testing error,testfeil
+269,en,no_XX,tissue damage,vevsskade
+270,en,no_XX,tp shortage,tp-mangel
+271,en,no_XX,toilet paper shortage,toalettpapirmangel
+272,en,no_XX,touch,berøring
+273,en,no_XX,touching,berøre
+274,en,no_XX,transmissibility,smittsomhet
+275,en,no_XX,transmissible,smittsom
+276,en,no_XX,transmission,smitte
+277,en,no_XX,transmission potential,smittepotensial
+278,en,no_XX,typical flu,vanlig influensa
+279,en,no_XX,underlying disease,underliggende sykdom
+280,en,no_XX,updates,oppdateringer
+281,en,no_XX,vaccine,vaksine
+282,en,no_XX,vaccines,vaksiner
+283,en,no_XX,ventilation,ventilasjon
+284,en,no_XX,ventilator,ventilator
+285,en,no_XX,ventilators,ventilatorer
+286,en,no_XX,viral infection,virusinfeksjon
+287,en,no_XX,viral outbreak,viralt utbrudd
+288,en,no_XX,viral pandemic,viral pandemi
+289,en,no_XX,viral pneumonia,viral lungebetennelse
+290,en,no_XX,virtual care,virtuell pleie
+291,en,no_XX,virulence,virulens
+292,en,no_XX,virus itself,selve viruset
+293,en,no_XX,virus outbreak,virusutbrudd
+294,en,no_XX,virus scare,virusfrykt
+295,en,no_XX,virus spreads,virusutbredelse
+296,en,no_XX,virus strain,virusstamme
+297,en,no_XX,viral transmission,viral overføring
+298,en,no_XX,vivid-19,vivid-19
+299,en,no_XX,washing hands,vaske hender
+300,en,no_XX,washing ones hands,vaske hendene
+301,en,no_XX,wash your hands,vask hendene dine
+302,en,no_XX,white blood cell count,antall hvite blodlegemer
+303,en,no_XX,widespread transmission,utbredt smitte
+304,en,no_XX,working from home,jobbe hjemmefra
+305,en,no_XX,WFH,WFH
+306,en,no_XX,Wuhan,Wuhan

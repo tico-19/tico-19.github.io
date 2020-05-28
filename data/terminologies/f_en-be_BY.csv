@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,be_BY,1918 flu,грып 1918 года
+2,en,be_BY,acute bronchitis,востры бранхіт
+3,en,be_BY,acute respiratory disease,вострае рэспіраторнае захворванне
+4,en,be_BY,AIDS,СНІД
+5,en,be_BY,airborne droplets,кроплі, якія пераносяцца па паветры
+6,en,be_BY,airway,паветраны
+7,en,be_BY,alcohol-based,на аснове спірту
+8,en,be_BY,alcohol-based hand rub,сродак для апрацоўкі рук на аснове спірту
+9,en,be_BY,alcohol-based hand sanitizer,антысептык для рук на аснове спірту
+10,en,be_BY,alveolar disease,альвеалярная хвароба
+11,en,be_BY,an epidemic,эпідэмія
+12,en,be_BY,annual flu,штогадовы грып
+13,en,be_BY,anti-inflammatory drug,процізапаленчы лек
+14,en,be_BY,antiviral drug,антывірусны лек
+15,en,be_BY,antiviral treatment,антывіруснае лячэнне
+16,en,be_BY,assay,аналіз
+17,en,be_BY,asymptomatic,асімптаматычны
+18,en,be_BY,avian flu,птушыны грып
+19,en,be_BY,Black Plague,чорная чума
+20,en,be_BY,blood pressure,крывяны ціск
+21,en,be_BY,body fluid,фізіялагічная вадкасць
+22,en,be_BY,breathing,дыханне
+23,en,be_BY,bubonic plague,бубонная чума
+24,en,be_BY,c19,c19
+25,en,be_BY,cv19,cv19
+26,en,be_BY,case fatality rate,узровень смяротнасці
+27,en,be_BY,causative agent,узбуджальнік захворвання
+28,en,be_BY,CDC,Цэнтр прафілактыкі захворванняў
+29,en,be_BY,chemical disinfection,хімічная дэзінфекцыя
+30,en,be_BY,chest x-ray,рэнтген грудной клеткі
+31,en,be_BY,clinical diagnosis,клінічны дыягназ
+32,en,be_BY,clinical trial,клінічнае выпрабаванне
+33,en,be_BY,close contact,блізкі кантакт
+34,en,be_BY,cvirus,каранавірус
+35,en,be_BY,chronic respiratory disease,хранічнае рэспіраторнае захворванне
+36,en,be_BY,common cold,звычайная прастуда
+37,en,be_BY,common flu,звычайны грып
+38,en,be_BY,communicable disease,інфекцыйнае захворванне
+39,en,be_BY,community spread,распаўсюджанне праз грамадства
+40,en,be_BY,community transmission,перадача праз грамадства
+41,en,be_BY,compromised immune system,пашкоджаная імунная сістэма
+42,en,be_BY,contagion,заражэнне
+43,en,be_BY,contagious,заразны
+44,en,be_BY,contagiousness,заразнасць
+45,en,be_BY,corona,карона
+46,en,be_BY,corona virus,каранавірус
+47,en,be_BY,corona virus epidemic,эпідэмія каранавіруса
+48,en,be_BY,corona virus outbreak,выбух каранавіруса
+49,en,be_BY,corona virus scare,страх перад каранавірусам
+50,en,be_BY,coronavirus,каранавірус
+51,en,be_BY,coronavirus cases,выпадкі каранавіруса
+52,en,be_BY,coronavirus outbreak,выбух каранавіруса
+53,en,be_BY,coronavirus pandemic,пандэмія каранавіруса
+54,en,be_BY,coronavirus scare,страх перад каранавірусам
+55,en,be_BY,cough,кашаль
+56,en,be_BY,cough etiquette,як правільна кашляць
+57,en,be_BY,coughing,кашаль
+58,en,be_BY,cov 19,cov 19
+59,en,be_BY,cov19,cov19
+60,en,be_BY,COVID,COVID
+61,en,be_BY,COVID-19 crisis,крызіс COVID-19
+62,en,be_BY,covid-19,covid-19
+63,en,be_BY,covid19,covid19
+64,en,be_BY,COVID-19 epidemic,эпідэмія COVID-19
+65,en,be_BY,COVID-19 outbreak,выбух COVID-19
+66,en,be_BY,COVID-19 pandemic,пандэмія COVID-19
+67,en,be_BY,COVID 19,COVID 19
+68,en,be_BY,current crisis,бягучы крызіс
+69,en,be_BY,current health crisis,бягучы крызіс аховы здароўя
+70,en,be_BY,current outbreak,бягучы выбух
+71,en,be_BY,current pandemic,бягучая пандэмія
+72,en,be_BY,CV,CV
+73,en,be_BY,CV-19,CV-19
+74,en,be_BY,deadly,смяротны
+75,en,be_BY,deadly virus,смяротны вірус
+76,en,be_BY,death rate,узровень смяротнасці
+77,en,be_BY,death toll,колькасць смярцей
+78,en,be_BY,decontaminate,дэзінфікаваць
+79,en,be_BY,detectable,выяўляемы
+80,en,be_BY,detergent,мыйны сродак
+81,en,be_BY,difficulty breathing,цяжкасці з дыханнем
+82,en,be_BY,diabetes,дыябет
+83,en,be_BY,diagnosable disease,захворванне, якое можна дыягнаставаць
+84,en,be_BY,diagnostic protocol,дыягнастычны пратакол
+85,en,be_BY,diagnostic testing,дыягнастычнае тэсціраванне
+86,en,be_BY,disease itself,само захворванне
+87,en,be_BY,disease outbreak,выбух захворвання
+88,en,be_BY,disinfectant,дэзінфектант
+89,en,be_BY,disposable,аднаразовы
+90,en,be_BY,droplet transmission,дробнакапельная перадача
+91,en,be_BY,droplets,дробныя каплі
+92,en,be_BY,dry cough,сухі кашаль
+93,en,be_BY,dry surface contamination,заражэнне праз сухую паверхню
+94,en,be_BY,ebola,эбола
+95,en,be_BY,effective treatment,эфектыўнае лячэнне
+96,en,be_BY,electron microscope,электронны мікраскоп
+97,en,be_BY,emergency department,аддзяленне экстраннай дапамогі
+98,en,be_BY,epidemic,эпідэмія
+99,en,be_BY,epidemic curve,віток эпідэміі
+100,en,be_BY,epidemic peak,пік эпідэміі
+101,en,be_BY,epidemiologist,эпідэміёлаг
+102,en,be_BY,exposure,кантакт
+103,en,be_BY,extreme caution,надзвычайная асцярожнасць
+104,en,be_BY,eye protection,абарона вачэй
+105,en,be_BY,face mask,медыцынская маска
+106,en,be_BY,face masks,медыцынскія маскі
+107,en,be_BY,family cluster,сямейная група
+108,en,be_BY,fatality rate,узровень смяротнасці
+109,en,be_BY,fecal contamination,забруджанне фекаліямі
+110,en,be_BY,fever,гарачка
+111,en,be_BY,flatten the infection curve,спрасціць крывую інфіцыравання
+112,en,be_BY,flu,грып
+113,en,be_BY,food safety,бяспека прадуктаў харчавання
+114,en,be_BY,formaldehyde,фармальдэгід
+115,en,be_BY,gastroenteritis,гастраэнтэрыт
+116,en,be_BY,germicide,бактэрыцыдны сродак
+117,en,be_BY,global pandemic,глабальная пандэмія
+118,en,be_BY,global warming,глабальнае пацяпленне
+119,en,be_BY,good respiratory hygiene,добрая дыхальная гігіена
+120,en,be_BY,Guangdong,Гуандун
+121,en,be_BY,H1N1,H1N1
+122,en,be_BY,H1N1 virus,вірус H1N1
+123,en,be_BY,hand disinfectant,дэзінфектант для рук
+124,en,be_BY,hand sanitizer,антысептык для рук
+125,en,be_BY,health care provider,медыцынскі супрацоўнік
+126,en,be_BY,health crisis,крызіс аховы здароўя
+127,en,be_BY,health plan carrier,выканаўца плана па ахове здароўя
+128,en,be_BY,health services,паслугі аховы здароўя
+129,en,be_BY,heart failure,сардэчная недастатковасць
+130,en,be_BY,high fever,высокая тэмпература
+131,en,be_BY,HIV,ВІЧ
+132,en,be_BY,hospitalize,шпіталізаваць
+133,en,be_BY,household bleach,хатні адбельвацель
+134,en,be_BY,Hubei,Хубэй
+135,en,be_BY,hydrogen peroxide,перакіс вадароду
+136,en,be_BY,hygiene,гігіена
+137,en,be_BY,immune system,імунная сістэма
+138,en,be_BY,immunity,імунітэт
+139,en,be_BY,immunocompromised,з пашкоджаным імунітэтам
+140,en,be_BY,immunologist,імунолаг
+141,en,be_BY,incubation,інкубацыя
+142,en,be_BY,incubation period,інкубацыйны перыяд
+143,en,be_BY,indirect contact,ускосны кантакт
+144,en,be_BY,infect,заразіць
+145,en,be_BY,infection,інфекцыя
+146,en,be_BY,infectious,заразны
+147,en,be_BY,infectivity,заразнасць
+148,en,be_BY,influenza,інфлюэнца
+149,en,be_BY,initial transmission event,першае заражэнне
+150,en,be_BY,intensive care equipment,рэанімацыйнае абсталяванне
+151,en,be_BY,intermediate host,прамежкавы гаспадар
+152,en,be_BY,intrauterine,унутрыматачны
+153,en,be_BY,intubation,інтубацыя
+154,en,be_BY,isolation,ізаляцыя
+155,en,be_BY,Isopropanol,ізапрапанол
+156,en,be_BY,laboratory test kit,набор для лабараторнага тэсту
+157,en,be_BY,laboratory testing,лабараторнае даследаванне
+158,en,be_BY,lack of testing,недахоп тэсціравання
+159,en,be_BY,lack of tests,недахоп тэстаў
+160,en,be_BY,latest updates,апошняя інфармацыя
+161,en,be_BY,liver failure,адмова печані
+162,en,be_BY,local public health authority,мясцовы аддзел аховы здароўя
+163,en,be_BY,lockdown,блакіраванне
+164,en,be_BY,lungs,лёгкія
+165,en,be_BY,masks,маскі
+166,en,be_BY,measles,адзёр
+167,en,be_BY,mechanical ventilation,механічная вентыляцыя
+168,en,be_BY,media coverage,асвятленне ў СМІ
+169,en,be_BY,medical care,медыцынскі догляд
+170,en,be_BY,MERS,MERS (блізкаўсходні рэспіраторны сіндром)
+171,en,be_BY,MERS CoV,MERS CoV
+172,en,be_BY,microbiologist,мікрабіёлаг
+173,en,be_BY,mild cough,лёгкі кашаль
+174,en,be_BY,mortality rate,смяротнасць
+175,en,be_BY,multi-organ failure,адмова некалькіх органаў
+176,en,be_BY,nasal congestion,закладзены нос
+177,en,be_BY,neutral detergent,нейтральны мыйны сродак
+178,en,be_BY,new normal,новая норма
+179,en,be_BY,novel corona virus,новы каранавірус
+180,en,be_BY,novel coronavirus,новы каранавірус
+181,en,be_BY,novel coronavirus outbreak,выбух новага каранавіруса
+182,en,be_BY,novel virus,новы вірус
+183,en,be_BY,online medical consultation,медыцынская кансультацыя ў інтэрнэце
+184,en,be_BY,onset,пачатак хваробы
+185,en,be_BY,outbreak,выбух
+186,en,be_BY,outbreak readiness,гатоўнасць да выбуху
+187,en,be_BY,overall case fatality,агульны ўзровень смяротнасці
+188,en,be_BY,pandemic,пандэмія
+189,en,be_BY,pangolin,пангалін
+190,en,be_BY,pathogen,патаген
+191,en,be_BY,pathology,паталогія
+192,en,be_BY,patient care equipment,абсталяванне для доследу за пацыентам
+193,en,be_BY,personal protective equipment,асабістае абароннае абсталяванне
+194,en,be_BY,person-to-person transmission,перадача ад чалавека чалавеку
+195,en,be_BY,phlegm,макрота
+196,en,be_BY,physical contact,фізічны кантакт
+197,en,be_BY,plague,чума
+198,en,be_BY,pneumonia,пнеўманія
+199,en,be_BY,pneumonias,пнеўманіі
+200,en,be_BY,positive test,пазітыўны тэст
+201,en,be_BY,precaution,перасцярога
+202,en,be_BY,precautionary,прафілактычны
+203,en,be_BY,pre-existing condition,ужо існуючая хвароба
+204,en,be_BY,preparedness,гатоўнасць
+205,en,be_BY,prognosis,прагноз
+206,en,be_BY,protect myself,абараніць сябе
+207,en,be_BY,protect others,абараніць іншых
+208,en,be_BY,protect yourself,абараніце сябе
+209,en,be_BY,protective measures,прафілактычныя меры
+210,en,be_BY,public health crisis,крызіс аховы здароўя
+211,en,be_BY,pulmonary tissue damage,пашкоджанне лёгачных тканак
+212,en,be_BY,quarantine,каранцін
+213,en,be_BY,rapid risk assessment,хуткая ацэнка рызыкі
+214,en,be_BY,reagent,рэагент
+215,en,be_BY,regular flu,звычайны грып
+216,en,be_BY,reinfection,паўторнае заражэнне
+217,en,be_BY,renal disease,нырачная недастатковасць
+218,en,be_BY,renal failure,адмова нырак
+219,en,be_BY,respirator,рэспіратар
+220,en,be_BY,respiratory,рэспіраторны
+221,en,be_BY,respiratory disease,рэспіраторнае захворванне
+222,en,be_BY,respiratory distress,задышка
+223,en,be_BY,respiratory droplets,дробныя кроплі падчас дыхання
+224,en,be_BY,respiratory hygiene,рэспіраторная гігіена
+225,en,be_BY,respiratory illness,рэспіраторнае захворванне
+226,en,be_BY,respiratory syndrome,рэспіраторны сіндром
+227,en,be_BY,respiratory tract disease,захворванне рэспіраторнага тракту
+228,en,be_BY,restrictions,абмежаванні
+229,en,be_BY,resurge,новая хваля
+230,en,be_BY,RNA,РНК
+231,en,be_BY,rubeola,адзёр
+232,en,be_BY,runny nose,насмарк
+233,en,be_BY,SARS,SARS (атыпічная пнеўманія)
+234,en,be_BY,SARS-CoV-2,SARS-CoV-2
+235,en,be_BY,SARS-CoV,SARS-CoV
+236,en,be_BY,sars-related coronavirus,каранавірус, звязаны з атыпічнай пнеўманіяй
+237,en,be_BY,seasonal flu,сезонны грып
+238,en,be_BY,seasonal influenza,сезонная інфлюэнца
+239,en,be_BY,secretion,выдзяленні
+240,en,be_BY,self-quarantine,самаізаляцыя
+241,en,be_BY,sepsis,сэпсіс
+242,en,be_BY,septic shock,септычны шок
+243,en,be_BY,Severe Acute Respiratory Syndrome,атыпічная пнеўманія
+244,en,be_BY,shortness of breath,задышка
+245,en,be_BY,sickened,хворы
+246,en,be_BY,sickness,хвароба
+247,en,be_BY,sneeze,чханне
+248,en,be_BY,sneezes,чханні
+249,en,be_BY,sneezing,чханне
+250,en,be_BY,social distancing,сацыяльнае дыстанцыраванне
+251,en,be_BY,sore throat,хворае горла
+252,en,be_BY,spanish flu,іспанка
+253,en,be_BY,specimen collection,збіранне ўзораў
+254,en,be_BY,spread,распаўсюджваць
+255,en,be_BY,sputum,сліна
+256,en,be_BY,stigmatisation,стыгматызацыя
+257,en,be_BY,supportive,замяшчальны
+258,en,be_BY,surface,паверхня
+259,en,be_BY,surfaces,паверхні
+260,en,be_BY,suspected infection,меркаваная інфекцыя
+261,en,be_BY,swab,праціраць
+262,en,be_BY,swine flu,свіны грып
+263,en,be_BY,symptom,сімптом
+264,en,be_BY,symptomatic,сімптаматычны
+265,en,be_BY,symptoms,сімптомы
+266,en,be_BY,targeted disinfection,мэтавая дэзінфекцыя
+267,en,be_BY,test kit,тэставы набор
+268,en,be_BY,testing error,памылка тэсту
+269,en,be_BY,tissue damage,пашкоджанне тканкі
+270,en,be_BY,tp shortage,недахоп туалетнай паперы
+271,en,be_BY,toilet paper shortage,недахоп туалетнай паперы
+272,en,be_BY,touch,дакранацца
+273,en,be_BY,touching,дакрананне
+274,en,be_BY,transmissibility,перадаваемасць
+275,en,be_BY,transmissible,што перадаецца
+276,en,be_BY,transmission,перадача
+277,en,be_BY,transmission potential,патэнцыял перадаваемасці
+278,en,be_BY,typical flu,тыповы грып
+279,en,be_BY,underlying disease,схаваная хвароба
+280,en,be_BY,updates,абнаўленні
+281,en,be_BY,vaccine,вакцына
+282,en,be_BY,vaccines,вакцыны
+283,en,be_BY,ventilation,вентыляцыя
+284,en,be_BY,ventilator,вентылятар
+285,en,be_BY,ventilators,вентылятары
+286,en,be_BY,viral infection,вірусная інфекцыя
+287,en,be_BY,viral outbreak,выбух вірусу
+288,en,be_BY,viral pandemic,пандэмія вірусу
+289,en,be_BY,viral pneumonia,вірусная пнеўманія
+290,en,be_BY,virtual care,віртуальны догляд
+291,en,be_BY,virulence,вірулентнасць
+292,en,be_BY,virus itself,непасрэдна вірус
+293,en,be_BY,virus outbreak,выбух віруса
+294,en,be_BY,virus scare,страх перад вірусам
+295,en,be_BY,virus spreads,распаўсюджанне віруса
+296,en,be_BY,virus strain,дэфармацыя віруса
+297,en,be_BY,viral transmission,перадача віруса
+298,en,be_BY,vivid-19,vivid-19
+299,en,be_BY,washing hands,мыццё рук
+300,en,be_BY,washing ones hands,мыццё рук
+301,en,be_BY,wash your hands,мыйце рукі
+302,en,be_BY,white blood cell count,колькасць белых крывяных цельцаў
+303,en,be_BY,widespread transmission,шырокае распаўсюджанне
+304,en,be_BY,working from home,аддаленая праца
+305,en,be_BY,WFH,аддаленая праца
+306,en,be_BY,Wuhan,Ухань

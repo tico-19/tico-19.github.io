@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,vi_VN,1918 flu,Dịch cúm năm 1918
+2,en,vi_VN,acute bronchitis,viêm phế quản cấp tính
+3,en,vi_VN,acute respiratory disease,bệnh viêm đường hô hấp cấp
+4,en,vi_VN,AIDS,AIDS
+5,en,vi_VN,airborne droplets,giọt bắn qua không khí
+6,en,vi_VN,airway,đường hô hấp
+7,en,vi_VN,alcohol-based,có chứa chất cồn
+8,en,vi_VN,alcohol-based hand rub,dung dịch rửa tay có chứa chất cồn
+9,en,vi_VN,alcohol-based hand sanitizer,nước rửa tay có chứa chất cồn
+10,en,vi_VN,alveolar disease,bệnh sán chó
+11,en,vi_VN,an epidemic,một dịch bệnh
+12,en,vi_VN,annual flu,cúm hàng năm
+13,en,vi_VN,anti-inflammatory drug,thuốc kháng viêm
+14,en,vi_VN,antiviral drug,thuốc kháng virus
+15,en,vi_VN,antiviral treatment,điều trị kháng virus
+16,en,vi_VN,assay,xét nghiệm
+17,en,vi_VN,asymptomatic,không có triệu chứng
+18,en,vi_VN,avian flu,cúm gia cầm
+19,en,vi_VN,Black Plague,Cái Chết Đen
+20,en,vi_VN,blood pressure,huyết áp
+21,en,vi_VN,body fluid,dịch cơ thể
+22,en,vi_VN,breathing,thở
+23,en,vi_VN,bubonic plague,bệnh dịch hạch thể hạch
+24,en,vi_VN,c19,c19
+25,en,vi_VN,cv19,cv19
+26,en,vi_VN,case fatality rate,tỷ lệ tử vong ca bệnh
+27,en,vi_VN,causative agent,tác nhân gây bệnh
+28,en,vi_VN,CDC,CDC
+29,en,vi_VN,chemical disinfection,khử trùng bằng hóa chất
+30,en,vi_VN,chest x-ray,chụp hình X-quang ngực
+31,en,vi_VN,clinical diagnosis,chẩn đoán lâm sàng
+32,en,vi_VN,clinical trial,thử nghiệm lâm sàng
+33,en,vi_VN,close contact,tiếp xúc gần
+34,en,vi_VN,cvirus,cvirus
+35,en,vi_VN,chronic respiratory disease,bệnh hô hấp mãn tính
+36,en,vi_VN,common cold,cảm lạnh thông thường
+37,en,vi_VN,common flu,cúm thông thường
+38,en,vi_VN,communicable disease,bệnh truyền nhiễm
+39,en,vi_VN,community spread,lây lan trong cộng đồng
+40,en,vi_VN,community transmission,lây bệnh trong cộng đồng
+41,en,vi_VN,compromised immune system,hệ thống miễn dịch yếu
+42,en,vi_VN,contagion,sự lây lan
+43,en,vi_VN,contagious,dễ lây nhiễm
+44,en,vi_VN,contagiousness,sự dễ lây nhiễm
+45,en,vi_VN,corona,corona
+46,en,vi_VN,corona virus,virus corona
+47,en,vi_VN,corona virus epidemic,dịch bệnh virus corona
+48,en,vi_VN,corona virus outbreak,đợt bùng phát virus corona
+49,en,vi_VN,corona virus scare,nỗi sợ hãi virus corona
+50,en,vi_VN,coronavirus,virus corona
+51,en,vi_VN,coronavirus cases,các ca bệnh virus corona
+52,en,vi_VN,coronavirus outbreak,đợt bùng phát virus corona
+53,en,vi_VN,coronavirus pandemic,đại dịch virus corona
+54,en,vi_VN,coronavirus scare,nỗi sợ hãi virus corona
+55,en,vi_VN,cough,ho
+56,en,vi_VN,cough etiquette,cách thức ho
+57,en,vi_VN,coughing,ho
+58,en,vi_VN,cov 19,cov 19
+59,en,vi_VN,cov19,cov19
+60,en,vi_VN,COVID,COVID
+61,en,vi_VN,COVID-19 crisis,khủng hoảng COVID-19
+62,en,vi_VN,covid-19,covid-19
+63,en,vi_VN,covid19,covid19
+64,en,vi_VN,COVID-19 epidemic,dịch bệnh COVID-19
+65,en,vi_VN,COVID-19 outbreak,đợt bùng phát COVID-19
+66,en,vi_VN,COVID-19 pandemic,đại dịch COVID-19
+67,en,vi_VN,COVID 19,COVID 19
+68,en,vi_VN,current crisis,khủng hoảng hiện tại
+69,en,vi_VN,current health crisis,khủng hoảng y tế hiện tại
+70,en,vi_VN,current outbreak,đợt bùng phát hiện tại
+71,en,vi_VN,current pandemic,đại dịch hiện tại
+72,en,vi_VN,CV,CV
+73,en,vi_VN,CV-19,CV-19
+74,en,vi_VN,deadly,chết người
+75,en,vi_VN,deadly virus,virus gây chết người
+76,en,vi_VN,death rate,tỷ lệ tử vong
+77,en,vi_VN,death toll,số người tử vong
+78,en,vi_VN,decontaminate,khử nhiễm
+79,en,vi_VN,detectable,có thể phát hiện
+80,en,vi_VN,detergent,chất tẩy
+81,en,vi_VN,difficulty breathing,khó thở
+82,en,vi_VN,diabetes,bệnh tiểu đường
+83,en,vi_VN,diagnosable disease,bệnh có thể chẩn đoán
+84,en,vi_VN,diagnostic protocol,quy trình chẩn đoán
+85,en,vi_VN,diagnostic testing,xét nghiệm chẩn đoán
+86,en,vi_VN,disease itself,chính căn bệnh
+87,en,vi_VN,disease outbreak,đợt bùng phát bệnh
+88,en,vi_VN,disinfectant,thuốc khử trùng
+89,en,vi_VN,disposable,dùng một lần
+90,en,vi_VN,droplet transmission,truyền bệnh qua giọt bắn
+91,en,vi_VN,droplets,giọt bắn
+92,en,vi_VN,dry cough,ho khan
+93,en,vi_VN,dry surface contamination,nhiễm khuẩn bề mặt khô ráo
+94,en,vi_VN,ebola,ebola
+95,en,vi_VN,effective treatment,điều trị hiệu quả
+96,en,vi_VN,electron microscope,kính hiển vi điện tử
+97,en,vi_VN,emergency department,khoa cấp cứu
+98,en,vi_VN,epidemic,dịch bệnh
+99,en,vi_VN,epidemic curve,đường cong dịch bệnh
+100,en,vi_VN,epidemic peak,đỉnh dịch
+101,en,vi_VN,epidemiologist,nhà dịch tễ học
+102,en,vi_VN,exposure,tiếp xúc
+103,en,vi_VN,extreme caution,hết sức thận trọng
+104,en,vi_VN,eye protection,bảo vệ mắt
+105,en,vi_VN,face mask,khẩu trang
+106,en,vi_VN,face masks,khẩu trang
+107,en,vi_VN,family cluster,nhóm gia đình
+108,en,vi_VN,fatality rate,tỷ lệ tử vong
+109,en,vi_VN,fecal contamination,nhiễm phân
+110,en,vi_VN,fever,sốt
+111,en,vi_VN,flatten the infection curve,làm phẳng đường cong
+112,en,vi_VN,flu,cúm
+113,en,vi_VN,food safety,an toàn thực phẩm
+114,en,vi_VN,formaldehyde,formaldehyde
+115,en,vi_VN,gastroenteritis,viêm dạ dày
+116,en,vi_VN,germicide,thuốc sát trùng
+117,en,vi_VN,global pandemic,đại dịch toàn cầu
+118,en,vi_VN,global warming,trái đất ấm dần
+119,en,vi_VN,good respiratory hygiene,vệ sinh đường hô hấp tốt
+120,en,vi_VN,Guangdong,Quảng Đông
+121,en,vi_VN,H1N1,H1N1
+122,en,vi_VN,H1N1 virus,virus H1N1
+123,en,vi_VN,hand disinfectant,nước rửa tay
+124,en,vi_VN,hand sanitizer,dung dịch rửa tay khô
+125,en,vi_VN,health care provider,bác sĩ
+126,en,vi_VN,health crisis,khủng hoảng y tế
+127,en,vi_VN,health plan carrier,tên bảo hiểm sức khỏe
+128,en,vi_VN,health services,dịch vụ y tế
+129,en,vi_VN,heart failure,suy tim
+130,en,vi_VN,high fever,sốt cao
+131,en,vi_VN,HIV,HIV
+132,en,vi_VN,hospitalize,nhập viện
+133,en,vi_VN,household bleach,thuốc tẩy
+134,en,vi_VN,Hubei,Hồ Bắc
+135,en,vi_VN,hydrogen peroxide,ôxy già
+136,en,vi_VN,hygiene,vệ sinh
+137,en,vi_VN,immune system,hệ thống miễn dịch
+138,en,vi_VN,immunity,miễn dịch
+139,en,vi_VN,immunocompromised,suy giảm miễn dịch
+140,en,vi_VN,immunologist,nhà miễn dịch học
+141,en,vi_VN,incubation,ủ bệnh
+142,en,vi_VN,incubation period,thời kỳ ủ bệnh
+143,en,vi_VN,indirect contact,tiếp xúc gián tiếp
+144,en,vi_VN,infect,lây nhiễm
+145,en,vi_VN,infection,sự lây nhiễm
+146,en,vi_VN,infectious,dễ lây nhiễm
+147,en,vi_VN,infectivity,tính lây nhiễm
+148,en,vi_VN,influenza,cúm
+149,en,vi_VN,initial transmission event,ca lây nhiễm đầu tiên
+150,en,vi_VN,intensive care equipment,trang thiết bị chăm sóc đặc biệt
+151,en,vi_VN,intermediate host,vật chủ trung gian
+152,en,vi_VN,intrauterine,tử cung
+153,en,vi_VN,intubation,luồn ống
+154,en,vi_VN,isolation,cách ly
+155,en,vi_VN,Isopropanol,Isopropanol
+156,en,vi_VN,laboratory test kit,bộ dụng cụ xét nghiệm
+157,en,vi_VN,laboratory testing,xét nghiệm
+158,en,vi_VN,lack of testing,thiếu xét nghiệm
+159,en,vi_VN,lack of tests,thiếu thí nghiệm
+160,en,vi_VN,latest updates,thông tin cập nhật mới nhất
+161,en,vi_VN,liver failure,suy gan
+162,en,vi_VN,local public health authority,cơ quan y tế công cộng ở địa phương
+163,en,vi_VN,lockdown,phong tỏa
+164,en,vi_VN,lungs,phổi
+165,en,vi_VN,masks,mặt nạ
+166,en,vi_VN,measles,bệnh sởi
+167,en,vi_VN,mechanical ventilation,hệ thống thông gió
+168,en,vi_VN,media coverage,tin tức truyền thông
+169,en,vi_VN,medical care,chăm sóc y tế
+170,en,vi_VN,MERS,MERS
+171,en,vi_VN,MERS CoV,MERS CoV
+172,en,vi_VN,microbiologist,nhà vi trùng học
+173,en,vi_VN,mild cough,ho nhẹ
+174,en,vi_VN,mortality rate,tỷ lệ tử vong
+175,en,vi_VN,multi-organ failure,suy đa tạng
+176,en,vi_VN,nasal congestion,nghẹt mũi
+177,en,vi_VN,neutral detergent,dung dịch tẩy rửa trung tính
+178,en,vi_VN,new normal,chuẩn mực mới
+179,en,vi_VN,novel corona virus,virus corona mới
+180,en,vi_VN,novel coronavirus,virus corona mới
+181,en,vi_VN,novel coronavirus outbreak,đợt bùng phát virus corona mới
+182,en,vi_VN,novel virus,virus mới
+183,en,vi_VN,online medical consultation,tư vấn y tế trực tuyến
+184,en,vi_VN,onset,phát bệnh
+185,en,vi_VN,outbreak,đợt bùng phát
+186,en,vi_VN,outbreak readiness,sẵn sàng ứng phó đợt bùng phát
+187,en,vi_VN,overall case fatality,Tỷ lệ tử vong chung
+188,en,vi_VN,pandemic,đại dịch
+189,en,vi_VN,pangolin,con tê tê
+190,en,vi_VN,pathogen,mầm bệnh
+191,en,vi_VN,pathology,bệnh lý học
+192,en,vi_VN,patient care equipment,trang thiết bị chăm sóc bệnh nhân
+193,en,vi_VN,personal protective equipment,trang thiết bị bảo hộ cá nhân
+194,en,vi_VN,person-to-person transmission,truyền bệnh từ người sang người
+195,en,vi_VN,phlegm,đờm
+196,en,vi_VN,physical contact,tiếp xúc trực tiếp
+197,en,vi_VN,plague,bệnh dịch
+198,en,vi_VN,pneumonia,viêm phổi
+199,en,vi_VN,pneumonias,viêm phổi
+200,en,vi_VN,positive test,xét nghiệm dương tính
+201,en,vi_VN,precaution,phòng ngừa
+202,en,vi_VN,precautionary,để phòng ngừa
+203,en,vi_VN,pre-existing condition,điều kiện có từ trước
+204,en,vi_VN,preparedness,sẵn sàng ứng phó
+205,en,vi_VN,prognosis,tiên lượng
+206,en,vi_VN,protect myself,bảo vệ bản thân
+207,en,vi_VN,protect others,bảo vệ người khác
+208,en,vi_VN,protect yourself,bảo vệ chính bạn
+209,en,vi_VN,protective measures,các biện pháp bảo vệ
+210,en,vi_VN,public health crisis,khủng hoảng y tế công
+211,en,vi_VN,pulmonary tissue damage,tổn thương mô phổi
+212,en,vi_VN,quarantine,cách ly
+213,en,vi_VN,rapid risk assessment,đánh giá rủi ro nhanh
+214,en,vi_VN,reagent,thuốc thử
+215,en,vi_VN,regular flu,cúm thông thường
+216,en,vi_VN,reinfection,tái nhiễm
+217,en,vi_VN,renal disease,bệnh thận
+218,en,vi_VN,renal failure,suy thận
+219,en,vi_VN,respirator,máy hô hấp nhân tạo
+220,en,vi_VN,respiratory,hô hấp
+221,en,vi_VN,respiratory disease,bệnh đường hô hấp
+222,en,vi_VN,respiratory distress,suy hô hấp
+223,en,vi_VN,respiratory droplets,giọt bắn qua đường thở
+224,en,vi_VN,respiratory hygiene,vệ sinh đường hô hấp
+225,en,vi_VN,respiratory illness,bệnh về đường hô hấp
+226,en,vi_VN,respiratory syndrome,hội chứng viêm đường hô hấp
+227,en,vi_VN,respiratory tract disease,bệnh về đường hô hấp
+228,en,vi_VN,restrictions,hạn chế
+229,en,vi_VN,resurge,hồi sinh
+230,en,vi_VN,RNA,RNA
+231,en,vi_VN,rubeola,rubella
+232,en,vi_VN,runny nose,sổ mũi
+233,en,vi_VN,SARS,SARS
+234,en,vi_VN,SARS-CoV-2,SARS-CoV-2
+235,en,vi_VN,SARS-CoV,SARS-CoV
+236,en,vi_VN,sars-related coronavirus,virus corona có liên quan đến sars
+237,en,vi_VN,seasonal flu,cúm mùa
+238,en,vi_VN,seasonal influenza,cúm mùa
+239,en,vi_VN,secretion,chất bài tiết
+240,en,vi_VN,self-quarantine,tự cách ly
+241,en,vi_VN,sepsis,nhiễm trùng huyết
+242,en,vi_VN,septic shock,sốc bội nhiễm
+243,en,vi_VN,Severe Acute Respiratory Syndrome,Hội chứng viêm đường hô hấp cấp
+244,en,vi_VN,shortness of breath,khó thở
+245,en,vi_VN,sickened,gây bệnh
+246,en,vi_VN,sickness,bệnh
+247,en,vi_VN,sneeze,nhảy mũi
+248,en,vi_VN,sneezes,hắt hơi
+249,en,vi_VN,sneezing,hắt hơi
+250,en,vi_VN,social distancing,cách ly xã hội
+251,en,vi_VN,sore throat,đau họng
+252,en,vi_VN,spanish flu,Dịch cúm Tây Ban Nha
+253,en,vi_VN,specimen collection,thu thập các mẫu vật
+254,en,vi_VN,spread,lây lan
+255,en,vi_VN,sputum,đờm
+256,en,vi_VN,stigmatisation,kỳ thị
+257,en,vi_VN,supportive,ủng hộ
+258,en,vi_VN,surface,bề mặt
+259,en,vi_VN,surfaces,các bề mặt
+260,en,vi_VN,suspected infection,nghi ngờ nhiễm trùng
+261,en,vi_VN,swab,bông cứu thương
+262,en,vi_VN,swine flu,cúm heo
+263,en,vi_VN,symptom,triệu chứng
+264,en,vi_VN,symptomatic,có triệu chứng
+265,en,vi_VN,symptoms,các triệu chứng
+266,en,vi_VN,targeted disinfection,khử trùng theo mục tiêu
+267,en,vi_VN,test kit,bộ công cụ xét nghiệm
+268,en,vi_VN,testing error,lỗi xét nghiệm
+269,en,vi_VN,tissue damage,tổn thương mô
+270,en,vi_VN,tp shortage,thiếu giấy vs
+271,en,vi_VN,toilet paper shortage,thiếu giấy vệ sinh
+272,en,vi_VN,touch,chạm
+273,en,vi_VN,touching,chạm
+274,en,vi_VN,transmissibility,sự lây nhiễm
+275,en,vi_VN,transmissible,truyền nhiễm
+276,en,vi_VN,transmission,lây nhiễm
+277,en,vi_VN,transmission potential,nguy cơ lây nhiễm
+278,en,vi_VN,typical flu,cúm thông thường
+279,en,vi_VN,underlying disease,bệnh lý nền
+280,en,vi_VN,updates,thông tin cập nhật
+281,en,vi_VN,vaccine,vắc-xin
+282,en,vi_VN,vaccines,vắc-xin
+283,en,vi_VN,ventilation,thông khí
+284,en,vi_VN,ventilator,máy thở
+285,en,vi_VN,ventilators,máy thở
+286,en,vi_VN,viral infection,nhiễm virus
+287,en,vi_VN,viral outbreak,sự bùng phát virus
+288,en,vi_VN,viral pandemic,đại dịch virus
+289,en,vi_VN,viral pneumonia,viêm phổi do virus
+290,en,vi_VN,virtual care,chăm sóc ảo
+291,en,vi_VN,virulence,độc lực
+292,en,vi_VN,virus itself,bản thân virus
+293,en,vi_VN,virus outbreak,sự bùng phát virus
+294,en,vi_VN,virus scare,nỗi sợ hãi virus
+295,en,vi_VN,virus spreads,sự lây lan virus
+296,en,vi_VN,virus strain,chủng virus
+297,en,vi_VN,viral transmission,sự lan truyền virus
+298,en,vi_VN,vivid-19,vivid-19
+299,en,vi_VN,washing hands,rửa tay
+300,en,vi_VN,washing ones hands,rửa tay
+301,en,vi_VN,wash your hands,rửa tay
+302,en,vi_VN,white blood cell count,số lượng tế bào máu trắng
+303,en,vi_VN,widespread transmission,sự lan truyền rộng rãi
+304,en,vi_VN,working from home,làm việc tại nhà
+305,en,vi_VN,WFH,Làm việc tại nhà
+306,en,vi_VN,Wuhan,Wuhan

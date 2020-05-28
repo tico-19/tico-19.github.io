@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,da_DK,1918 flu,1918-influenzaen
+2,en,da_DK,acute bronchitis,akut bronkitis
+3,en,da_DK,acute respiratory disease,akut luftvejssygdom
+4,en,da_DK,AIDS,AIDS
+5,en,da_DK,airborne droplets,luftbårne dråber
+6,en,da_DK,airway,luftveje
+7,en,da_DK,alcohol-based,alkoholbaseret
+8,en,da_DK,alcohol-based hand rub,alkoholbaseret håndcreme
+9,en,da_DK,alcohol-based hand sanitizer,alkoholbaseret håndrensningsmiddel
+10,en,da_DK,alveolar disease,alveolær sygdom
+11,en,da_DK,an epidemic,en epidemi
+12,en,da_DK,annual flu,årlig influenza
+13,en,da_DK,anti-inflammatory drug,antiinflammatorisk lægemiddel
+14,en,da_DK,antiviral drug,antiviralt lægemiddel
+15,en,da_DK,antiviral treatment,antiviral behandling
+16,en,da_DK,assay,undersøgelse
+17,en,da_DK,asymptomatic,asymptomatisk
+18,en,da_DK,avian flu,fugleinfluenza
+19,en,da_DK,Black Plague,Den sorte pest
+20,en,da_DK,blood pressure,blodtryk
+21,en,da_DK,body fluid,kropsvæske
+22,en,da_DK,breathing,vejrtrækning
+23,en,da_DK,bubonic plague,byldepest
+24,en,da_DK,c19,c19
+25,en,da_DK,cv19,cv19
+26,en,da_DK,case fatality rate,dødelighed per sag
+27,en,da_DK,causative agent,forårsagende middel
+28,en,da_DK,CDC,CDC
+29,en,da_DK,chemical disinfection,kemisk desinfektion
+30,en,da_DK,chest x-ray,røntgenbillede af brystet
+31,en,da_DK,clinical diagnosis,klinisk diagnose
+32,en,da_DK,clinical trial,klinisk forsøg
+33,en,da_DK,close contact,tæt kontakt
+34,en,da_DK,cvirus,cvirus
+35,en,da_DK,chronic respiratory disease,kronisk luftvejssygdom
+36,en,da_DK,common cold,almindelig forkølelse
+37,en,da_DK,common flu,almindelig influenza
+38,en,da_DK,communicable disease,overførbar sygdom
+39,en,da_DK,community spread,samfundsspredning
+40,en,da_DK,community transmission,samfundstransmission
+41,en,da_DK,compromised immune system,kompromitteret immunsystem
+42,en,da_DK,contagion,smittefare
+43,en,da_DK,contagious,smitsom
+44,en,da_DK,contagiousness,smitsomhed
+45,en,da_DK,corona,corona
+46,en,da_DK,corona virus,coronavirus
+47,en,da_DK,corona virus epidemic,coronavirus-epidemi
+48,en,da_DK,corona virus outbreak,coronavirus-udbrud
+49,en,da_DK,corona virus scare,coronavirus-frygt
+50,en,da_DK,coronavirus,coronavirus
+51,en,da_DK,coronavirus cases,tilfælde af coronavirus
+52,en,da_DK,coronavirus outbreak,coronavirus-udbrud
+53,en,da_DK,coronavirus pandemic,coronavirus-pandemi
+54,en,da_DK,coronavirus scare,coronavirus-frygt
+55,en,da_DK,cough,hoste
+56,en,da_DK,cough etiquette,hostetikette
+57,en,da_DK,coughing,hoster
+58,en,da_DK,cov 19,cov 19
+59,en,da_DK,cov19,cov19
+60,en,da_DK,COVID,COVID
+61,en,da_DK,COVID-19 crisis,COVID-19-krise
+62,en,da_DK,covid-19,covid-19
+63,en,da_DK,covid19,covid19
+64,en,da_DK,COVID-19 epidemic,COVID-19-epidemi
+65,en,da_DK,COVID-19 outbreak,COVID-19 udbrud
+66,en,da_DK,COVID-19 pandemic,COVID-19-pandemi
+67,en,da_DK,COVID 19,COVID 19
+68,en,da_DK,current crisis,nuværende krise
+69,en,da_DK,current health crisis,nuværende sundhedskrise
+70,en,da_DK,current outbreak,nuværende udbrud
+71,en,da_DK,current pandemic,nuværende pandemi
+72,en,da_DK,CV,CV
+73,en,da_DK,CV-19,CV-19
+74,en,da_DK,deadly,dødelig
+75,en,da_DK,deadly virus,dødbringende virus
+76,en,da_DK,death rate,dødsrate
+77,en,da_DK,death toll,dødstal
+78,en,da_DK,decontaminate,dekontaminer
+79,en,da_DK,detectable,detekterbar
+80,en,da_DK,detergent,rengøringsmiddel
+81,en,da_DK,difficulty breathing,åndedrætsbesvær
+82,en,da_DK,diabetes,diabetes
+83,en,da_DK,diagnosable disease,diagnosticerbar sygdom
+84,en,da_DK,diagnostic protocol,diagnostisk protokol
+85,en,da_DK,diagnostic testing,diagnostisk test
+86,en,da_DK,disease itself,selve sygdommen
+87,en,da_DK,disease outbreak,sygdomsudbrud
+88,en,da_DK,disinfectant,desinfektionsmiddel
+89,en,da_DK,disposable,engangsbrug
+90,en,da_DK,droplet transmission,dråbetransmission
+91,en,da_DK,droplets,dråber
+92,en,da_DK,dry cough,tør hoste
+93,en,da_DK,dry surface contamination,forurening på tørre overflader
+94,en,da_DK,ebola,ebola
+95,en,da_DK,effective treatment,effektiv behandling
+96,en,da_DK,electron microscope,elektronmikroskop
+97,en,da_DK,emergency department,skadestue
+98,en,da_DK,epidemic,epidemi
+99,en,da_DK,epidemic curve,epidemikurve
+100,en,da_DK,epidemic peak,epidemisk top
+101,en,da_DK,epidemiologist,epidemiolog
+102,en,da_DK,exposure,udsættelse
+103,en,da_DK,extreme caution,ekstrem forsigtighed
+104,en,da_DK,eye protection,øjenbeskyttelse
+105,en,da_DK,face mask,ansigtsmaske
+106,en,da_DK,face masks,ansigtsmasker
+107,en,da_DK,family cluster,familieklynge
+108,en,da_DK,fatality rate,dødelighed
+109,en,da_DK,fecal contamination,fækal kontaminering
+110,en,da_DK,fever,feber
+111,en,da_DK,flatten the infection curve,stræk infektionskurven
+112,en,da_DK,flu,influenza
+113,en,da_DK,food safety,fødevaresikkerhed
+114,en,da_DK,formaldehyde,formaldehyd
+115,en,da_DK,gastroenteritis,gastroenteritis
+116,en,da_DK,germicide,germicid
+117,en,da_DK,global pandemic,global pandemi
+118,en,da_DK,global warming,global opvarmning
+119,en,da_DK,good respiratory hygiene,god åndedrætshygiejne
+120,en,da_DK,Guangdong,Guangdong
+121,en,da_DK,H1N1,H1N1
+122,en,da_DK,H1N1 virus,H1N1-virus
+123,en,da_DK,hand disinfectant,hånd-desinfektionsmiddel
+124,en,da_DK,hand sanitizer,håndsprit
+125,en,da_DK,health care provider,sundhedsudbyder
+126,en,da_DK,health crisis,sundhedskrise
+127,en,da_DK,health plan carrier,sundhedsplan-udbyder
+128,en,da_DK,health services,sundhedsydelser
+129,en,da_DK,heart failure,hjertefejl
+130,en,da_DK,high fever,høj feber
+131,en,da_DK,HIV,HIV
+132,en,da_DK,hospitalize,indlægge
+133,en,da_DK,household bleach,husholdningsblegemiddel
+134,en,da_DK,Hubei,Hubei
+135,en,da_DK,hydrogen peroxide,brintoverilte
+136,en,da_DK,hygiene,hygiejne
+137,en,da_DK,immune system,immunsystem
+138,en,da_DK,immunity,immunitet
+139,en,da_DK,immunocompromised,immunsvækkede
+140,en,da_DK,immunologist,immunolog
+141,en,da_DK,incubation,inkubation
+142,en,da_DK,incubation period,inkubationsperiode
+143,en,da_DK,indirect contact,indirekte kontakt
+144,en,da_DK,infect,inficere
+145,en,da_DK,infection,infektion
+146,en,da_DK,infectious,smitsom
+147,en,da_DK,infectivity,infektionsevne
+148,en,da_DK,influenza,influenza
+149,en,da_DK,initial transmission event,indledende transmissionsbegivenhed
+150,en,da_DK,intensive care equipment,udstyr til intensiv pleje
+151,en,da_DK,intermediate host,intermediær vært
+152,en,da_DK,intrauterine,intrauterin
+153,en,da_DK,intubation,intubation
+154,en,da_DK,isolation,isolation
+155,en,da_DK,Isopropanol,isopropanol
+156,en,da_DK,laboratory test kit,laboratorietestsæt
+157,en,da_DK,laboratory testing,laboratorietest
+158,en,da_DK,lack of testing,mangel på testning
+159,en,da_DK,lack of tests,mangel på test
+160,en,da_DK,latest updates,seneste opdateringer
+161,en,da_DK,liver failure,leversvigt
+162,en,da_DK,local public health authority,lokal offentlig sundhedsmyndighed
+163,en,da_DK,lockdown,lockdown
+164,en,da_DK,lungs,lunger
+165,en,da_DK,masks,masker
+166,en,da_DK,measles,mæslinger
+167,en,da_DK,mechanical ventilation,mekanisk ventilation
+168,en,da_DK,media coverage,mediedækning
+169,en,da_DK,medical care,lægebehandling
+170,en,da_DK,MERS,MERS
+171,en,da_DK,MERS CoV,MERS CoV
+172,en,da_DK,microbiologist,mikrobiolog
+173,en,da_DK,mild cough,mild hoste
+174,en,da_DK,mortality rate,dødelighed
+175,en,da_DK,multi-organ failure,multiorgansvigt
+176,en,da_DK,nasal congestion,nasal overbelastning
+177,en,da_DK,neutral detergent,neutralt rengøringsmiddel
+178,en,da_DK,new normal,nye normal
+179,en,da_DK,novel corona virus,ny coronavirus
+180,en,da_DK,novel coronavirus,ny coronavirus
+181,en,da_DK,novel coronavirus outbreak,ny coronavirus-udbrud
+182,en,da_DK,novel virus,ny virus
+183,en,da_DK,online medical consultation,online medicinsk konsultation
+184,en,da_DK,onset,indtræden
+185,en,da_DK,outbreak,udbrud
+186,en,da_DK,outbreak readiness,udbrudsberedskab
+187,en,da_DK,overall case fatality,samlet antal dødsfald
+188,en,da_DK,pandemic,pandemi
+189,en,da_DK,pangolin,pangolin
+190,en,da_DK,pathogen,patogen
+191,en,da_DK,pathology,patologi
+192,en,da_DK,patient care equipment,udstyr til patientpleje
+193,en,da_DK,personal protective equipment,personlig beskyttelsesudstyr
+194,en,da_DK,person-to-person transmission,person-til-person transmission
+195,en,da_DK,phlegm,slim
+196,en,da_DK,physical contact,fysisk kontakt
+197,en,da_DK,plague,pest
+198,en,da_DK,pneumonia,lungebetændelse
+199,en,da_DK,pneumonias,lungebetændelser
+200,en,da_DK,positive test,positiv test
+201,en,da_DK,precaution,forsigtighed
+202,en,da_DK,precautionary,forsigtighedsprincippet
+203,en,da_DK,pre-existing condition,forudgående tilstand
+204,en,da_DK,preparedness,beredskab
+205,en,da_DK,prognosis,prognose
+206,en,da_DK,protect myself,beskytte mig selv
+207,en,da_DK,protect others,beskytte andre
+208,en,da_DK,protect yourself,beskytte dig selv
+209,en,da_DK,protective measures,beskyttelsesforanstaltninger
+210,en,da_DK,public health crisis,folkesundhedskrise
+211,en,da_DK,pulmonary tissue damage,lungevævsskade
+212,en,da_DK,quarantine,karantæne
+213,en,da_DK,rapid risk assessment,hurtig risikovurdering
+214,en,da_DK,reagent,reagens
+215,en,da_DK,regular flu,almidelig influenza
+216,en,da_DK,reinfection,reinfektion
+217,en,da_DK,renal disease,nyresygdom
+218,en,da_DK,renal failure,nyresvigt
+219,en,da_DK,respirator,respirator
+220,en,da_DK,respiratory,luftveje
+221,en,da_DK,respiratory disease,luftvejssygdom
+222,en,da_DK,respiratory distress,åndedrætsbesvær
+223,en,da_DK,respiratory droplets,luftvejsdråber
+224,en,da_DK,respiratory hygiene,luftvejshygiejne
+225,en,da_DK,respiratory illness,luftvejssygdom
+226,en,da_DK,respiratory syndrome,luftvejssyndrom
+227,en,da_DK,respiratory tract disease,luftvejslidelse
+228,en,da_DK,restrictions,restriktioner
+229,en,da_DK,resurge,nye bølge
+230,en,da_DK,RNA,RNA
+231,en,da_DK,rubeola,rubeola
+232,en,da_DK,runny nose,løbende næse
+233,en,da_DK,SARS,SARS
+234,en,da_DK,SARS-CoV-2,SARS-CoV-2
+235,en,da_DK,SARS-CoV,SARS-CoV
+236,en,da_DK,sars-related coronavirus,sars-relateret coronavirus
+237,en,da_DK,seasonal flu,sæsonbestemt influenza
+238,en,da_DK,seasonal influenza,sæsonbestemt influenza
+239,en,da_DK,secretion,sekretion
+240,en,da_DK,self-quarantine,selvkarantæne
+241,en,da_DK,sepsis,sepsis
+242,en,da_DK,septic shock,septisk chok
+243,en,da_DK,Severe Acute Respiratory Syndrome,Svær akut respiratorisk syndrom
+244,en,da_DK,shortness of breath,stakåndet
+245,en,da_DK,sickened,sygelig
+246,en,da_DK,sickness,sygdom
+247,en,da_DK,sneeze,nys
+248,en,da_DK,sneezes,nys
+249,en,da_DK,sneezing,nysen
+250,en,da_DK,social distancing,social afstand
+251,en,da_DK,sore throat,ondt i halsen
+252,en,da_DK,spanish flu,spansk influenza
+253,en,da_DK,specimen collection,prøveindsamling
+254,en,da_DK,spread,spredning
+255,en,da_DK,sputum,spyt
+256,en,da_DK,stigmatisation,stigmatisering
+257,en,da_DK,supportive,støttende
+258,en,da_DK,surface,overflade
+259,en,da_DK,surfaces,overflader
+260,en,da_DK,suspected infection,mistanke om infektion
+261,en,da_DK,swab,vatpind
+262,en,da_DK,swine flu,svineinfluenza
+263,en,da_DK,symptom,symptom
+264,en,da_DK,symptomatic,symptomatisk
+265,en,da_DK,symptoms,symptomer
+266,en,da_DK,targeted disinfection,målrettet desinfektion
+267,en,da_DK,test kit,testsæt
+268,en,da_DK,testing error,testfejl
+269,en,da_DK,tissue damage,vævsskade
+270,en,da_DK,tp shortage,toiletpapirmangel
+271,en,da_DK,toilet paper shortage,mangel på toiletpapir
+272,en,da_DK,touch,berøring
+273,en,da_DK,touching,rører
+274,en,da_DK,transmissibility,transmissionsevne
+275,en,da_DK,transmissible,transmissionsbar
+276,en,da_DK,transmission,transmission
+277,en,da_DK,transmission potential,transmissionspotentiale
+278,en,da_DK,typical flu,typisk influenza
+279,en,da_DK,underlying disease,underliggende sygdom
+280,en,da_DK,updates,opdateringer
+281,en,da_DK,vaccine,vaccine
+282,en,da_DK,vaccines,vacciner
+283,en,da_DK,ventilation,ventilation
+284,en,da_DK,ventilator,ventilatoren
+285,en,da_DK,ventilators,ventilatorer
+286,en,da_DK,viral infection,virusinfektion
+287,en,da_DK,viral outbreak,viralt udbrud
+288,en,da_DK,viral pandemic,viral pandemi
+289,en,da_DK,viral pneumonia,viral lungebetændelse
+290,en,da_DK,virtual care,virtuel pleje
+291,en,da_DK,virulence,virulens
+292,en,da_DK,virus itself,selve virussen
+293,en,da_DK,virus outbreak,virusudbrud
+294,en,da_DK,virus scare,virusfrygt
+295,en,da_DK,virus spreads,virus spreder sig
+296,en,da_DK,virus strain,virusstamme
+297,en,da_DK,viral transmission,viral transmission
+298,en,da_DK,vivid-19,vivid-19
+299,en,da_DK,washing hands,vask hænder
+300,en,da_DK,washing ones hands,at vaske hænderne
+301,en,da_DK,wash your hands,vask dine hænder
+302,en,da_DK,white blood cell count,antal hvide blodlegemer
+303,en,da_DK,widespread transmission,udbredt transmission
+304,en,da_DK,working from home,arbejd hjemmefra
+305,en,da_DK,WFH,WFH
+306,en,da_DK,Wuhan,Wuhan

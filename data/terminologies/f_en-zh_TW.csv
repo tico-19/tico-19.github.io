@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,zh_TW,1918 flu,1918年流感
+2,en,zh_TW,acute bronchitis,急性支氣管炎
+3,en,zh_TW,acute respiratory disease,急性呼吸系統疾病
+4,en,zh_TW,AIDS,艾滋病
+5,en,zh_TW,airborne droplets,空氣傳播的飛沫
+6,en,zh_TW,airway,氣道
+7,en,zh_TW,alcohol-based,基於酒精的
+8,en,zh_TW,alcohol-based hand rub,酒精基擦手液
+9,en,zh_TW,alcohol-based hand sanitizer,酒精基洗手液
+10,en,zh_TW,alveolar disease,肺泡疾病
+11,en,zh_TW,an epidemic,一個流行病
+12,en,zh_TW,annual flu,年度流感
+13,en,zh_TW,anti-inflammatory drug,抗炎藥
+14,en,zh_TW,antiviral drug,抗病毒藥
+15,en,zh_TW,antiviral treatment,抗病毒治療
+16,en,zh_TW,assay,化驗
+17,en,zh_TW,asymptomatic,無症狀的
+18,en,zh_TW,avian flu,禽流感
+19,en,zh_TW,Black Plague,黑死病
+20,en,zh_TW,blood pressure,血壓
+21,en,zh_TW,body fluid,體液
+22,en,zh_TW,breathing,呼吸中
+23,en,zh_TW,bubonic plague,腺鼠疫
+24,en,zh_TW,c19,c19
+25,en,zh_TW,cv19,cv19
+26,en,zh_TW,case fatality rate,病死率
+27,en,zh_TW,causative agent,病因
+28,en,zh_TW,CDC,美國疾病控制與預防中心（CDC）
+29,en,zh_TW,chemical disinfection,化學消毒
+30,en,zh_TW,chest x-ray,胸部X光
+31,en,zh_TW,clinical diagnosis,臨床診斷
+32,en,zh_TW,clinical trial,臨床試驗
+33,en,zh_TW,close contact,親密接觸
+34,en,zh_TW,cvirus,c病毒
+35,en,zh_TW,chronic respiratory disease,慢性呼吸系統疾病
+36,en,zh_TW,common cold,普通感冒
+37,en,zh_TW,common flu,普通流感
+38,en,zh_TW,communicable disease,傳染病
+39,en,zh_TW,community spread,社區傳播
+40,en,zh_TW,community transmission,社區傳播
+41,en,zh_TW,compromised immune system,受損免疫系統
+42,en,zh_TW,contagion,傳染
+43,en,zh_TW,contagious,傳染性的
+44,en,zh_TW,contagiousness,傳染性
+45,en,zh_TW,corona,冠狀
+46,en,zh_TW,corona virus,冠狀病毒
+47,en,zh_TW,corona virus epidemic,冠狀病毒流行病
+48,en,zh_TW,corona virus outbreak,冠狀病毒爆發
+49,en,zh_TW,corona virus scare,冠狀病毒恐慌
+50,en,zh_TW,coronavirus,冠狀病毒
+51,en,zh_TW,coronavirus cases,冠狀病毒病例
+52,en,zh_TW,coronavirus outbreak,冠狀病毒爆發
+53,en,zh_TW,coronavirus pandemic,冠狀病毒流行病
+54,en,zh_TW,coronavirus scare,冠狀病毒恐慌
+55,en,zh_TW,cough,咳嗽
+56,en,zh_TW,cough etiquette,咳嗽禮節
+57,en,zh_TW,coughing,咳嗽
+58,en,zh_TW,cov 19,cov 19
+59,en,zh_TW,cov19,cov19
+60,en,zh_TW,COVID,COVID
+61,en,zh_TW,COVID-19 crisis,COVID-19危機
+62,en,zh_TW,covid-19,covid-19
+63,en,zh_TW,covid19,covid19
+64,en,zh_TW,COVID-19 epidemic,COVID-19流行病
+65,en,zh_TW,COVID-19 outbreak,COVID-19爆發
+66,en,zh_TW,COVID-19 pandemic,COVID-19流行病
+67,en,zh_TW,COVID 19,COVID 19
+68,en,zh_TW,current crisis,目前的危機
+69,en,zh_TW,current health crisis,目前的健康危機
+70,en,zh_TW,current outbreak,目前的爆發
+71,en,zh_TW,current pandemic,目前的流行病
+72,en,zh_TW,CV,CV
+73,en,zh_TW,CV-19,CV-19
+74,en,zh_TW,deadly,致命的
+75,en,zh_TW,deadly virus,致命病毒
+76,en,zh_TW,death rate,死亡率
+77,en,zh_TW,death toll,死亡人數
+78,en,zh_TW,decontaminate,去污
+79,en,zh_TW,detectable,可檢測的
+80,en,zh_TW,detergent,洗滌劑
+81,en,zh_TW,difficulty breathing,呼吸困難
+82,en,zh_TW,diabetes,糖尿病
+83,en,zh_TW,diagnosable disease,可診斷的疾病
+84,en,zh_TW,diagnostic protocol,診斷協議
+85,en,zh_TW,diagnostic testing,診斷測試
+86,en,zh_TW,disease itself,疾病本身
+87,en,zh_TW,disease outbreak,疾病爆發
+88,en,zh_TW,disinfectant,消毒劑
+89,en,zh_TW,disposable,一次性的
+90,en,zh_TW,droplet transmission,飛沫傳播
+91,en,zh_TW,droplets,飛沫
+92,en,zh_TW,dry cough,乾咳
+93,en,zh_TW,dry surface contamination,乾燥表面污染
+94,en,zh_TW,ebola,埃博拉病毒
+95,en,zh_TW,effective treatment,有效的治療
+96,en,zh_TW,electron microscope,電子顯微鏡
+97,en,zh_TW,emergency department,急診科
+98,en,zh_TW,epidemic,流行病
+99,en,zh_TW,epidemic curve,流行曲線
+100,en,zh_TW,epidemic peak,流行高峰
+101,en,zh_TW,epidemiologist,流行病學家
+102,en,zh_TW,exposure,曝光
+103,en,zh_TW,extreme caution,極其謹慎
+104,en,zh_TW,eye protection,保護眼睛
+105,en,zh_TW,face mask,面罩
+106,en,zh_TW,face masks,面罩
+107,en,zh_TW,family cluster,家庭集群
+108,en,zh_TW,fatality rate,病死率
+109,en,zh_TW,fecal contamination,糞便污染
+110,en,zh_TW,fever,發燒
+111,en,zh_TW,flatten the infection curve,展平感染曲線
+112,en,zh_TW,flu,流感
+113,en,zh_TW,food safety,食品安全
+114,en,zh_TW,formaldehyde,甲醛
+115,en,zh_TW,gastroenteritis,腸胃炎
+116,en,zh_TW,germicide,殺菌劑
+117,en,zh_TW,global pandemic,全球流行病
+118,en,zh_TW,global warming,全球暖化
+119,en,zh_TW,good respiratory hygiene,良好的呼吸衛生
+120,en,zh_TW,Guangdong,廣東
+121,en,zh_TW,H1N1,H1N1
+122,en,zh_TW,H1N1 virus,H1N1病毒
+123,en,zh_TW,hand disinfectant,洗手劑
+124,en,zh_TW,hand sanitizer,洗手液
+125,en,zh_TW,health care provider,健康護理提供者
+126,en,zh_TW,health crisis,健康危機
+127,en,zh_TW,health plan carrier,健康計劃載體
+128,en,zh_TW,health services,健康服務
+129,en,zh_TW,heart failure,心臟衰竭
+130,en,zh_TW,high fever,高燒
+131,en,zh_TW,HIV,艾滋病毒
+132,en,zh_TW,hospitalize,住院
+133,en,zh_TW,household bleach,家用漂白劑
+134,en,zh_TW,Hubei,湖北
+135,en,zh_TW,hydrogen peroxide,過氧化氫
+136,en,zh_TW,hygiene,衛生
+137,en,zh_TW,immune system,免疫系統
+138,en,zh_TW,immunity,免疫
+139,en,zh_TW,immunocompromised,免疫系統受損的
+140,en,zh_TW,immunologist,免疫學家
+141,en,zh_TW,incubation,潛伏
+142,en,zh_TW,incubation period,潛伏期
+143,en,zh_TW,indirect contact,間接接觸
+144,en,zh_TW,infect,感染
+145,en,zh_TW,infection,感染
+146,en,zh_TW,infectious,傳染性的
+147,en,zh_TW,infectivity,傳染性
+148,en,zh_TW,influenza,流感
+149,en,zh_TW,initial transmission event,初次傳播事件
+150,en,zh_TW,intensive care equipment,重症監護設備
+151,en,zh_TW,intermediate host,中間宿主
+152,en,zh_TW,intrauterine,子宮內的
+153,en,zh_TW,intubation,插管術
+154,en,zh_TW,isolation,隔離
+155,en,zh_TW,Isopropanol,異丙醇
+156,en,zh_TW,laboratory test kit,實驗室測試套件
+157,en,zh_TW,laboratory testing,實驗室測試
+158,en,zh_TW,lack of testing,缺乏測試
+159,en,zh_TW,lack of tests,缺乏測試
+160,en,zh_TW,latest updates,最新更新
+161,en,zh_TW,liver failure,肝功能衰竭
+162,en,zh_TW,local public health authority,當地公共衛生局
+163,en,zh_TW,lockdown,封閉
+164,en,zh_TW,lungs,肺
+165,en,zh_TW,masks,口罩
+166,en,zh_TW,measles,麻疹
+167,en,zh_TW,mechanical ventilation,機械通風
+168,en,zh_TW,media coverage,媒體報導
+169,en,zh_TW,medical care,醫療護理
+170,en,zh_TW,MERS,中東呼吸綜合症
+171,en,zh_TW,MERS CoV,MERS CoV
+172,en,zh_TW,microbiologist,微生物學家
+173,en,zh_TW,mild cough,輕度咳嗽
+174,en,zh_TW,mortality rate,死亡率
+175,en,zh_TW,multi-organ failure,多器官衰竭
+176,en,zh_TW,nasal congestion,鼻塞
+177,en,zh_TW,neutral detergent,中性洗滌劑
+178,en,zh_TW,new normal,新常態
+179,en,zh_TW,novel corona virus,新型冠狀病毒
+180,en,zh_TW,novel coronavirus,新型冠狀病毒
+181,en,zh_TW,novel coronavirus outbreak,新型冠狀病毒爆發
+182,en,zh_TW,novel virus,新型病毒
+183,en,zh_TW,online medical consultation,在線醫療諮詢
+184,en,zh_TW,onset,發病
+185,en,zh_TW,outbreak,爆發
+186,en,zh_TW,outbreak readiness,爆發準備
+187,en,zh_TW,overall case fatality,總體病死率
+188,en,zh_TW,pandemic,流行病
+189,en,zh_TW,pangolin,穿山甲
+190,en,zh_TW,pathogen,病原體
+191,en,zh_TW,pathology,病理學
+192,en,zh_TW,patient care equipment,病人護理設備
+193,en,zh_TW,personal protective equipment,個人保護設備
+194,en,zh_TW,person-to-person transmission,人與人之間的傳播
+195,en,zh_TW,phlegm,痰
+196,en,zh_TW,physical contact,身體接觸
+197,en,zh_TW,plague,瘟疫
+198,en,zh_TW,pneumonia,肺炎
+199,en,zh_TW,pneumonias,肺炎
+200,en,zh_TW,positive test,陽性測試
+201,en,zh_TW,precaution,預防
+202,en,zh_TW,precautionary,預防措施
+203,en,zh_TW,pre-existing condition,既存條件
+204,en,zh_TW,preparedness,準備
+205,en,zh_TW,prognosis,預後
+206,en,zh_TW,protect myself,保護自己
+207,en,zh_TW,protect others,保護他人
+208,en,zh_TW,protect yourself,保護自己
+209,en,zh_TW,protective measures,保護措施
+210,en,zh_TW,public health crisis,公共衛生危機
+211,en,zh_TW,pulmonary tissue damage,肺組織損傷
+212,en,zh_TW,quarantine,隔離
+213,en,zh_TW,rapid risk assessment,快速風險評估
+214,en,zh_TW,reagent,試劑
+215,en,zh_TW,regular flu,普通流感
+216,en,zh_TW,reinfection,再感染
+217,en,zh_TW,renal disease,腎臟疾病
+218,en,zh_TW,renal failure,腎衰竭
+219,en,zh_TW,respirator,呼吸器
+220,en,zh_TW,respiratory,呼吸的
+221,en,zh_TW,respiratory disease,呼吸系統疾病
+222,en,zh_TW,respiratory distress,呼吸困難
+223,en,zh_TW,respiratory droplets,呼吸飛沫
+224,en,zh_TW,respiratory hygiene,呼吸衛生
+225,en,zh_TW,respiratory illness,呼吸系統疾病
+226,en,zh_TW,respiratory syndrome,呼吸綜合徵
+227,en,zh_TW,respiratory tract disease,呼吸道疾病
+228,en,zh_TW,restrictions,限制
+229,en,zh_TW,resurge,重現
+230,en,zh_TW,RNA,核糖核酸（RNA）
+231,en,zh_TW,rubeola,麻疹
+232,en,zh_TW,runny nose,流鼻涕
+233,en,zh_TW,SARS,非典
+234,en,zh_TW,SARS-CoV-2,SARS-CoV-2
+235,en,zh_TW,SARS-CoV,SARS-CoV
+236,en,zh_TW,sars-related coronavirus,非典相關冠狀病毒
+237,en,zh_TW,seasonal flu,季節性流感
+238,en,zh_TW,seasonal influenza,季節性流感
+239,en,zh_TW,secretion,分泌
+240,en,zh_TW,self-quarantine,自我檢疫
+241,en,zh_TW,sepsis,敗血症
+242,en,zh_TW,septic shock,敗血性休克
+243,en,zh_TW,Severe Acute Respiratory Syndrome,嚴重急性呼吸系統綜合症
+244,en,zh_TW,shortness of breath,呼吸急促
+245,en,zh_TW,sickened,生病的
+246,en,zh_TW,sickness,疾病
+247,en,zh_TW,sneeze,打噴嚏
+248,en,zh_TW,sneezes,打噴嚏
+249,en,zh_TW,sneezing,打噴嚏
+250,en,zh_TW,social distancing,保持安全社交距離
+251,en,zh_TW,sore throat,咽喉痛
+252,en,zh_TW,spanish flu,1918年流感大流行
+253,en,zh_TW,specimen collection,標本採集
+254,en,zh_TW,spread,傳播
+255,en,zh_TW,sputum,痰
+256,en,zh_TW,stigmatisation,侮蔑
+257,en,zh_TW,supportive,支持的
+258,en,zh_TW,surface,表面
+259,en,zh_TW,surfaces,表面
+260,en,zh_TW,suspected infection,疑似感染
+261,en,zh_TW,swab,拭子
+262,en,zh_TW,swine flu,豬流感
+263,en,zh_TW,symptom,症狀
+264,en,zh_TW,symptomatic,有症狀的
+265,en,zh_TW,symptoms,症狀
+266,en,zh_TW,targeted disinfection,定向消毒
+267,en,zh_TW,test kit,測試套件
+268,en,zh_TW,testing error,測試錯誤
+269,en,zh_TW,tissue damage,軟組織挫傷
+270,en,zh_TW,tp shortage,衛生紙短缺
+271,en,zh_TW,toilet paper shortage,衛生紙短缺
+272,en,zh_TW,touch,觸摸
+273,en,zh_TW,touching,觸摸
+274,en,zh_TW,transmissibility,可傳遞性
+275,en,zh_TW,transmissible,可傳播的
+276,en,zh_TW,transmission,傳播
+277,en,zh_TW,transmission potential,傳播可能性
+278,en,zh_TW,typical flu,典型的流感
+279,en,zh_TW,underlying disease,潛在疾病
+280,en,zh_TW,updates,更新
+281,en,zh_TW,vaccine,疫苗
+282,en,zh_TW,vaccines,疫苗
+283,en,zh_TW,ventilation,通風
+284,en,zh_TW,ventilator,通風機
+285,en,zh_TW,ventilators,通風機
+286,en,zh_TW,viral infection,病毒感染
+287,en,zh_TW,viral outbreak,病毒爆發
+288,en,zh_TW,viral pandemic,病毒流行病
+289,en,zh_TW,viral pneumonia,病毒性肺炎
+290,en,zh_TW,virtual care,虛擬護理
+291,en,zh_TW,virulence,毒力
+292,en,zh_TW,virus itself,病毒本身
+293,en,zh_TW,virus outbreak,病毒爆發
+294,en,zh_TW,virus scare,病毒恐慌
+295,en,zh_TW,virus spreads,病毒傳播
+296,en,zh_TW,virus strain,病毒株
+297,en,zh_TW,viral transmission,病毒傳播
+298,en,zh_TW,vivid-19,vivid-19
+299,en,zh_TW,washing hands,洗手
+300,en,zh_TW,washing ones hands,洗手
+301,en,zh_TW,wash your hands,洗您的手
+302,en,zh_TW,white blood cell count,白細胞計數
+303,en,zh_TW,widespread transmission,廣泛傳播
+304,en,zh_TW,working from home,在家工作
+305,en,zh_TW,WFH,在家工作
+306,en,zh_TW,Wuhan,武漢

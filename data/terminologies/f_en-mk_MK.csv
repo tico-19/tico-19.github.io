@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,mk_MK,1918 flu,Грип од 1918 година
+2,en,mk_MK,acute bronchitis,акутен борнхит
+3,en,mk_MK,acute respiratory disease,акутно респираторно заболување
+4,en,mk_MK,AIDS,СИДА
+5,en,mk_MK,airborne droplets,капки во воздухот
+6,en,mk_MK,airway,дишен пат
+7,en,mk_MK,alcohol-based,алкохолно
+8,en,mk_MK,alcohol-based hand rub,алкохолно средство за раце
+9,en,mk_MK,alcohol-based hand sanitizer,алкохолно дезинфекциско средство за рацете
+10,en,mk_MK,alveolar disease,алвеоларно заболување
+11,en,mk_MK,an epidemic,епидемија
+12,en,mk_MK,annual flu,сезонски грип
+13,en,mk_MK,anti-inflammatory drug,лек против воспаленија
+14,en,mk_MK,antiviral drug,лек против вирус
+15,en,mk_MK,antiviral treatment,третман против вирус
+16,en,mk_MK,assay,анализа
+17,en,mk_MK,asymptomatic,асимптоматично
+18,en,mk_MK,avian flu,птичји грип
+19,en,mk_MK,Black Plague,Црна чума
+20,en,mk_MK,blood pressure,крвен притисок
+21,en,mk_MK,body fluid,телесна течност
+22,en,mk_MK,breathing,дишење
+23,en,mk_MK,bubonic plague,Бубонска чума
+24,en,mk_MK,c19,c19
+25,en,mk_MK,cv19,cv19
+26,en,mk_MK,case fatality rate,стапка на фаталност на случаи
+27,en,mk_MK,causative agent,каузативен агенс
+28,en,mk_MK,CDC,CDC
+29,en,mk_MK,chemical disinfection,хемиска дезинфекција
+30,en,mk_MK,chest x-ray,рендген на гради
+31,en,mk_MK,clinical diagnosis,клиничка дијагноза
+32,en,mk_MK,clinical trial,клиничко испитување
+33,en,mk_MK,close contact,близок контакт
+34,en,mk_MK,cvirus,к-вирус
+35,en,mk_MK,chronic respiratory disease,хронично респираторно заболување
+36,en,mk_MK,common cold,обична настинка
+37,en,mk_MK,common flu,обичен грип
+38,en,mk_MK,communicable disease,заразно заболување
+39,en,mk_MK,community spread,ширење во заедницата
+40,en,mk_MK,community transmission,пренесување во заедницата
+41,en,mk_MK,compromised immune system,нарушен имунолошки систем
+42,en,mk_MK,contagion,зараза
+43,en,mk_MK,contagious,заразно
+44,en,mk_MK,contagiousness,заразност
+45,en,mk_MK,corona,корона
+46,en,mk_MK,corona virus,коронавирус
+47,en,mk_MK,corona virus epidemic,епидемија на коронавирус
+48,en,mk_MK,corona virus outbreak,епидемија на коронавирус
+49,en,mk_MK,corona virus scare,страв од коронавирус
+50,en,mk_MK,coronavirus,коронавирус
+51,en,mk_MK,coronavirus cases,случаи на коронавирус
+52,en,mk_MK,coronavirus outbreak,епидемија на коронавирус
+53,en,mk_MK,coronavirus pandemic,пандемија на коронавирус
+54,en,mk_MK,coronavirus scare,страв од коронавирус
+55,en,mk_MK,cough,кашлица
+56,en,mk_MK,cough etiquette,бонтон за кашлање
+57,en,mk_MK,coughing,кашлање
+58,en,mk_MK,cov 19,cov 19
+59,en,mk_MK,cov19,cov19
+60,en,mk_MK,COVID,COVID
+61,en,mk_MK,COVID-19 crisis,криза со COVID-19
+62,en,mk_MK,covid-19,covid-19
+63,en,mk_MK,covid19,covid19
+64,en,mk_MK,COVID-19 epidemic,епидемија на COVID-19
+65,en,mk_MK,COVID-19 outbreak,епидемија на COVID-19
+66,en,mk_MK,COVID-19 pandemic,пандемија на COVID-19
+67,en,mk_MK,COVID 19,COVID 19
+68,en,mk_MK,current crisis,моментална криза
+69,en,mk_MK,current health crisis,моментална здравствена криза
+70,en,mk_MK,current outbreak,моментална епидемија
+71,en,mk_MK,current pandemic,моментална пандемија
+72,en,mk_MK,CV,CV
+73,en,mk_MK,CV-19,CV-19
+74,en,mk_MK,deadly,смртоносно
+75,en,mk_MK,deadly virus,смртоносен вирус
+76,en,mk_MK,death rate,стапка на смртност
+77,en,mk_MK,death toll,број на смртни случаи
+78,en,mk_MK,decontaminate,деконтаминирај
+79,en,mk_MK,detectable,забележлив
+80,en,mk_MK,detergent,детергент
+81,en,mk_MK,difficulty breathing,тешкотии со дишењето
+82,en,mk_MK,diabetes,дијабетес
+83,en,mk_MK,diagnosable disease,дијагностицирачко заболување
+84,en,mk_MK,diagnostic protocol,дијагностички протокол
+85,en,mk_MK,diagnostic testing,дијагностичко тестирање
+86,en,mk_MK,disease itself,самото заболување
+87,en,mk_MK,disease outbreak,епидемија на заболување
+88,en,mk_MK,disinfectant,средство за дезинфекција
+89,en,mk_MK,disposable,за една употреба
+90,en,mk_MK,droplet transmission,пренос на капки
+91,en,mk_MK,droplets,капки
+92,en,mk_MK,dry cough,сува кашлица
+93,en,mk_MK,dry surface contamination,контаминација на сува површина
+94,en,mk_MK,ebola,ебола
+95,en,mk_MK,effective treatment,ефективен третман
+96,en,mk_MK,electron microscope,електронски микроскоп
+97,en,mk_MK,emergency department,оддел за итни случаи
+98,en,mk_MK,epidemic,епидемија
+99,en,mk_MK,epidemic curve,крива на епидемија
+100,en,mk_MK,epidemic peak,врв на епидемија
+101,en,mk_MK,epidemiologist,епидемиолог
+102,en,mk_MK,exposure,изложеност
+103,en,mk_MK,extreme caution,крајна претпазливост
+104,en,mk_MK,eye protection,заштита на очите
+105,en,mk_MK,face mask,маска за лице
+106,en,mk_MK,face masks,маски за лице
+107,en,mk_MK,family cluster,семејна група
+108,en,mk_MK,fatality rate,стапка на фаталност
+109,en,mk_MK,fecal contamination,фекална контаминација
+110,en,mk_MK,fever,грозница
+111,en,mk_MK,flatten the infection curve,опаѓање на крива на инфекција
+112,en,mk_MK,flu,грип
+113,en,mk_MK,food safety,безбедност на храна
+114,en,mk_MK,formaldehyde,формалдехид
+115,en,mk_MK,gastroenteritis,гастроентерит
+116,en,mk_MK,germicide,гермицид
+117,en,mk_MK,global pandemic,глобална пандемија
+118,en,mk_MK,global warming,глобално затоплување
+119,en,mk_MK,good respiratory hygiene,добра респираторна хигиена
+120,en,mk_MK,Guangdong,Гуангдонг
+121,en,mk_MK,H1N1,H1N1
+122,en,mk_MK,H1N1 virus,вирус H1N1
+123,en,mk_MK,hand disinfectant,средство за дезинфекција на рацете
+124,en,mk_MK,hand sanitizer,дезинфекциско средство за рацете
+125,en,mk_MK,health care provider,давател на здравствена нега
+126,en,mk_MK,health crisis,здравствена криза
+127,en,mk_MK,health plan carrier,носител на здравствена нега
+128,en,mk_MK,health services,здравствени услуги
+129,en,mk_MK,heart failure,срцева слабост
+130,en,mk_MK,high fever,висока грозница
+131,en,mk_MK,HIV,ХИВ
+132,en,mk_MK,hospitalize,хоспитализирај
+133,en,mk_MK,household bleach,белило за домаќинство
+134,en,mk_MK,Hubei,Hubei
+135,en,mk_MK,hydrogen peroxide,хидроген пероксид
+136,en,mk_MK,hygiene,хигиена
+137,en,mk_MK,immune system,имунолошки систем
+138,en,mk_MK,immunity,имунитет
+139,en,mk_MK,immunocompromised,имунолошко нарушување
+140,en,mk_MK,immunologist,имунолог
+141,en,mk_MK,incubation,инкубација
+142,en,mk_MK,incubation period,период на инкубација
+143,en,mk_MK,indirect contact,индиректен контакт
+144,en,mk_MK,infect,зарази
+145,en,mk_MK,infection,зараза
+146,en,mk_MK,infectious,заразно
+147,en,mk_MK,infectivity,заразност
+148,en,mk_MK,influenza,инфлуенца
+149,en,mk_MK,initial transmission event,настан на првично пренесување
+150,en,mk_MK,intensive care equipment,опрема за интензивна нега
+151,en,mk_MK,intermediate host,непосреден домаќин
+152,en,mk_MK,intrauterine,внатре матерично
+153,en,mk_MK,intubation,интубација
+154,en,mk_MK,isolation,изолација
+155,en,mk_MK,Isopropanol,изопропанол
+156,en,mk_MK,laboratory test kit,лабораториски тест комплет
+157,en,mk_MK,laboratory testing,лабораториско тестирање
+158,en,mk_MK,lack of testing,недостиг од тестирање
+159,en,mk_MK,lack of tests,недостиг од тестови
+160,en,mk_MK,latest updates,најнови настани
+161,en,mk_MK,liver failure,срцева на црниот дроб
+162,en,mk_MK,local public health authority,локални јавни здравствени власти
+163,en,mk_MK,lockdown,тотално затворање
+164,en,mk_MK,lungs,бели дробови
+165,en,mk_MK,masks,маски
+166,en,mk_MK,measles,сипаници
+167,en,mk_MK,mechanical ventilation,механичка вентилација
+168,en,mk_MK,media coverage,медиумска покриеност
+169,en,mk_MK,medical care,медицинска нега
+170,en,mk_MK,MERS,MERS
+171,en,mk_MK,MERS CoV,MERS CoV
+172,en,mk_MK,microbiologist,микробиолог
+173,en,mk_MK,mild cough,умерена кашлица
+174,en,mk_MK,mortality rate,стапка на смртност
+175,en,mk_MK,multi-organ failure,слабост на повеќе органи
+176,en,mk_MK,nasal congestion,назална затнатост
+177,en,mk_MK,neutral detergent,неутрален детергент
+178,en,mk_MK,new normal,нова нормалност
+179,en,mk_MK,novel corona virus,нов коронавирус
+180,en,mk_MK,novel coronavirus,нов коронавирус
+181,en,mk_MK,novel coronavirus outbreak,епидемија на нов коронавирус
+182,en,mk_MK,novel virus,нов вирус
+183,en,mk_MK,online medical consultation,онлајн медицинска консултација
+184,en,mk_MK,onset,почеток
+185,en,mk_MK,outbreak,епидемија
+186,en,mk_MK,outbreak readiness,подготвеност за епидемија
+187,en,mk_MK,overall case fatality,севкупна фаталност на случаи
+188,en,mk_MK,pandemic,пандемија
+189,en,mk_MK,pangolin,панголин
+190,en,mk_MK,pathogen,патоген
+191,en,mk_MK,pathology,патологија
+192,en,mk_MK,patient care equipment,опрема за нега на пациент
+193,en,mk_MK,personal protective equipment,лична заштитна опрема
+194,en,mk_MK,person-to-person transmission,пренесување од лице на лице
+195,en,mk_MK,phlegm,слуз
+196,en,mk_MK,physical contact,физички контакт
+197,en,mk_MK,plague,чума
+198,en,mk_MK,pneumonia,пневмонија
+199,en,mk_MK,pneumonias,пневмонии
+200,en,mk_MK,positive test,позитивен тест
+201,en,mk_MK,precaution,претпазливост
+202,en,mk_MK,precautionary,претпазливо
+203,en,mk_MK,pre-existing condition,претходна постоечка состојба
+204,en,mk_MK,preparedness,подготвеност
+205,en,mk_MK,prognosis,прогноза
+206,en,mk_MK,protect myself,да се заштитам
+207,en,mk_MK,protect others,да ги заштитам другите
+208,en,mk_MK,protect yourself,да се заштитиш
+209,en,mk_MK,protective measures,заштитни мерки
+210,en,mk_MK,public health crisis,криза со јавното здравје
+211,en,mk_MK,pulmonary tissue damage,оштетување на пулмонално ткиво
+212,en,mk_MK,quarantine,карантин
+213,en,mk_MK,rapid risk assessment,брза процена на ризик
+214,en,mk_MK,reagent,реагенс
+215,en,mk_MK,regular flu,редовен грип
+216,en,mk_MK,reinfection,повторно заразување
+217,en,mk_MK,renal disease,бубрежно заболување
+218,en,mk_MK,renal failure,бубрежна слабост
+219,en,mk_MK,respirator,респиратор
+220,en,mk_MK,respiratory,респираторно
+221,en,mk_MK,respiratory disease,респираторно заболување
+222,en,mk_MK,respiratory distress,респираторна истоштеност
+223,en,mk_MK,respiratory droplets,респираторни капки
+224,en,mk_MK,respiratory hygiene,респираторна хигиена
+225,en,mk_MK,respiratory illness,респираторна болест
+226,en,mk_MK,respiratory syndrome,респираторен синдром
+227,en,mk_MK,respiratory tract disease,заболување на распираторен тракт
+228,en,mk_MK,restrictions,рестрикции
+229,en,mk_MK,resurge,пораст
+230,en,mk_MK,RNA,РНК
+231,en,mk_MK,rubeola,рубеола
+232,en,mk_MK,runny nose,растечен нос
+233,en,mk_MK,SARS,SARS
+234,en,mk_MK,SARS-CoV-2,SARS-CoV-2
+235,en,mk_MK,SARS-CoV,SARS-CoV
+236,en,mk_MK,sars-related coronavirus,коронавирус поврзан со sars
+237,en,mk_MK,seasonal flu,сезонски грип
+238,en,mk_MK,seasonal influenza,сезонска инфлуенца
+239,en,mk_MK,secretion,секрет
+240,en,mk_MK,self-quarantine,самокарантин
+241,en,mk_MK,sepsis,сепса
+242,en,mk_MK,septic shock,септичен шок
+243,en,mk_MK,Severe Acute Respiratory Syndrome,Сериозен акутен респираторен синдром
+244,en,mk_MK,shortness of breath,недостиг од воздух
+245,en,mk_MK,sickened,разболен
+246,en,mk_MK,sickness,разболување
+247,en,mk_MK,sneeze,кивне
+248,en,mk_MK,sneezes,кива
+249,en,mk_MK,sneezing,кивање
+250,en,mk_MK,social distancing,социјално дистанцирање
+251,en,mk_MK,sore throat,болки во грло
+252,en,mk_MK,spanish flu,шпански грип
+253,en,mk_MK,specimen collection,земање примерок
+254,en,mk_MK,spread,ширење
+255,en,mk_MK,sputum,исплувок
+256,en,mk_MK,stigmatisation,стигматизација
+257,en,mk_MK,supportive,дава поддршка
+258,en,mk_MK,surface,површина
+259,en,mk_MK,surfaces,површини
+260,en,mk_MK,suspected infection,сомнеж за зараза
+261,en,mk_MK,swab,брис
+262,en,mk_MK,swine flu,свински грип
+263,en,mk_MK,symptom,симптом
+264,en,mk_MK,symptomatic,симптоматично
+265,en,mk_MK,symptoms,симптоми
+266,en,mk_MK,targeted disinfection,целена дезинфекција
+267,en,mk_MK,test kit,тест комплет
+268,en,mk_MK,testing error,грешка при тестирање
+269,en,mk_MK,tissue damage,оштетување на ткиво
+270,en,mk_MK,tp shortage,[TO REMOVE]
+271,en,mk_MK,toilet paper shortage,недостиг од тоалетна хартија
+272,en,mk_MK,touch,допир
+273,en,mk_MK,touching,допирање
+274,en,mk_MK,transmissibility,преносливост
+275,en,mk_MK,transmissible,преносливо
+276,en,mk_MK,transmission,пренос
+277,en,mk_MK,transmission potential,потенцијално пренесување
+278,en,mk_MK,typical flu,типичен грип
+279,en,mk_MK,underlying disease,главно заболување
+280,en,mk_MK,updates,новости
+281,en,mk_MK,vaccine,вакцина
+282,en,mk_MK,vaccines,вакцини
+283,en,mk_MK,ventilation,вентилација
+284,en,mk_MK,ventilator,вентилатор
+285,en,mk_MK,ventilators,вентилатори
+286,en,mk_MK,viral infection,вирусна инфекција
+287,en,mk_MK,viral outbreak,вирусна епидемија
+288,en,mk_MK,viral pandemic,вирусна пандемија
+289,en,mk_MK,viral pneumonia,вирусна пневмонија
+290,en,mk_MK,virtual care,виртуелна нега
+291,en,mk_MK,virulence,вируленција
+292,en,mk_MK,virus itself,самиот вирус
+293,en,mk_MK,virus outbreak,епидемија на вирус
+294,en,mk_MK,virus scare,страв од вирус
+295,en,mk_MK,virus spreads,ширење на вирус
+296,en,mk_MK,virus strain,варијанта на вирус
+297,en,mk_MK,viral transmission,вирусен пренос
+298,en,mk_MK,vivid-19,vivid-19
+299,en,mk_MK,washing hands,миење раце
+300,en,mk_MK,washing ones hands,миење нечии раце
+301,en,mk_MK,wash your hands,мијте ги рацете
+302,en,mk_MK,white blood cell count,број на бели крвни зрнца
+303,en,mk_MK,widespread transmission,широко пренесување
+304,en,mk_MK,working from home,работа од дома
+305,en,mk_MK,WFH,работа од дома
+306,en,mk_MK,Wuhan,Wuhan

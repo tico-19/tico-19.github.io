@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,pa_IN,1918 flu,1918 ਫਲੂ
+2,en,pa_IN,acute bronchitis,ਗੰਭੀਰ ਸੋਜ਼ਸ਼
+3,en,pa_IN,acute respiratory disease,ਸਾਹ ਦੀ ਗੰਭੀਰ ਬਿਮਾਰੀ
+4,en,pa_IN,AIDS,ਏਡਜ਼
+5,en,pa_IN,airborne droplets,ਹਵਾਦਾਰ ਬੂੰਦਾਂ
+6,en,pa_IN,airway,ਏਅਰਵੇ
+7,en,pa_IN,alcohol-based,ਅਲਕੋਹਲ ਵਾਲੀ ਚੀਜ਼
+8,en,pa_IN,alcohol-based hand rub,ਅਲਕੋਹਲ ਵਾਲਾ ਹੈਂਡ ਰੱਬ
+9,en,pa_IN,alcohol-based hand sanitizer,ਅਲਕੋਹਲ ਵਾਲਾ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+10,en,pa_IN,alveolar disease,ਦੰਤ ਪਠਾਰੀ ਰੋਗ
+11,en,pa_IN,an epidemic,ਇੱਕ ਮਹਾਂਮਾਰੀ
+12,en,pa_IN,annual flu,ਸਾਲਾਨਾ ਫਲੂ
+13,en,pa_IN,anti-inflammatory drug,ਸਾੜ-ਵਿਰੋਧੀ ਦਵਾਈ
+14,en,pa_IN,antiviral drug,ਐਂਟੀਵਾਇਰਲ ਦਵਾਈ
+15,en,pa_IN,antiviral treatment,ਐਂਟੀਵਾਇਰਲ ਇਲਾਜ
+16,en,pa_IN,assay,ਪਰਖ
+17,en,pa_IN,asymptomatic,ਲੱਛਣੀ
+18,en,pa_IN,avian flu,ਏਵੀਅਨ ਫਲੂ
+19,en,pa_IN,Black Plague,ਕਾਲਾ ਪਲੇਗ
+20,en,pa_IN,blood pressure,ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ
+21,en,pa_IN,body fluid,ਸਰੀਰ ਦਾ ਤਰਲ
+22,en,pa_IN,breathing,ਸਾਹ
+23,en,pa_IN,bubonic plague,ਬਯੂਬੌਨਿਕ ਪਲੇਗ
+24,en,pa_IN,c19,c19
+25,en,pa_IN,cv19,cv19
+26,en,pa_IN,case fatality rate,ਕੇਸ ਦੀ ਮੌਤ ਦਰ
+27,en,pa_IN,causative agent,ਕਾਰਨਿਕ ਏਜੰਟ
+28,en,pa_IN,CDC,ਸੀ.ਡੀ.ਸੀ.
+29,en,pa_IN,chemical disinfection,ਰਸਾਇਣਕ ਰੋਗਾਣੂ ਨਾਸ਼ਕ
+30,en,pa_IN,chest x-ray,ਛਾਤੀ ਦਾ ਐਕਸ-ਰੇ
+31,en,pa_IN,clinical diagnosis,ਕਲੀਨਿਕਲ ਤਸ਼ਖੀਸ
+32,en,pa_IN,clinical trial,ਕਲੀਨਿਕਲ ਟ੍ਰਾਇਲ
+33,en,pa_IN,close contact,ਨੇੜਲਾ ਸੰਪਰਕ
+34,en,pa_IN,cvirus,ਸੀ-ਵਾਇਰਸ
+35,en,pa_IN,chronic respiratory disease,ਚਿਰਕਾਲੀਨ ਸਾਹ ਦੀ ਬਿਮਾਰੀ
+36,en,pa_IN,common cold,ਆਮ ਜੁਕਾਮ
+37,en,pa_IN,common flu,ਆਮ ਫਲੂ
+38,en,pa_IN,communicable disease,ਛੂਤ ਦੀ ਬਿਮਾਰੀ
+39,en,pa_IN,community spread,ਕਮਿਊਨਿਟੀ ਫੈਲ
+40,en,pa_IN,community transmission,ਕਮਿਊਨਿਟੀ ਟ੍ਰਾਂਸਮਿਸ਼ਨ
+41,en,pa_IN,compromised immune system,ਕਮਜ਼ੋਰ ਪ੍ਰਤੀਰੋਧੀ ਸਿਸਟਮ
+42,en,pa_IN,contagion,ਛੂਤ
+43,en,pa_IN,contagious,ਛੂਤਕਾਰੀ
+44,en,pa_IN,contagiousness,ਛੂਤ
+45,en,pa_IN,corona,ਕੋਰੋਨਾ
+46,en,pa_IN,corona virus,ਕੋਰੋਨਾ ਵਾਇਰਸ
+47,en,pa_IN,corona virus epidemic,ਕੋਰੋਨਾ ਵਾਇਰਸ ਮਹਾਂਮਾਰੀ
+48,en,pa_IN,corona virus outbreak,ਕੋਰੋਨਾ ਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+49,en,pa_IN,corona virus scare,ਕੋਰੋਨਾ ਵਾਇਰਸ ਦਾ ਡਰ
+50,en,pa_IN,coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ
+51,en,pa_IN,coronavirus cases,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਕੇਸ
+52,en,pa_IN,coronavirus outbreak,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+53,en,pa_IN,coronavirus pandemic,ਕੋਰੋਨਵਾਇਰਸ ਮਹਾਂਮਾਰੀ
+54,en,pa_IN,coronavirus scare,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਡਰ
+55,en,pa_IN,cough,ਖੰਘ
+56,en,pa_IN,cough etiquette,ਖੰਘਣ ਦੀ ਵਿਧੀ
+57,en,pa_IN,coughing,ਖੰਘਣਾ
+58,en,pa_IN,cov 19,cov 19
+59,en,pa_IN,cov19,cov19
+60,en,pa_IN,COVID,ਕੋਵਿਡ
+61,en,pa_IN,COVID-19 crisis,ਕੋਵਿਡ-19 ਸੰਕਟ
+62,en,pa_IN,covid-19,ਕੋਵਿਡ-19
+63,en,pa_IN,covid19,ਕੋਵਿਡ19
+64,en,pa_IN,COVID-19 epidemic,ਕੋਵੀਡ-19 ਮਹਾਂਮਾਰੀ
+65,en,pa_IN,COVID-19 outbreak,ਕੋਵਿਡ-19 ਪ੍ਰਕੋਪ
+66,en,pa_IN,COVID-19 pandemic,ਕੋਵਿਡ-19 ਮਹਾਂਮਾਰੀ
+67,en,pa_IN,COVID 19,ਕੋਵਿਡ 19
+68,en,pa_IN,current crisis,ਮੌਜੂਦਾ ਸੰਕਟ
+69,en,pa_IN,current health crisis,ਮੌਜੂਦਾ ਸਿਹਤ ਸੰਕਟ
+70,en,pa_IN,current outbreak,ਮੌਜੂਦਾ ਪ੍ਰਕੋਪ
+71,en,pa_IN,current pandemic,ਮੌਜੂਦਾ ਮਹਾਂਮਾਰੀ
+72,en,pa_IN,CV,ਸੀਵੀ
+73,en,pa_IN,CV-19,ਸੀਵੀ-19
+74,en,pa_IN,deadly,ਜਾਨਲੇਵਾ
+75,en,pa_IN,deadly virus,ਜਾਨਲੇਵਾ ਵਾਇਰਸ
+76,en,pa_IN,death rate,ਮੌਤ ਦੀ ਦਰ
+77,en,pa_IN,death toll,ਮੌਤ ਦੀ ਗਿਣਤੀ
+78,en,pa_IN,decontaminate,ਰੋਗਾਣੂ ਰਹਿਤ ਕਰੋ
+79,en,pa_IN,detectable,ਖੋਜਣਯੋਗ
+80,en,pa_IN,detergent,ਡਿਟਰਜੈਂਟ
+81,en,pa_IN,difficulty breathing,ਸਾਹ ਲੈਣ ਵਿੱਚ ਮੁਸ਼ਕਲ
+82,en,pa_IN,diabetes,ਸ਼ੂਗਰ ਦੀ ਬਿਮਾਰੀ
+83,en,pa_IN,diagnosable disease,ਤਸ਼ਖੀਸ਼ ਯੋਗ ਬਿਮਾਰੀ
+84,en,pa_IN,diagnostic protocol,ਤਸ਼ਖੀਸ਼ੀ ਪ੍ਰੋਟੋਕੋਲ
+85,en,pa_IN,diagnostic testing,ਤਸ਼ਖੀਸ਼ੀ ਜਾਂਚ
+86,en,pa_IN,disease itself,ਬਿਮਾਰੀ
+87,en,pa_IN,disease outbreak,ਬਿਮਾਰੀ ਦੀ ਪ੍ਰਕੋਪ
+88,en,pa_IN,disinfectant,ਰੋਗਾਣੂ-ਨਾਸ਼ਕ
+89,en,pa_IN,disposable,ਡਿਸਪੋਜ਼ੇਬਲ
+90,en,pa_IN,droplet transmission,ਛਿੱਟ ਸੰਚਾਰ
+91,en,pa_IN,droplets,ਛਿੱਟਾਂ
+92,en,pa_IN,dry cough,ਖੁਸ਼ਕ ਖੰਘ
+93,en,pa_IN,dry surface contamination,ਖੁਸ਼ਕ ਸਤ੍ਹਾ ‘ਤੇ ਗੰਦਗੀ
+94,en,pa_IN,ebola,ਈਬੋਲਾ
+95,en,pa_IN,effective treatment,ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਇਲਾਜ
+96,en,pa_IN,electron microscope,ਇਲੈਕਟ੍ਰੋਨ ਮਾਈਕ੍ਰੋਸਕੋਪ
+97,en,pa_IN,emergency department,ਐਮਰਜੈਂਸੀ ਵਿਭਾਗ
+98,en,pa_IN,epidemic,ਮਹਾਂਮਾਰੀ
+99,en,pa_IN,epidemic curve,ਮਹਾਂਮਾਰੀ ਵਕਰ
+100,en,pa_IN,epidemic peak,ਮਹਾਂਮਾਰੀ ਦੀ ਚੋਟੀ
+101,en,pa_IN,epidemiologist,ਮਹਾਂਮਾਰੀ ਵਿਗਿਆਨੀ
+102,en,pa_IN,exposure,ਐਕਸਪੋਜਰ
+103,en,pa_IN,extreme caution,ਬਹੁਤ ਸਾਵਧਾਨੀ
+104,en,pa_IN,eye protection,ਅੱਖ ਸੁਰੱਖਿਆ
+105,en,pa_IN,face mask,ਚਿਹਰੇ ਦਾ ਮਾਸਕ
+106,en,pa_IN,face masks,ਚਿਹਰੇ ਦੇ ਮਾਸਕ
+107,en,pa_IN,family cluster,ਪਰਿਵਾਰ ਸਮੂਹ
+108,en,pa_IN,fatality rate,ਮੌਤ ਦੀ ਦਰ
+109,en,pa_IN,fecal contamination,ਵੀਰਜ਼ ਗੰਦਗੀ
+110,en,pa_IN,fever,ਬੁਖ਼ਾਰ
+111,en,pa_IN,flatten the infection curve,ਛੂਤ ਦੇ ਵਕਰ ਨੂੰ ਸਮਤਲ ਕਰੋ
+112,en,pa_IN,flu,ਫਲੂ
+113,en,pa_IN,food safety,ਭੋਜਨ ਸੁਰੱਖਿਆ
+114,en,pa_IN,formaldehyde,ਫਾਰਮਲਡੀਹਾਈਡ
+115,en,pa_IN,gastroenteritis,ਢਿੱਡ ‘ਚ ਜਲਨ
+116,en,pa_IN,germicide,ਕੀਟਾਣੂਨਾਸ਼ਕ
+117,en,pa_IN,global pandemic,ਗਲੋਬਲ ਮਹਾਂਮਾਰੀ
+118,en,pa_IN,global warming,ਗਲੋਬਲ ਵਾਰਮਿੰਗ
+119,en,pa_IN,good respiratory hygiene,ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਾਹ ਲੈਣਾ
+120,en,pa_IN,Guangdong,ਗੁਆਂਗਡੋਂਗ
+121,en,pa_IN,H1N1,H1N1
+122,en,pa_IN,H1N1 virus,H1N1 ਵਾਇਰਸ
+123,en,pa_IN,hand disinfectant,ਹੱਥਾਂ ਲਈ ਕੀਟਾਣੂਨਾਸ਼ਕ
+124,en,pa_IN,hand sanitizer,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+125,en,pa_IN,health care provider,ਸਿਹਤ ਦੇਖਭਾਲ ਪ੍ਰਦਾਨਕ
+126,en,pa_IN,health crisis,ਸਿਹਤ ਸੰਕਟ
+127,en,pa_IN,health plan carrier,ਸਿਹਤ ਯੋਜਨਾ ਕੈਰੀਅਰ
+128,en,pa_IN,health services,ਸਿਹਤ ਸੇਵਾਵਾਂ
+129,en,pa_IN,heart failure,ਦਿਲ ਦੀ ਧੜਕਨ ਬੰਦ ਹੋਣਾ
+130,en,pa_IN,high fever,ਤੇਜ਼ ਬੁਖਾਰ
+131,en,pa_IN,HIV,HIV
+132,en,pa_IN,hospitalize,ਹਸਪਤਾਲ ‘ਚ ਦਾਖ਼ਲ ਹੋਣਾ
+133,en,pa_IN,household bleach,ਘਰੇਲੂ ਬਲੀਚ
+134,en,pa_IN,Hubei,ਹੂਬੇਈ
+135,en,pa_IN,hydrogen peroxide,ਹਾਈਡਰੋਜਨ ਪਰਆਕਸਾਈਡ
+136,en,pa_IN,hygiene,ਹਾਈਜੀਨ
+137,en,pa_IN,immune system,ਇਮਯੂਨ ਸਿਸਟਮ
+138,en,pa_IN,immunity,ਇਮਯੂਨਿਟੀ
+139,en,pa_IN,immunocompromised,ਕਮਜ਼ੋਰ ਇਮਯੂਨਿਟੀ
+140,en,pa_IN,immunologist,ਇਮਯੂਨਿਟੀ ਵਿਗਿਆਨੀ
+141,en,pa_IN,incubation,ਬਿਮਾਰੀ ਦੇ ਲੱਛਣ
+142,en,pa_IN,incubation period,ਬਿਮਾਰੀ ਦੇ ਲੱਛਣ ਦਿਸਣ ਦੀ ਮਿਆਦ
+143,en,pa_IN,indirect contact,ਅਸਿੱਧਾ ਸੰਪਰਕ
+144,en,pa_IN,infect,ਲਾਗ
+145,en,pa_IN,infection,ਲਾਗ
+146,en,pa_IN,infectious,ਲਾਗ ਵਾਲੀ
+147,en,pa_IN,infectivity,ਲਾਗ ਲੱਗਣ ਦੀ ਯੋਗਤਾ
+148,en,pa_IN,influenza,ਨਜ਼ਲਾ
+149,en,pa_IN,initial transmission event,ਸ਼ੁਰੂਆਤੀ ਪ੍ਰਸਾਰਣ ਘਟਨਾ
+150,en,pa_IN,intensive care equipment,ਤੀਬਰ ਦੇਖਭਾਲ ਸੰਬੰਧੀ ਉਪਕਰਨ
+151,en,pa_IN,intermediate host,ਵਿਚਕਾਰਲਾ ਹੋਸਟ
+152,en,pa_IN,intrauterine,ਯੋਨੀ ਸੰਬੰਧੀ
+153,en,pa_IN,intubation,ਬਿਮਾਰੀ ਦੇ ਲੱਛਣ
+154,en,pa_IN,isolation,ਵਖਰੇਵਾਂ
+155,en,pa_IN,Isopropanol,ਆਈਸੋਪ੍ਰੋਪੈਨੋਲ
+156,en,pa_IN,laboratory test kit,ਪ੍ਰਯੋਗਸ਼ਾਲਾ ਟੈਸਟ ਕਿੱਟ
+157,en,pa_IN,laboratory testing,ਪ੍ਰਯੋਗਸ਼ਾਲਾ ਜਾਂਚ
+158,en,pa_IN,lack of testing,ਜਾਂਚ ਦੀ ਘਾਟ
+159,en,pa_IN,lack of tests,ਟੈਸਟ ਦੀ ਘਾਟ
+160,en,pa_IN,latest updates,ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ
+161,en,pa_IN,liver failure,ਜਿਗਰ ਦਾ ਕੰਮ ਕਰਨਾ ਬੰਦ ਹੋਣਾ
+162,en,pa_IN,local public health authority,ਸਥਾਨਕ ਜਨਤਕ ਸਿਹਤ ਅਥਾਰਟੀ
+163,en,pa_IN,lockdown,ਤਾਲਾਬੰਦੀ
+164,en,pa_IN,lungs,ਫੇਫੜੇ
+165,en,pa_IN,masks,ਮਾਸਕ
+166,en,pa_IN,measles,ਖ਼ਸਰਾ
+167,en,pa_IN,mechanical ventilation,ਮਕੈਨੀਕਲ ਹਵਾਦਾਰੀ
+168,en,pa_IN,media coverage,ਮੀਡੀਆ ਕਵਰੇਜ
+169,en,pa_IN,medical care,ਡਾਕਟਰੀ ਦੇਖਭਾਲ
+170,en,pa_IN,MERS,MERS
+171,en,pa_IN,MERS CoV,Mers CoV
+172,en,pa_IN,microbiologist,ਮਾਈਕਰੋਬਾਇਓਲੋਜਿਸਟ
+173,en,pa_IN,mild cough,ਹਲਕੀ ਖੰਘ
+174,en,pa_IN,mortality rate,ਮੌਤ ਦੀ ਦਰ
+175,en,pa_IN,multi-organ failure,ਬਹੁ-ਅੰਗ ਦਾ ਕੰਮ ਕਰਨਾ ਬੰਦ ਹੋਣਾ
+176,en,pa_IN,nasal congestion,ਨੱਕ ਬੰਦ
+177,en,pa_IN,neutral detergent,ਨਿਰਪੱਖ ਡਿਟਰਜੈਂਟ
+178,en,pa_IN,new normal,ਨਵਾਂ ਸਧਾਰਣ
+179,en,pa_IN,novel corona virus,ਨਾਵਲ ਕੋਰੋਨਾ ਵਾਇਰਸ
+180,en,pa_IN,novel coronavirus,ਨਾਵਲ ਕੋਰੋਨਾਵਾਇਰਸ
+181,en,pa_IN,novel coronavirus outbreak,ਨਾਵਲ ਕੋਰੋਨਾਵਾਇਰਸ ਪ੍ਰਕੋਪ
+182,en,pa_IN,novel virus,ਨਾਵਲ ਵਾਇਰਸ
+183,en,pa_IN,online medical consultation,ਆਨਲਾਈਨ ਡਾਕਟਰੀ ਸਲਾਹ
+184,en,pa_IN,onset,ਸ਼ੁਰੂਆਤ
+185,en,pa_IN,outbreak,ਫੈਲਣਾ
+186,en,pa_IN,outbreak readiness,ਫੈਲਣ ਦੀ ਤਤਪਰਤਾ
+187,en,pa_IN,overall case fatality,ਕੁੱਲ ਮੌਤ
+188,en,pa_IN,pandemic,ਮਹਾਂਮਾਰੀ
+189,en,pa_IN,pangolin,ਪੈਨਗੋਲਿਨ
+190,en,pa_IN,pathogen,ਰੋਗਜਨਕ ਪਦਾਰਥ
+191,en,pa_IN,pathology,ਪੈਥਾਲੋਜੀ
+192,en,pa_IN,patient care equipment,ਮਰੀਜ਼ ਦੀ ਦੇਖਭਾਲ ਦਾ ਉਪਕਰਨ
+193,en,pa_IN,personal protective equipment,ਨਿੱਜੀ ਸੁਰੱਖਿਆ ਉਪਕਰਨ
+194,en,pa_IN,person-to-person transmission,ਵਿਅਕਤੀ-ਤੋਂ-ਵਿਅਕਤੀ ਸੰਚਾਰ
+195,en,pa_IN,phlegm,ਬਲਗਮ
+196,en,pa_IN,physical contact,ਸਰੀਰਕ ਸੰਪਰਕ
+197,en,pa_IN,plague,ਪਲੇਗ
+198,en,pa_IN,pneumonia,ਨਮੂਨੀਆ
+199,en,pa_IN,pneumonias,ਨਮੂਨੀਆ
+200,en,pa_IN,positive test,ਸਕਾਰਾਤਮਿਕ ਟੈਸਟ
+201,en,pa_IN,precaution,ਸਾਵਧਾਨੀ
+202,en,pa_IN,precautionary,ਸਤਰਕਤਾਪੂਰਨ
+203,en,pa_IN,pre-existing condition,ਪਹਿਲਾਂ ਦੀ ਸਥਿਤੀ
+204,en,pa_IN,preparedness,ਤਿਆਰੀ
+205,en,pa_IN,prognosis,ਪੂਰਵ ਲੱਛਣ
+206,en,pa_IN,protect myself,ਆਪਣੇ ਆਪ ਨੂੰ ਬਚਾਓ
+207,en,pa_IN,protect others,ਦੂਜਿਆਂ ਨੂੰ ਬਚਾਓ
+208,en,pa_IN,protect yourself,ਆਪਣੇ ਆਪ ਨੂੰ ਬਚਾਓ
+209,en,pa_IN,protective measures,ਸੁਰੱਖਿਆ ਉਪਾਅ
+210,en,pa_IN,public health crisis,ਜਨਤਕ ਸਿਹਤ ਸੰਕਟ
+211,en,pa_IN,pulmonary tissue damage,ਫੇਫੜੇ ਦੇ ਟਿਸ਼ੂ ਨੂੰ ਨੁਕਸਾਨ
+212,en,pa_IN,quarantine,ਕੁਰਾਟੀਨ
+213,en,pa_IN,rapid risk assessment,ਤੇਜ਼ ਜੋਖਮ ਮੁਲਾਂਕਣ
+214,en,pa_IN,reagent,ਪ੍ਰਤਿਕਿਰਿਆਸ਼ੀਲ ਦ੍ਰਵ
+215,en,pa_IN,regular flu,ਨਿਯਮਤ ਫਲੂ
+216,en,pa_IN,reinfection,ਮੁੜ-ਲਾਗ
+217,en,pa_IN,renal disease,ਗੁਰਦੇ ਸੰਬੰਧੀ ਬਿਮਾਰੀ
+218,en,pa_IN,renal failure,ਗੁਰਦੇ ਕੰਮ ਨਾ ਕਰਨਾ
+219,en,pa_IN,respirator,ਸਾਹ ਯੰਤਰ
+220,en,pa_IN,respiratory,ਸਾਹ ਸੰਬੰਧੀ
+221,en,pa_IN,respiratory disease,ਸਾਹ ਦੀ ਬਿਮਾਰੀ
+222,en,pa_IN,respiratory distress,ਸਾਹ ਲੈਣ ਵਿੱਚ ਤਕਲੀਫ
+223,en,pa_IN,respiratory droplets,ਸਾਹ ਦੀਆਂ ਛਿੱਟਾਂ
+224,en,pa_IN,respiratory hygiene,ਸਾਹ ਸੰਬੰਧੀ ਹਾਈਜੀਨ
+225,en,pa_IN,respiratory illness,ਸਾਹ ਦੀ ਬਿਮਾਰੀ
+226,en,pa_IN,respiratory syndrome,ਸਾਹ ਸੰਬੰਧੀ ਸਿੰਡਰੋਮ
+227,en,pa_IN,respiratory tract disease,ਸਾਹ ਦੀ ਨਲੀ ਦੀ ਬਿਮਾਰੀ
+228,en,pa_IN,restrictions,ਪਾਬੰਦੀਆਂ
+229,en,pa_IN,resurge,ਦੁਬਾਰਾ ਪੈਦਾ ਹੋਣਾ
+230,en,pa_IN,RNA,RNA
+231,en,pa_IN,rubeola,ਰੁਬੇਲਾ
+232,en,pa_IN,runny nose,ਵਗਦਾ ਨੱਕ
+233,en,pa_IN,SARS,SARS
+234,en,pa_IN,SARS-CoV-2,SARS-CoV-2
+235,en,pa_IN,SARS-CoV,SARS-CoV
+236,en,pa_IN,sars-related coronavirus,ਸਾਰਸ-ਸੰਬੰਧੀ ਕੋਰੋਨਾਵਾਇਰਸ
+237,en,pa_IN,seasonal flu,ਮੌਸਮੀ ਫਲੂ
+238,en,pa_IN,seasonal influenza,ਮੌਸਮੀ ਨਜ਼ਲਾ
+239,en,pa_IN,secretion,ਰਿਸਣ ਪਦਾਰਥ
+240,en,pa_IN,self-quarantine,ਸਵੈ-ਕੁਰਾਟੀਨ
+241,en,pa_IN,sepsis,ਸੈਪਸਿਸ (ਤੰਤੂਆਂ ਦਾ ਗਲਨ ਸੜਨ)
+242,en,pa_IN,septic shock,ਸੈਪਟਿਕ ਸ਼ੌਕ
+243,en,pa_IN,Severe Acute Respiratory Syndrome,ਗੰਭੀਰ ਤੀਬਰ ਸਾਹ ਸਿੰਡਰੋਮ
+244,en,pa_IN,shortness of breath,ਸਾਹ ਲੈਣ ਵਿੱਚ ਕਮੀ
+245,en,pa_IN,sickened,ਬਿਮਾਰ
+246,en,pa_IN,sickness,ਬਿਮਾਰੀ
+247,en,pa_IN,sneeze,ਛਿੱਕ
+248,en,pa_IN,sneezes,ਛਿੱਕ
+249,en,pa_IN,sneezing,ਛਿੱਕਣਾ
+250,en,pa_IN,social distancing,ਸਮਾਜਕ ਦੂਰੀ
+251,en,pa_IN,sore throat,ਗਲੇ ਵਿੱਚ ਖਰਾਸ਼
+252,en,pa_IN,spanish flu,ਸਪੈਨਿਸ਼ ਫਲੂ
+253,en,pa_IN,specimen collection,ਨਮੂਨਾ ਭੰਡਾਰ
+254,en,pa_IN,spread,ਪ੍ਰਸਾਰ
+255,en,pa_IN,sputum,ਥੁੱਕ
+256,en,pa_IN,stigmatisation,ਦੂਸ਼ਿਤ ਕਰਨਾ
+257,en,pa_IN,supportive,ਸਹਿਯੋਗੀ
+258,en,pa_IN,surface,ਸਤ੍ਹਾ
+259,en,pa_IN,surfaces,ਸਤ੍ਹਾ
+260,en,pa_IN,suspected infection,ਸੰਦੇਹਪੂਰਨ ਲਾਗ
+261,en,pa_IN,swab,ਸਵੈਬ
+262,en,pa_IN,swine flu,ਸਵਾਈਨ ਫਲੂ
+263,en,pa_IN,symptom,ਲੱਛਣ
+264,en,pa_IN,symptomatic,ਲੱਛਣ ਸੰਬੰਧੀ
+265,en,pa_IN,symptoms,ਲੱਛਣ
+266,en,pa_IN,targeted disinfection,ਟਾਰਗੇਟੇਡ ਡਿਸਇਨਫੈਕਸ਼ਨ
+267,en,pa_IN,test kit,ਟੈਸਟ ਕਿੱਟ
+268,en,pa_IN,testing error,ਜਾਂਚ ਵਿੱਚ ਗੜਬੜ
+269,en,pa_IN,tissue damage,ਟਿਸ਼ੂ ਨੂੰ ਨੁਕਸਾਨ
+270,en,pa_IN,tp shortage,ਟੀ.ਪੀ. ਦੀ ਘਾਟ
+271,en,pa_IN,toilet paper shortage,ਟਾਇਲਟ ਪੇਪਰ ਦੀ ਘਾਟ
+272,en,pa_IN,touch,ਛੋਹ
+273,en,pa_IN,touching,ਛੋਹ ਸੰਬੰਧੀ
+274,en,pa_IN,transmissibility,ਸੰਚਾਰ-ਯੋਗਤਾ
+275,en,pa_IN,transmissible,ਸੰਚਾਰ-ਯੋਗ
+276,en,pa_IN,transmission,ਸੰਚਾਰ
+277,en,pa_IN,transmission potential,ਸੰਚਾਰ ਸੰਭਾਵਨਾ
+278,en,pa_IN,typical flu,ਆਮ ਫਲੂ
+279,en,pa_IN,underlying disease,ਅੰਤਰੀਵ ਬਿਮਾਰੀ
+280,en,pa_IN,updates,ਅਪਡੇਟ
+281,en,pa_IN,vaccine,ਟੀਕਾ
+282,en,pa_IN,vaccines,ਟੀਕੇ
+283,en,pa_IN,ventilation,ਹਵਾਦਾਰੀ
+284,en,pa_IN,ventilator,ਹਵਾਦਾਰੀ
+285,en,pa_IN,ventilators,ਹਵਾਦਾਰੀ
+286,en,pa_IN,viral infection,ਵਾਇਰਸ ਦਾ ਲਾਗ
+287,en,pa_IN,viral outbreak,ਵਾਇਰਵ ਦਾ ਪ੍ਰਕੋਪ
+288,en,pa_IN,viral pandemic,ਵਾਇਰਲ ਮਹਾਂਮਾਰੀ
+289,en,pa_IN,viral pneumonia,ਵਾਇਰਲ ਨਮੂਨੀਆ
+290,en,pa_IN,virtual care,ਵਰਚੁਅਲ ਕੇਅਰ
+291,en,pa_IN,virulence,ਜ਼ਹਿਰੀਲਾਪਣ
+292,en,pa_IN,virus itself,ਵਾਇਰਸ
+293,en,pa_IN,virus outbreak,ਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+294,en,pa_IN,virus scare,ਵਾਇਰਸ ਦਾ ਡਰ
+295,en,pa_IN,virus spreads,ਵਾਇਰਸ ਦਾ ਪ੍ਰਸਾਰ
+296,en,pa_IN,virus strain,ਵਾਇਰਸ ਕਰਕੇ ਤਣਾਅ
+297,en,pa_IN,viral transmission,ਵਾਇਰਸ ਦਾ ਸੰਚਾਰ
+298,en,pa_IN,vivid-19,vivid-19
+299,en,pa_IN,washing hands,ਹੱਥ ਧੋਣੇ
+300,en,pa_IN,washing ones hands,ਹਰੇਕ ਨੂੰ ਹੱਥ ਧੋਣਾ
+301,en,pa_IN,wash your hands,ਆਪਣੇ ਹੱਥ ਧੋਵੋ
+302,en,pa_IN,white blood cell count,ਵਾਈਟ ਬਲੱਡ ਸੈੱਲ ਦੀ ਗਿਣਤੀ
+303,en,pa_IN,widespread transmission,ਵਿਆਪਕ ਸੰਚਾਰ
+304,en,pa_IN,working from home,ਘਰੋਂ ਕੰਮ ਕਰਨਾ
+305,en,pa_IN,WFH,WFH
+306,en,pa_IN,Wuhan,ਵੁਹਾਨ

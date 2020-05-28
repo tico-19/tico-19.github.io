@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ss_SZ,1918 flu,Mkhuhlane wanga-1918
+2,en,ss_SZ,acute bronchitis,kuvaleka sifuba
+3,en,ss_SZ,acute respiratory disease,sifo sekungakhoni kuphefumula
+4,en,ss_SZ,AIDS,iGCULAZA
+5,en,ss_SZ,airborne droplets,emaconsi lahamba nemoya
+6,en,ss_SZ,airway,indlela yemoya
+7,en,ss_SZ,alcohol-based,i-alcohol-based
+8,en,ss_SZ,alcohol-based hand rub,i-alcohol based yekuhlikihla tandla
+9,en,ss_SZ,alcohol-based hand sanitizer,i-alcohol based sanitizer yetandla
+10,en,ss_SZ,alveolar disease,sifo se-alveolar
+11,en,ss_SZ,an epidemic,lubhudzane
+12,en,ss_SZ,annual flu,mkhuhlane waminyaka yonkhe
+13,en,ss_SZ,anti-inflammatory drug,liphilisi lekuvikela
+14,en,ss_SZ,antiviral drug,liphilisi lekulapha
+15,en,ss_SZ,antiviral treatment,indlela yekulapha
+16,en,ss_SZ,assay,kuhlola
+17,en,ss_SZ,asymptomatic,kunetimpawu
+18,en,ss_SZ,avian flu,umkhuhlane i-avian
+19,en,ss_SZ,Black Plague,i-Black Plague
+20,en,ss_SZ,blood pressure,mfutfo wengati
+21,en,ss_SZ,body fluid,emanti omtimba
+22,en,ss_SZ,breathing,kuphefumula
+23,en,ss_SZ,bubonic plague,i-bubonic plague
+24,en,ss_SZ,c19,i-c19
+25,en,ss_SZ,cv19,i-cv19
+26,en,ss_SZ,case fatality rate,sibalo salabashonile
+27,en,ss_SZ,causative agent,imbangela
+28,en,ss_SZ,CDC,i-CDC
+29,en,ss_SZ,chemical disinfection,emakhemikhali labulala emagciwane
+30,en,ss_SZ,chest x-ray,i-x-ray yesifuba
+31,en,ss_SZ,clinical diagnosis,kuhlolwa kwasemtfola mphilo
+32,en,ss_SZ,clinical trial,lucwaningo lwekuhlola
+33,en,ss_SZ,close contact,kusondzelana edvute
+34,en,ss_SZ,cvirus,i-cvirus
+35,en,ss_SZ,chronic respiratory disease,tifo letihlobene nekuphefumula
+36,en,ss_SZ,common cold,kubandza lokwetayelekile
+37,en,ss_SZ,common flu,mkhuhlane lotayelekile
+38,en,ss_SZ,communicable disease,sifo letitsatselelanako
+39,en,ss_SZ,community spread,kusabalala emphakatsini
+40,en,ss_SZ,community transmission,kutselelana emphakatsini
+41,en,ss_SZ,compromised immune system,masosha emtimba lasengotini
+42,en,ss_SZ,contagion,kutseleleka
+43,en,ss_SZ,contagious,kuyatsatselena
+44,en,ss_SZ,contagiousness,kutselelana
+45,en,ss_SZ,corona,i-corona
+46,en,ss_SZ,corona virus,ligciwane lecorona
+47,en,ss_SZ,corona virus epidemic,lubhudzane leligciwane lecorona
+48,en,ss_SZ,corona virus outbreak,kucubuka kwecorona virus
+49,en,ss_SZ,corona virus scare,luvalo ngecorona virus
+50,en,ss_SZ,coronavirus,i-coronavirus
+51,en,ss_SZ,coronavirus cases,imibiko ngecoronavirus
+52,en,ss_SZ,coronavirus outbreak,kucubuka kwecoronavirus
+53,en,ss_SZ,coronavirus pandemic,mashayabhuce wecoronavirus
+54,en,ss_SZ,coronavirus scare,luvalo ngecoronavirus
+55,en,ss_SZ,cough,kukhwehlela
+56,en,ss_SZ,cough etiquette,indlela lekahle yekukhwehlela
+57,en,ss_SZ,coughing,kukhwehlela
+58,en,ss_SZ,cov 19,i-cov 19
+59,en,ss_SZ,cov19,i-cov19
+60,en,ss_SZ,COVID,i-COVID
+61,en,ss_SZ,COVID-19 crisis,simo lesibucayi seCOVID-19
+62,en,ss_SZ,covid-19,icovid-19
+63,en,ss_SZ,covid19,i-covid19
+64,en,ss_SZ,COVID-19 epidemic,lubhudzane lweCOVID-19
+65,en,ss_SZ,COVID-19 outbreak,kucubuka kweCOVID-19
+66,en,ss_SZ,COVID-19 pandemic,mashayabhuce weCOVID-19
+67,en,ss_SZ,COVID 19,i-Covid 19
+68,en,ss_SZ,current crisis,simo lesibucayi lesibhekene naso
+69,en,ss_SZ,current health crisis,simo lesibucayi semphilo
+70,en,ss_SZ,current outbreak,kucubuka kwalesimo lesikuso
+71,en,ss_SZ,current pandemic,mashayabhuce lokhona
+72,en,ss_SZ,CV,i-CV
+73,en,ss_SZ,CV-19,i-CV-19
+74,en,ss_SZ,deadly,kuyabulala
+75,en,ss_SZ,deadly virus,ligciwane lelibulalako
+76,en,ss_SZ,death rate,emanani alabafile
+77,en,ss_SZ,death toll,emanani lanyukako alabafako
+78,en,ss_SZ,decontaminate,kuhlukanisa
+79,en,ss_SZ,detectable,kuyatfolakala
+80,en,ss_SZ,detergent,kokugeza
+81,en,ss_SZ,difficulty breathing,kuba nebuntima bekuphefumula
+82,en,ss_SZ,diabetes,sifo sashukela
+83,en,ss_SZ,diagnosable disease,sifo lesibonakalako
+84,en,ss_SZ,diagnostic protocol,umtshetfo lolandzelwako wekuhlolwa
+85,en,ss_SZ,diagnostic testing,tindlela tekuhlolwa
+86,en,ss_SZ,disease itself,sifo ngekwaso
+87,en,ss_SZ,disease outbreak,kucubuka kwesifo
+88,en,ss_SZ,disinfectant,sibulala magciwane
+89,en,ss_SZ,disposable,lokulahlwako
+90,en,ss_SZ,droplet transmission,kutselelana ngemaconsi amatse
+91,en,ss_SZ,droplets,mathonsi ematse
+92,en,ss_SZ,dry cough,kukhwehlela lokomile
+93,en,ss_SZ,dry surface contamination,tindzawo letomile letinemagciwane
+94,en,ss_SZ,ebola,i-ebola
+95,en,ss_SZ,effective treatment,kwelashwa lokusebentako
+96,en,ss_SZ,electron microscope,i-electron microscope
+97,en,ss_SZ,emergency department,lihhovisi letimo letiphutfumako
+98,en,ss_SZ,epidemic,lubhudzane
+99,en,ss_SZ,epidemic curve,lishadi lobhudzane
+100,en,ss_SZ,epidemic peak,linani lelisetulu lobhudzane
+101,en,ss_SZ,epidemiologist,dokodela wetifo tonke
+102,en,ss_SZ,exposure,kubonakala
+103,en,ss_SZ,extreme caution,kucapha lokusesigabeni lesisetulu
+104,en,ss_SZ,eye protection,kuvikela amehlo
+105,en,ss_SZ,face mask,sifihla buso
+106,en,ss_SZ,face masks,tifihla buso
+107,en,ss_SZ,family cluster,kuhlangana kwemndzeni
+108,en,ss_SZ,fatality rate,silinganiso sekufa
+109,en,ss_SZ,fecal contamination,kutsintsana nendle
+110,en,ss_SZ,fever,umkhuhlane
+111,en,ss_SZ,flatten the infection curve,yehlisa linani lebantfu labatselelekako
+112,en,ss_SZ,flu,umkhuhlane
+113,en,ss_SZ,food safety,kuvikela kudla
+114,en,ss_SZ,formaldehyde,i-formaldehyde
+115,en,ss_SZ,gastroenteritis,i-gastroenteritis
+116,en,ss_SZ,germicide,sibulala magciwane
+117,en,ss_SZ,global pandemic,mashayabhuce wemhlaba wonke
+118,en,ss_SZ,global warming,sicwayiso semhlaba wonkhe
+119,en,ss_SZ,good respiratory hygiene,imikhuba lemihle yekuhlanteka
+120,en,ss_SZ,Guangdong,i-Guangdong
+121,en,ss_SZ,H1N1,i-H1N1
+122,en,ss_SZ,H1N1 virus,ligciwane iH1N1
+123,en,ss_SZ,hand disinfectant,sibulala magciwane setandla
+124,en,ss_SZ,hand sanitizer,i-sanitizer yrtandla
+125,en,ss_SZ,health care provider,kunakekelwa ngetemphilo
+126,en,ss_SZ,health crisis,simo lesibucayi semphilo
+127,en,ss_SZ,health plan carrier,luhlelo lwemphilo
+128,en,ss_SZ,health services,tinkonzo temphilo
+129,en,ss_SZ,heart failure,kuhluleka kwenhlitiyo
+130,en,ss_SZ,high fever,mkhuhlane lomkhulu
+131,en,ss_SZ,HIV,i-HIV
+132,en,ss_SZ,hospitalize,kungeniswa esibhedlela
+133,en,ss_SZ,household bleach,sibulala magciwane sasendlini
+134,en,ss_SZ,Hubei,i-Hubei
+135,en,ss_SZ,hydrogen peroxide,i-hydrogen peroxide
+136,en,ss_SZ,hygiene,kuhlanteka
+137,en,ss_SZ,immune system,masosha emtimba
+138,en,ss_SZ,immunity,kungatseleleki
+139,en,ss_SZ,immunocompromised,masosha emtimba langacinile
+140,en,ss_SZ,immunologist,dokotela wemashosha emtimba
+141,en,ss_SZ,incubation,kufukamela/kuvalelwa
+142,en,ss_SZ,incubation period,sikhatsi sekufukamela/kuvalelwa
+143,en,ss_SZ,indirect contact,kuhlangana lokungacondzile
+144,en,ss_SZ,infect,kutselela
+145,en,ss_SZ,infection,kutseleleka
+146,en,ss_SZ,infectious,lokutsatselanako
+147,en,ss_SZ,infectivity,kutselelana
+148,en,ss_SZ,influenza,i-influenza
+149,en,ss_SZ,initial transmission event,tindlela tokucala tokutseleleka
+150,en,ss_SZ,intensive care equipment,matfuluzi ekunakekelwa kakhulu
+151,en,ss_SZ,intermediate host,lusito lwangekhatsi
+152,en,ss_SZ,intrauterine,i-intrauterine
+153,en,ss_SZ,intubation,i-intubation
+154,en,ss_SZ,isolation,kuhlukaniswa
+155,en,ss_SZ,Isopropanol,i-Isopropanol
+156,en,ss_SZ,laboratory test kit,litfuluzi laselaborethi lekuhlola
+157,en,ss_SZ,laboratory testing,kuhlola kwaselabhorethi
+158,en,ss_SZ,lack of testing,kuhluleka kuhlola
+159,en,ss_SZ,lack of tests,kuhluleka kuhlolwa
+160,en,ss_SZ,latest updates,tindzaba takamuva
+161,en,ss_SZ,liver failure,kuhluleka kwesibindzi
+162,en,ss_SZ,local public health authority,tiphatsimandla temphilo temphakatsi
+163,en,ss_SZ,lockdown,kuvalwa
+164,en,ss_SZ,lungs,maphaphu
+165,en,ss_SZ,masks,tifihla buso
+166,en,ss_SZ,measles,i-measles/rubeola
+167,en,ss_SZ,mechanical ventilation,sifutfo lesisita kutsi uphefumule
+168,en,ss_SZ,media coverage,tindzaba
+169,en,ss_SZ,medical care,kunakekela kwetemphilo
+170,en,ss_SZ,MERS,i-MERS
+171,en,ss_SZ,MERS CoV,i-MERS CoV
+172,en,ss_SZ,microbiologist,i-microbiologist
+173,en,ss_SZ,mild cough,kukhwehlela lokukahle
+174,en,ss_SZ,mortality rate,sigaba sekufa
+175,en,ss_SZ,multi-organ failure,kuhluleka kwemasosha emtimba
+176,en,ss_SZ,nasal congestion,i-nasal congestion
+177,en,ss_SZ,neutral detergent,kokubulala emagciwane lokungakhatsi
+178,en,ss_SZ,new normal,lokusha lokuvamile
+179,en,ss_SZ,novel corona virus,ligciwane lenovel corona
+180,en,ss_SZ,novel coronavirus,ligciwane lenovel corona
+181,en,ss_SZ,novel coronavirus outbreak,kucubuka kwe-novel coronavirus
+182,en,ss_SZ,novel virus,ligciwane lenovel
+183,en,ss_SZ,online medical consultation,kufuna lusito lwemphilo nge-inthanethi
+184,en,ss_SZ,onset,lokuhleliwe
+185,en,ss_SZ,outbreak,kucubuka
+186,en,ss_SZ,outbreak readiness,kulungela kucubuka
+187,en,ss_SZ,overall case fatality,emanani asewonke elabafile
+188,en,ss_SZ,pandemic,mashayabhuce
+189,en,ss_SZ,pangolin,i-pangolin
+190,en,ss_SZ,pathogen,ligciwane lelingabanga sifo
+191,en,ss_SZ,pathology,kucwaninga ngemagciwane
+192,en,ss_SZ,patient care equipment,timphahla tekutinakekela tesiguli
+193,en,ss_SZ,personal protective equipment,timphahla temuntfu sicu tekutivikela
+194,en,ss_SZ,person-to-person transmission,kutselelana emkhatsini webantfu
+195,en,ss_SZ,phlegm,i-phlegm
+196,en,ss_SZ,physical contact,kutsintsana sicu
+197,en,ss_SZ,plague,i-plague
+198,en,ss_SZ,pneumonia,inyumonya
+199,en,ss_SZ,pneumonias,inyumonya
+200,en,ss_SZ,positive test,kuhlolwa lokutsi unalo
+201,en,ss_SZ,precaution,kucapha
+202,en,ss_SZ,precautionary,kucapha
+203,en,ss_SZ,pre-existing condition,simo lesikhona
+204,en,ss_SZ,preparedness,kulungela
+205,en,ss_SZ,prognosis,simo setemphilo
+206,en,ss_SZ,protect myself,tivikele
+207,en,ss_SZ,protect others,vikala nalabanye
+208,en,ss_SZ,protect yourself,tivikele nawe
+209,en,ss_SZ,protective measures,tindlela tekutivikela
+210,en,ss_SZ,public health crisis,simo semphilo yemphakatsi
+211,en,ss_SZ,pulmonary tissue damage,kufo lesibulala kusebenta kwemaphaphu
+212,en,ss_SZ,quarantine,kutihlukanisa nebantfu
+213,en,ss_SZ,rapid risk assessment,kuhlolwa kwebungoti lokusheshako
+214,en,ss_SZ,reagent,kuhlanganisa emakhemikhali
+215,en,ss_SZ,regular flu,mkhuhlane lovamile
+216,en,ss_SZ,reinfection,kutseleleka futsi
+217,en,ss_SZ,renal disease,sifo sezinso
+218,en,ss_SZ,renal failure,kuhluleka kwezinso
+219,en,ss_SZ,respirator,kuphefumula
+220,en,ss_SZ,respiratory,kuphefumula
+221,en,ss_SZ,respiratory disease,sifo lesihlobene nekuphefumula
+222,en,ss_SZ,respiratory distress,kungakhoni kuphefumula
+223,en,ss_SZ,respiratory droplets,emathonsi laphuma nawuphefumula
+224,en,ss_SZ,respiratory hygiene,kuhlanzeka endleleni yekuphefumula
+225,en,ss_SZ,respiratory illness,kugula ngekuphefumula
+226,en,ss_SZ,respiratory syndrome,sifo sekuphefumula
+227,en,ss_SZ,respiratory tract disease,kutfola sifo sekuphefumula
+228,en,ss_SZ,restrictions,lokungafanele ukwente
+229,en,ss_SZ,resurge,kululama
+230,en,ss_SZ,RNA,i-RNA
+231,en,ss_SZ,rubeola,i-rubeola/meaasles
+232,en,ss_SZ,runny nose,kuluma kwemakhala
+233,en,ss_SZ,SARS,i-SARS
+234,en,ss_SZ,SARS-CoV-2,i-SARS-CoV-2
+235,en,ss_SZ,SARS-CoV,i-SARS-CoV
+236,en,ss_SZ,sars-related coronavirus,lokuhlobene ne-sars coronavirus
+237,en,ss_SZ,seasonal flu,umkhuhlane wekushintja kwesikhatsi semnyaka
+238,en,ss_SZ,seasonal influenza,i-influenza yekushintja kwesikhatsi semnyaka
+239,en,ss_SZ,secretion,kuhlukaniswa
+240,en,ss_SZ,self-quarantine,kutihlukanisa
+241,en,ss_SZ,sepsis,i-sepsis
+242,en,ss_SZ,septic shock,i-septic shock
+243,en,ss_SZ,Severe Acute Respiratory Syndrome,i-Severe Acute Respiratory Syndrome / Sifo Sekuphefumula Kakhulu Lesibuhlungu
+244,en,ss_SZ,shortness of breath,kungaphefumuli kahle
+245,en,ss_SZ,sickened,kugula
+246,en,ss_SZ,sickness,kugula
+247,en,ss_SZ,sneeze,kutsimula
+248,en,ss_SZ,sneezes,uyatsimula
+249,en,ss_SZ,sneezing,kutsimula
+250,en,ss_SZ,social distancing,libanga lokufanele ume kulo nawusemkhatsini webantfu
+251,en,ss_SZ,sore throat,koma kwemphimbo
+252,en,ss_SZ,spanish flu,mkhuhlane waseSpain
+253,en,ss_SZ,specimen collection,kuhlolwa kwaselabhorethi
+254,en,ss_SZ,spread,kusabalala
+255,en,ss_SZ,sputum,i-sputum
+256,en,ss_SZ,stigmatisation,kubhekwa njengoneligciwane
+257,en,ss_SZ,supportive,kusekelwa
+258,en,ss_SZ,surface,indzawo
+259,en,ss_SZ,surfaces,tindzawo
+260,en,ss_SZ,suspected infection,lokusolakala kutsi utselelekile
+261,en,ss_SZ,swab,i-swab
+262,en,ss_SZ,swine flu,i-swine flu
+263,en,ss_SZ,symptom,luphawu
+264,en,ss_SZ,symptomatic,kunetimpawu
+265,en,ss_SZ,symptoms,timpawu
+266,en,ss_SZ,targeted disinfection,lokuhlosiwe kokucedza kutseleleka
+267,en,ss_SZ,test kit,litfuluzi lekuhlola
+268,en,ss_SZ,testing error,liphutsa ekuhloleni
+269,en,ss_SZ,tissue damage,kulimala kweluketjezi
+270,en,ss_SZ,tp shortage,kushoda kwema-tp
+271,en,ss_SZ,toilet paper shortage,kushoda kwemaphepha esethoyilethi
+272,en,ss_SZ,touch,kutsintsa
+273,en,ss_SZ,touching,kutsintsana
+274,en,ss_SZ,transmissibility,kutseleleka
+275,en,ss_SZ,transmissible,lingatselelana
+276,en,ss_SZ,transmission,kutseleleka
+277,en,ss_SZ,transmission potential,matfuba ekutseleleka
+278,en,ss_SZ,typical flu,umkhuhlane lovamile
+279,en,ss_SZ,underlying disease,sifo lesicashile
+280,en,ss_SZ,updates,takamuva
+281,en,ss_SZ,vaccine,indlela yekulapha
+282,en,ss_SZ,vaccines,tindlela tekulapha
+283,en,ss_SZ,ventilation,tikhala letingenisa umoya
+284,en,ss_SZ,ventilator,kokungenisa umoya
+285,en,ss_SZ,ventilators,kwekungenisa umoya
+286,en,ss_SZ,viral infection,ligciwane lelitselelanako
+287,en,ss_SZ,viral outbreak,kucubuka kweligciwane
+288,en,ss_SZ,viral pandemic,mashayabhuce weligciwane
+289,en,ss_SZ,viral pneumonia,ligciwane lenyumonya
+290,en,ss_SZ,virtual care,kunakekelwa lokungokocobo
+291,en,ss_SZ,virulence,bungoti beligciwane
+292,en,ss_SZ,virus itself,ligciwane lona mbamba
+293,en,ss_SZ,virus outbreak,kubhedvuka kweligciwane
+294,en,ss_SZ,virus scare,kukhatsateka ngeligciwane
+295,en,ss_SZ,virus spreads,kusabalala kweligciwane
+296,en,ss_SZ,virus strain,emandla eligciwane
+297,en,ss_SZ,viral transmission,kutselelana leli gciwane
+298,en,ss_SZ,vivid-19,i-vivid-19
+299,en,ss_SZ,washing hands,kugeza tandla
+300,en,ss_SZ,washing ones hands,kugeza tandla talomunye
+301,en,ss_SZ,wash your hands,kugeza tandla takho
+302,en,ss_SZ,white blood cell count,sibalo setakhi tengati letimhlophe
+303,en,ss_SZ,widespread transmission,kutseleka ngekushesha
+304,en,ss_SZ,working from home,kusebentela ekhaya
+305,en,ss_SZ,WFH,i-WFH
+306,en,ss_SZ,Wuhan,i-Wuhan

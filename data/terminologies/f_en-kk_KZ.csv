@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,kk_KZ,1918 flu,1918 ж. тұмау
+2,en,kk_KZ,acute bronchitis,жіті бронхит
+3,en,kk_KZ,acute respiratory disease,жіті респираторлық ауру
+4,en,kk_KZ,AIDS,ЖҚТБ
+5,en,kk_KZ,airborne droplets,ауамен таралатын тамшылар
+6,en,kk_KZ,airway,тыныс алу жолдары
+7,en,kk_KZ,alcohol-based,құрамында спирт бар
+8,en,kk_KZ,alcohol-based hand rub,құрамында спирт бар қолға арналған антисептик
+9,en,kk_KZ,alcohol-based hand sanitizer,құрамында спирт бар қолға арналған зарарсыздандырғыш құрал
+10,en,kk_KZ,alveolar disease,альвеококкоз
+11,en,kk_KZ,an epidemic,эпидемия
+12,en,kk_KZ,annual flu,жыл сайынғы тұмау
+13,en,kk_KZ,anti-inflammatory drug,қабынуға қарсы дәрі-дәрмектер
+14,en,kk_KZ,antiviral drug,вирусқа қарсы дәрі-дәрмектер
+15,en,kk_KZ,antiviral treatment,вирусқа қарсы ем
+16,en,kk_KZ,assay,тест
+17,en,kk_KZ,asymptomatic,асимптомдық
+18,en,kk_KZ,avian flu,құс тұмауы
+19,en,kk_KZ,Black Plague,оба ауруы
+20,en,kk_KZ,blood pressure,қан қысымы
+21,en,kk_KZ,body fluid,денедегі сұйықтық
+22,en,kk_KZ,breathing,тыныс алу
+23,en,kk_KZ,bubonic plague,бубон обасы
+24,en,kk_KZ,c19,c19
+25,en,kk_KZ,cv19,cv19
+26,en,kk_KZ,case fatality rate,өлім-жітім
+27,en,kk_KZ,causative agent,ауру қоздырғыш
+28,en,kk_KZ,CDC,Ауруды бақылау орталығы
+29,en,kk_KZ,chemical disinfection,химиялық зарарсыздандыру
+30,en,kk_KZ,chest x-ray,флюорография
+31,en,kk_KZ,clinical diagnosis,клиникалық диагноз
+32,en,kk_KZ,clinical trial,клиникалық зерттеу
+33,en,kk_KZ,close contact,тығыз байланыс
+34,en,kk_KZ,cvirus,коронавирус
+35,en,kk_KZ,chronic respiratory disease,созылмалы респираторлық ауру
+36,en,kk_KZ,common cold,суық тию
+37,en,kk_KZ,common flu,тұмау
+38,en,kk_KZ,communicable disease,жұқпалы ауру
+39,en,kk_KZ,community spread,қоғамға таралу
+40,en,kk_KZ,community transmission,қоғамға тарау
+41,en,kk_KZ,compromised immune system,әлсіреген иммундық жүйе
+42,en,kk_KZ,contagion,жұқпалы ауру
+43,en,kk_KZ,contagious,жұқпалы
+44,en,kk_KZ,contagiousness,инфекция
+45,en,kk_KZ,corona,корона
+46,en,kk_KZ,corona virus,коронавирус
+47,en,kk_KZ,corona virus epidemic,коронавирус эпидемиясы
+48,en,kk_KZ,corona virus outbreak,коронавирустың тарауы
+49,en,kk_KZ,corona virus scare,коронавирустан қорқу
+50,en,kk_KZ,coronavirus,коронавирус
+51,en,kk_KZ,coronavirus cases,коронавирус жағдайлары
+52,en,kk_KZ,coronavirus outbreak,коронавирустың тарауы
+53,en,kk_KZ,coronavirus pandemic,коронавирус пандемиясы
+54,en,kk_KZ,coronavirus scare,коронавирустан қорқу
+55,en,kk_KZ,cough,жөтел
+56,en,kk_KZ,cough etiquette,жөтелу әдебі
+57,en,kk_KZ,coughing,жөтелу
+58,en,kk_KZ,cov 19,cov 19
+59,en,kk_KZ,cov19,cov19
+60,en,kk_KZ,COVID,COVID
+61,en,kk_KZ,COVID-19 crisis,COVID-19 дағдарысы
+62,en,kk_KZ,covid-19,covid-19
+63,en,kk_KZ,covid19,covid19
+64,en,kk_KZ,COVID-19 epidemic,COVID-19 эпидемиясы
+65,en,kk_KZ,COVID-19 outbreak,COVID-19 тарауы
+66,en,kk_KZ,COVID-19 pandemic,COVID-19 пандемиясы
+67,en,kk_KZ,COVID 19,COVID 19
+68,en,kk_KZ,current crisis,ағымдағы дағдарыс
+69,en,kk_KZ,current health crisis,ағымдағы денсаулық дағдарысы
+70,en,kk_KZ,current outbreak,ағымдағы таралу
+71,en,kk_KZ,current pandemic,ағымдағы пандемия
+72,en,kk_KZ,CV,CV
+73,en,kk_KZ,CV-19,CV-19
+74,en,kk_KZ,deadly,өлімге әкелетін
+75,en,kk_KZ,deadly virus,өлімге әкелетін вирус
+76,en,kk_KZ,death rate,өлім көрсеткіші
+77,en,kk_KZ,death toll,зардап шегушілер саны
+78,en,kk_KZ,decontaminate,залалсыздандыру
+79,en,kk_KZ,detectable,анықталатын
+80,en,kk_KZ,detergent,залалсыздандырғыш құрал
+81,en,kk_KZ,difficulty breathing,тыныстың тарылуы
+82,en,kk_KZ,diabetes,диабет
+83,en,kk_KZ,diagnosable disease,анықталатын ауру
+84,en,kk_KZ,diagnostic protocol,диагностика хаттамасы
+85,en,kk_KZ,diagnostic testing,диагностикалық тексеру
+86,en,kk_KZ,disease itself,аурудың өзі
+87,en,kk_KZ,disease outbreak,аурудың таралуы
+88,en,kk_KZ,disinfectant,залалсыздандырғыш құрал
+89,en,kk_KZ,disposable,бір рет қолданылатын
+90,en,kk_KZ,droplet transmission,тамшыдан жұғу
+91,en,kk_KZ,droplets,тамшылар
+92,en,kk_KZ,dry cough,құрғақ жөтел
+93,en,kk_KZ,dry surface contamination,құрғақ беттің ластануы
+94,en,kk_KZ,ebola,эбола
+95,en,kk_KZ,effective treatment,тиімді емдеу
+96,en,kk_KZ,electron microscope,электрондық микроскоп
+97,en,kk_KZ,emergency department,жедел медициналық көмек көрсету бөлімі
+98,en,kk_KZ,epidemic,эпидемия
+99,en,kk_KZ,epidemic curve,эпидемиялық қисық
+100,en,kk_KZ,epidemic peak,эпидемиялық пик
+101,en,kk_KZ,epidemiologist,эпидемиолог
+102,en,kk_KZ,exposure,жұқпалы ауру көзімен байланыс
+103,en,kk_KZ,extreme caution,айрықша сақтық шаралары
+104,en,kk_KZ,eye protection,көз қорғанысы
+105,en,kk_KZ,face mask,медициналық маска
+106,en,kk_KZ,face masks,медициналық маскалар
+107,en,kk_KZ,family cluster,ауырлаған отбасы анамнезі
+108,en,kk_KZ,fatality rate,өлім-жітім
+109,en,kk_KZ,fecal contamination,нәжістен жұғу
+110,en,kk_KZ,fever,қызу көтерілуі
+111,en,kk_KZ,flatten the infection curve,инфекция қисығын түзету
+112,en,kk_KZ,flu,тұмау
+113,en,kk_KZ,food safety,тағам қауіпсіздігі
+114,en,kk_KZ,formaldehyde,формальдегид
+115,en,kk_KZ,gastroenteritis,гастроэнтерит
+116,en,kk_KZ,germicide,микробқа қарсы дәрі-дәрмек
+117,en,kk_KZ,global pandemic,жаһандық пандемия
+118,en,kk_KZ,global warming,жаһандық жылыну
+119,en,kk_KZ,good respiratory hygiene,жақсы тыныс алу гигиенасы
+120,en,kk_KZ,Guangdong,Гуандун
+121,en,kk_KZ,H1N1,H1N1
+122,en,kk_KZ,H1N1 virus,H1N1 вирусы
+123,en,kk_KZ,hand disinfectant,қолға арналған зарарсыздандырғыш құрал
+124,en,kk_KZ,hand sanitizer,қолға арналған антисептик
+125,en,kk_KZ,health care provider,медициналық ұйым
+126,en,kk_KZ,health crisis,денсаулық дағдарысы
+127,en,kk_KZ,health plan carrier,медициналық сақтандыру
+128,en,kk_KZ,health services,денсаулық сақтау қызметтері
+129,en,kk_KZ,heart failure,жүрек жеткіліксіздігі
+130,en,kk_KZ,high fever,жоғары температура
+131,en,kk_KZ,HIV,АҚТҚ
+132,en,kk_KZ,hospitalize,стационарға жатқызу
+133,en,kk_KZ,household bleach,ағартқыш
+134,en,kk_KZ,Hubei,Хубэй
+135,en,kk_KZ,hydrogen peroxide,сутегінің асқын тотығы
+136,en,kk_KZ,hygiene,гигиена
+137,en,kk_KZ,immune system,иммундық жүйе
+138,en,kk_KZ,immunity,иммунитет
+139,en,kk_KZ,immunocompromised,иммунитеті әлсіреген
+140,en,kk_KZ,immunologist,иммунолог
+141,en,kk_KZ,incubation,инкубация
+142,en,kk_KZ,incubation period,инкубация кезеңі
+143,en,kk_KZ,indirect contact,жанама байланыс
+144,en,kk_KZ,infect,жұқтыру
+145,en,kk_KZ,infection,инфекция
+146,en,kk_KZ,infectious,жұқпалы
+147,en,kk_KZ,infectivity,жұқпалылық
+148,en,kk_KZ,influenza,тұмау
+149,en,kk_KZ,initial transmission event,бастапқы трансмиссия оқиғасы
+150,en,kk_KZ,intensive care equipment,реанимациялық құрылғы
+151,en,kk_KZ,intermediate host,аралық ие
+152,en,kk_KZ,intrauterine,жатырішілік
+153,en,kk_KZ,intubation,интубация
+154,en,kk_KZ,isolation,изоляция
+155,en,kk_KZ,Isopropanol,изопропанол
+156,en,kk_KZ,laboratory test kit,зертханалық тест жинағы
+157,en,kk_KZ,laboratory testing,зертханалық тест
+158,en,kk_KZ,lack of testing,тест тапшылығы
+159,en,kk_KZ,lack of tests,тест тапшылығы
+160,en,kk_KZ,latest updates,ең соңғы жаңартулар
+161,en,kk_KZ,liver failure,бауыр жеткіліксіздігі
+162,en,kk_KZ,local public health authority,жергілікті денсаулық сақтау мекемесі
+163,en,kk_KZ,lockdown,блоктау
+164,en,kk_KZ,lungs,өкпе
+165,en,kk_KZ,masks,маскалар
+166,en,kk_KZ,measles,қызылша
+167,en,kk_KZ,mechanical ventilation,механикалық желдету
+168,en,kk_KZ,media coverage,БАҚ-та таралуы
+169,en,kk_KZ,medical care,медициналық көмек
+170,en,kk_KZ,MERS,Таяу шығыс респираторлық синдромы (MERS)
+171,en,kk_KZ,MERS CoV,MERS CoV вирусы
+172,en,kk_KZ,microbiologist,микробиолог
+173,en,kk_KZ,mild cough,жұмсақ жөтел
+174,en,kk_KZ,mortality rate,өлім-жітім деңгейі
+175,en,kk_KZ,multi-organ failure,көптеген органдардың функционалдық жеткіліксіздігі
+176,en,kk_KZ,nasal congestion,мұрынның бітелуі
+177,en,kk_KZ,neutral detergent,бейтарап детергент
+178,en,kk_KZ,new normal,жаңа стандарт
+179,en,kk_KZ,novel corona virus,жаңа коронавирус
+180,en,kk_KZ,novel coronavirus,жаңа коронавирус
+181,en,kk_KZ,novel coronavirus outbreak,жаңа коронавирустың таралуы
+182,en,kk_KZ,novel virus,жаңа вирус
+183,en,kk_KZ,online medical consultation,онлайн медициналық көмек
+184,en,kk_KZ,onset,ауру дебюті
+185,en,kk_KZ,outbreak,таралу
+186,en,kk_KZ,outbreak readiness,таралуға дайындық
+187,en,kk_KZ,overall case fatality,жалпы өлім-жітім
+188,en,kk_KZ,pandemic,пандемия
+189,en,kk_KZ,pangolin,панголин
+190,en,kk_KZ,pathogen,патоген
+191,en,kk_KZ,pathology,патология
+192,en,kk_KZ,patient care equipment,пациентке көмек беру құрылғысы
+193,en,kk_KZ,personal protective equipment,жеке қорғаныс құрылғысы
+194,en,kk_KZ,person-to-person transmission,адамнан адамға таралу
+195,en,kk_KZ,phlegm,қақырық
+196,en,kk_KZ,physical contact,физикалық байланыс
+197,en,kk_KZ,plague,оба
+198,en,kk_KZ,pneumonia,пневмония
+199,en,kk_KZ,pneumonias,пневмониялық
+200,en,kk_KZ,positive test,оң нәтижелі тест
+201,en,kk_KZ,precaution,сақтық шарасы
+202,en,kk_KZ,precautionary,профилактикалық
+203,en,kk_KZ,pre-existing condition,бұрыннан бар жағдайлар
+204,en,kk_KZ,preparedness,дайындық
+205,en,kk_KZ,prognosis,болжам
+206,en,kk_KZ,protect myself,өзіңді қорғау
+207,en,kk_KZ,protect others,басқаларды қорғау
+208,en,kk_KZ,protect yourself,өзіңізді қорғау
+209,en,kk_KZ,protective measures,қорғаныс шаралары
+210,en,kk_KZ,public health crisis,қоғамдық денсаулық дағдарысы
+211,en,kk_KZ,pulmonary tissue damage,өкпе тінінің зақымдалуы
+212,en,kk_KZ,quarantine,карантин
+213,en,kk_KZ,rapid risk assessment,қауіпті тез арада бағалау
+214,en,kk_KZ,reagent,реагент
+215,en,kk_KZ,regular flu,қарапайым тұмау
+216,en,kk_KZ,reinfection,қайталама инфекция
+217,en,kk_KZ,renal disease,бүйрек ауруы
+218,en,kk_KZ,renal failure,бүйрек жеткіліксіздігі
+219,en,kk_KZ,respirator,респиратор
+220,en,kk_KZ,respiratory,респираторлық
+221,en,kk_KZ,respiratory disease,респираторлық ауру
+222,en,kk_KZ,respiratory distress,ентігу
+223,en,kk_KZ,respiratory droplets,респираторлық тамшылар
+224,en,kk_KZ,respiratory hygiene,респираторлық гигиена
+225,en,kk_KZ,respiratory illness,респираторлық ауру
+226,en,kk_KZ,respiratory syndrome,респираторлық синдром
+227,en,kk_KZ,respiratory tract disease,тыныс алу жолдарының ауруы
+228,en,kk_KZ,restrictions,шектеулер
+229,en,kk_KZ,resurge,жаңа толқын
+230,en,kk_KZ,RNA,РНҚ
+231,en,kk_KZ,rubeola,қызылша
+232,en,kk_KZ,runny nose,тұмау
+233,en,kk_KZ,SARS,АЖРС
+234,en,kk_KZ,SARS-CoV-2,Коронавирус ауыр жіті респираторлық синдромы 2
+235,en,kk_KZ,SARS-CoV,Коронавирус ауыр жіті респираторлық синдромы
+236,en,kk_KZ,sars-related coronavirus,АЖРС-ға қатысты коронавирус
+237,en,kk_KZ,seasonal flu,маусымдық тұмау
+238,en,kk_KZ,seasonal influenza,маусымдық тұмау
+239,en,kk_KZ,secretion,секреция
+240,en,kk_KZ,self-quarantine,жеке карантин
+241,en,kk_KZ,sepsis,сепсис
+242,en,kk_KZ,septic shock,сепсистік шок
+243,en,kk_KZ,Severe Acute Respiratory Syndrome,Ауыр жіті респираторлық синдромы
+244,en,kk_KZ,shortness of breath,тыныс алудың қиындауы
+245,en,kk_KZ,sickened,лоқсу
+246,en,kk_KZ,sickness,сырқат
+247,en,kk_KZ,sneeze,түшкірік
+248,en,kk_KZ,sneezes,түшкірік
+249,en,kk_KZ,sneezing,түшкіру
+250,en,kk_KZ,social distancing,әлеуметтік қашықтық
+251,en,kk_KZ,sore throat,тамақ ауруы
+252,en,kk_KZ,spanish flu,испан тұмауы
+253,en,kk_KZ,specimen collection,үлгілерді жинау
+254,en,kk_KZ,spread,таралу
+255,en,kk_KZ,sputum,қақырық
+256,en,kk_KZ,stigmatisation,маргинализация
+257,en,kk_KZ,supportive,толықтырушы
+258,en,kk_KZ,surface,бет
+259,en,kk_KZ,surfaces,беттер
+260,en,kk_KZ,suspected infection,күдікті инфекция
+261,en,kk_KZ,swab,жағынды
+262,en,kk_KZ,swine flu,шошқа тұмауы
+263,en,kk_KZ,symptom,симптом
+264,en,kk_KZ,symptomatic,симптомдық
+265,en,kk_KZ,symptoms,симптомдар
+266,en,kk_KZ,targeted disinfection,мақсатты дезинфекция
+267,en,kk_KZ,test kit,тестілер жинағы
+268,en,kk_KZ,testing error,тестілеу қатесі
+269,en,kk_KZ,tissue damage,тіннің зақымдалуы
+270,en,kk_KZ,tp shortage,дәретхана қағазының жетіспеушілігі
+271,en,kk_KZ,toilet paper shortage,дәретхана қағазының жетіспеушілігі
+272,en,kk_KZ,touch,жанасу
+273,en,kk_KZ,touching,жанасу
+274,en,kk_KZ,transmissibility,жұғу
+275,en,kk_KZ,transmissible,жұқпалы
+276,en,kk_KZ,transmission,трансмиссия
+277,en,kk_KZ,transmission potential,ықтимал жұғу
+278,en,kk_KZ,typical flu,қарапайым тұмау
+279,en,kk_KZ,underlying disease,бастапқы ауру
+280,en,kk_KZ,updates,жаңартулар
+281,en,kk_KZ,vaccine,вакцина
+282,en,kk_KZ,vaccines,вакциналар
+283,en,kk_KZ,ventilation,желдету
+284,en,kk_KZ,ventilator,желдеткіш
+285,en,kk_KZ,ventilators,желдеткіштер
+286,en,kk_KZ,viral infection,вирустық инфекция
+287,en,kk_KZ,viral outbreak,вирустың таралуы
+288,en,kk_KZ,viral pandemic,вирустық пандемия
+289,en,kk_KZ,viral pneumonia,вирустық пневмония
+290,en,kk_KZ,virtual care,виртуалды күтім
+291,en,kk_KZ,virulence,уыттылық
+292,en,kk_KZ,virus itself,вирустың өзі
+293,en,kk_KZ,virus outbreak,вирустың таралуы
+294,en,kk_KZ,virus scare,вирустан қорқу
+295,en,kk_KZ,virus spreads,вирустың таралуы
+296,en,kk_KZ,virus strain,вирус штаммы
+297,en,kk_KZ,viral transmission,вирус трансмиссиясы
+298,en,kk_KZ,vivid-19,vivid-19
+299,en,kk_KZ,washing hands,қол жуу
+300,en,kk_KZ,washing ones hands,біреудің қолын жуу
+301,en,kk_KZ,wash your hands,қолыңызды жуу
+302,en,kk_KZ,white blood cell count,қандағы лейкоцит деңгейі
+303,en,kk_KZ,widespread transmission,таралу трансмиссиясы
+304,en,kk_KZ,working from home,үйден жұмыс істеу
+305,en,kk_KZ,WFH,үйден жұмыс істеу
+306,en,kk_KZ,Wuhan,Ухань

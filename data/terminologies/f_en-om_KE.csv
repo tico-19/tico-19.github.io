@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,om_KE,1918 flu,1918 Infuleenzaa
+2,en,om_KE,acute bronchitis,Madaa’inaa qonqqo bayye hamaa
+3,en,om_KE,acute respiratory disease,Dhibee hargganssu bayye cimaa
+4,en,om_KE,AIDS,AIDS
+5,en,om_KE,airborne droplets,Cophaa qillenssa kessaa
+6,en,om_KE,airway,qilleenssarra
+7,en,om_KE,alcohol-based,Kan alkoholii qabuu
+8,en,om_KE,alcohol-based hand rub,Samunaa harkka kan alkoolii qabuu
+9,en,om_KE,alcohol-based hand sanitizer,Saanitayizaraa harkka kan alkooli qabuu
+10,en,om_KE,alveolar disease,Dhibee hargganssitu
+11,en,om_KE,an epidemic,Dhibee weeraraa
+12,en,om_KE,annual flu,Infulenzza baraa
+13,en,om_KE,anti-inflammatory drug,Qoorssaa farra dadhabbi
+14,en,om_KE,antiviral drug,Qoorssaa farraa vaayirasii
+15,en,om_KE,antiviral treatment,Walla’anssa farra vaayirasii
+16,en,om_KE,assay,Safarttu danddamachu
+17,en,om_KE,asymptomatic,Mallatto agarssisu
+18,en,om_KE,avian flu,Infuleenzza allattiwwani
+19,en,om_KE,Black Plague,Infeekshini qoonqqo gurracha
+20,en,om_KE,blood pressure,Dhibba dhiigaa
+21,en,om_KE,body fluid,Dhanggala’aa qaama
+22,en,om_KE,breathing,hargganssuu
+23,en,om_KE,bubonic plague,Ho’aa qaama cimaa
+24,en,om_KE,c19,c19
+25,en,om_KE,cv19,cv19
+26,en,om_KE,case fatality rate,Galmme hanggaa du’aa
+27,en,om_KE,causative agent,Namaa daddabarssu
+28,en,om_KE,CDC,CDC
+29,en,om_KE,chemical disinfection,Keemiikaalan qulqqullessuu
+30,en,om_KE,chest x-ray,Raaji laphee
+31,en,om_KE,clinical diagnosis,Qoranno kilinikaa
+32,en,om_KE,clinical trial,Yaalii kilinikaa
+33,en,om_KE,close contact,Walittii dhiyeenya
+34,en,om_KE,cvirus,Vayiraasi koronaa
+35,en,om_KE,chronic respiratory disease,Dhibee Sirnna hargganssu yeroo dheeraa
+36,en,om_KE,common cold,Infuleenzza qorraa
+37,en,om_KE,common flu,Infuleenzza qorraa
+38,en,om_KE,communicable disease,Dhibee daddarbba
+39,en,om_KE,community spread,Baballinssa hawaasaa
+40,en,om_KE,community transmission,Daddarbbinssa hawaasaa
+41,en,om_KE,compromised immune system,Sirnna ittisuma dhibee wal simataa
+42,en,om_KE,contagion,daddarbbinssa
+43,en,om_KE,contagious,Dhibe daddarbbu
+44,en,om_KE,contagiousness,Dhibee daddabrssu
+45,en,om_KE,corona,Koroonaa
+46,en,om_KE,corona virus,Vaayirasii koronaa
+47,en,om_KE,corona virus epidemic,Werarssa vaayirasii koronaa
+48,en,om_KE,corona virus outbreak,Arggaama tasaa vaayirasii koronaa
+49,en,om_KE,corona virus scare,Sodaachisumma vaayirasii koronaa
+50,en,om_KE,coronavirus,Vaayirasii koronaa
+51,en,om_KE,coronavirus cases,Galmmewwan koronaa vayirasii
+52,en,om_KE,coronavirus outbreak,Arggaama tasaa vaayirasii koronaa
+53,en,om_KE,coronavirus pandemic,Weerara vaayirasii koronaa
+54,en,om_KE,coronavirus scare,Sodaachisumma vaayirasii koronaa
+55,en,om_KE,cough,utaalloo
+56,en,om_KE,cough etiquette,haala quufa’an
+57,en,om_KE,coughing,Quufa’uu
+58,en,om_KE,cov 19,Cov 19
+59,en,om_KE,cov19,cov19
+60,en,om_KE,COVID,COVID
+61,en,om_KE,COVID-19 crisis,Haala sodaachisaa COVID-19
+62,en,om_KE,covid-19,Covid-19
+63,en,om_KE,covid19,covid19
+64,en,om_KE,COVID-19 epidemic,Weeraraa COVID-19
+65,en,om_KE,COVID-19 outbreak,Arggama tasaa COVID-19
+66,en,om_KE,COVID-19 pandemic,Weerara COVID-19
+67,en,om_KE,COVID 19,COVID 19
+68,en,om_KE,current crisis,Haala sodacchisaa yeroo amma
+69,en,om_KE,current health crisis,Haala sodaachisaa fayyaa Amma
+70,en,om_KE,current outbreak,Arggama tasa Ammaa
+71,en,om_KE,current pandemic,Weeraraa yeroo ammaa
+72,en,om_KE,CV,CV
+73,en,om_KE,CV-19,CV-19
+74,en,om_KE,deadly,Ajjeechaa
+75,en,om_KE,deadly virus,Ajjechaa Vaayirasii
+76,en,om_KE,death rate,Saffisaa Du’aa
+77,en,om_KE,death toll,Lakkofssa du’aa
+78,en,om_KE,decontaminate,Wantta daddabarsu ballessu
+79,en,om_KE,detectable,Arggamu ni dandda’a
+80,en,om_KE,detergent,Samunaa qulqullessitu
+81,en,om_KE,difficulty breathing,Dadhabbii hargganssu
+82,en,om_KE,diabetes,Dhibee shukkaaraa
+83,en,om_KE,diagnosable disease,Dhibee Qoratamaa
+84,en,om_KE,diagnostic protocol,Aaloo Qorannoo
+85,en,om_KE,diagnostic testing,Yaalii Qorannoo
+86,en,om_KE,disease itself,Dhibee mataa isaa
+87,en,om_KE,disease outbreak,Arggama tasaa dhibee
+88,en,om_KE,disinfectant,Qulqqullessitu vaayirasi
+89,en,om_KE,disposable,Fayyadamne gatuu
+90,en,om_KE,droplet transmission,Daddarbba cophaa gororaa
+91,en,om_KE,droplets,cophaa
+92,en,om_KE,dry cough,Utaalloo gogaa
+93,en,om_KE,dry surface contamination,Bakka googaa balffaa
+94,en,om_KE,ebola,Iboolaa
+95,en,om_KE,effective treatment,Walla’anssa bu’aa qabessaa
+96,en,om_KE,electron microscope,Maaykirooskoppi elektirooni
+97,en,om_KE,emergency department,Dippartimentti balaa tasaa
+98,en,om_KE,epidemic,weerara
+99,en,om_KE,epidemic curve,Golbbo weeraraa
+100,en,om_KE,epidemic peak,Gubba weerara
+101,en,om_KE,epidemiologist,Qorattoota babaallinsa dhibee
+102,en,om_KE,exposure,saaxiluu
+103,en,om_KE,extreme caution,Of egganno bayyee cimaa
+104,en,om_KE,eye protection,Ittisaa ijaa
+105,en,om_KE,face mask,Maaskki fuulaa
+106,en,om_KE,face masks,Maaskkiwwan fuulaa
+107,en,om_KE,family cluster,Walittii qabama maatiwwani
+108,en,om_KE,fatality rate,Saffisaa du’aa
+109,en,om_KE,fecal contamination,Balffaa haftte nyaataa
+110,en,om_KE,fever,Ho’aa Qaamaa
+111,en,om_KE,flatten the infection curve,Golbbo faalamaa batte taasisaa
+112,en,om_KE,flu,infuleezzaa
+113,en,om_KE,food safety,Qulqqullina nyaataa
+114,en,om_KE,formaldehyde,Formaldihaayidii
+115,en,om_KE,gastroenteritis,Madaa garachaa
+116,en,om_KE,germicide,Ballessitu maaykiro orgganisimootaa
+117,en,om_KE,global pandemic,Weeraraa adunyyaa
+118,en,om_KE,global warming,Jijjiraama qillenssaa
+119,en,om_KE,good respiratory hygiene,Qulqqullina sirnna hargganssu gaarii
+120,en,om_KE,Guangdong,Guwangdoong
+121,en,om_KE,H1N1,H1N1
+122,en,om_KE,H1N1 virus,Vaayirasii H1N1
+123,en,om_KE,hand disinfectant,Qulqqullesitu harkka
+124,en,om_KE,hand sanitizer,Saanitaayizarii harkka
+125,en,om_KE,health care provider,Dhiyessitoota fayya qaama
+126,en,om_KE,health crisis,Haala sodachisaa eeguumssa fayyaa
+127,en,om_KE,health plan carrier,Battota karoora fayyaa
+128,en,om_KE,health services,Tajaajilaa fayyaa
+129,en,om_KE,heart failure,Dadhabbi onnee
+130,en,om_KE,high fever,Ho’aa qaama guddaa
+131,en,om_KE,HIV,HIV
+132,en,om_KE,hospitalize,Hospitaala gessuu
+133,en,om_KE,household bleach,Qulqqullesitu mana kessaa
+134,en,om_KE,Hubei,Hubey
+135,en,om_KE,hydrogen peroxide,Haaydiroojin peroksaayidi
+136,en,om_KE,hygiene,qulqqullinaa
+137,en,om_KE,immune system,Sirnna ittisumma dhibee
+138,en,om_KE,immunity,ittisummaa
+139,en,om_KE,immunocompromised,Wal-simanna sirnna ittisumma
+140,en,om_KE,immunologist,Qorattota sirnna ittisumma dhibe
+141,en,om_KE,incubation,qorannoo
+142,en,om_KE,incubation period,Yeroo qorannoo
+143,en,om_KE,indirect contact,Walitti dhufeenya al-kallatti
+144,en,om_KE,infect,qabssisuu
+145,en,om_KE,infection,faalama
+146,en,om_KE,infectious,faalttota
+147,en,om_KE,infectivity,faaluu
+148,en,om_KE,influenza,Infuleenzza
+149,en,om_KE,initial transmission event,Qophii daddarbbinssa jalqabaa
+150,en,om_KE,intensive care equipment,Meshaale eguumssa sirrii
+151,en,om_KE,intermediate host,Battu giddugalessaa
+152,en,om_KE,intrauterine,Gadamessa kessa
+153,en,om_KE,intubation,Tubboo kessa galchuu
+154,en,om_KE,isolation,Qofatti baasuu
+155,en,om_KE,Isopropanol,ayisopiroopanool
+156,en,om_KE,laboratory test kit,Mesha qoranno labooratorii
+157,en,om_KE,laboratory testing,qoranno labooratorii
+158,en,om_KE,lack of testing,Hir’inaa qorannoo
+159,en,om_KE,lack of tests,Hir’inaa qorannowwani
+160,en,om_KE,latest updates,Odefanno yeroo dhiyoo
+161,en,om_KE,liver failure,Kufaati Tiruu
+162,en,om_KE,local public health authority,Anggawoo fayya hawaasa nanno
+163,en,om_KE,lockdown,Itti cufuu
+164,en,om_KE,lungs,qoonqqo
+165,en,om_KE,masks,maaskii
+166,en,om_KE,measles,kuffinyi
+167,en,om_KE,mechanical ventilation,Hafarssiku mekaanikaalaa
+168,en,om_KE,media coverage,Haguuggi midiyaa
+169,en,om_KE,medical care,Walla’anssa fayyaa
+170,en,om_KE,MERS,MERS
+171,en,om_KE,MERS CoV,MERS Cov
+172,en,om_KE,microbiologist,Maaykiroo bayoolojisttoota
+173,en,om_KE,mild cough,Utaallo cimaa
+174,en,om_KE,mortality rate,Saffisaa du’aa.
+175,en,om_KE,multi-organ failure,Kufaatii dacha qaamaa
+176,en,om_KE,nasal congestion,Cuufamuu funyaani
+177,en,om_KE,neutral detergent,Qulqqullessitu uumamaa
+178,en,om_KE,new normal,Sirri haaraawa
+179,en,om_KE,novel corona virus,Vaayirasii Novel koronaa
+180,en,om_KE,novel coronavirus,Vaayirasii Novel koronaa
+181,en,om_KE,novel coronavirus outbreak,Arggama tasa Vaayirasii Novel koronaa
+182,en,om_KE,novel virus,Vaayiirasi Novel
+183,en,om_KE,online medical consultation,Deggarssa fayyaa onlaayinii
+184,en,om_KE,onset,jalqabaa
+185,en,om_KE,outbreak,mudannoo
+186,en,om_KE,outbreak readiness,Qophi mudannoo
+187,en,om_KE,overall case fatality,Arggama du’aa walii galaa
+188,en,om_KE,pandemic,weeraraa
+189,en,om_KE,pangolin,paangoolinii
+190,en,om_KE,pathogen,paatoojini
+191,en,om_KE,pathology,patoolojii
+192,en,om_KE,patient care equipment,Meesha walla’anssa dhukkubsattota
+193,en,om_KE,personal protective equipment,Meesha eggumssa fayya dhunffa
+194,en,om_KE,person-to-person transmission,Daddarbbinssa nama gara namaa
+195,en,om_KE,phlegm,Googora tufssisu
+196,en,om_KE,physical contact,Walixuquu qaama
+197,en,om_KE,plague,Googora tufssisu
+198,en,om_KE,pneumonia,Faalama qoonqoo
+199,en,om_KE,pneumonias,Faalttu qonqqo
+200,en,om_KE,positive test,yaalii poosativaa
+201,en,om_KE,precaution,Wantta taasisu qabnnu
+202,en,om_KE,precautionary,Wantta gochu qabnnu mijessa
+203,en,om_KE,pre-existing condition,Haala duraan arggamu
+204,en,om_KE,preparedness,Of qopheessu
+205,en,om_KE,prognosis,Tilmmama dhibee
+206,en,om_KE,protect myself,Of eggachuu
+207,en,om_KE,protect others,Warren kanis eguu
+208,en,om_KE,protect yourself,Of eggadhaa
+209,en,om_KE,protective measures,Wanttota gochuu qabnnu
+210,en,om_KE,public health crisis,Haala sodhaachisaa fayya hawaasumma
+211,en,om_KE,pulmonary tissue damage,Barbbaddii tishu pulmonarii
+212,en,om_KE,quarantine,Yeroo qofaatti bahuu
+213,en,om_KE,rapid risk assessment,Qoranno balaa ariiti
+214,en,om_KE,reagent,Rii’ejenttii
+215,en,om_KE,regular flu,Infulenzza duraani
+216,en,om_KE,reinfection,Deebisani faalamu
+217,en,om_KE,renal disease,Dhibee kalee
+218,en,om_KE,renal failure,Kufaati kalee
+219,en,om_KE,respirator,hargganssu
+220,en,om_KE,respiratory,hargganssuu
+221,en,om_KE,respiratory disease,Dhibee hargganssuu
+222,en,om_KE,respiratory distress,Soda guddaa hargganssu
+223,en,om_KE,respiratory droplets,Cophaa hargganssu
+224,en,om_KE,respiratory hygiene,Qulqqullina hargganssu
+225,en,om_KE,respiratory illness,Dhukkubbi hargganssu
+226,en,om_KE,respiratory syndrome,Syndrome hargganssu
+227,en,om_KE,respiratory tract disease,Ujummo dhibee hargganssu
+228,en,om_KE,restrictions,danggeffamoota
+229,en,om_KE,resurge,Deebisani baballisu
+230,en,om_KE,RNA,RNA
+231,en,om_KE,rubeola,kuffinyii
+232,en,om_KE,runny nose,Funyaan furrii bayyatu
+233,en,om_KE,SARS,SARS
+234,en,om_KE,SARS-CoV-2,SARS-CoV-2
+235,en,om_KE,SARS-CoV,SARS-CoV
+236,en,om_KE,sars-related coronavirus,Vaayirasii korona kan sars walin wal qabatu
+237,en,om_KE,seasonal flu,Infuleenzaa waqttii
+238,en,om_KE,seasonal influenza,Infuleenzza waqtti
+239,en,om_KE,secretion,Gadii baasu
+240,en,om_KE,self-quarantine,Qofaatti of baasuu
+241,en,om_KE,sepsis,Arggama baakteeriya cimaa
+242,en,om_KE,septic shock,Naasuu madaa.
+243,en,om_KE,Severe Acute Respiratory Syndrome,Mallatto sirnna hargganssu bayye cimaa
+244,en,om_KE,shortness of breath,Hargganssu dadhabu
+245,en,om_KE,sickened,dhukubssate
+246,en,om_KE,sickness,dhukkubbi
+247,en,om_KE,sneeze,haxxiffachuu
+248,en,om_KE,sneezes,haxxiffachuwwan
+249,en,om_KE,sneezing,haxxiffachu
+250,en,om_KE,social distancing,Wali irra fagenyya hawaasaa
+251,en,om_KE,sore throat,Dhukkubbi qoonqqo
+252,en,om_KE,spanish flu,Infuleenzza Ispeenota
+253,en,om_KE,specimen collection,Walitti qabama sanyii
+254,en,om_KE,spread,baballinssa
+255,en,om_KE,sputum,Furrii qala’aa
+256,en,om_KE,stigmatisation,Bu’aa isaa
+257,en,om_KE,supportive,deggarssa
+258,en,om_KE,surface,nanoo
+259,en,om_KE,surfaces,nannowwan
+260,en,om_KE,suspected infection,Faalama arggamee
+261,en,om_KE,swab,Jirbbii
+262,en,om_KE,swine flu,Infuleenzza boyyee
+263,en,om_KE,symptom,Mallatto sdhukkubbi
+264,en,om_KE,symptomatic,mallatto
+265,en,om_KE,symptoms,mallattowwan
+266,en,om_KE,targeted disinfection,Qulqqullessa ilaamame
+267,en,om_KE,test kit,Meshaa qorannoo
+268,en,om_KE,testing error,Dogoogoraa qorannoo
+269,en,om_KE,tissue damage,Barbbadi kalee
+270,en,om_KE,tp shortage,hanqqina TP
+271,en,om_KE,toilet paper shortage,Hanqqina waraqaa mana finccani.
+272,en,om_KE,touch,tuqatii
+273,en,om_KE,touching,tuquu
+274,en,om_KE,transmissibility,daddabarsina
+275,en,om_KE,transmissible,daddabrssa
+276,en,om_KE,transmission,daddarbbi
+277,en,om_KE,transmission potential,Danddetti daddarbbu
+278,en,om_KE,typical flu,Infulenzza adda ta’e
+279,en,om_KE,underlying disease,Dhibee kuffisaa
+280,en,om_KE,updates,foyyinssa
+281,en,om_KE,vaccine,Kittibaata
+282,en,om_KE,vaccines,kittibaatoota
+283,en,om_KE,ventilation,hafarssu
+284,en,om_KE,ventilator,hafarssituu
+285,en,om_KE,ventilators,hafarssitoota
+286,en,om_KE,viral infection,Faalama vaayirasi
+287,en,om_KE,viral outbreak,Arggama tasa vaayirasi
+288,en,om_KE,viral pandemic,Weerara vaayirasii
+289,en,om_KE,viral pneumonia,Weerara dhibee qoonqqo.
+290,en,om_KE,virtual care,Kunuunssa fagenyaa
+291,en,om_KE,virulence,Dhibee cimaa
+292,en,om_KE,virus itself,Vaayirasichuma mata isaa
+293,en,om_KE,virus outbreak,Arggama tasa vaayirasii
+294,en,om_KE,virus scare,Sodachisumma vaayirasii
+295,en,om_KE,virus spreads,Baballinssa vaayirasii
+296,en,om_KE,virus strain,Danddamachu vaayirasii
+297,en,om_KE,viral transmission,Daddarbbi vaayiraasi
+298,en,om_KE,vivid-19,Vivid-19
+299,en,om_KE,washing hands,Harkka dhiqachuu
+300,en,om_KE,washing ones hands,Harkka nama dhiquu
+301,en,om_KE,wash your hands,Harkka kessan dhiqachuu
+302,en,om_KE,white blood cell count,Lakkofssa seeli dhigaa adii
+303,en,om_KE,widespread transmission,Daddarbbinsa haala bal’aa.
+304,en,om_KE,working from home,Mana ta’ani hojjechuu.
+305,en,om_KE,WFH,WFH
+306,en,om_KE,Wuhan,Wuhan

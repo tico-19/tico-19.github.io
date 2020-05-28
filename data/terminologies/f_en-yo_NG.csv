@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,yo_NG,1918 flu,òtútù ọdún 1918
+2,en,yo_NG,acute bronchitis,àìsàn inú ẹ̀dọ̀fóró tí ó le
+3,en,yo_NG,acute respiratory disease,àìsàn èémí tí ó le
+4,en,yo_NG,AIDS,àìsàn éèdì
+5,en,yo_NG,airborne droplets,àwọn ohun tí ó jábọ́ sínú afẹ́fẹ́
+6,en,yo_NG,airway,ibi tí afẹ́fẹ́ ngbà
+7,en,yo_NG,alcohol-based,tí a fi ògógóró ṣe
+8,en,yo_NG,alcohol-based hand rub,ohun ìpawọ́ tí a fi ògógóró ṣe
+9,en,yo_NG,alcohol-based hand sanitizer,ohun ìmọ́tótó ọwọ́ tí a fi ògógóró ṣe
+10,en,yo_NG,alveolar disease,àìsàn ihò inú ẹ̀dọ̀fóró
+11,en,yo_NG,an epidemic,àjàkálẹ̀ àrùn kan
+12,en,yo_NG,annual flu,àìsàn otútù ọlọ́dọọdún
+13,en,yo_NG,anti-inflammatory drug,oògùn tí ó ndènà wíwú àti dídunni
+14,en,yo_NG,antiviral drug,oògùn apa-kòkòrò fairọọsì
+15,en,yo_NG,antiviral treatment,ìtọ́jú àìsàn tí fairọọsì nfà
+16,en,yo_NG,assay,àyẹ̀wò
+17,en,yo_NG,asymptomatic,aláìní àmì ìkìlọ̀
+18,en,yo_NG,avian flu,òtútù ẹyẹ
+19,en,yo_NG,Black Plague,Àjàkálẹ̀ Àrùn Ìgbà Àtijọ́
+20,en,yo_NG,blood pressure,bí ẹ̀jẹ̀ ti nru sí
+21,en,yo_NG,body fluid,omi ara
+22,en,yo_NG,breathing,èémí
+23,en,yo_NG,bubonic plague,àjàkálẹ̀ àrùn tí ó fi ara jọ otútù
+24,en,yo_NG,c19,c19
+25,en,yo_NG,cv19,cv19
+26,en,yo_NG,case fatality rate,bí ó ti la ikú lọ tó
+27,en,yo_NG,causative agent,ohun abẹ̀mí tí ó nfa àìsàn
+28,en,yo_NG,CDC,Ojúkò Tí Ó Nbójútó Ìdènà Àìsàn
+29,en,yo_NG,chemical disinfection,fífi oògùn pa kòkòrò àrùn
+30,en,yo_NG,chest x-ray,àwòrán inú àyà
+31,en,yo_NG,clinical diagnosis,àyẹ̀wò àìsàn
+32,en,yo_NG,clinical trial,àyẹ̀wò ìṣègùn
+33,en,yo_NG,close contact,ìsúnmọ́ra típẹ́típẹ́
+34,en,yo_NG,cvirus,cvirus
+35,en,yo_NG,chronic respiratory disease,àìsàn èémi tí ó le
+36,en,yo_NG,common cold,òtútù lásán
+37,en,yo_NG,common flu,òtútù lásán
+38,en,yo_NG,communicable disease,àìsàn tí ó lè ranni
+39,en,yo_NG,community spread,bí ó ti tàn kálẹ̀ tó nínú ìlú
+40,en,yo_NG,community transmission,títàn kálẹ̀ nínú ìlú
+41,en,yo_NG,compromised immune system,ètò àjẹsára tí ó mẹ́hẹ
+42,en,yo_NG,contagion,títàn àìsàn káàkiri
+43,en,yo_NG,contagious,ó lè tàn káàkiri
+44,en,yo_NG,contagiousness,bí ó ti lè tàn káàkiri sí
+45,en,yo_NG,corona,corona
+46,en,yo_NG,corona virus,fairọọsì corona
+47,en,yo_NG,corona virus epidemic,àjàkálẹ̀ àrùn ti fairọọsì corona
+48,en,yo_NG,corona virus outbreak,bí fairọọsì corona ṣe gbòde kan
+49,en,yo_NG,corona virus scare,ìfòyà fairọọsì corona
+50,en,yo_NG,coronavirus,fairọọsì corona
+51,en,yo_NG,coronavirus cases,àwọn tí ó ti kó fairọọsì corona
+52,en,yo_NG,coronavirus outbreak,bí fairọọsi corona ṣe gbòde kan
+53,en,yo_NG,coronavirus pandemic,àjàkálẹ̀ àrùn fairọọsì corona
+54,en,yo_NG,coronavirus scare,ìfòyà fairọọsì corona
+55,en,yo_NG,cough,ikọ́
+56,en,yo_NG,cough etiquette,ìwà tí ó yẹ nígbà tí a bá wúkọ́
+57,en,yo_NG,coughing,wíwúkọ́
+58,en,yo_NG,cov 19,cov 19
+59,en,yo_NG,cov19,cov19
+60,en,yo_NG,COVID,àìsàn COVID
+61,en,yo_NG,COVID-19 crisis,làásìgbò àìsàn COVID-19
+62,en,yo_NG,covid-19,àìsàn covid-19
+63,en,yo_NG,covid19,àìsàn covid19
+64,en,yo_NG,COVID-19 epidemic,àjàkálẹ̀ àrùn COVID-19
+65,en,yo_NG,COVID-19 outbreak,bí àìsàn COVID-19 ṣe gbòde kan
+66,en,yo_NG,COVID-19 pandemic,àjàkálẹ̀ àrùn COVID-19
+67,en,yo_NG,COVID 19,àìsàn COVID 19
+68,en,yo_NG,current crisis,làásìgbò tí ó nlọ lọ́wọ́
+69,en,yo_NG,current health crisis,làásìgbò ìlera tí ó nlọ lọ́wọ́
+70,en,yo_NG,current outbreak,bí ó ti gbòde kan ní lọ́ọ́lọ́ọ́ yìí
+71,en,yo_NG,current pandemic,àjàkálẹ̀ àrùn tí ó njà ní lọ́ọ́lọ́ọ́
+72,en,yo_NG,CV,CV
+73,en,yo_NG,CV-19,CV-19
+74,en,yo_NG,deadly,ó lè pani
+75,en,yo_NG,deadly virus,fairọọsì tí ó lè pani
+76,en,yo_NG,death rate,bí ó ti npani sí
+77,en,yo_NG,death toll,iye àwọn tí ó kú
+78,en,yo_NG,decontaminate,sọ di mímọ́
+79,en,yo_NG,detectable,ó ṣe é dámọ̀
+80,en,yo_NG,detergent,ọṣẹ àbùfọ̀
+81,en,yo_NG,difficulty breathing,èémí ìnira
+82,en,yo_NG,diabetes,ìtọ̀ ṣugà
+83,en,yo_NG,diagnosable disease,àìsàn tí ó ṣe é yẹ̀wò
+84,en,yo_NG,diagnostic protocol,ìlànà àyẹ̀wò àìsàn
+85,en,yo_NG,diagnostic testing,ṣíṣe àyẹ̀wò àìsàn
+86,en,yo_NG,disease itself,àìsàn fúnra rẹ̀
+87,en,yo_NG,disease outbreak,àìsàn tí ó gbòde kan
+88,en,yo_NG,disinfectant,oògùn apa-kòkòrò
+89,en,yo_NG,disposable,anùmádárò
+90,en,yo_NG,droplet transmission,ìtànkálẹ̀ ohun tí ó jábọ́ láti ara
+91,en,yo_NG,droplets,àwọn ohun tí ó jábọ́ láti ara
+92,en,yo_NG,dry cough,ikọ́ ẹ̀gbẹ
+93,en,yo_NG,dry surface contamination,fífi ìdọ̀tí bá ibi gbígbẹ tí ó ṣí sílẹ̀
+94,en,yo_NG,ebola,àìsàn ebola
+95,en,yo_NG,effective treatment,ìtọ́jú tí ó múná dóko
+96,en,yo_NG,electron microscope,ẹ̀rọ awò ojú alágbára
+97,en,yo_NG,emergency department,ẹ̀ka pàjáwìrì
+98,en,yo_NG,epidemic,àjàkálẹ̀ àrùn
+99,en,yo_NG,epidemic curve,àwòrán bí àjàkálẹ̀ àrùn ti ntàn kálẹ̀ sí
+100,en,yo_NG,epidemic peak,ìgbà tí àjàkálẹ̀ àrùn le jùlọ
+101,en,yo_NG,epidemiologist,onímọ̀ ìjìnlẹ̀ nípa àjàkálẹ̀ àrùn
+102,en,yo_NG,exposure,fífi ojú léde
+103,en,yo_NG,extreme caution,ìkíyèsára tí ó le jùlọ
+104,en,yo_NG,eye protection,ààbò ojú
+105,en,yo_NG,face mask,ìbòjú
+106,en,yo_NG,face masks,àwọn ìbòjú
+107,en,yo_NG,family cluster,àìsàn ìdílé
+108,en,yo_NG,fatality rate,bí ó ti npani sí
+109,en,yo_NG,fecal contamination,fífi ìgbọ̀nsẹ̀ bá nnkan
+110,en,yo_NG,fever,àìsàn ibà
+111,en,yo_NG,flatten the infection curve,máṣe jẹ́ kí àwọn tí ó nràn pọ̀ síi
+112,en,yo_NG,flu,òtútù
+113,en,yo_NG,food safety,ààbò onjẹ
+114,en,yo_NG,formaldehyde,fọmaldihaidi
+115,en,yo_NG,gastroenteritis,àìsàn onígbá méjì
+116,en,yo_NG,germicide,oògùn apa-kòkòrò
+117,en,yo_NG,global pandemic,àjàkálẹ̀ àrùn gbogbo àgbáyé
+118,en,yo_NG,global warming,ìmóoru gbogbo àgbáyé
+119,en,yo_NG,good respiratory hygiene,ìmọ́tótó èémí tí ó dára
+120,en,yo_NG,Guangdong,Guangdong
+121,en,yo_NG,H1N1,H1N1
+122,en,yo_NG,H1N1 virus,H1N1 virus
+123,en,yo_NG,hand disinfectant,oògùn apa-kòkòrò ọwọ́
+124,en,yo_NG,hand sanitizer,oògùn ìfọwọ́
+125,en,yo_NG,health care provider,olùpèsè ìtọ́jú ìlera
+126,en,yo_NG,health crisis,làásìgbò ìlera
+127,en,yo_NG,health plan carrier,olùṣètò ìlera
+128,en,yo_NG,health services,àwọn ìtọ́jú ìlera
+129,en,yo_NG,heart failure,kí ọkàn daṣẹ́ sílẹ̀
+130,en,yo_NG,high fever,akọ ibà
+131,en,yo_NG,HIV,HIV
+132,en,yo_NG,hospitalize,gbé lọ sílé ìwòsàn
+133,en,yo_NG,household bleach,ohun tí a fi nṣí ìdọ̀tí nínú ilé
+134,en,yo_NG,Hubei,Hubei
+135,en,yo_NG,hydrogen peroxide,ahóyáyá
+136,en,yo_NG,hygiene,ìmọ́tótó
+137,en,yo_NG,immune system,àjẹsára àgọ́ ara
+138,en,yo_NG,immunity,àjẹsára
+139,en,yo_NG,immunocompromised,àjẹsára tí ó ti mẹ́hẹ
+140,en,yo_NG,immunologist,onímọ̀ ìjìnlẹ̀ nípa àjẹsára ara
+141,en,yo_NG,incubation,ìgbáradì kòkòrò àrùn
+142,en,yo_NG,incubation period,sáà ìgbáradì kòkòrò àrùn
+143,en,yo_NG,indirect contact,ìsúnmọ́nni tí kò lọ tààrà
+144,en,yo_NG,infect,kó o ràn á
+145,en,yo_NG,infection,kíkó àìsàn ranni
+146,en,yo_NG,infectious,ó lè ranni
+147,en,yo_NG,infectivity,bí ó ti lè ranni sí
+148,en,yo_NG,influenza,òtútù
+149,en,yo_NG,initial transmission event,ìṣẹ̀lẹ̀ títàn káàkiri ìṣáájú
+150,en,yo_NG,intensive care equipment,irin iṣẹ́ ìtọ́jú tí ó jinlẹ̀
+151,en,yo_NG,intermediate host,alárinnà kókòrò àìsàn
+152,en,yo_NG,intrauterine,ti inú ilé ọmọ
+153,en,yo_NG,intubation,títi ọ̀pá bọ̀
+154,en,yo_NG,isolation,yíyà sọ́tọ̀
+155,en,yo_NG,Isopropanol,Isopropanol
+156,en,yo_NG,laboratory test kit,irin iṣẹ́ àyẹ̀wò ti yàrá ìmọ̀ ìjìnlẹ̀
+157,en,yo_NG,laboratory testing,àyẹ̀wò ti yàrá ìmọ̀ ìjìnlẹ̀
+158,en,yo_NG,lack of testing,àìsí àyẹ̀wò
+159,en,yo_NG,lack of tests,àìsí àwọn àyẹ̀wò
+160,en,yo_NG,latest updates,àwọn ìròyìn ní yàjó-yàjó
+161,en,yo_NG,liver failure,kí ẹ̀dọ̀ki daṣẹ́ sílẹ̀
+162,en,yo_NG,local public health authority,ẹ̀ka ìlera ará ìlú ní agbègbè
+163,en,yo_NG,lockdown,ìtinimọ́lé
+164,en,yo_NG,lungs,àwọn ẹ̀dọ̀fóró
+165,en,yo_NG,masks,àwọn ìbòjú
+166,en,yo_NG,measles,àìsàn yíkíyìkí
+167,en,yo_NG,mechanical ventilation,lílò ẹ̀rọ tí wọ́n fi nmí
+168,en,yo_NG,media coverage,ìfihàn nípasẹ̀ àwọn oníròyìn
+169,en,yo_NG,medical care,ìtọ́jú ìṣègùn
+170,en,yo_NG,MERS,MERS
+171,en,yo_NG,MERS CoV,MERS CoV
+172,en,yo_NG,microbiologist,onímọ̀ ìjìnlẹ̀ nípa àwọn kòkòrò kéékèèké tí a kò lè fi ojú rí
+173,en,yo_NG,mild cough,ikọ́ ránpẹ́
+174,en,yo_NG,mortality rate,bí àwọn ènìyàn ti nkú sí
+175,en,yo_NG,multi-organ failure,ọ̀pọ̀lọpọ̀ ẹ̀yà ara daṣẹ́ sílẹ̀
+176,en,yo_NG,nasal congestion,imú dídí
+177,en,yo_NG,neutral detergent,ọṣẹ àbùfọ̀ tí kò ní ipa
+178,en,yo_NG,new normal,tuntun tí ó bójú mu
+179,en,yo_NG,novel corona virus,fairọọsì corona tuntun
+180,en,yo_NG,novel coronavirus,fairọọsì corona tuntun
+181,en,yo_NG,novel coronavirus outbreak,fairọọsì corona tuntun gbòde kan
+182,en,yo_NG,novel virus,fairọọsì tuntun
+183,en,yo_NG,online medical consultation,fífi ọ̀rọ̀ lọ onísègùn lórí ẹ̀rọ ayélujára
+184,en,yo_NG,onset,ìbẹ̀rẹ̀
+185,en,yo_NG,outbreak,gbígbòde kan
+186,en,yo_NG,outbreak readiness,ìmúrasílẹ̀ fún gbígbòde kan
+187,en,yo_NG,overall case fatality,bí àìsàn náà ti la ikú lọ lápapọ̀
+188,en,yo_NG,pandemic,àjàkálẹ̀ àrùn
+189,en,yo_NG,pangolin,akika
+190,en,yo_NG,pathogen,kókòrò àrùn
+191,en,yo_NG,pathology,ìmọ̀ nípa okùnfà àìsàn
+192,en,yo_NG,patient care equipment,irin iṣẹ́ ìtọ́jú aláìsàn
+193,en,yo_NG,personal protective equipment,irin iṣẹ́ ìdáàbò bo ara ẹni
+194,en,yo_NG,person-to-person transmission,ìtànkálẹ̀ ẹnìkan sí ẹnìkejì
+195,en,yo_NG,phlegm,kẹ̀lẹ̀bẹ̀
+196,en,yo_NG,physical contact,fífi ara kan ara lójúkoojú
+197,en,yo_NG,plague,àjàkálẹ̀ àrùn
+198,en,yo_NG,pneumonia,òtútù àyà
+199,en,yo_NG,pneumonias,àwọn òtútù àyà
+200,en,yo_NG,positive test,àyẹ̀wò tí ó ní àfihàn
+201,en,yo_NG,precaution,ìkíyèsára
+202,en,yo_NG,precautionary,ti ìṣáájú ìkíyèsára
+203,en,yo_NG,pre-existing condition,bí ó ti wà tẹ́lẹ̀
+204,en,yo_NG,preparedness,wíwà ní ìmúrasílẹ̀
+205,en,yo_NG,prognosis,ohun tí ó lè ṣe okùnfà àìsàn
+206,en,yo_NG,protect myself,dáàbò bo ara mi
+207,en,yo_NG,protect others,dáàbò bo àwọn ẹlòmíràn
+208,en,yo_NG,protect yourself,dáàbò bo ara rẹ
+209,en,yo_NG,protective measures,àwọn ìgbésẹ̀ ìdáàbò bò
+210,en,yo_NG,public health crisis,làásìgbò ìlera ará ìlú
+211,en,yo_NG,pulmonary tissue damage,ìdíbàjẹ́ ẹran ara ẹ̀dọ̀fóró
+212,en,yo_NG,quarantine,ìyàsọ́tọ̀
+213,en,yo_NG,rapid risk assessment,ṣíṣe àyẹ̀wò ewu ní kánkán
+214,en,yo_NG,reagent,oògùn ti yàrá ìmọ̀ ìjìnlẹ̀
+215,en,yo_NG,regular flu,òtútù tí ó nwá déédé
+216,en,yo_NG,reinfection,kíkó àìsàn ranni lẹ́ẹ̀kejì
+217,en,yo_NG,renal disease,àìsàn kíndìnrín
+218,en,yo_NG,renal failure,kí kíndìnrín daṣẹ́ sílẹ̀
+219,en,yo_NG,respirator,ẹ̀rọ ìbomú
+220,en,yo_NG,respiratory,ti èémí
+221,en,yo_NG,respiratory disease,àìsàn èémí
+222,en,yo_NG,respiratory distress,àárẹ̀ ti èémí
+223,en,yo_NG,respiratory droplets,àwọn nnkan tí ó jábọ̀ lára nígbà èémí
+224,en,yo_NG,respiratory hygiene,ìmọ́tótó ti èémí
+225,en,yo_NG,respiratory illness,àìsàn èémí
+226,en,yo_NG,respiratory syndrome,àìlera ti èémí
+227,en,yo_NG,respiratory tract disease,àìsàn ibi tí èémí ngbà
+228,en,yo_NG,restrictions,àwọn ìdènà
+229,en,yo_NG,resurge,padà nira síi
+230,en,yo_NG,RNA,RNA
+231,en,yo_NG,rubeola,àìsàn rubeola
+232,en,yo_NG,runny nose,imú tí ó nwami
+233,en,yo_NG,SARS,SARS
+234,en,yo_NG,SARS-CoV-2,SARS-CoV-2
+235,en,yo_NG,SARS-CoV,SARS-CoV
+236,en,yo_NG,sars-related coronavirus,fairọọsi corona tí ó ní nnkan iṣee pẹ̀lú SARS
+237,en,yo_NG,seasonal flu,òtútù tí ó ní àkókò
+238,en,yo_NG,seasonal influenza,òtútù tí ó ní àkókò
+239,en,yo_NG,secretion,omi tí ó njáde láti ara
+240,en,yo_NG,self-quarantine,yíya ara ẹni sọ́tọ̀
+241,en,yo_NG,sepsis,ìṣelòdì nínú àgọ́ ara
+242,en,yo_NG,septic shock,ìjáyà ti ìṣelòdì nínú àgọ́ ara
+243,en,yo_NG,Severe Acute Respiratory Syndrome,Àìsàn Èémí Tí Ó Le
+244,en,yo_NG,shortness of breath,àìlè mí kanlẹ̀
+245,en,yo_NG,sickened,ó ti ní àìsàn
+246,en,yo_NG,sickness,àìsàn
+247,en,yo_NG,sneeze,sín
+248,en,yo_NG,sneezes,àwọn sísín
+249,en,yo_NG,sneezing,sísín
+250,en,yo_NG,social distancing,jíjìnnà sí àwọn ènìyàn láwùjọ
+251,en,yo_NG,sore throat,ọ̀fun tí ó ndunni
+252,en,yo_NG,spanish flu,òtútù ilẹ̀ Spain
+253,en,yo_NG,specimen collection,gbígba nnkan lára ènìyàn
+254,en,yo_NG,spread,títàn kálẹ̀
+255,en,yo_NG,sputum,itọ́ àti kẹ̀lẹ̀bẹ̀
+256,en,yo_NG,stigmatisation,fífi ojú síni lára
+257,en,yo_NG,supportive,ti àtìlẹ́yìn
+258,en,yo_NG,surface,ibi tí ó ṣí sílẹ̀
+259,en,yo_NG,surfaces,àwọn ibi tí ó ṣí sílẹ̀
+260,en,yo_NG,suspected infection,ìfurasí pé ó ranni
+261,en,yo_NG,swab,ohun tí a fi nnu omi kúrò lára
+262,en,yo_NG,swine flu,òtútù ẹlẹ́dẹ̀
+263,en,yo_NG,symptom,àmì àìsàn
+264,en,yo_NG,symptomatic,ti àmì àìsàn
+265,en,yo_NG,symptoms,àwọn àmì àìsàn
+266,en,yo_NG,targeted disinfection,pípa kòkòrò níbi tí a fi ojú sùn
+267,en,yo_NG,test kit,ẹ̀rọ àyẹ̀wò
+268,en,yo_NG,testing error,àṣìṣe ti àyẹ̀wò
+269,en,yo_NG,tissue damage,ìdíbàjẹ́ ẹran ara
+270,en,yo_NG,tp shortage,àìtó bebà ilé ìgbọ̀nsẹ̀
+271,en,yo_NG,toilet paper shortage,àìtó bebà ilé ìgbọ̀nsẹ̀
+272,en,yo_NG,touch,ìfọwọ́kàn
+273,en,yo_NG,touching,fífi ọwọ́ kàn
+274,en,yo_NG,transmissibility,bí ó ti ṣe é tàn káàkiri sí
+275,en,yo_NG,transmissible,ó ṣe é tàn káàkiri
+276,en,yo_NG,transmission,títàn káàkiri
+277,en,yo_NG,transmission potential,bí ààyè ti gba títàn kaàkiri sí
+278,en,yo_NG,typical flu,irú òtútù kan
+279,en,yo_NG,underlying disease,àìsàn tí ó farasin
+280,en,yo_NG,updates,àwọn ìfitónilétí
+281,en,yo_NG,vaccine,abẹ́rẹ́ àjẹsára
+282,en,yo_NG,vaccines,àwọn abẹ́rẹ́ àjẹsára
+283,en,yo_NG,ventilation,gbígba atẹ́gùn
+284,en,yo_NG,ventilator,ẹ̀rọ ìgbatẹ́gùn
+285,en,yo_NG,ventilators,àwọn ẹ̀rọ ìgbatẹ́gùn
+286,en,yo_NG,viral infection,àìsàn tí fairọọsì nfà
+287,en,yo_NG,viral outbreak,fairọọsì gba òde kan
+288,en,yo_NG,viral pandemic,àjàkálẹ̀ àrùn tí fairọọsì fà
+289,en,yo_NG,viral pneumonia,òtútù àyà tí fairọọsì fà
+290,en,yo_NG,virtual care,ìtọ́jú tí a kò fi ojú rí
+291,en,yo_NG,virulence,bí ó ti le sí
+292,en,yo_NG,virus itself,fairọọsì fúnra rẹ̀
+293,en,yo_NG,virus outbreak,fairọọsì gba òde kan
+294,en,yo_NG,virus scare,ìfòyà fairọọsì
+295,en,yo_NG,virus spreads,fairọọsì ntàn káàkiri
+296,en,yo_NG,virus strain,irú ẹ̀yà fairọọsì
+297,en,yo_NG,viral transmission,títan fairọọsì káàkiri
+298,en,yo_NG,vivid-19,vivid-19
+299,en,yo_NG,washing hands,fífọ ọwọ́
+300,en,yo_NG,washing ones hands,fífọ ọwọ́ ẹni
+301,en,yo_NG,wash your hands,fọ ọwọ́ rẹ
+302,en,yo_NG,white blood cell count,bí wóró funfun ti pọ̀ tó nínú ẹ̀jẹ̀
+303,en,yo_NG,widespread transmission,títàn káàkiri gbogbo ọ̀nà
+304,en,yo_NG,working from home,iṣẹ́ ṣíṣe láti ilé
+305,en,yo_NG,WFH,iṣẹ́ ṣíṣe láti ilé
+306,en,yo_NG,Wuhan,Wuhan

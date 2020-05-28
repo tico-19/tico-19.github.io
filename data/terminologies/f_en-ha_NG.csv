@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ha_NG,1918 flu,muran 1918
+2,en,ha_NG,acute bronchitis,cutar hunhu mai tsanani
+3,en,ha_NG,acute respiratory disease,cutar numfashi
+4,en,ha_NG,AIDS,AIDS
+5,en,ha_NG,airborne droplets,digon ruwa na iska
+6,en,ha_NG,airway,hanyar iska
+7,en,ha_NG,alcohol-based,tushen barasa
+8,en,ha_NG,alcohol-based hand rub,abin goge hannu na tushen barasa
+9,en,ha_NG,alcohol-based hand sanitizer,sinadarin hana kamuwa da cuta ta hannu na tushen barasa
+10,en,ha_NG,alveolar disease,cutar hanyar iska
+11,en,ha_NG,an epidemic,annoba
+12,en,ha_NG,annual flu,mura na shekara
+13,en,ha_NG,anti-inflammatory drug,magani mai hana kumburi
+14,en,ha_NG,antiviral drug,maganin kankanuwar kwayar cuta
+15,en,ha_NG,antiviral treatment,hanyoyin jinyar kankanuwar kwayar cuta
+16,en,ha_NG,assay,gwajin karfe
+17,en,ha_NG,asymptomatic,wanda ba alama
+18,en,ha_NG,avian flu,muran tsuntsaye
+19,en,ha_NG,Black Plague,annobar cuta ta bakin mutum
+20,en,ha_NG,blood pressure,hawan jini
+21,en,ha_NG,body fluid,ruwan jiki
+22,en,ha_NG,breathing,numfashi
+23,en,ha_NG,bubonic plague,annobar cuta ta bubonic
+24,en,ha_NG,c19,c19
+25,en,ha_NG,cv19,cv19
+26,en,ha_NG,case fatality rate,yawan adadin mutuwa
+27,en,ha_NG,causative agent,musabbabin wakili
+28,en,ha_NG,CDC,CDC
+29,en,ha_NG,chemical disinfection,sinadarin ma’adanin kimiya dake kashe kwayoyin cuta
+30,en,ha_NG,chest x-ray,hoton kirji
+31,en,ha_NG,clinical diagnosis,gano musabbabin faruwan cuta a asibiti
+32,en,ha_NG,clinical trial,gwajin gano musabbabin cuta a asibiti
+33,en,ha_NG,close contact,hulda na kusa
+34,en,ha_NG,cvirus,cvirus
+35,en,ha_NG,chronic respiratory disease,cutar numfashi mai tsawo
+36,en,ha_NG,common cold,cutar mura na sanyi
+37,en,ha_NG,common flu,mura
+38,en,ha_NG,communicable disease,cutar ta iya sadarwa
+39,en,ha_NG,community spread,yadawar anguwa
+40,en,ha_NG,community transmission,watsa labarai a anguwa
+41,en,ha_NG,compromised immune system,kwamushahsen garkuwan jiki
+42,en,ha_NG,contagion,cutar da za’a iya kamuwa ta hanyar taba juna
+43,en,ha_NG,contagious,cutar da za’a iya kamuwa tsakanin mutane ta hanyar taba juna
+44,en,ha_NG,contagiousness,cutar da ake kamuwa ta hanyar taba juna
+45,en,ha_NG,corona,corona
+46,en,ha_NG,corona virus,cutar corona
+47,en,ha_NG,corona virus epidemic,cutar annobar corona
+48,en,ha_NG,corona virus outbreak,fashewar cutar corona
+49,en,ha_NG,corona virus scare,tsoron cutar corona
+50,en,ha_NG,coronavirus,cutar corona
+51,en,ha_NG,coronavirus cases,harkar cutar corona
+52,en,ha_NG,coronavirus outbreak,fashewar cutar corona
+53,en,ha_NG,coronavirus pandemic,annobar cutar corona ta duniya
+54,en,ha_NG,coronavirus scare,tsoron cutar corona
+55,en,ha_NG,cough,tari
+56,en,ha_NG,cough etiquette,laduban tari
+57,en,ha_NG,coughing,yin tari
+58,en,ha_NG,cov 19,cov 19
+59,en,ha_NG,cov19,cov19
+60,en,ha_NG,COVID,COVID
+61,en,ha_NG,COVID-19 crisis,rikicin COVID-19
+62,en,ha_NG,covid-19,covid-19
+63,en,ha_NG,covid19,covid19
+64,en,ha_NG,COVID-19 epidemic,annobar COVID-19
+65,en,ha_NG,COVID-19 outbreak,fashewar COVID-19
+66,en,ha_NG,COVID-19 pandemic,annobar duniya ta COVID-19
+67,en,ha_NG,COVID 19,COVID 19
+68,en,ha_NG,current crisis,rikicin yanzu
+69,en,ha_NG,current health crisis,rikicin lafiya ta yanzu
+70,en,ha_NG,current outbreak,fashewar yanzu
+71,en,ha_NG,current pandemic,annobar duniya ta yanzu
+72,en,ha_NG,CV,CV
+73,en,ha_NG,CV-19,CV-19
+74,en,ha_NG,deadly,mai iya kisa
+75,en,ha_NG,deadly virus,kwayar cuta mai kisa
+76,en,ha_NG,death rate,adadin mutuwa
+77,en,ha_NG,death toll,yawan mutuwa
+78,en,ha_NG,decontaminate,katse yaduwa
+79,en,ha_NG,detectable,wanda za a iya gano
+80,en,ha_NG,detergent,sabulu
+81,en,ha_NG,difficulty breathing,numfashi da kyar
+82,en,ha_NG,diabetes,ciwon suga
+83,en,ha_NG,diagnosable disease,cutar da za a iya ganowa
+84,en,ha_NG,diagnostic protocol,ka’idojin gano cututtuka
+85,en,ha_NG,diagnostic testing,gwajin gano cuta
+86,en,ha_NG,disease itself,cuta ita kanta
+87,en,ha_NG,disease outbreak,fashewar cuta
+88,en,ha_NG,disinfectant,abin tsaftacewa
+89,en,ha_NG,disposable,wanda za a iya yarwa
+90,en,ha_NG,droplet transmission,yaduwa ta faɗuwa
+91,en,ha_NG,droplets,faduwa
+92,en,ha_NG,dry cough,tari mara yawu
+93,en,ha_NG,dry surface contamination,gurbatawa na waje bushashe
+94,en,ha_NG,ebola,ebola
+95,en,ha_NG,effective treatment,hanyar magancewa mai kyau
+96,en,ha_NG,electron microscope,na'urar duba kananun kwayoyin cuta
+97,en,ha_NG,emergency department,sashin gaggawa
+98,en,ha_NG,epidemic,annoba
+99,en,ha_NG,epidemic curve,yankin annoba
+100,en,ha_NG,epidemic peak,iyakacin annoba
+101,en,ha_NG,epidemiologist,makarancin annoba
+102,en,ha_NG,exposure,makarancin annoba
+103,en,ha_NG,extreme caution,mataki mai tsanani
+104,en,ha_NG,eye protection,kariyar ido
+105,en,ha_NG,face mask,abin rufe fuska
+106,en,ha_NG,face masks,abubuwan rufe fuska
+107,en,ha_NG,family cluster,tarin iyali
+108,en,ha_NG,fatality rate,yawan mutuwa
+109,en,ha_NG,fecal contamination,gurbatarwa na kashi
+110,en,ha_NG,fever,zazzabi
+111,en,ha_NG,flatten the infection curve,mikar da zanen kamuwa da cuta
+112,en,ha_NG,flu,Mura
+113,en,ha_NG,food safety,kariyan abinci
+114,en,ha_NG,formaldehyde,sinadarin formaldehyde
+115,en,ha_NG,gastroenteritis,amai da gudawa
+116,en,ha_NG,germicide,sinadarin dake kashe kwayoyin cututuka
+117,en,ha_NG,global pandemic,annobar duniya
+118,en,ha_NG,global warming,kashedin duniya
+119,en,ha_NG,good respiratory hygiene,tsafta hanyar yin numfashi mai kyau
+120,en,ha_NG,Guangdong,Guangdong
+121,en,ha_NG,H1N1,H1N1
+122,en,ha_NG,H1N1 virus,kwayar cutar H1N1
+123,en,ha_NG,hand disinfectant,sinadarin hana kamuwa da cuta na hannu
+124,en,ha_NG,hand sanitizer,sinadarin hana kamuwa da cuta na hannu
+125,en,ha_NG,health care provider,jami'in kiwon lafiya
+126,en,ha_NG,health crisis,rikicin lafiya
+127,en,ha_NG,health plan carrier,tsarin lafiya na
+128,en,ha_NG,health services,ayyukan lafiya
+129,en,ha_NG,heart failure,matuwar zuciya
+130,en,ha_NG,high fever,zazzabi mai tsanani
+131,en,ha_NG,HIV,HIV
+132,en,ha_NG,hospitalize,kwanciyar asibiti
+133,en,ha_NG,household bleach,sinadarin sa launi ya koɗe na ahalin gida
+134,en,ha_NG,Hubei,Hubei
+135,en,ha_NG,hydrogen peroxide,sinadarin hydrogen peroxide
+136,en,ha_NG,hygiene,tsafta
+137,en,ha_NG,immune system,tsarin garkuwa
+138,en,ha_NG,immunity,garkuwa
+139,en,ha_NG,immunocompromised,nakasashen garkuwa
+140,en,ha_NG,immunologist,masani akan garkuwa
+141,en,ha_NG,incubation,kyankyasa
+142,en,ha_NG,incubation period,lokacin
+143,en,ha_NG,indirect contact,haduwa ba kai tsaye ba
+144,en,ha_NG,infect,shafawa wani cuta
+145,en,ha_NG,infection,kamuwa da cuta
+146,en,ha_NG,infectious,na kamuwa da cuta
+147,en,ha_NG,infectivity,hanyar yaduwa
+148,en,ha_NG,influenza,ciwon masassara
+149,en,ha_NG,initial transmission event,hanyar yaduwa na baya
+150,en,ha_NG,intensive care equipment,kayan kulawa na matuka
+151,en,ha_NG,intermediate host,mai yadawa na tsakiya
+152,en,ha_NG,intrauterine,cikin mahaifa
+153,en,ha_NG,intubation,saka roba
+154,en,ha_NG,isolation,killacewa
+155,en,ha_NG,Isopropanol,Isopropanol
+156,en,ha_NG,laboratory test kit,kayayyakin gwaji na dakin gwaji
+157,en,ha_NG,laboratory testing,gwajin dakin gwaji
+158,en,ha_NG,lack of testing,rashin gwaji
+159,en,ha_NG,lack of tests,rashin gwaje gwaje
+160,en,ha_NG,latest updates,sabon abu na yanzu
+161,en,ha_NG,liver failure,mutuwar hanta
+162,en,ha_NG,local public health authority,karamar hukumar lafiya ta jama'a
+163,en,ha_NG,lockdown,kullewa
+164,en,ha_NG,lungs,hunhu
+165,en,ha_NG,masks,abin rufewa
+166,en,ha_NG,measles,kenda
+167,en,ha_NG,mechanical ventilation,iska
+168,en,ha_NG,media coverage,daukawa na kafafen watsa labarai
+169,en,ha_NG,medical care,kulawa na magani
+170,en,ha_NG,MERS,MERS
+171,en,ha_NG,MERS CoV,MERS CoV
+172,en,ha_NG,microbiologist,masanin kananin kwayoyin cuta
+173,en,ha_NG,mild cough,tari mara tsanani
+174,en,ha_NG,mortality rate,adadin yawan mace mace
+175,en,ha_NG,multi-organ failure,mutuwar yawancin-sassan jiki
+176,en,ha_NG,nasal congestion,toshewar hanci
+177,en,ha_NG,neutral detergent,sabulu na tsaka tsaki
+178,en,ha_NG,new normal,sabon dai dai
+179,en,ha_NG,novel corona virus,kwayar cutar corona
+180,en,ha_NG,novel coronavirus,kwayar cutar corona
+181,en,ha_NG,novel coronavirus outbreak,fashewar kwayar cutar corona
+182,en,ha_NG,novel virus,kwayar cuta
+183,en,ha_NG,online medical consultation,nemar shawar wari na yanar gizo
+184,en,ha_NG,onset,kan tsari
+185,en,ha_NG,outbreak,Fashewa
+186,en,ha_NG,outbreak readiness,hanzarin fashewa
+187,en,ha_NG,overall case fatality,adadin mutuwa na hadarurruka gaba daya
+188,en,ha_NG,pandemic,annobar duniya
+189,en,ha_NG,pangolin,pangolin
+190,en,ha_NG,pathogen,kwayan cuta
+191,en,ha_NG,pathology,karantar kwayan cuta
+192,en,ha_NG,patient care equipment,kayan aiki na kula da mara lafiya
+193,en,ha_NG,personal protective equipment,kayan aiki na kulawa da kai
+194,en,ha_NG,person-to-person transmission,yaduwa na mutum-zuwa-mutum
+195,en,ha_NG,phlegm,phlegm
+196,en,ha_NG,physical contact,haduwan jiki
+197,en,ha_NG,plague,annobar cuta mai kashe mutane diyawa
+198,en,ha_NG,pneumonia,ciwon hunhu
+199,en,ha_NG,pneumonias,ciwowukan hunhu
+200,en,ha_NG,positive test,nunawa na gwaji
+201,en,ha_NG,precaution,riga kafi
+202,en,ha_NG,precautionary,hanyan riga kafi
+203,en,ha_NG,pre-existing condition,dokan da ta kasance
+204,en,ha_NG,preparedness,yanayin shiri
+205,en,ha_NG,prognosis,Tsinkaya
+206,en,ha_NG,protect myself,karewan kaina
+207,en,ha_NG,protect others,karewan wasu
+208,en,ha_NG,protect yourself,kare kanka
+209,en,ha_NG,protective measures,hanyoyin kariya
+210,en,ha_NG,public health crisis,rikicin lafiya na jama’a
+211,en,ha_NG,pulmonary tissue damage,mutuwar fatar hanyar sassan iska
+212,en,ha_NG,quarantine,Killacewa
+213,en,ha_NG,rapid risk assessment,kiyasin hatsari na gaggawa
+214,en,ha_NG,reagent,sinadarin gwaji
+215,en,ha_NG,regular flu,mura mai faruwa kullun
+216,en,ha_NG,reinfection,kara kamawa da cuta
+217,en,ha_NG,renal disease,cutar koda
+218,en,ha_NG,renal failure,mutuwar koda
+219,en,ha_NG,respirator,abun numfashi
+220,en,ha_NG,respiratory,hanyan numfashi
+221,en,ha_NG,respiratory disease,cutar numfashi
+222,en,ha_NG,respiratory distress,matsanancin kuncin numfashi
+223,en,ha_NG,respiratory droplets,digon ruwan numfashi
+224,en,ha_NG,respiratory hygiene,tsaftar numfashi
+225,en,ha_NG,respiratory illness,rashin lafiya ta numfashi
+226,en,ha_NG,respiratory syndrome,gamayyan matsalolin cutar numfashi
+227,en,ha_NG,respiratory tract disease,cutar hanyar numfashi
+228,en,ha_NG,restrictions,dokar iyakancewa
+229,en,ha_NG,resurge,farfadowa
+230,en,ha_NG,RNA,RNA
+231,en,ha_NG,rubeola,rubeola
+232,en,ha_NG,runny nose,ruwan majinan hanci
+233,en,ha_NG,SARS,SARS
+234,en,ha_NG,SARS-CoV-2,SARS-CoV-2
+235,en,ha_NG,SARS-CoV,SARS-CoV
+236,en,ha_NG,sars-related coronavirus,cutar coronavirus da suka shafi sars
+237,en,ha_NG,seasonal flu,mura na lokaci lokaci
+238,en,ha_NG,seasonal influenza,masassara na lokaci lokaci
+239,en,ha_NG,secretion,fitan ruwa
+240,en,ha_NG,self-quarantine,killacewan kai
+241,en,ha_NG,sepsis,Cututtuka
+242,en,ha_NG,septic shock,suman sanadiyan cututtuka
+243,en,ha_NG,Severe Acute Respiratory Syndrome,Gamayyan Cututtukan Numfashi mai Tsanani
+244,en,ha_NG,shortness of breath,gajarcewan numfashi
+245,en,ha_NG,sickened,taba yin rashin lafiya
+246,en,ha_NG,sickness,rashin lafiya
+247,en,ha_NG,sneeze,atishawa
+248,en,ha_NG,sneezes,atishawa
+249,en,ha_NG,sneezing,yin atishawa
+250,en,ha_NG,social distancing,tazarar haduwa
+251,en,ha_NG,sore throat,kaikayin makogaro
+252,en,ha_NG,spanish flu,muran spanish
+253,en,ha_NG,specimen collection,Amsar
+254,en,ha_NG,spread,yaduwa
+255,en,ha_NG,sputum,yawu
+256,en,ha_NG,stigmatisation,tsangwama
+257,en,ha_NG,supportive,taimako
+258,en,ha_NG,surface,kan
+259,en,ha_NG,surfaces,kawuna
+260,en,ha_NG,suspected infection,zargin kamuwar cuta
+261,en,ha_NG,swab,awdugan gogewa
+262,en,ha_NG,swine flu,muran tsutsaye
+263,en,ha_NG,symptom,alaman rashin lafiya
+264,en,ha_NG,symptomatic,na alamomin rashin lafiya
+265,en,ha_NG,symptoms,alamomin rashin lafiya
+266,en,ha_NG,targeted disinfection,wani gurin yada hana yaduwar cututtuka
+267,en,ha_NG,test kit,akwatin kayan gwaji
+268,en,ha_NG,testing error,matsalan gwaji
+269,en,ha_NG,tissue damage,bacewan tsoka
+270,en,ha_NG,tp shortage,karancin kudin guzuri
+271,en,ha_NG,toilet paper shortage,karancin takardan bayi
+272,en,ha_NG,touch,Taba
+273,en,ha_NG,touching,Tabawa
+274,en,ha_NG,transmissibility,yanayin yadawa
+275,en,ha_NG,transmissible,yin yadawa
+276,en,ha_NG,transmission,Yadawa
+277,en,ha_NG,transmission potential,zaunanen hanyar yaduwa
+278,en,ha_NG,typical flu,nau’in mura
+279,en,ha_NG,underlying disease,takamammen cuta
+280,en,ha_NG,updates,sabbin bayani
+281,en,ha_NG,vaccine,sinadari na rigakafin kamuwa da cuta
+282,en,ha_NG,vaccines,sinadarai na rigakafin kamuwa da cuta
+283,en,ha_NG,ventilation,samun iska
+284,en,ha_NG,ventilator,na’uran yin numfashi
+285,en,ha_NG,ventilators,na’urorin yin numfashi
+286,en,ha_NG,viral infection,kamuwa da kankanuwar kwayar cuta
+287,en,ha_NG,viral outbreak,fashewar kankanuwar kwayar cuta
+288,en,ha_NG,viral pandemic,annobar kankanuwar kwayar cuta
+289,en,ha_NG,viral pneumonia,kwayan cutar hunhu
+290,en,ha_NG,virtual care,kulawan kusa
+291,en,ha_NG,virulence,mai hatsari
+292,en,ha_NG,virus itself,kwayan cuta ita kanta
+293,en,ha_NG,virus outbreak,fashewar kwaya
+294,en,ha_NG,virus scare,tsoron kwayan cuta
+295,en,ha_NG,virus spreads,yaduwar kwayan cuta
+296,en,ha_NG,virus strain,yanayin kwayan cuta
+297,en,ha_NG,viral transmission,yaduwar kwayan cuta
+298,en,ha_NG,vivid-19,vivid-19
+299,en,ha_NG,washing hands,wanke hannuwa
+300,en,ha_NG,washing ones hands,wankewan hannun mutun
+301,en,ha_NG,wash your hands,wanke hannayen ka
+302,en,ha_NG,white blood cell count,kididdigan kwayan halintar jini maifarin launin
+303,en,ha_NG,widespread transmission,yaduwa na game gari
+304,en,ha_NG,working from home,yin aiki daga gida
+305,en,ha_NG,WFH,WFH
+306,en,ha_NG,Wuhan,Wuhan

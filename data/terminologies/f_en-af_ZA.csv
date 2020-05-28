@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,af_ZA,1918 flu,1918-griep
+2,en,af_ZA,acute bronchitis,akute brongitis
+3,en,af_ZA,acute respiratory disease,akute respiratoriese siekte
+4,en,af_ZA,AIDS,vigs
+5,en,af_ZA,airborne droplets,luggedrae druppels
+6,en,af_ZA,airway,lugweg
+7,en,af_ZA,alcohol-based,alkoholgebaseerde
+8,en,af_ZA,alcohol-based hand rub,alkoholgebaseerde handwasmiddel
+9,en,af_ZA,alcohol-based hand sanitizer,alkoholgebaseerde handontsmetmiddel
+10,en,af_ZA,alveolar disease,alveolêre siekte
+11,en,af_ZA,an epidemic,’n epidemie
+12,en,af_ZA,annual flu,jaarlikse griep
+13,en,af_ZA,anti-inflammatory drug,anti-inflammatoriese middel
+14,en,af_ZA,antiviral drug,antivirale medikasie
+15,en,af_ZA,antiviral treatment,antivirale behandeling
+16,en,af_ZA,assay,toets
+17,en,af_ZA,asymptomatic,asimptomaties
+18,en,af_ZA,avian flu,voëlgriep
+19,en,af_ZA,Black Plague,Swartpes
+20,en,af_ZA,blood pressure,bloeddruk
+21,en,af_ZA,body fluid,liggaamsvloeistof
+22,en,af_ZA,breathing,asemhaling
+23,en,af_ZA,bubonic plague,Builepes
+24,en,af_ZA,c19,c19
+25,en,af_ZA,cv19,cv19
+26,en,af_ZA,case fatality rate,gevalle se noodlottigheidskoers
+27,en,af_ZA,causative agent,veroorsakende stof
+28,en,af_ZA,CDC,CDC
+29,en,af_ZA,chemical disinfection,chemiese ontsmetting
+30,en,af_ZA,chest x-ray,borskas-x-straalfoto
+31,en,af_ZA,clinical diagnosis,kliniese diagnose
+32,en,af_ZA,clinical trial,kliniese proef
+33,en,af_ZA,close contact,nabye kontak
+34,en,af_ZA,cvirus,K-virus
+35,en,af_ZA,chronic respiratory disease,chroniese respiratoriese siekte
+36,en,af_ZA,common cold,gewone verkoue
+37,en,af_ZA,common flu,gewone griep
+38,en,af_ZA,communicable disease,aansteeklike siekte
+39,en,af_ZA,community spread,verspreiding in die gemeenskap
+40,en,af_ZA,community transmission,oordrag in die gemeenskap
+41,en,af_ZA,compromised immune system,gekompromitteerde immuunstelsel
+42,en,af_ZA,contagion,aansteeklikheid
+43,en,af_ZA,contagious,aansteeklik
+44,en,af_ZA,contagiousness,aansteeklikheid
+45,en,af_ZA,corona,korona
+46,en,af_ZA,corona virus,koronavirus
+47,en,af_ZA,corona virus epidemic,koronavirusepidemie
+48,en,af_ZA,corona virus outbreak,koronavirusuitbreking
+49,en,af_ZA,corona virus scare,koronavirusvrees
+50,en,af_ZA,coronavirus,koronavirus
+51,en,af_ZA,coronavirus cases,koronavirusgevalle
+52,en,af_ZA,coronavirus outbreak,koronavirusuitbreking
+53,en,af_ZA,coronavirus pandemic,koronaviruspandemie
+54,en,af_ZA,coronavirus scare,koronavirusvrees
+55,en,af_ZA,cough,hoes
+56,en,af_ZA,cough etiquette,hoesetiket
+57,en,af_ZA,coughing,gehoes
+58,en,af_ZA,cov 19,Cov-19
+59,en,af_ZA,cov19,Cov-19
+60,en,af_ZA,COVID,COVID
+61,en,af_ZA,COVID-19 crisis,COVID-19-krisis
+62,en,af_ZA,covid-19,Covid-19
+63,en,af_ZA,covid19,Covid-19
+64,en,af_ZA,COVID-19 epidemic,COVID-19-epidemie
+65,en,af_ZA,COVID-19 outbreak,COVID-19-uitbreking
+66,en,af_ZA,COVID-19 pandemic,COVID-19-pandemie
+67,en,af_ZA,COVID 19,COVID-19
+68,en,af_ZA,current crisis,huidige krisis
+69,en,af_ZA,current health crisis,huidige gesondheidskrisis
+70,en,af_ZA,current outbreak,huidige uitbreking
+71,en,af_ZA,current pandemic,huidige pandemie
+72,en,af_ZA,CV,CV
+73,en,af_ZA,CV-19,CV-19
+74,en,af_ZA,deadly,dodelik
+75,en,af_ZA,deadly virus,dodelike virus
+76,en,af_ZA,death rate,sterftekoers
+77,en,af_ZA,death toll,sterftesyfer
+78,en,af_ZA,decontaminate,ontsmet
+79,en,af_ZA,detectable,opspoorbaar
+80,en,af_ZA,detergent,reinigingsmiddel
+81,en,af_ZA,difficulty breathing,asemhalingsprobleme
+82,en,af_ZA,diabetes,diabetes
+83,en,af_ZA,diagnosable disease,diagnoseerbare siekte
+84,en,af_ZA,diagnostic protocol,diagnostiese protokol
+85,en,af_ZA,diagnostic testing,diagnostiese toetsing
+86,en,af_ZA,disease itself,die siekte self
+87,en,af_ZA,disease outbreak,uitbreking van die siekte
+88,en,af_ZA,disinfectant,ontsmetmiddel
+89,en,af_ZA,disposable,wegdoenbaar
+90,en,af_ZA,droplet transmission,druppeloordrag
+91,en,af_ZA,droplets,druppels
+92,en,af_ZA,dry cough,droë hoes
+93,en,af_ZA,dry surface contamination,besmetting van droë oppervlakke
+94,en,af_ZA,ebola,Ebola
+95,en,af_ZA,effective treatment,doeltreffende behandeling
+96,en,af_ZA,electron microscope,elektronmikroskoop
+97,en,af_ZA,emergency department,ongevalle-afdeling
+98,en,af_ZA,epidemic,epidemies
+99,en,af_ZA,epidemic curve,epidemiese kromme
+100,en,af_ZA,epidemic peak,epidemiese piek
+101,en,af_ZA,epidemiologist,epidemioloog
+102,en,af_ZA,exposure,blootstelling
+103,en,af_ZA,extreme caution,uiterste sorg
+104,en,af_ZA,eye protection,oogbeskerming
+105,en,af_ZA,face mask,gesigmasker
+106,en,af_ZA,face masks,gesigmaskers
+107,en,af_ZA,family cluster,gesinsgroepering
+108,en,af_ZA,fatality rate,noodlottigheidskoers
+109,en,af_ZA,fecal contamination,fekale kontaminasie
+110,en,af_ZA,fever,koors
+111,en,af_ZA,flatten the infection curve,afplatting van die infeksiekromme
+112,en,af_ZA,flu,griep
+113,en,af_ZA,food safety,voedselveiligheid
+114,en,af_ZA,formaldehyde,formaldehied
+115,en,af_ZA,gastroenteritis,gastroënteritis
+116,en,af_ZA,germicide,kiemdoder
+117,en,af_ZA,global pandemic,wêreldwye pandemie
+118,en,af_ZA,global warming,aardverwarming
+119,en,af_ZA,good respiratory hygiene,goeie respiratoriese higiëne
+120,en,af_ZA,Guangdong,Guangdong
+121,en,af_ZA,H1N1,H1N1
+122,en,af_ZA,H1N1 virus,H1N1-virus
+123,en,af_ZA,hand disinfectant,handontsmetmiddel
+124,en,af_ZA,hand sanitizer,handontsmetmiddel
+125,en,af_ZA,health care provider,gesondheidsorgverskaffer
+126,en,af_ZA,health crisis,gesondheidskrisis
+127,en,af_ZA,health plan carrier,gesondheidsplandekking
+128,en,af_ZA,health services,gesondheidsdienste
+129,en,af_ZA,heart failure,hartversaking
+130,en,af_ZA,high fever,hoë koors
+131,en,af_ZA,HIV,MIV
+132,en,af_ZA,hospitalize,gehospitaliseer
+133,en,af_ZA,household bleach,huishoudelike bleikmiddel
+134,en,af_ZA,Hubei,Hubei
+135,en,af_ZA,hydrogen peroxide,waterstofpiroksied
+136,en,af_ZA,hygiene,higiëne
+137,en,af_ZA,immune system,immuunstelsel
+138,en,af_ZA,immunity,immuniteit
+139,en,af_ZA,immunocompromised,immuunonderdruk
+140,en,af_ZA,immunologist,immunoloog
+141,en,af_ZA,incubation,inkubasie
+142,en,af_ZA,incubation period,inkubasietydperk
+143,en,af_ZA,indirect contact,indirekte kontak
+144,en,af_ZA,infect,geïnfekteer
+145,en,af_ZA,infection,infeksie
+146,en,af_ZA,infectious,aansteeklik
+147,en,af_ZA,infectivity,aansteeklikheid
+148,en,af_ZA,influenza,influensa
+149,en,af_ZA,initial transmission event,aanvanklike oordragvoorval
+150,en,af_ZA,intensive care equipment,toerusting vir intensiewe sorg
+151,en,af_ZA,intermediate host,tussengangergasheer
+152,en,af_ZA,intrauterine,intrauteriene
+153,en,af_ZA,intubation,intubasie
+154,en,af_ZA,isolation,isolasie
+155,en,af_ZA,Isopropanol,isopropanol
+156,en,af_ZA,laboratory test kit,laboratoriumtoetsstel
+157,en,af_ZA,laboratory testing,laboratoriumtoetsing
+158,en,af_ZA,lack of testing,gebrek aan toetsing
+159,en,af_ZA,lack of tests,gebrek aan toetse
+160,en,af_ZA,latest updates,jongste bywerkings
+161,en,af_ZA,liver failure,lewerversaking
+162,en,af_ZA,local public health authority,plaaslike publieke gesondheidsowerheid
+163,en,af_ZA,lockdown,afsluiting
+164,en,af_ZA,lungs,longe
+165,en,af_ZA,masks,maskers
+166,en,af_ZA,measles,masels
+167,en,af_ZA,mechanical ventilation,meganiese ventilasie
+168,en,af_ZA,media coverage,mediadekking
+169,en,af_ZA,medical care,mediese sorg
+170,en,af_ZA,MERS,MERS
+171,en,af_ZA,MERS CoV,MERS CoV
+172,en,af_ZA,microbiologist,mikrobioloog
+173,en,af_ZA,mild cough,geringe hoes
+174,en,af_ZA,mortality rate,sterflikheidskoers
+175,en,af_ZA,multi-organ failure,veelvuldigeorgaanversaking
+176,en,af_ZA,nasal congestion,neuskongestie
+177,en,af_ZA,neutral detergent,neutrale wasmiddel
+178,en,af_ZA,new normal,nuwe normaal
+179,en,af_ZA,novel corona virus,nuwe koronavirus
+180,en,af_ZA,novel coronavirus,nuwe koronavirus
+181,en,af_ZA,novel coronavirus outbreak,uitbreking van die nuwe koronavirus
+182,en,af_ZA,novel virus,nuwe virus
+183,en,af_ZA,online medical consultation,aanlyn mediese konsultasie
+184,en,af_ZA,onset,aanvang
+185,en,af_ZA,outbreak,uitbreking
+186,en,af_ZA,outbreak readiness,uitbrekinggereedheid
+187,en,af_ZA,overall case fatality,algehele noodlottigheid van gevalle
+188,en,af_ZA,pandemic,pandemie
+189,en,af_ZA,pangolin,ietermago
+190,en,af_ZA,pathogen,patogeen
+191,en,af_ZA,pathology,patologie
+192,en,af_ZA,patient care equipment,pasiëntsorgtoerusting
+193,en,af_ZA,personal protective equipment,persoonlike beskermingstoerusting
+194,en,af_ZA,person-to-person transmission,oordrag van persoon na persoon
+195,en,af_ZA,phlegm,slym
+196,en,af_ZA,physical contact,fisieke kontak
+197,en,af_ZA,plague,plaag
+198,en,af_ZA,pneumonia,pneumonie
+199,en,af_ZA,pneumonias,pneumonie
+200,en,af_ZA,positive test,positiewe toets
+201,en,af_ZA,precaution,voorsorgmaatreël
+202,en,af_ZA,precautionary,voorkomend
+203,en,af_ZA,pre-existing condition,voorafbestaande toestand
+204,en,af_ZA,preparedness,voorbereidheid
+205,en,af_ZA,prognosis,prognose
+206,en,af_ZA,protect myself,beskerm myself
+207,en,af_ZA,protect others,beskerm ander
+208,en,af_ZA,protect yourself,beskerm jouself
+209,en,af_ZA,protective measures,beskermende maatreëls
+210,en,af_ZA,public health crisis,publieke gesondheidskrisis
+211,en,af_ZA,pulmonary tissue damage,longweefselskade
+212,en,af_ZA,quarantine,kwarantyn
+213,en,af_ZA,rapid risk assessment,vinnige risiko-evaluering
+214,en,af_ZA,reagent,reagent
+215,en,af_ZA,regular flu,gewone griep
+216,en,af_ZA,reinfection,herinfeksie
+217,en,af_ZA,renal disease,niersiekte
+218,en,af_ZA,renal failure,nierversaking
+219,en,af_ZA,respirator,ventilator
+220,en,af_ZA,respiratory,respiratories
+221,en,af_ZA,respiratory disease,respiratoriese siekte
+222,en,af_ZA,respiratory distress,respiratoriese nood
+223,en,af_ZA,respiratory droplets,respiratoriese druppels
+224,en,af_ZA,respiratory hygiene,respiratoriese higiëne
+225,en,af_ZA,respiratory illness,respiratoriese siekte
+226,en,af_ZA,respiratory syndrome,respiratoriese sindroom
+227,en,af_ZA,respiratory tract disease,lugwegsiekte
+228,en,af_ZA,restrictions,beperkings
+229,en,af_ZA,resurge,heroplewing
+230,en,af_ZA,RNA,RNS
+231,en,af_ZA,rubeola,Duitse masels
+232,en,af_ZA,runny nose,loopneus
+233,en,af_ZA,SARS,SARS
+234,en,af_ZA,SARS-CoV-2,SARS-CoV-2
+235,en,af_ZA,SARS-CoV,SARS-CoV
+236,en,af_ZA,sars-related coronavirus,SARS-verwante koronavirus
+237,en,af_ZA,seasonal flu,seisoenale griep
+238,en,af_ZA,seasonal influenza,seisoenale influensa
+239,en,af_ZA,secretion,sekresie
+240,en,af_ZA,self-quarantine,selfkwarantyn
+241,en,af_ZA,sepsis,sepsis
+242,en,af_ZA,septic shock,septiese skok
+243,en,af_ZA,Severe Acute Respiratory Syndrome,Erge, akute respiratoriese sindroom
+244,en,af_ZA,shortness of breath,kortasemigheid
+245,en,af_ZA,sickened,voel siek
+246,en,af_ZA,sickness,siekte
+247,en,af_ZA,sneeze,nies
+248,en,af_ZA,sneezes,nies
+249,en,af_ZA,sneezing,nies
+250,en,af_ZA,social distancing,sosiale distansiëring
+251,en,af_ZA,sore throat,keelseer
+252,en,af_ZA,spanish flu,Spaanse griep
+253,en,af_ZA,specimen collection,monsterneming
+254,en,af_ZA,spread,verspreiding
+255,en,af_ZA,sputum,sputum
+256,en,af_ZA,stigmatisation,stigmatisering
+257,en,af_ZA,supportive,ondersteunend
+258,en,af_ZA,surface,oppervlak
+259,en,af_ZA,surfaces,oppervlakke
+260,en,af_ZA,suspected infection,vermoedelike infeksie
+261,en,af_ZA,swab,depper
+262,en,af_ZA,swine flu,varkgriep
+263,en,af_ZA,symptom,simptoom
+264,en,af_ZA,symptomatic,simptomaties
+265,en,af_ZA,symptoms,simptome
+266,en,af_ZA,targeted disinfection,geteikende ontsmetting
+267,en,af_ZA,test kit,toetsstel
+268,en,af_ZA,testing error,toetsfout
+269,en,af_ZA,tissue damage,weefselskade
+270,en,af_ZA,tp shortage,Toiletpapiertekort
+271,en,af_ZA,toilet paper shortage,Toiletpapiertekort
+272,en,af_ZA,touch,aanraking
+273,en,af_ZA,touching,aanraking
+274,en,af_ZA,transmissibility,oordraagbaarheid
+275,en,af_ZA,transmissible,oordraagbaar
+276,en,af_ZA,transmission,oordrag
+277,en,af_ZA,transmission potential,oordragpotensiaal
+278,en,af_ZA,typical flu,tipiese griep
+279,en,af_ZA,underlying disease,onderliggende siekte
+280,en,af_ZA,updates,bywerkings
+281,en,af_ZA,vaccine,entstof
+282,en,af_ZA,vaccines,entstowwe
+283,en,af_ZA,ventilation,ventilasie
+284,en,af_ZA,ventilator,ventilator
+285,en,af_ZA,ventilators,ventilators
+286,en,af_ZA,viral infection,virusinfeksie
+287,en,af_ZA,viral outbreak,virusuitbreking
+288,en,af_ZA,viral pandemic,viruspandemie
+289,en,af_ZA,viral pneumonia,virale pneumonie
+290,en,af_ZA,virtual care,virtuele sorg
+291,en,af_ZA,virulence,virulensie
+292,en,af_ZA,virus itself,die virus self
+293,en,af_ZA,virus outbreak,virusuitbreking
+294,en,af_ZA,virus scare,virusvrees
+295,en,af_ZA,virus spreads,virusverspreiding
+296,en,af_ZA,virus strain,virussoort
+297,en,af_ZA,viral transmission,virusoordrag
+298,en,af_ZA,vivid-19,vivid-19
+299,en,af_ZA,washing hands,handewas
+300,en,af_ZA,washing ones hands,was mens se hande
+301,en,af_ZA,wash your hands,was jou hande
+302,en,af_ZA,white blood cell count,witbloedseltelling
+303,en,af_ZA,widespread transmission,wydverspreide oordrag
+304,en,af_ZA,working from home,werk van die huis af
+305,en,af_ZA,WFH,WVH
+306,en,af_ZA,Wuhan,Wuhan

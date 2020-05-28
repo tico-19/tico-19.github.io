@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,mg_MG,1918 flu,Gripa 1918
+2,en,mg_MG,acute bronchitis,areti-tratra mahery vaika
+3,en,mg_MG,acute respiratory disease,fahasemporana mahery vaika
+4,en,mg_MG,AIDS,SIDA
+5,en,mg_MG,airborne droplets,piti-drora eny amin'ny rivotra
+6,en,mg_MG,airway,lalan-drivotra
+7,en,mg_MG,alcohol-based,vita amin'ny alikaola
+8,en,mg_MG,alcohol-based hand rub,fikosehan-tanana vita amin'ny alikaola
+9,en,mg_MG,alcohol-based hand sanitizer,fanadiovana tanana vita amin'ny alikaola
+10,en,mg_MG,alveolar disease,aretina mifindra amin'ny alalan'ny rivotra
+11,en,mg_MG,an epidemic,areti-mifindra
+12,en,mg_MG,annual flu,gripa isan-taona
+13,en,mg_MG,anti-inflammatory drug,fanafody manohitra ny fitaran'ny aretina
+14,en,mg_MG,antiviral drug,fanafody mamono ny tsimokaretina
+15,en,mg_MG,antiviral treatment,fitsaboana mamono ny tsimokaretina
+16,en,mg_MG,assay,fitsirihina
+17,en,mg_MG,asymptomatic,tsy ahitana famantarana
+18,en,mg_MG,avian flu,gripa mifindra amin'ny alalan'ny rivotra
+19,en,mg_MG,Black Plague,Pesta mainty
+20,en,mg_MG,blood pressure,tosi-drà
+21,en,mg_MG,body fluid,tsiranoka avy amin'ny vatan'olom-belona
+22,en,mg_MG,breathing,mifoka rivotra
+23,en,mg_MG,bubonic plague,pesta
+24,en,mg_MG,c19,c19
+25,en,mg_MG,cv19,cv19
+26,en,mg_MG,case fatality rate,taham-pahafatesan'ny olona marary
+27,en,mg_MG,causative agent,mpitondra aretina
+28,en,mg_MG,CDC,CDC
+29,en,mg_MG,chemical disinfection,fanafody simika famonoana mikraoba
+30,en,mg_MG,chest x-ray,radio fitiliana ny tratra
+31,en,mg_MG,clinical diagnosis,fitiliana klinika
+32,en,mg_MG,clinical trial,fitsapana klinika
+33,en,mg_MG,close contact,fifaneraserana akaiky
+34,en,mg_MG,cvirus,tsimokaretina
+35,en,mg_MG,chronic respiratory disease,areti-tratra mitaiza
+36,en,mg_MG,common cold,sery tsotra
+37,en,mg_MG,common flu,gripa tsotra
+38,en,mg_MG,communicable disease,aretina azo amin'ny fifaneraserana
+39,en,mg_MG,community spread,fiparitahana eo amin'ny fiaraha-monina
+40,en,mg_MG,community transmission,fifindrany eo amin'ny fiaraha-monina
+41,en,mg_MG,compromised immune system,hery fiarovana malemy
+42,en,mg_MG,contagion,fifindran'ny aretina
+43,en,mg_MG,contagious,mifindra
+44,en,mg_MG,contagiousness,tahan'ny fifindrany
+45,en,mg_MG,corona,corona
+46,en,mg_MG,corona virus,tsimokaretina corona
+47,en,mg_MG,corona virus epidemic,fiparitahan'ny tsimokaretina corona
+48,en,mg_MG,corona virus outbreak,valan'aretina corona
+49,en,mg_MG,corona virus scare,horohoro noho ny tsimokaretina corona
+50,en,mg_MG,coronavirus,coronavirus
+51,en,mg_MG,coronavirus cases,voan'ny coronavirus
+52,en,mg_MG,coronavirus outbreak,valan'aretina coronavirus
+53,en,mg_MG,coronavirus pandemic,valan'aretina miparitaka coronavirus
+54,en,mg_MG,coronavirus scare,horohoro noho ny coronavirus
+55,en,mg_MG,cough,kohoka
+56,en,mg_MG,cough etiquette,falalam-pomba rehefa mikohoka
+57,en,mg_MG,coughing,kohoka
+58,en,mg_MG,cov 19,cov 19
+59,en,mg_MG,cov19,cov19
+60,en,mg_MG,COVID,COVID
+61,en,mg_MG,COVID-19 crisis,Krizy ateraky ny COVID-19
+62,en,mg_MG,covid-19,covid-19
+63,en,mg_MG,covid19,covid19
+64,en,mg_MG,COVID-19 epidemic,Areti-mifindra COVID-19
+65,en,mg_MG,COVID-19 outbreak,Valan'aretina COVID-19
+66,en,mg_MG,COVID-19 pandemic,Valan'aretina miparitaka COVID-19
+67,en,mg_MG,COVID 19,COVID 19
+68,en,mg_MG,current crisis,krizy amin'izao fotoana izao
+69,en,mg_MG,current health crisis,olana ara-pahasalamana amin'izao fotoana izao
+70,en,mg_MG,current outbreak,valan'aretina amin'izao fotoana izao
+71,en,mg_MG,current pandemic,valan'aretina miparitaka amin'izao fotoana izao
+72,en,mg_MG,CV,CV
+73,en,mg_MG,CV-19,CV-19
+74,en,mg_MG,deadly,mahafaty
+75,en,mg_MG,deadly virus,tsimokaretina mahafaty
+76,en,mg_MG,death rate,taham-pahafatesana
+77,en,mg_MG,death toll,isan'ny maty
+78,en,mg_MG,decontaminate,manisy fanafody
+79,en,mg_MG,detectable,voatsirika
+80,en,mg_MG,detergent,savony fanadiovana
+81,en,mg_MG,difficulty breathing,sempotra
+82,en,mg_MG,diabetes,diabeta
+83,en,mg_MG,diagnosable disease,aretina azo fantarina
+84,en,mg_MG,diagnostic protocol,rafitra arahina amin'ny fizahana aretina
+85,en,mg_MG,diagnostic testing,fitsapana ny fizahana aretina
+86,en,mg_MG,disease itself,ilay aretina
+87,en,mg_MG,disease outbreak,valan'aretina
+88,en,mg_MG,disinfectant,famonoana tsimokaretina
+89,en,mg_MG,disposable,fanary
+90,en,mg_MG,droplet transmission,fifindrana amin'ny alalan'ny piti-drora
+91,en,mg_MG,droplets,piti-drora
+92,en,mg_MG,dry cough,koho-maina
+93,en,mg_MG,dry surface contamination,mifindra amin'ny faritra maina
+94,en,mg_MG,ebola,ebola
+95,en,mg_MG,effective treatment,fitsaboana mahomby
+96,en,mg_MG,electron microscope,mikraoskaopy elektronika
+97,en,mg_MG,emergency department,sampana vonjy taitra
+98,en,mg_MG,epidemic,areti-mifindra
+99,en,mg_MG,epidemic curve,kisary mampiseho ny areti-mifindra
+100,en,mg_MG,epidemic peak,fotoana be areti-mifindra indrindra
+101,en,mg_MG,epidemiologist,manam-pahaizana manokana momba ny areti-mifindra
+102,en,mg_MG,exposure,fahavoazana
+103,en,mg_MG,extreme caution,fampitandremana ambony indrindra
+104,en,mg_MG,eye protection,fiarovana maso
+105,en,mg_MG,face mask,sarom-bava
+106,en,mg_MG,face masks,sarom-bava
+107,en,mg_MG,family cluster,fianakaviana mivondrombondrona
+108,en,mg_MG,fatality rate,taham-pahafatesana
+109,en,mg_MG,fecal contamination,mifindra amin'ny alalan'ny maloton'olona
+110,en,mg_MG,fever,fanaviana
+111,en,mg_MG,flatten the infection curve,manatsara ny kisary mampiseho ny areti-mifindra
+112,en,mg_MG,flu,gripa
+113,en,mg_MG,food safety,fiarovana ny sakafo
+114,en,mg_MG,formaldehyde,formaldehyde
+115,en,mg_MG,gastroenteritis,vavony na tsinay mivaivay
+116,en,mg_MG,germicide,mpamono mikraoba
+117,en,mg_MG,global pandemic,areti-mifindra maneran-tany
+118,en,mg_MG,global warming,fihafanan'ny tany
+119,en,mg_MG,good respiratory hygiene,fitandremana ny fahasalaman'ny taovam-pisefoana
+120,en,mg_MG,Guangdong,Guangdong
+121,en,mg_MG,H1N1,H1N1
+122,en,mg_MG,H1N1 virus,Tsimokaretina H1N1
+123,en,mg_MG,hand disinfectant,famonoana tsimokaretina ahosotra ny tanana
+124,en,mg_MG,hand sanitizer,fanadiovana tanana
+125,en,mg_MG,health care provider,mpitsabo
+126,en,mg_MG,health crisis,krizy ara-pahasalamana
+127,en,mg_MG,health plan carrier,olona manana fiantohana ara-pahasalamana
+128,en,mg_MG,health services,toeram-pitsaboana
+129,en,mg_MG,heart failure,aretim-po
+130,en,mg_MG,high fever,manavy be
+131,en,mg_MG,HIV,VIH
+132,en,mg_MG,hospitalize,miditra hopitaly
+133,en,mg_MG,household bleach,rano zavely fampiasa an-trano
+134,en,mg_MG,Hubei,Hubei
+135,en,mg_MG,hydrogen peroxide,hydrogen peroxide
+136,en,mg_MG,hygiene,fitandremam-pahasalamana
+137,en,mg_MG,immune system,hery fiarovana
+138,en,mg_MG,immunity,tsy handairan'aretina
+139,en,mg_MG,immunocompromised,malemy hery fiarovana
+140,en,mg_MG,immunologist,manampahaizana manokana momba ny hery fiarovana
+141,en,mg_MG,incubation,famokarana
+142,en,mg_MG,incubation period,fotoana famokarana
+143,en,mg_MG,indirect contact,fifandraisana ankolaka
+144,en,mg_MG,infect,mifindra
+145,en,mg_MG,infection,aretina
+146,en,mg_MG,infectious,aretina mifindra
+147,en,mg_MG,infectivity,fomba fifindran'aretina
+148,en,mg_MG,influenza,gripa
+149,en,mg_MG,initial transmission event,fotoana nifindran'ny aretina voalohany
+150,en,mg_MG,intensive care equipment,fitaovana fameloman'aina
+151,en,mg_MG,intermediate host,olona mitondra ny otrikaretina
+152,en,mg_MG,intrauterine,intra-utérine
+153,en,mg_MG,intubation,intubation
+154,en,mg_MG,isolation,fitokana-monina
+155,en,mg_MG,Isopropanol,Isopropanol
+156,en,mg_MG,laboratory test kit,fitiliana laboratoara maika
+157,en,mg_MG,laboratory testing,fitiliana laboratoara
+158,en,mg_MG,lack of testing,tsy fahampian'ny fitiliana
+159,en,mg_MG,lack of tests,tsy fahampian'ny fitiliana
+160,en,mg_MG,latest updates,vaovao farany
+161,en,mg_MG,liver failure,fahasimban'ny aty
+162,en,mg_MG,local public health authority,tompon'andraikitra misahana ny fasalamam-bahoaka
+163,en,mg_MG,lockdown,fanidiana
+164,en,mg_MG,lungs,havokavoka
+165,en,mg_MG,masks,saro-tava
+166,en,mg_MG,measles,kitrotro
+167,en,mg_MG,mechanical ventilation,fidiran-drivotra mekanika
+168,en,mg_MG,media coverage,fanaparitahana ny vaovao
+169,en,mg_MG,medical care,fitsaboana
+170,en,mg_MG,MERS,MERS
+171,en,mg_MG,MERS CoV,MERS CoV
+172,en,mg_MG,microbiologist,manam-pahaizana manokana momba ny zava-mananaina bitika
+173,en,mg_MG,mild cough,kohoka malefaka
+174,en,mg_MG,mortality rate,taham-pahafatesana
+175,en,mg_MG,multi-organ failure,aretin'ny taova maromaro
+176,en,mg_MG,nasal congestion,tsentsina
+177,en,mg_MG,neutral detergent,savony fidiovana tsotra
+178,en,mg_MG,new normal,fiainana an-davan'andro vaovao
+179,en,mg_MG,novel corona virus,tantara mikasika ny tsimokaretina corona
+180,en,mg_MG,novel coronavirus,tantara mikasika ny coronavirus
+181,en,mg_MG,novel coronavirus outbreak,tantara mikasika ny valan'aretina coronavirus
+182,en,mg_MG,novel virus,tantara mikisaka ny tsimokaretina
+183,en,mg_MG,online medical consultation,fitsaboana amin'ny internet
+184,en,mg_MG,onset,fiantombohana
+185,en,mg_MG,outbreak,valan'aretina
+186,en,mg_MG,outbreak readiness,fahavononana hiatrika valan'aretina
+187,en,mg_MG,overall case fatality,taham-pahafatesan'ny olona marary amin'ny ankapobeny
+188,en,mg_MG,pandemic,areti-mifindra
+189,en,mg_MG,pangolin,pangolin
+190,en,mg_MG,pathogen,mikraoba mitondra aretina
+191,en,mg_MG,pathology,fanadiadiana ny mahatonga ny aretina
+192,en,mg_MG,patient care equipment,fitaovana fitsaboana ny marary
+193,en,mg_MG,personal protective equipment,fitaovana fiarovan-tena
+194,en,mg_MG,person-to-person transmission,fifindrana avy amin'ny fifandraisana mivantana
+195,en,mg_MG,phlegm,flegme
+196,en,mg_MG,physical contact,fifampikasohana
+197,en,mg_MG,plague,areti-mandringana
+198,en,mg_MG,pneumonia,pnemonia
+199,en,mg_MG,pneumonias,pnemonia
+200,en,mg_MG,positive test,fitsapana miabo
+201,en,mg_MG,precaution,fitandremana
+202,en,mg_MG,precautionary,fitandremana
+203,en,mg_MG,pre-existing condition,toe-javatra efa misy teo aloha
+204,en,mg_MG,preparedness,fahavononana
+205,en,mg_MG,prognosis,vinavina
+206,en,mg_MG,protect myself,miaro ny tenako
+207,en,mg_MG,protect others,miaro ny hafa
+208,en,mg_MG,protect yourself,arovy ny tenanao
+209,en,mg_MG,protective measures,fepetra fiarovan-tena
+210,en,mg_MG,public health crisis,krizy amin'ny fahasalamam-bahoaka
+211,en,mg_MG,pulmonary tissue damage,fahasimban'ny selan'ny havokavoka
+212,en,mg_MG,quarantine,fanokanan-toerana
+213,en,mg_MG,rapid risk assessment,fanombatombanana haingana ny loza mananotanona
+214,en,mg_MG,reagent,réactif
+215,en,mg_MG,regular flu,gripa tsotra
+216,en,mg_MG,reinfection,niverenan'ny aretina
+217,en,mg_MG,renal disease,aretin'ny voa
+218,en,mg_MG,renal failure,fahasimban'ny voa
+219,en,mg_MG,respirator,fisefoana
+220,en,mg_MG,respiratory,taovam-pisefoana
+221,en,mg_MG,respiratory disease,aretin'ny taovam-pisefoana
+222,en,mg_MG,respiratory distress,fanaintainan'ny taovam-pisefoana
+223,en,mg_MG,respiratory droplets,piti-drora avy amin'ny taovam-pisefoana
+224,en,mg_MG,respiratory hygiene,fitandremana ny fahasalaman'ny taovam-pisefoana
+225,en,mg_MG,respiratory illness,aretin'ny taovam-pisefoana
+226,en,mg_MG,respiratory syndrome,vondron'aretina mpahazo ny taovam-pisefoana
+227,en,mg_MG,respiratory tract disease,aretin'ny fantson'ny taovam-pisefoana
+228,en,mg_MG,restrictions,faneriterena
+229,en,mg_MG,resurge,miverina indray
+230,en,mg_MG,RNA,RNA
+231,en,mg_MG,rubeola,rubeola
+232,en,mg_MG,runny nose,misy ranon-delo
+233,en,mg_MG,SARS,SARS
+234,en,mg_MG,SARS-CoV-2,SARS-CoV-2
+235,en,mg_MG,SARS-CoV,SARS-CoV
+236,en,mg_MG,sars-related coronavirus,sars vokatry ny coronavirus
+237,en,mg_MG,seasonal flu,gripa mpintranga isan-taona
+238,en,mg_MG,seasonal influenza,gripa mpitranga isan-taona
+239,en,mg_MG,secretion,tsiranoka
+240,en,mg_MG,self-quarantine,fanokanan-tena antsitra-po
+241,en,mg_MG,sepsis,otrik'aretina azo avy amin'ny ratra
+242,en,mg_MG,septic shock,otrak'aretina azo tampoka avy amin'ny ratra
+243,en,mg_MG,Severe Acute Respiratory Syndrome,Vondron'aretina mahery vaika mpahazo ny taovam-pisefoana
+244,en,mg_MG,shortness of breath,sempotra
+245,en,mg_MG,sickened,mahaloiloy
+246,en,mg_MG,sickness,aretina
+247,en,mg_MG,sneeze,mihevona
+248,en,mg_MG,sneezes,mihevona
+249,en,mg_MG,sneezing,mihevona
+250,en,mg_MG,social distancing,fiatahana amin'ny fiaraha-monina
+251,en,mg_MG,sore throat,marary tenda
+252,en,mg_MG,spanish flu,gripa espaniola
+253,en,mg_MG,specimen collection,fanangonana sela andrana
+254,en,mg_MG,spread,fiparitahana
+255,en,mg_MG,sputum,rehoka
+256,en,mg_MG,stigmatisation,fanilikilihana
+257,en,mg_MG,supportive,manohana
+258,en,mg_MG,surface,faritra
+259,en,mg_MG,surfaces,faritra
+260,en,mg_MG,suspected infection,ahiahiana ho misy aretina
+261,en,mg_MG,swab,lamba fanadiovana
+262,en,mg_MG,swine flu,gripa kisoa
+263,en,mg_MG,symptom,famatarana
+264,en,mg_MG,symptomatic,fampafatarana
+265,en,mg_MG,symptoms,famatarana
+266,en,mg_MG,targeted disinfection,famonoana tsimokaretina voakendry
+267,en,mg_MG,test kit,fitiliana maika
+268,en,mg_MG,testing error,fadisoana mandritran'ny fitiliana
+269,en,mg_MG,tissue damage,fasimban'ny sela
+270,en,mg_MG,tp shortage,tsy fahampian'ny taratasy fidiovana
+271,en,mg_MG,toilet paper shortage,tsy fahampian'ny taratatsy fidiovana
+272,en,mg_MG,touch,fikasihana
+273,en,mg_MG,touching,fikasihana
+274,en,mg_MG,transmissibility,fifindrana
+275,en,mg_MG,transmissible,mifindra
+276,en,mg_MG,transmission,fifindrana
+277,en,mg_MG,transmission potential,mety mifindra
+278,en,mg_MG,typical flu,gripa mahazatra
+279,en,mg_MG,underlying disease,fototr'aretina
+280,en,mg_MG,updates,vaovao farany
+281,en,mg_MG,vaccine,vakisiny
+282,en,mg_MG,vaccines,vakisiny
+283,en,mg_MG,ventilation,fidiran-drivotra
+284,en,mg_MG,ventilator,fitsofana
+285,en,mg_MG,ventilators,fitsofana
+286,en,mg_MG,viral infection,areti-mifindra
+287,en,mg_MG,viral outbreak,valan'aretina
+288,en,mg_MG,viral pandemic,areti-mifindra miparitaka
+289,en,mg_MG,viral pneumonia,pnemonia avy amin'ny tsimokaretina
+290,en,mg_MG,virtual care,fitsaboana virtoaly
+291,en,mg_MG,virulence,heriny
+292,en,mg_MG,virus itself,ilay tsimokaretina
+293,en,mg_MG,virus outbreak,valan'aretina
+294,en,mg_MG,virus scare,horohoro avy amin'ny tsimokaretina
+295,en,mg_MG,virus spreads,fiparitahan'ny tsimokaretina
+296,en,mg_MG,virus strain,tsimok'aretina
+297,en,mg_MG,viral transmission,areti-mifindra avy amin'ny tsimokaretina
+298,en,mg_MG,vivid-19,vivid-19
+299,en,mg_MG,washing hands,manasa tanana
+300,en,mg_MG,washing ones hands,manasa ny tananao
+301,en,mg_MG,wash your hands,sasao ny tananao
+302,en,mg_MG,white blood cell count,tahan'ny sela fotsy
+303,en,mg_MG,widespread transmission,fiparitahan'ny areti-mifindra
+304,en,mg_MG,working from home,miasa any an-trano
+305,en,mg_MG,WFH,WFH
+306,en,mg_MG,Wuhan,Wuhan

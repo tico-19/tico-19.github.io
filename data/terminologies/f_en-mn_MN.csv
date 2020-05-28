@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,mn_MN,1918 flu,1918 оны ханиад
+2,en,mn_MN,acute bronchitis,цочмог бронхит
+3,en,mn_MN,acute respiratory disease,амьсгалын замын цочмог өвчин
+4,en,mn_MN,AIDS,ДОХ
+5,en,mn_MN,airborne droplets,агаар дусал
+6,en,mn_MN,airway,амьсгалын зам
+7,en,mn_MN,alcohol-based,спирт агуулсан
+8,en,mn_MN,alcohol-based hand rub,спирт агуулсан гар үрэгч
+9,en,mn_MN,alcohol-based hand sanitizer,спирт агуулсан гар ариутгагч
+10,en,mn_MN,alveolar disease,цулцангийн өвчин
+11,en,mn_MN,an epidemic,тахал
+12,en,mn_MN,annual flu,жилийн ханиад
+13,en,mn_MN,anti-inflammatory drug,өрөвслийн эсрэг эм
+14,en,mn_MN,antiviral drug,вирусын эсрэг эм
+15,en,mn_MN,antiviral treatment,вирусын эсрэг эмчилгээ
+16,en,mn_MN,assay,шинжилгээ хийх
+17,en,mn_MN,asymptomatic,шинж тэмдэггүй
+18,en,mn_MN,avian flu,шувууны ханиад
+19,en,mn_MN,Black Plague,Хар Тахал
+20,en,mn_MN,blood pressure,цусны даралт
+21,en,mn_MN,body fluid,биеийн шингэн
+22,en,mn_MN,breathing,амьсгал
+23,en,mn_MN,bubonic plague,булчирхайн тахал
+24,en,mn_MN,c19,c19
+25,en,mn_MN,cv19,cv19
+26,en,mn_MN,case fatality rate,тохиолдлын нас баралтын түвшин
+27,en,mn_MN,causative agent,үүсгэгч агент
+28,en,mn_MN,CDC,Өвчний хяналт, урьдчилан сэргийлэх төвүүд
+29,en,mn_MN,chemical disinfection,химийн халдваргүйжүүлэлт
+30,en,mn_MN,chest x-ray,цээжний рентген зураг
+31,en,mn_MN,clinical diagnosis,эмнэлзүйн оношлогоо
+32,en,mn_MN,clinical trial,эмнэлзүйн туршилт судалгаа
+33,en,mn_MN,close contact,ойрын хавьтал
+34,en,mn_MN,cvirus,корона вирус
+35,en,mn_MN,chronic respiratory disease,амьсгалын замын архаг өвчин
+36,en,mn_MN,common cold,ханиад
+37,en,mn_MN,common flu,нийтлэг ханиад
+38,en,mn_MN,communicable disease,халдварт өвчин
+39,en,mn_MN,community spread,олон нийтийн тархалт
+40,en,mn_MN,community transmission,олон нийтийн халдварлалт
+41,en,mn_MN,compromised immune system,дарангуйлагдсан дархлалын систем
+42,en,mn_MN,contagion,халдвар
+43,en,mn_MN,contagious,халдварт
+44,en,mn_MN,contagiousness,халдварт өвчин
+45,en,mn_MN,corona,корона
+46,en,mn_MN,corona virus,коронавирус
+47,en,mn_MN,corona virus epidemic,коронавирусын тахал
+48,en,mn_MN,corona virus outbreak,коронавирусын дэгдэлт
+49,en,mn_MN,corona virus scare,коронавирусын айдас
+50,en,mn_MN,coronavirus,коронавирус
+51,en,mn_MN,coronavirus cases,коронавирусын тохиолдол
+52,en,mn_MN,coronavirus outbreak,коронавирусын дэгдэлт
+53,en,mn_MN,coronavirus pandemic,коронавирусын цар тахал
+54,en,mn_MN,coronavirus scare,коронавирусын айдас
+55,en,mn_MN,cough,ханиад
+56,en,mn_MN,cough etiquette,ханиалгах дүрэм
+57,en,mn_MN,coughing,ханиах
+58,en,mn_MN,cov 19,cov 19
+59,en,mn_MN,cov19,cov19
+60,en,mn_MN,COVID,COVID
+61,en,mn_MN,COVID-19 crisis,COVID-19 хямрал
+62,en,mn_MN,covid-19,covid-19
+63,en,mn_MN,covid19,covid19
+64,en,mn_MN,COVID-19 epidemic,COVID-19 тахал
+65,en,mn_MN,COVID-19 outbreak,COVID-19 дэгдэлт
+66,en,mn_MN,COVID-19 pandemic,COVID-19 цар тахал
+67,en,mn_MN,COVID 19,COVID-19
+68,en,mn_MN,current crisis,одоогийн хямрал
+69,en,mn_MN,current health crisis,одоогийн эрүүл мэндийн хямрал
+70,en,mn_MN,current outbreak,одоогийн дэгдэлт
+71,en,mn_MN,current pandemic,одоогийн цар тахал
+72,en,mn_MN,CV,CV
+73,en,mn_MN,CV-19,CV-19
+74,en,mn_MN,deadly,үхлийн аюултай
+75,en,mn_MN,deadly virus,үхлийн аюултай вирус
+76,en,mn_MN,death rate,нас баралтын түвшин
+77,en,mn_MN,death toll,нас баралтын тоо
+78,en,mn_MN,decontaminate,ариутгал
+79,en,mn_MN,detectable,илрүүлэх боломжтой
+80,en,mn_MN,detergent,ариутгагч бодис
+81,en,mn_MN,difficulty breathing,амьсгалын хүндрэл
+82,en,mn_MN,diabetes,чихрийн шижин
+83,en,mn_MN,diagnosable disease,оношлогдох өвчин
+84,en,mn_MN,diagnostic protocol,оношлогооны протокол
+85,en,mn_MN,diagnostic testing,оношлогоо шинжилгээ
+86,en,mn_MN,disease itself,өвчин өөрөө
+87,en,mn_MN,disease outbreak,өвчний дэгдэлт
+88,en,mn_MN,disinfectant,ариутгагч
+89,en,mn_MN,disposable,нэг удаагийн
+90,en,mn_MN,droplet transmission,агаар дуслын замын халдварлалт
+91,en,mn_MN,droplets,дусал
+92,en,mn_MN,dry cough,хуурай ханиалга
+93,en,mn_MN,dry surface contamination,хуурай гадаргуугийн бохирдол
+94,en,mn_MN,ebola,эбола
+95,en,mn_MN,effective treatment,үр дүнтэй эмчилгээ
+96,en,mn_MN,electron microscope,электрон микроскоп
+97,en,mn_MN,emergency department,түргэн тусламжийн тасаг
+98,en,mn_MN,epidemic,тахлын
+99,en,mn_MN,epidemic curve,тархалтын муруй
+100,en,mn_MN,epidemic peak,тархалтын оргил үе
+101,en,mn_MN,epidemiologist,тархвар судлаач
+102,en,mn_MN,exposure,өртөлт
+103,en,mn_MN,extreme caution,маш болгоомжтой байх
+104,en,mn_MN,eye protection,нүдний хамгаалалт
+105,en,mn_MN,face mask,маск
+106,en,mn_MN,face masks,маскууд
+107,en,mn_MN,family cluster,гэр бүлийн кластер
+108,en,mn_MN,fatality rate,нас баралтын түвшин
+109,en,mn_MN,fecal contamination,ялгадасын бохирдол
+110,en,mn_MN,fever,халуурах
+111,en,mn_MN,flatten the infection curve,халдварын муруйг тэгшлэнэ
+112,en,mn_MN,flu,ханиад
+113,en,mn_MN,food safety,хүнсний аюулгүй байдал
+114,en,mn_MN,formaldehyde,формальдегид
+115,en,mn_MN,gastroenteritis,ходоодны үрэвсэл
+116,en,mn_MN,germicide,гермицид
+117,en,mn_MN,global pandemic,цар тахал
+118,en,mn_MN,global warming,дэлхийн дулаарал
+119,en,mn_MN,good respiratory hygiene,амьсгалын замын сайн эрүүл ахуй
+120,en,mn_MN,Guangdong,Гуандон
+121,en,mn_MN,H1N1,H1N1
+122,en,mn_MN,H1N1 virus,H1N1 вирус
+123,en,mn_MN,hand disinfectant,гар халдваргүйжүүлэгч
+124,en,mn_MN,hand sanitizer,гар ариутгагч
+125,en,mn_MN,health care provider,эмнэлгийн тусламж үйлчилгээ үзүүлэгч
+126,en,mn_MN,health crisis,эрүүл мэндийн хямрал
+127,en,mn_MN,health plan carrier,эрүүл мэндийн даатгалын компани
+128,en,mn_MN,health services,эрүүл мэндийн үйлчилгээ
+129,en,mn_MN,heart failure,зүрхний дутагдал
+130,en,mn_MN,high fever,өндөр халуурах
+131,en,mn_MN,HIV,ДОХ
+132,en,mn_MN,hospitalize,эмнэлэгт хэвтүүлэх
+133,en,mn_MN,household bleach,Гэр ахуйн цайруулагч
+134,en,mn_MN,Hubei,Хубэй
+135,en,mn_MN,hydrogen peroxide,устөрөгчийн пероксид
+136,en,mn_MN,hygiene,эрүүл ахуй
+137,en,mn_MN,immune system,дархлалын систем
+138,en,mn_MN,immunity,дархлал
+139,en,mn_MN,immunocompromised,дархлалын систем дарангуйлагдсан
+140,en,mn_MN,immunologist,дархлал судлаач
+141,en,mn_MN,incubation,нууц хугацаа
+142,en,mn_MN,incubation period,өвчний нууц хугацаа
+143,en,mn_MN,indirect contact,шууд бус хавьтал
+144,en,mn_MN,infect,халдварлах
+145,en,mn_MN,infection,халдвар
+146,en,mn_MN,infectious,халдвартай
+147,en,mn_MN,infectivity,халдварлуулах чадвар
+148,en,mn_MN,influenza,томуу
+149,en,mn_MN,initial transmission event,эхний халдварлалтын арга хэмжээ
+150,en,mn_MN,intensive care equipment,эрчимт эмчилгээний тоног төхөөрөмж
+151,en,mn_MN,intermediate host,дундын дамжуулагч
+152,en,mn_MN,intrauterine,савны
+153,en,mn_MN,intubation,интубаци
+154,en,mn_MN,isolation,тусгаарлалт
+155,en,mn_MN,Isopropanol,Изопропанол
+156,en,mn_MN,laboratory test kit,лабораторийн шинжилгээний иж бүрдэл
+157,en,mn_MN,laboratory testing,лабораторийн шинжилгээ
+158,en,mn_MN,lack of testing,оношлогооны дутагдал
+159,en,mn_MN,lack of tests,оношлуурын дутагдал
+160,en,mn_MN,latest updates,сүүлийн үеийн сайжруулалт
+161,en,mn_MN,liver failure,элэгний дутагдал
+162,en,mn_MN,local public health authority,орон нутгийн олон нийтийн эрүүл мэндийн байгууллага
+163,en,mn_MN,lockdown,хөл хорио
+164,en,mn_MN,lungs,уушиг
+165,en,mn_MN,masks,маск
+166,en,mn_MN,measles,улаанбурхан
+167,en,mn_MN,mechanical ventilation,механик агааржуулалт
+168,en,mn_MN,media coverage,хэвлэл мэдээллийн хамрах хүрээ
+169,en,mn_MN,medical care,эмнэлгийн тусламж
+170,en,mn_MN,MERS,MERS
+171,en,mn_MN,MERS CoV,MERS CoV
+172,en,mn_MN,microbiologist,микробиологч
+173,en,mn_MN,mild cough,зөөлөн ханиалга
+174,en,mn_MN,mortality rate,нар баралтын түвшин
+175,en,mn_MN,multi-organ failure,олон эрхтэний дутагдал
+176,en,mn_MN,nasal congestion,хамар битүүрэлт
+177,en,mn_MN,neutral detergent,нейтрал ариутгагч бодис
+178,en,mn_MN,new normal,шинэ хэвийн
+179,en,mn_MN,novel corona virus,шинэ коронавирус
+180,en,mn_MN,novel coronavirus,шинэ коронавирус
+181,en,mn_MN,novel coronavirus outbreak,шинэ коронавирусын дэгдэлт
+182,en,mn_MN,novel virus,шинэ вирус
+183,en,mn_MN,online medical consultation,онлайн эмнэлгийн зөвлөгөө
+184,en,mn_MN,onset,эхлэх
+185,en,mn_MN,outbreak,дэгдэлт
+186,en,mn_MN,outbreak readiness,дэгдэлтийн бэлэн байдал
+187,en,mn_MN,overall case fatality,нийт тохиолдлын нас баралтын түвшин
+188,en,mn_MN,pandemic,цар тахал
+189,en,mn_MN,pangolin,панголин
+190,en,mn_MN,pathogen,эмгэг төрүүлэгч
+191,en,mn_MN,pathology,эмгэг судлал
+192,en,mn_MN,patient care equipment,өвчтөний эрчимт эмчилгээний тоног төхөөрөмж
+193,en,mn_MN,personal protective equipment,хувийн хамгаалах хэрэгсэл
+194,en,mn_MN,person-to-person transmission,хүнээс хүнд халдварлалт
+195,en,mn_MN,phlegm,цэр
+196,en,mn_MN,physical contact,биеийн хавьтал
+197,en,mn_MN,plague,тахал
+198,en,mn_MN,pneumonia,уушигны хатгалгаа
+199,en,mn_MN,pneumonias,уушигны хатгалгаанууд
+200,en,mn_MN,positive test,шинжилгээний эерэг хариу
+201,en,mn_MN,precaution,урьдчилан сэргийлэлт
+202,en,mn_MN,precautionary,урьдчилан сэргийлэх
+203,en,mn_MN,pre-existing condition,суурь өвчинтэй
+204,en,mn_MN,preparedness,бэлэн байдал
+205,en,mn_MN,prognosis,урьдчилсан мэдээ
+206,en,mn_MN,protect myself,өөрөө хамгаал
+207,en,mn_MN,protect others,бусдыг хамгаал
+208,en,mn_MN,protect yourself,өөрийгөө хамгаалаарай
+209,en,mn_MN,protective measures,хамгаалах арга хэмжээ
+210,en,mn_MN,public health crisis,нийтийн эрүүл мэндийн хямрал
+211,en,mn_MN,pulmonary tissue damage,уушигны эдийн гэмтэл
+212,en,mn_MN,quarantine,хөл хорио
+213,en,mn_MN,rapid risk assessment,яаралтай эрсдэлийн үнэлгээ
+214,en,mn_MN,reagent,урвалж
+215,en,mn_MN,regular flu,энгийн ханиад
+216,en,mn_MN,reinfection,дахин халдварлалт
+217,en,mn_MN,renal disease,бөөрний өвчин
+218,en,mn_MN,renal failure,бөөрний дутагдал
+219,en,mn_MN,respirator,амьсгалын зам
+220,en,mn_MN,respiratory,амьсгалын замын
+221,en,mn_MN,respiratory disease,амьсгалын замын өвчин
+222,en,mn_MN,respiratory distress,амьсгалын замын эмгэг
+223,en,mn_MN,respiratory droplets,амьсгалын замын дусал
+224,en,mn_MN,respiratory hygiene,амьсгалын замын эрүүл ахуй
+225,en,mn_MN,respiratory illness,амьсгалын замын өвчин
+226,en,mn_MN,respiratory syndrome,амьсгалын замын хам шинж
+227,en,mn_MN,respiratory tract disease,амьсгалын замын өвчин
+228,en,mn_MN,restrictions,хязгаарлалт
+229,en,mn_MN,resurge,амилуулах
+230,en,mn_MN,RNA,РНХ
+231,en,mn_MN,rubeola,рубеола
+232,en,mn_MN,runny nose,нус гоожих
+233,en,mn_MN,SARS,SARS
+234,en,mn_MN,SARS-CoV-2,SARS-CoV-2
+235,en,mn_MN,SARS-CoV,SARS-CoV
+236,en,mn_MN,sars-related coronavirus,sars төрлийн коронавирус
+237,en,mn_MN,seasonal flu,улирлын ханиад
+238,en,mn_MN,seasonal influenza,улирлын томуу
+239,en,mn_MN,secretion,шүүрэл
+240,en,mn_MN,self-quarantine,өөрийгөө тусгаарлах
+241,en,mn_MN,sepsis,сепсис
+242,en,mn_MN,septic shock,септик шок
+243,en,mn_MN,Severe Acute Respiratory Syndrome,Хурц цочмог амьсгалын замын хам шинж
+244,en,mn_MN,shortness of breath,амьсгал давхцах
+245,en,mn_MN,sickened,өвчилсөн
+246,en,mn_MN,sickness,өвчлөл
+247,en,mn_MN,sneeze,найтаах
+248,en,mn_MN,sneezes,найтаалт
+249,en,mn_MN,sneezing,найтаах
+250,en,mn_MN,social distancing,олон нийтээс тусгаарлах
+251,en,mn_MN,sore throat,хоолойн өвчин
+252,en,mn_MN,spanish flu,Испани ханиад
+253,en,mn_MN,specimen collection,сорьц цуглуулах
+254,en,mn_MN,spread,тархалт
+255,en,mn_MN,sputum,цэр
+256,en,mn_MN,stigmatisation,гутаан доромжлох
+257,en,mn_MN,supportive,дэмжлэгтэй
+258,en,mn_MN,surface,гадаргуу
+259,en,mn_MN,surfaces,гадаргуунууд
+260,en,mn_MN,suspected infection,халдварын сэжигтэй тохиолдол
+261,en,mn_MN,swab,арчдас
+262,en,mn_MN,swine flu,гахайн ханиад
+263,en,mn_MN,symptom,шинж тэмдэг
+264,en,mn_MN,symptomatic,шинж тэмдгийн
+265,en,mn_MN,symptoms,шинж тэмдгүүд
+266,en,mn_MN,targeted disinfection,зорилтот халдваргүйжүүлэлт
+267,en,mn_MN,test kit,шинжилгээний хэрэгсэл
+268,en,mn_MN,testing error,шинжилгээний алдаа
+269,en,mn_MN,tissue damage,эдийн гэмтэл
+270,en,mn_MN,tp shortage,ариун цэврийн цаасны хомсдол
+271,en,mn_MN,toilet paper shortage,ариун цэврийн цаасны хомсдол
+272,en,mn_MN,touch,хүрэлцэх
+273,en,mn_MN,touching,хүрэх
+274,en,mn_MN,transmissibility,дамжуулах чадвар
+275,en,mn_MN,transmissible,дамжуулах боломжтой
+276,en,mn_MN,transmission,дамжуулалт
+277,en,mn_MN,transmission potential,дамжуулалтын боломж
+278,en,mn_MN,typical flu,энгийн ханиад
+279,en,mn_MN,underlying disease,суурь өвчин
+280,en,mn_MN,updates,Шинэчлэлт
+281,en,mn_MN,vaccine,вакцин
+282,en,mn_MN,vaccines,вакцинууд
+283,en,mn_MN,ventilation,агааржуулалт
+284,en,mn_MN,ventilator,агааржуулагч
+285,en,mn_MN,ventilators,агааржуулагчууд
+286,en,mn_MN,viral infection,вирусын халдвар
+287,en,mn_MN,viral outbreak,вирусын дэгдэлт
+288,en,mn_MN,viral pandemic,вирусын цар тахал
+289,en,mn_MN,viral pneumonia,вирусын уушигны хатгалгаа
+290,en,mn_MN,virtual care,виртуал тусламж
+291,en,mn_MN,virulence,хоруу чанар
+292,en,mn_MN,virus itself,вирус өөрөө
+293,en,mn_MN,virus outbreak,вирусын дэгдэлт
+294,en,mn_MN,virus scare,вирусын айдас
+295,en,mn_MN,virus spreads,вирусын тархалт
+296,en,mn_MN,virus strain,вирусын омог
+297,en,mn_MN,viral transmission,вирусын дамжуулалт
+298,en,mn_MN,vivid-19,vivid-19
+299,en,mn_MN,washing hands,гараа угаах
+300,en,mn_MN,washing ones hands,гарыг угаалгах
+301,en,mn_MN,wash your hands,гараа угаа
+302,en,mn_MN,white blood cell count,цусны цагаан эс тоолох
+303,en,mn_MN,widespread transmission,өргөн тархалт
+304,en,mn_MN,working from home,гэрээсээ ажиллах
+305,en,mn_MN,WFH,WFH
+306,en,mn_MN,Wuhan,Ухань

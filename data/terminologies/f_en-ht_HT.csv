@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ht_HT,1918 flu,Grip 1918
+2,en,ht_HT,acute bronchitis,bwonchit egi
+3,en,ht_HT,acute respiratory disease,maladi respiratwa egi
+4,en,ht_HT,AIDS,SIDA
+5,en,ht_HT,airborne droplets,ti gout nan lè a
+6,en,ht_HT,airway,vwa ayeryen
+7,en,ht_HT,alcohol-based,abaz alkòl
+8,en,ht_HT,alcohol-based hand rub,netwayan pou men abaz alkòl
+9,en,ht_HT,alcohol-based hand sanitizer,dezenfektan pou men abaz alkòl
+10,en,ht_HT,alveolar disease,maladi alveyolè
+11,en,ht_HT,an epidemic,yon epidemi
+12,en,ht_HT,annual flu,grip chak ane
+13,en,ht_HT,anti-inflammatory drug,medikaman anti-enflamatwa
+14,en,ht_HT,antiviral drug,medikaman antiviral
+15,en,ht_HT,antiviral treatment,trètman antiviral
+16,en,ht_HT,assay,esè
+17,en,ht_HT,asymptomatic,san sentom
+18,en,ht_HT,avian flu,grip avyè
+19,en,ht_HT,Black Plague,Lapès nwa
+20,en,ht_HT,blood pressure,tansyon
+21,en,ht_HT,body fluid,Likid kòporèl
+22,en,ht_HT,breathing,respirasyon
+23,en,ht_HT,bubonic plague,epidemi bibonik
+24,en,ht_HT,c19,c19
+25,en,ht_HT,cv19,cv19
+26,en,ht_HT,case fatality rate,pousantaj ka mòtèl
+27,en,ht_HT,causative agent,ajan responsab
+28,en,ht_HT,CDC,CDC
+29,en,ht_HT,chemical disinfection,dezenfektan chimik
+30,en,ht_HT,chest x-ray,radyografi pilmonè
+31,en,ht_HT,clinical diagnosis,dyagnostik klinik
+32,en,ht_HT,clinical trial,esè klinik
+33,en,ht_HT,close contact,kontak kole
+34,en,ht_HT,cvirus,cvirus
+35,en,ht_HT,chronic respiratory disease,maladi respiratwa kwonik
+36,en,ht_HT,common cold,rim nòmal
+37,en,ht_HT,common flu,grip nòmal
+38,en,ht_HT,communicable disease,maladi transmisib
+39,en,ht_HT,community spread,pwopagasyon kominotè
+40,en,ht_HT,community transmission,transmisyon kominotè
+41,en,ht_HT,compromised immune system,sistèm iminitè konpwomi
+42,en,ht_HT,contagion,kontajyon
+43,en,ht_HT,contagious,kontajye
+44,en,ht_HT,contagiousness,kapasite kontajyon
+45,en,ht_HT,corona,kowona
+46,en,ht_HT,corona virus,kowona viris
+47,en,ht_HT,corona virus epidemic,epidemi kowona viris
+48,en,ht_HT,corona virus outbreak,Epidemi kowona viris
+49,en,ht_HT,corona virus scare,laperèz kowona viris
+50,en,ht_HT,coronavirus,kowonaviris
+51,en,ht_HT,coronavirus cases,ka kowonaviris
+52,en,ht_HT,coronavirus outbreak,epidemi kowonaviris
+53,en,ht_HT,coronavirus pandemic,pandemi kowonaviris
+54,en,ht_HT,coronavirus scare,laperèz kowonaviris
+55,en,ht_HT,cough,tous
+56,en,ht_HT,cough etiquette,konpòtman tous
+57,en,ht_HT,coughing,touse
+58,en,ht_HT,cov 19,cov 19
+59,en,ht_HT,cov19,cov19
+60,en,ht_HT,COVID,COVID
+61,en,ht_HT,COVID-19 crisis,kriz COVID-19
+62,en,ht_HT,covid-19,kovid-19
+63,en,ht_HT,covid19,kovid19
+64,en,ht_HT,COVID-19 epidemic,epidemi COVID-19
+65,en,ht_HT,COVID-19 outbreak,epidemi COVID-19
+66,en,ht_HT,COVID-19 pandemic,pandemi COVID-19
+67,en,ht_HT,COVID 19,COVID 19
+68,en,ht_HT,current crisis,kriz aktyèl
+69,en,ht_HT,current health crisis,kriz sante aktyèl
+70,en,ht_HT,current outbreak,epidemi aktyèl
+71,en,ht_HT,current pandemic,pandemi aktyèl
+72,en,ht_HT,CV,CV
+73,en,ht_HT,CV-19,CV-19
+74,en,ht_HT,deadly,mòtèl
+75,en,ht_HT,deadly virus,viris mòtèl
+76,en,ht_HT,death rate,pousantaj moun mouri
+77,en,ht_HT,death toll,kantite moun mouri
+78,en,ht_HT,decontaminate,dekontamine
+79,en,ht_HT,detectable,detektab
+80,en,ht_HT,detergent,detèjan
+81,en,ht_HT,difficulty breathing,difikilte pou respire
+82,en,ht_HT,diabetes,dyabèt / sik
+83,en,ht_HT,diagnosable disease,maladi ki ka dyagnostike
+84,en,ht_HT,diagnostic protocol,pwotokòl dyagnostik
+85,en,ht_HT,diagnostic testing,egzamen dyagnostik
+86,en,ht_HT,disease itself,pwòp maladi
+87,en,ht_HT,disease outbreak,epidemi maladi
+88,en,ht_HT,disinfectant,dezenfektan
+89,en,ht_HT,disposable,jetab
+90,en,ht_HT,droplet transmission,transmisyon gout
+91,en,ht_HT,droplets,gout
+92,en,ht_HT,dry cough,tous sèk
+93,en,ht_HT,dry surface contamination,kontaminasyon sifas sèk
+94,en,ht_HT,ebola,ebola
+95,en,ht_HT,effective treatment,tretman efikas
+96,en,ht_HT,electron microscope,mikwoskòp elektwonik
+97,en,ht_HT,emergency department,depatman ijans
+98,en,ht_HT,epidemic,epidemi
+99,en,ht_HT,epidemic curve,koub epidemik
+100,en,ht_HT,epidemic peak,pik epidemik
+101,en,ht_HT,epidemiologist,epidemyolojis
+102,en,ht_HT,exposure,ekspozisyon
+103,en,ht_HT,extreme caution,ekstrèm pridans
+104,en,ht_HT,eye protection,pwoteksyon zye
+105,en,ht_HT,face mask,mask fasyal
+106,en,ht_HT,face masks,mask fasyal
+107,en,ht_HT,family cluster,gwoup familyal
+108,en,ht_HT,fatality rate,to desè
+109,en,ht_HT,fecal contamination,kontaminasyon nan sèl
+110,en,ht_HT,fever,fyèv
+111,en,ht_HT,flatten the infection curve,plati koub enfeksyon an
+112,en,ht_HT,flu,grip
+113,en,ht_HT,food safety,sekirite alimantè
+114,en,ht_HT,formaldehyde,fòmaldeyid
+115,en,ht_HT,gastroenteritis,gastwoenterit
+116,en,ht_HT,germicide,antiseptik
+117,en,ht_HT,global pandemic,pandemi mondyal
+118,en,ht_HT,global warming,rechofman klimatik
+119,en,ht_HT,good respiratory hygiene,bon ijyèn respiratwa
+120,en,ht_HT,Guangdong,Guangdong
+121,en,ht_HT,H1N1,H1N1
+122,en,ht_HT,H1N1 virus,Viris H1N1
+123,en,ht_HT,hand disinfectant,dezenfektan pou men
+124,en,ht_HT,hand sanitizer,dezenfektan pou men
+125,en,ht_HT,health care provider,pwofesyonèl swen sante
+126,en,ht_HT,health crisis,kriz sante
+127,en,ht_HT,health plan carrier,konpayi asirans plan sante
+128,en,ht_HT,health services,sèvis sante
+129,en,ht_HT,heart failure,ensifizans kadyak
+130,en,ht_HT,high fever,gwo fyèv
+131,en,ht_HT,HIV,VIH
+132,en,ht_HT,hospitalize,entène nan lopital
+133,en,ht_HT,household bleach,klowòks pou kay
+134,en,ht_HT,Hubei,Hubei
+135,en,ht_HT,hydrogen peroxide,pewoksid idwojèn
+136,en,ht_HT,hygiene,ijyèn
+137,en,ht_HT,immune system,sistèm iminitè
+138,en,ht_HT,immunity,iminite
+139,en,ht_HT,immunocompromised,sistèm iminitè defisyan
+140,en,ht_HT,immunologist,iminolojis
+141,en,ht_HT,incubation,enkibasyon
+142,en,ht_HT,incubation period,peryòd enkibasyon
+143,en,ht_HT,indirect contact,kontak endirèk
+144,en,ht_HT,infect,enfekte
+145,en,ht_HT,infection,enfeksyon
+146,en,ht_HT,infectious,kontajye
+147,en,ht_HT,infectivity,kapasite enfeksyon
+148,en,ht_HT,influenza,grip / influenza
+149,en,ht_HT,initial transmission event,premye aktivite transmisyon
+150,en,ht_HT,intensive care equipment,ekipman swen entansif
+151,en,ht_HT,intermediate host,akèy entèmedyè
+152,en,ht_HT,intrauterine,entra-iterin
+153,en,ht_HT,intubation,entibasyon
+154,en,ht_HT,isolation,izolman
+155,en,ht_HT,Isopropanol,izopwopanòl
+156,en,ht_HT,laboratory test kit,twous tès laboratwa
+157,en,ht_HT,laboratory testing,tès laboratwa
+158,en,ht_HT,lack of testing,mank tès
+159,en,ht_HT,lack of tests,mank tès
+160,en,ht_HT,latest updates,dènye mizajou
+161,en,ht_HT,liver failure,ensifizans epatik
+162,en,ht_HT,local public health authority,otorite sante piblik lokal
+163,en,ht_HT,lockdown,vewouyaj
+164,en,ht_HT,lungs,poumon
+165,en,ht_HT,masks,mask
+166,en,ht_HT,measles,lawoujòl
+167,en,ht_HT,mechanical ventilation,vantilasyon mekanik
+168,en,ht_HT,media coverage,kouvèti medyatik
+169,en,ht_HT,medical care,swen medikal
+170,en,ht_HT,MERS,MERS
+171,en,ht_HT,MERS CoV,MERS CoV
+172,en,ht_HT,microbiologist,mikwobyolojis
+173,en,ht_HT,mild cough,tous lejè
+174,en,ht_HT,mortality rate,to mòtalite
+175,en,ht_HT,multi-organ failure,ensifizans plizyè ògan
+176,en,ht_HT,nasal congestion,nen bouche
+177,en,ht_HT,neutral detergent,detèjan net
+178,en,ht_HT,new normal,nouvo nòm
+179,en,ht_HT,novel corona virus,nouvo kowona viris
+180,en,ht_HT,novel coronavirus,nouvo kowonaviris
+181,en,ht_HT,novel coronavirus outbreak,nouvo epidemi kowonaviris
+182,en,ht_HT,novel virus,nouvo viris
+183,en,ht_HT,online medical consultation,konsiltasyon medikal sou entènèt
+184,en,ht_HT,onset,kòmansman
+185,en,ht_HT,outbreak,deklanchman / epidemi
+186,en,ht_HT,outbreak readiness,preparasyon pou epidemi
+187,en,ht_HT,overall case fatality,ka desè jeneral
+188,en,ht_HT,pandemic,pandemi
+189,en,ht_HT,pangolin,pangolen
+190,en,ht_HT,pathogen,patojèn
+191,en,ht_HT,pathology,patoloji
+192,en,ht_HT,patient care equipment,ekipman swen pasyan
+193,en,ht_HT,personal protective equipment,ekipman pwoteksyon pèsonèl
+194,en,ht_HT,person-to-person transmission,transmisyon moun a moun
+195,en,ht_HT,phlegm,flègm
+196,en,ht_HT,physical contact,kontak fizik
+197,en,ht_HT,plague,pès / flewo
+198,en,ht_HT,pneumonia,pnemoni
+199,en,ht_HT,pneumonias,pnemoni
+200,en,ht_HT,positive test,tès pozitif
+201,en,ht_HT,precaution,prekosyon
+202,en,ht_HT,precautionary,prevantif
+203,en,ht_HT,pre-existing condition,kondisyon ki egziste anvan
+204,en,ht_HT,preparedness,preparasyon
+205,en,ht_HT,prognosis,pwonostik
+206,en,ht_HT,protect myself,pwoteje tèt mwen
+207,en,ht_HT,protect others,pwoteje lòt moun
+208,en,ht_HT,protect yourself,pwoteje tèt ou
+209,en,ht_HT,protective measures,mezi pwoteksyon
+210,en,ht_HT,public health crisis,kriz sante piblik
+211,en,ht_HT,pulmonary tissue damage,lezyon tisi pilmonè
+212,en,ht_HT,quarantine,karantèn
+213,en,ht_HT,rapid risk assessment,evalyasyon risk rapid
+214,en,ht_HT,reagent,reyaktif
+215,en,ht_HT,regular flu,grip regilye
+216,en,ht_HT,reinfection,reyenfeksyon
+217,en,ht_HT,renal disease,maladi ren
+218,en,ht_HT,renal failure,ensifizans renal
+219,en,ht_HT,respirator,respiratè
+220,en,ht_HT,respiratory,respiratwa
+221,en,ht_HT,respiratory disease,maladi respiratwa
+222,en,ht_HT,respiratory distress,detrès respiratwa
+223,en,ht_HT,respiratory droplets,gout respiratwa
+224,en,ht_HT,respiratory hygiene,ijyèn respiratwa
+225,en,ht_HT,respiratory illness,maladi respiratwa
+226,en,ht_HT,respiratory syndrome,sendwòm respiratwa
+227,en,ht_HT,respiratory tract disease,maladi vwa respiratwa
+228,en,ht_HT,restrictions,restriksyon
+229,en,ht_HT,resurge,resisite
+230,en,ht_HT,RNA,RNA
+231,en,ht_HT,rubeola,lawoujòl
+232,en,ht_HT,runny nose,nen k ap koule
+233,en,ht_HT,SARS,SARS
+234,en,ht_HT,SARS-CoV-2,SARS-CoV-2
+235,en,ht_HT,SARS-CoV,SARS-CoV
+236,en,ht_HT,sars-related coronavirus,kowonaviris ki lye ak sars
+237,en,ht_HT,seasonal flu,grip sezonye
+238,en,ht_HT,seasonal influenza,enfluenza sezonye
+239,en,ht_HT,secretion,sekresyon
+240,en,ht_HT,self-quarantine,karantèn pèsonèl
+241,en,ht_HT,sepsis,bakteri
+242,en,ht_HT,septic shock,chòk bakteri
+243,en,ht_HT,Severe Acute Respiratory Syndrome,Sendwòm Respiratwa Egi Grav
+244,en,ht_HT,shortness of breath,souf kout
+245,en,ht_HT,sickened,malad
+246,en,ht_HT,sickness,maladi
+247,en,ht_HT,sneeze,etènye
+248,en,ht_HT,sneezes,etènye
+249,en,ht_HT,sneezing,etènye
+250,en,ht_HT,social distancing,distans sosyal
+251,en,ht_HT,sore throat,gòj fè mal
+252,en,ht_HT,spanish flu,grip espanyòl
+253,en,ht_HT,specimen collection,prelèvman echantiyon
+254,en,ht_HT,spread,pwopagasyon
+255,en,ht_HT,sputum,kracha
+256,en,ht_HT,stigmatisation,estigmatizasyon
+257,en,ht_HT,supportive,ki bay sipò
+258,en,ht_HT,surface,sifas
+259,en,ht_HT,surfaces,sifas
+260,en,ht_HT,suspected infection,Soupson enfeksyon
+261,en,ht_HT,swab,prelèvman
+262,en,ht_HT,swine flu,grip pòsin
+263,en,ht_HT,symptom,sentòm
+264,en,ht_HT,symptomatic,gen sentòm
+265,en,ht_HT,symptoms,sentòm
+266,en,ht_HT,targeted disinfection,dezenfeksyon sible
+267,en,ht_HT,test kit,twous tès
+268,en,ht_HT,testing error,erè tès
+269,en,ht_HT,tissue damage,lezyon tisi
+270,en,ht_HT,tp shortage,peniri tp
+271,en,ht_HT,toilet paper shortage,peniri papye twalèt
+272,en,ht_HT,touch,touch
+273,en,ht_HT,touching,touch
+274,en,ht_HT,transmissibility,kapasite transmisyon
+275,en,ht_HT,transmissible,transmisib
+276,en,ht_HT,transmission,transmisyon
+277,en,ht_HT,transmission potential,potansyèl transmisyon
+278,en,ht_HT,typical flu,grip tipik
+279,en,ht_HT,underlying disease,maladi kache
+280,en,ht_HT,updates,mizajou
+281,en,ht_HT,vaccine,vaksen
+282,en,ht_HT,vaccines,vaksen
+283,en,ht_HT,ventilation,vantilasyon
+284,en,ht_HT,ventilator,vantilatè
+285,en,ht_HT,ventilators,vantilatè
+286,en,ht_HT,viral infection,enfeksyon viral
+287,en,ht_HT,viral outbreak,epidemi viral
+288,en,ht_HT,viral pandemic,pandemi viral
+289,en,ht_HT,viral pneumonia,pnemoni viral
+290,en,ht_HT,virtual care,swen vityèl
+291,en,ht_HT,virulence,virilans
+292,en,ht_HT,virus itself,pwòp viris
+293,en,ht_HT,virus outbreak,epidemi viris
+294,en,ht_HT,virus scare,laperèz viris
+295,en,ht_HT,virus spreads,pwopagasyon viris
+296,en,ht_HT,virus strain,souch viris
+297,en,ht_HT,viral transmission,transmisyon viral
+298,en,ht_HT,vivid-19,vivid-19
+299,en,ht_HT,washing hands,lave men
+300,en,ht_HT,washing ones hands,lave men yo
+301,en,ht_HT,wash your hands,lave men ou
+302,en,ht_HT,white blood cell count,kantite globil blan
+303,en,ht_HT,widespread transmission,transmisyon jeneral
+304,en,ht_HT,working from home,travay lakay
+305,en,ht_HT,WFH,WFH
+306,en,ht_HT,Wuhan,Wuhan

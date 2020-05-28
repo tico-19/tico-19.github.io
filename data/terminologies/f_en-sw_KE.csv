@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,sw_KE,1918 flu,Homa ya 1918
+2,en,sw_KE,acute bronchitis,mkamba mkali
+3,en,sw_KE,acute respiratory disease,ugonjwa mkali unaohusiana na upumuaji
+4,en,sw_KE,AIDS,UKIMWI
+5,en,sw_KE,airborne droplets,Matone ya uambukizaji hewani
+6,en,sw_KE,airway,kipito cha hewa
+7,en,sw_KE,alcohol-based,Iliyo na pombe
+8,en,sw_KE,alcohol-based hand rub,kifaa cha kusugua mkono chenye pombe
+9,en,sw_KE,alcohol-based hand sanitizer,kioevu cha mkono chenye pombe
+10,en,sw_KE,alveolar disease,ugonjwa wa vilengelenge
+11,en,sw_KE,an epidemic,magonjwa ya mlipuko
+12,en,sw_KE,annual flu,homa ya kila mwaka
+13,en,sw_KE,anti-inflammatory drug,dawa ya kupigana na uvimbe
+14,en,sw_KE,antiviral drug,dawa ya kupigana na virusi
+15,en,sw_KE,antiviral treatment,matibabu ya kumaliza virusi
+16,en,sw_KE,assay,kupima
+17,en,sw_KE,asymptomatic,bila dalili ya ugonjwa
+18,en,sw_KE,avian flu,homa ya ndege ya avian
+19,en,sw_KE,Black Plague,Tauni Nyeusi
+20,en,sw_KE,blood pressure,shinikizo la damu
+21,en,sw_KE,body fluid,umajimaji wa mwili
+22,en,sw_KE,breathing,kupumua
+23,en,sw_KE,bubonic plague,tauni ya majipu
+24,en,sw_KE,c19,c19
+25,en,sw_KE,cv19,cv19
+26,en,sw_KE,case fatality rate,kesi za vifo
+27,en,sw_KE,causative agent,kisababishi
+28,en,sw_KE,CDC,Kituo cha Udhibiti wa Ugonjwa (CDC)
+29,en,sw_KE,chemical disinfection,uuaji wa viini kwa kutumia kemikali
+30,en,sw_KE,chest x-ray,picha ya x-ray ya kifua
+31,en,sw_KE,clinical diagnosis,utambuzi wa ugonjwa kwa kuangalia
+32,en,sw_KE,clinical trial,majaribio ya matibabu
+33,en,sw_KE,close contact,mguso wa karibu
+34,en,sw_KE,cvirus,cvirus
+35,en,sw_KE,chronic respiratory disease,ugonjwa hatari wa upumuaji
+36,en,sw_KE,common cold,mafua ya kawaida
+37,en,sw_KE,common flu,homa ya kawaida
+38,en,sw_KE,communicable disease,ugonjwa unaoweza kuambukizwa
+39,en,sw_KE,community spread,uenezi wa jumuiya
+40,en,sw_KE,community transmission,uambukizaji wa jumuiya
+41,en,sw_KE,compromised immune system,maridhiano ya mfumo wa kinga ya mwili
+42,en,sw_KE,contagion,uambukizaji kwa kugusana
+43,en,sw_KE,contagious,ugonjwa wa kuambukizwa kwa kugusana
+44,en,sw_KE,contagiousness,uwezo wa uambukizaji kwa kugusana
+45,en,sw_KE,corona,korona
+46,en,sw_KE,corona virus,virusi vya korona
+47,en,sw_KE,corona virus epidemic,ugonjwa wa mlipuko wa virusi vya korona
+48,en,sw_KE,corona virus outbreak,mkurupuko wa virusi vya korona
+49,en,sw_KE,corona virus scare,woga wa virusi vya korona
+50,en,sw_KE,coronavirus,virusi vya korona
+51,en,sw_KE,coronavirus cases,kesi za virusi vya korona
+52,en,sw_KE,coronavirus outbreak,mkurupuko wa virusi vya korona
+53,en,sw_KE,coronavirus pandemic,kuenea kote kwa virusi vya korona
+54,en,sw_KE,coronavirus scare,woga wa virusi vya korona
+55,en,sw_KE,cough,kikohozi
+56,en,sw_KE,cough etiquette,adabu ya kukohoa
+57,en,sw_KE,coughing,kukohoa
+58,en,sw_KE,cov 19,cov 19
+59,en,sw_KE,cov19,cov19
+60,en,sw_KE,COVID,COVID
+61,en,sw_KE,COVID-19 crisis,Hali ya hatari ya COVID-19
+62,en,sw_KE,covid-19,covid-19
+63,en,sw_KE,covid19,covid19
+64,en,sw_KE,COVID-19 epidemic,ugonjwa wa mlipuko wa COVID-19
+65,en,sw_KE,COVID-19 outbreak,mkurupuko wa COVID-19
+66,en,sw_KE,COVID-19 pandemic,kuenea kote kwa COVID-19
+67,en,sw_KE,COVID 19,COVID 19
+68,en,sw_KE,current crisis,hali ya hatari ya sasa
+69,en,sw_KE,current health crisis,hali ya hatari ya sasa ya afya
+70,en,sw_KE,current outbreak,mkurupuko wa sasa
+71,en,sw_KE,current pandemic,uenezi kote wa sasa
+72,en,sw_KE,CV,CV
+73,en,sw_KE,CV-19,CV-19
+74,en,sw_KE,deadly,hatari
+75,en,sw_KE,deadly virus,Virusi hatari
+76,en,sw_KE,death rate,kiwango cha kifo
+77,en,sw_KE,death toll,Idadi ya vifo
+78,en,sw_KE,decontaminate,kutochafua
+79,en,sw_KE,detectable,inayoweza kugunduliwa
+80,en,sw_KE,detergent,sabuni
+81,en,sw_KE,difficulty breathing,ugumu wa kupumua
+82,en,sw_KE,diabetes,ugonjwa wa sukari
+83,en,sw_KE,diagnosable disease,ugonjwa unaoweza kutambuliwa
+84,en,sw_KE,diagnostic protocol,itifaki ya utambuzi
+85,en,sw_KE,diagnostic testing,kupima ili kutambua ugonjwa
+86,en,sw_KE,disease itself,ugonjwa wenyewe
+87,en,sw_KE,disease outbreak,mkurupuko wa ugonjwa
+88,en,sw_KE,disinfectant,viuaviini
+89,en,sw_KE,disposable,unaoweza kutupwa
+90,en,sw_KE,droplet transmission,uambukizaji wa matone
+91,en,sw_KE,droplets,matone
+92,en,sw_KE,dry cough,kikohozi kavu
+93,en,sw_KE,dry surface contamination,uchafuzi wa eneo kavu
+94,en,sw_KE,ebola,ebola
+95,en,sw_KE,effective treatment,matibabu yenye ufanisi
+96,en,sw_KE,electron microscope,hadubini ya elektroni
+97,en,sw_KE,emergency department,idara ya dharura
+98,en,sw_KE,epidemic,magonjwa ya mlipuko
+99,en,sw_KE,epidemic curve,mchirizo wa magonjwa ya mlipuko
+100,en,sw_KE,epidemic peak,kilele cha magonjwa ya mlipuko
+101,en,sw_KE,epidemiologist,mtaalamu wa magonjwa ya mlipuko
+102,en,sw_KE,exposure,mfichuo
+103,en,sw_KE,extreme caution,onyo kali
+104,en,sw_KE,eye protection,kinga ya jicho
+105,en,sw_KE,face mask,barakoa
+106,en,sw_KE,face masks,barakoa
+107,en,sw_KE,family cluster,mkusanyiko wa familia
+108,en,sw_KE,fatality rate,kiwango cha vifo
+109,en,sw_KE,fecal contamination,uchafuzi wa kinyesi
+110,en,sw_KE,fever,homa
+111,en,sw_KE,flatten the infection curve,kuhakikisha hakuna maambukizi mapya
+112,en,sw_KE,flu,mafua
+113,en,sw_KE,food safety,usalama wa chakula
+114,en,sw_KE,formaldehyde,fomaldehidi
+115,en,sw_KE,gastroenteritis,kuvimba kwa ukuta wa utumbo
+116,en,sw_KE,germicide,kiuaviini
+117,en,sw_KE,global pandemic,kuenea kote ulimwenguni
+118,en,sw_KE,global warming,ongezeko la joto ulimwenguni
+119,en,sw_KE,good respiratory hygiene,usafi mzuri wa upumuaji
+120,en,sw_KE,Guangdong,Guangdong
+121,en,sw_KE,H1N1,H1N1
+122,en,sw_KE,H1N1 virus,Virusi vya H1N1
+123,en,sw_KE,hand disinfectant,viuaviini mkononi
+124,en,sw_KE,hand sanitizer,kioevu cha mkono
+125,en,sw_KE,health care provider,mtoa utunzaji wa afya
+126,en,sw_KE,health crisis,hali ya hatari ya afya
+127,en,sw_KE,health plan carrier,mbebaji wa mpango wa afya
+128,en,sw_KE,health services,huduma za afya
+129,en,sw_KE,heart failure,upungufu wa afya
+130,en,sw_KE,high fever,mafua kali
+131,en,sw_KE,HIV,VVU
+132,en,sw_KE,hospitalize,kulazwa hospitalini
+133,en,sw_KE,household bleach,kihafifishi rangi ya vitu vya nyumba
+134,en,sw_KE,Hubei,Hubei
+135,en,sw_KE,hydrogen peroxide,haidrojeni peroksaidi
+136,en,sw_KE,hygiene,usafi
+137,en,sw_KE,immune system,mfumo wa kinga ya mwili
+138,en,sw_KE,immunity,kinga ya mwili
+139,en,sw_KE,immunocompromised,maridhiano ya kinga ya mwili
+140,en,sw_KE,immunologist,mtaalamu wa kinga ya mwili
+141,en,sw_KE,incubation,kupevuka
+142,en,sw_KE,incubation period,muda wa kupevuka
+143,en,sw_KE,indirect contact,mgusano usio wa moja kwa moja
+144,en,sw_KE,infect,ambukiza
+145,en,sw_KE,infection,ambukizo
+146,en,sw_KE,infectious,inaweza kuambukizwa
+147,en,sw_KE,infectivity,uwezo wa kuambukiza
+148,en,sw_KE,influenza,homa
+149,en,sw_KE,initial transmission event,tukio la uambukizaji wa awali
+150,en,sw_KE,intensive care equipment,vifaa vya wagonjwa mahututi
+151,en,sw_KE,intermediate host,mwenyeji wa hali zote
+152,en,sw_KE,intrauterine,ndani ya mfuko wa uzazi
+153,en,sw_KE,intubation,kuingiza mrija kwenye kiungo cha mgonjwa
+154,en,sw_KE,isolation,kujitenga
+155,en,sw_KE,Isopropanol,Isopropanol
+156,en,sw_KE,laboratory test kit,kifaa cha kufanya vipimo katika maabara
+157,en,sw_KE,laboratory testing,kupimwa katika maabara
+158,en,sw_KE,lack of testing,ukosefu wa kupima
+159,en,sw_KE,lack of tests,ukosefu wa vipimo
+160,en,sw_KE,latest updates,visasisho vya hivi karibuni
+161,en,sw_KE,liver failure,kushindwa kufanyakazi kwa ini
+162,en,sw_KE,local public health authority,mamlaka ya afya ya umma ya ndani
+163,en,sw_KE,lockdown,kulemaza shughuli zote katika eneo
+164,en,sw_KE,lungs,mapafu
+165,en,sw_KE,masks,barakoa
+166,en,sw_KE,measles,ukambi
+167,en,sw_KE,mechanical ventilation,kupitisha hewa safi kiufundi
+168,en,sw_KE,media coverage,utangazaji wa midia
+169,en,sw_KE,medical care,utunzaji wa kimatibabu
+170,en,sw_KE,MERS,MERS
+171,en,sw_KE,MERS CoV,MERS CoV
+172,en,sw_KE,microbiologist,mwanamikrobiolojia
+173,en,sw_KE,mild cough,kikohozi kali
+174,en,sw_KE,mortality rate,kiwango cha kifo
+175,en,sw_KE,multi-organ failure,upungufu wa viungo vingi
+176,en,sw_KE,nasal congestion,mfungamano wa pua
+177,en,sw_KE,neutral detergent,sabuni ya kawaida
+178,en,sw_KE,new normal,mpya ya kawaida
+179,en,sw_KE,novel corona virus,kirusi kipya cha korona
+180,en,sw_KE,novel coronavirus,virusi vipya vya korona
+181,en,sw_KE,novel coronavirus outbreak,mkurupuko wa virusi vipya vya korona
+182,en,sw_KE,novel virus,kirusi kipya
+183,en,sw_KE,online medical consultation,ushauri wa matibabu mtandaoni
+184,en,sw_KE,onset,mwanzo
+185,en,sw_KE,outbreak,mkurupuko
+186,en,sw_KE,outbreak readiness,kuwa tayari kwa mkurupuko
+187,en,sw_KE,overall case fatality,kesi za jumla za vifo
+188,en,sw_KE,pandemic,kuenea kote
+189,en,sw_KE,pangolin,kakakuona
+190,en,sw_KE,pathogen,viini vinavyosababisha ugonjwa
+191,en,sw_KE,pathology,patholojia
+192,en,sw_KE,patient care equipment,vifaa vya utunzaji wa mgonjwa
+193,en,sw_KE,personal protective equipment,vifaa vya ulinzi wa mtu binafsi
+194,en,sw_KE,person-to-person transmission,uambukizaji wa mtu kwa mtu
+195,en,sw_KE,phlegm,kohozi
+196,en,sw_KE,physical contact,kugusana kwa mwili
+197,en,sw_KE,plague,tauni
+198,en,sw_KE,pneumonia,nimonia
+199,en,sw_KE,pneumonias,nimonia
+200,en,sw_KE,positive test,vipimo kuonyesha kuwa ameambukizwa
+201,en,sw_KE,precaution,tahadhari
+202,en,sw_KE,precautionary,za tahadhari
+203,en,sw_KE,pre-existing condition,hali iliyopo
+204,en,sw_KE,preparedness,matayarisho
+205,en,sw_KE,prognosis,ubashiri wa maendeleo ya ugonjwa
+206,en,sw_KE,protect myself,kujilinda
+207,en,sw_KE,protect others,kulinda wengine
+208,en,sw_KE,protect yourself,kujilinda
+209,en,sw_KE,protective measures,hatua za kinga
+210,en,sw_KE,public health crisis,hali ya hatari ya afya ya umma
+211,en,sw_KE,pulmonary tissue damage,uharibifu wa tishu ya mapafu
+212,en,sw_KE,quarantine,karantini
+213,en,sw_KE,rapid risk assessment,ukadiriaji wa hatari ya haraka
+214,en,sw_KE,reagent,kitendanishi
+215,en,sw_KE,regular flu,homa ya kawaida
+216,en,sw_KE,reinfection,uambukizwaji tena
+217,en,sw_KE,renal disease,ugonjwa wa mafigo
+218,en,sw_KE,renal failure,kufeli kwa mafigo
+219,en,sw_KE,respirator,kifaa cha kupumua
+220,en,sw_KE,respiratory,pumzi
+221,en,sw_KE,respiratory disease,ugonjwa wa upumuaji
+222,en,sw_KE,respiratory distress,mfadhaiko wa upumuaji
+223,en,sw_KE,respiratory droplets,matone ya upumuaji
+224,en,sw_KE,respiratory hygiene,usafi wa upumuaji
+225,en,sw_KE,respiratory illness,maradhi ya upumuaji
+226,en,sw_KE,respiratory syndrome,tatizo la upumuaji
+227,en,sw_KE,respiratory tract disease,ugonjwa wa njia ya upumuaji
+228,en,sw_KE,restrictions,vikwazo
+229,en,sw_KE,resurge,kuibuka tena
+230,en,sw_KE,RNA,RNA
+231,en,sw_KE,rubeola,ukambi
+232,en,sw_KE,runny nose,makamasi
+233,en,sw_KE,SARS,SARS
+234,en,sw_KE,SARS-CoV-2,SARS-CoV-2
+235,en,sw_KE,SARS-CoV,SARS-CoV
+236,en,sw_KE,sars-related coronavirus,virusi vya korona vinavyohusiana na sars
+237,en,sw_KE,seasonal flu,homa ya msimu
+238,en,sw_KE,seasonal influenza,homa ya msimu
+239,en,sw_KE,secretion,utoaji
+240,en,sw_KE,self-quarantine,karantini ya binafsi
+241,en,sw_KE,sepsis,sepsisi
+242,en,sw_KE,septic shock,mshtuko wa sepsisi
+243,en,sw_KE,Severe Acute Respiratory Syndrome,tatizo Kali Hatari ya Upumuaji
+244,en,sw_KE,shortness of breath,upungufu wa pumzi
+245,en,sw_KE,sickened,anagonjeka
+246,en,sw_KE,sickness,ugonjwa
+247,en,sw_KE,sneeze,chafya
+248,en,sw_KE,sneezes,chafya
+249,en,sw_KE,sneezing,kupiga chafya
+250,en,sw_KE,social distancing,umbali wa kijamii
+251,en,sw_KE,sore throat,kuumwa na koo
+252,en,sw_KE,spanish flu,homa ya Uhispania
+253,en,sw_KE,specimen collection,ukusanyaji wa violezo
+254,en,sw_KE,spread,kuenea
+255,en,sw_KE,sputum,balaghamu
+256,en,sw_KE,stigmatisation,unyanyapaa
+257,en,sw_KE,supportive,msaada
+258,en,sw_KE,surface,sehemu
+259,en,sw_KE,surfaces,sehemu
+260,en,sw_KE,suspected infection,uambuki
+261,en,sw_KE,swab,usufi
+262,en,sw_KE,swine flu,homa ya nguruwe
+263,en,sw_KE,symptom,dalili
+264,en,sw_KE,symptomatic,dalili za
+265,en,sw_KE,symptoms,dalili
+266,en,sw_KE,targeted disinfection,kuua viini lengwa
+267,en,sw_KE,test kit,kifaa cha kupima
+268,en,sw_KE,testing error,kosa la kupima
+269,en,sw_KE,tissue damage,uharibifu wa tishu
+270,en,sw_KE,tp shortage,upungufu wa karatasi shashi
+271,en,sw_KE,toilet paper shortage,upungufu wa karatasi shashi
+272,en,sw_KE,touch,gusa
+273,en,sw_KE,touching,kugusa
+274,en,sw_KE,transmissibility,uwezo wa uambukizaji
+275,en,sw_KE,transmissible,unaweza kuambukizwa
+276,en,sw_KE,transmission,uambukizaji
+277,en,sw_KE,transmission potential,uwezo wa uambukizaji
+278,en,sw_KE,typical flu,homa ya kawaida
+279,en,sw_KE,underlying disease,ugonjwa uliopo
+280,en,sw_KE,updates,visasisho
+281,en,sw_KE,vaccine,chanjo
+282,en,sw_KE,vaccines,chanjo
+283,en,sw_KE,ventilation,kupitisha hewa safi
+284,en,sw_KE,ventilator,tundu la kupitisha hewa safi
+285,en,sw_KE,ventilators,matundu ya kupitisha hewa safi
+286,en,sw_KE,viral infection,maambukizo ya virusi
+287,en,sw_KE,viral outbreak,mkurupuko wa virusi
+288,en,sw_KE,viral pandemic,kuenea kwa virusi nchi nzima
+289,en,sw_KE,viral pneumonia,nimonia ya virusi
+290,en,sw_KE,virtual care,utunzaji wa moja kwa moja mtandaoni
+291,en,sw_KE,virulence,chenye sumu kali
+292,en,sw_KE,virus itself,kirusi chenyewe
+293,en,sw_KE,virus outbreak,mkurupuko wa virusi
+294,en,sw_KE,virus scare,tishio la virusi
+295,en,sw_KE,virus spreads,kuenea kwa virusi
+296,en,sw_KE,virus strain,aina ya jamii ya virusi
+297,en,sw_KE,viral transmission,uambukizaji wa virusi
+298,en,sw_KE,vivid-19,vivid-19
+299,en,sw_KE,washing hands,kunawa mikono
+300,en,sw_KE,washing ones hands,kunawa mikono yako
+301,en,sw_KE,wash your hands,nawa mikono yako
+302,en,sw_KE,white blood cell count,idadi ya chembe nyeupe za damu
+303,en,sw_KE,widespread transmission,uambukizaji ulioenea
+304,en,sw_KE,working from home,kufanya kazi nyumbani
+305,en,sw_KE,WFH,kufanya kazi nyumbani
+306,en,sw_KE,Wuhan,Wuhan

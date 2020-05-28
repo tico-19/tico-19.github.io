@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,lv_LV,1918 flu,1918. gada gripa
+2,en,lv_LV,acute bronchitis,akūts bronhīts
+3,en,lv_LV,acute respiratory disease,akūta respiratora slimība
+4,en,lv_LV,AIDS,AIDS
+5,en,lv_LV,airborne droplets,gaisa pilieni
+6,en,lv_LV,airway,elpceļš
+7,en,lv_LV,alcohol-based,spirta bāzes
+8,en,lv_LV,alcohol-based hand rub,spirta bāzes roku dezinfekcijas līdzeklis
+9,en,lv_LV,alcohol-based hand sanitizer,spirta bāzes roku dezinfekcijas līdzeklis
+10,en,lv_LV,alveolar disease,alveolāra slimība
+11,en,lv_LV,an epidemic,epidēmija
+12,en,lv_LV,annual flu,ikgadēja gripa
+13,en,lv_LV,anti-inflammatory drug,pretiekaisuma zāles
+14,en,lv_LV,antiviral drug,pretvīrusu zāles
+15,en,lv_LV,antiviral treatment,pretvīrusu ārstēšana
+16,en,lv_LV,assay,pārbaude
+17,en,lv_LV,asymptomatic,asimptomātisks
+18,en,lv_LV,avian flu,putnu gripa
+19,en,lv_LV,Black Plague,Melnā nāve
+20,en,lv_LV,blood pressure,asinsspiediens
+21,en,lv_LV,body fluid,ķermeņa šķidrumi
+22,en,lv_LV,breathing,elpošana
+23,en,lv_LV,bubonic plague,buboņu mēris
+24,en,lv_LV,c19,c19
+25,en,lv_LV,cv19,cv19
+26,en,lv_LV,case fatality rate,mirstības rādītāji
+27,en,lv_LV,causative agent,ierosinātājs
+28,en,lv_LV,CDC,CDC
+29,en,lv_LV,chemical disinfection,ķīmiska dezinficēšana
+30,en,lv_LV,chest x-ray,krūšu rentgens
+31,en,lv_LV,clinical diagnosis,klīniska diagnoze
+32,en,lv_LV,clinical trial,klīnisks izmēģinājums
+33,en,lv_LV,close contact,tuvs kontakts
+34,en,lv_LV,cvirus,c vīruss
+35,en,lv_LV,chronic respiratory disease,hroniska respiratora slimība
+36,en,lv_LV,common cold,saaukstēšanās
+37,en,lv_LV,common flu,gripa
+38,en,lv_LV,communicable disease,infekcijas slimība
+39,en,lv_LV,community spread,izplatība kopienā
+40,en,lv_LV,community transmission,pārnese kopienā
+41,en,lv_LV,compromised immune system,novājināta imūnsistēma
+42,en,lv_LV,contagion,infekcija
+43,en,lv_LV,contagious,infekciozs
+44,en,lv_LV,contagiousness,infekciozitāte
+45,en,lv_LV,corona,korona
+46,en,lv_LV,corona virus,koronavīruss
+47,en,lv_LV,corona virus epidemic,koronavīrusa epidēmija
+48,en,lv_LV,corona virus outbreak,koronavīrusa uzliesmojums
+49,en,lv_LV,corona virus scare,bailes no koronavīrusa
+50,en,lv_LV,coronavirus,koronavīruss
+51,en,lv_LV,coronavirus cases,koronavīrusa gadījumi
+52,en,lv_LV,coronavirus outbreak,koronavīrusa uzliesmojums
+53,en,lv_LV,coronavirus pandemic,koronavīrusa pandēmija
+54,en,lv_LV,coronavirus scare,bailes no koronavīrusa
+55,en,lv_LV,cough,klepus
+56,en,lv_LV,cough etiquette,klepošanas etiķete
+57,en,lv_LV,coughing,klepošana
+58,en,lv_LV,cov 19,cov 19
+59,en,lv_LV,cov19,cov19
+60,en,lv_LV,COVID,COVID
+61,en,lv_LV,COVID-19 crisis,COVID-19 krīze
+62,en,lv_LV,covid-19,covid-19
+63,en,lv_LV,covid19,covid19
+64,en,lv_LV,COVID-19 epidemic,COVID-19 epidēmija
+65,en,lv_LV,COVID-19 outbreak,COVID-19 uzliesmojums
+66,en,lv_LV,COVID-19 pandemic,COVID-19 pandēmija
+67,en,lv_LV,COVID 19,COVID 19
+68,en,lv_LV,current crisis,pašreizējā krīze
+69,en,lv_LV,current health crisis,pašreizējā veselības aprūpes nozares krīze
+70,en,lv_LV,current outbreak,pašreizējais uzliesmojums
+71,en,lv_LV,current pandemic,pašreizējā pandēmija
+72,en,lv_LV,CV,CV
+73,en,lv_LV,CV-19,CV-19
+74,en,lv_LV,deadly,nāvējošs
+75,en,lv_LV,deadly virus,nāvējošs vīruss
+76,en,lv_LV,death rate,mirstības līmenis
+77,en,lv_LV,death toll,nāves gadījumu skaits
+78,en,lv_LV,decontaminate,dezinficēt
+79,en,lv_LV,detectable,nosakāms
+80,en,lv_LV,detergent,mazgāšanas līdzeklis
+81,en,lv_LV,difficulty breathing,apgrūtināta elpošana
+82,en,lv_LV,diabetes,diabēts
+83,en,lv_LV,diagnosable disease,diagnosticējama slimība
+84,en,lv_LV,diagnostic protocol,diagnostikas protokols
+85,en,lv_LV,diagnostic testing,diagnostiskā testēšana
+86,en,lv_LV,disease itself,pati slimība
+87,en,lv_LV,disease outbreak,slimības uzliesmojums
+88,en,lv_LV,disinfectant,dezinfekcijas līdzeklis
+89,en,lv_LV,disposable,vienreizlietojams
+90,en,lv_LV,droplet transmission,izplatība pilienu veidā
+91,en,lv_LV,droplets,pilieni
+92,en,lv_LV,dry cough,sauss klepus
+93,en,lv_LV,dry surface contamination,sausas virsmas kontaminācija
+94,en,lv_LV,ebola,ebola
+95,en,lv_LV,effective treatment,efektīva ārstēšana
+96,en,lv_LV,electron microscope,elektronmikroskops
+97,en,lv_LV,emergency department,neatliekamās palīdzības dienests
+98,en,lv_LV,epidemic,epidēmija
+99,en,lv_LV,epidemic curve,epidēmijas līkne
+100,en,lv_LV,epidemic peak,epidēmijas pīķis
+101,en,lv_LV,epidemiologist,epidemiologs
+102,en,lv_LV,exposure,iedarbība
+103,en,lv_LV,extreme caution,īpaša piesardzība
+104,en,lv_LV,eye protection,acu aizsardzība
+105,en,lv_LV,face mask,sejas maska
+106,en,lv_LV,face masks,sejas maskas
+107,en,lv_LV,family cluster,ģimeņu kopa
+108,en,lv_LV,fatality rate,mirstības rādītājs
+109,en,lv_LV,fecal contamination,fekāliju kontaminācija
+110,en,lv_LV,fever,drudzis
+111,en,lv_LV,flatten the infection curve,infekcijas līknes samazināšana
+112,en,lv_LV,flu,gripa
+113,en,lv_LV,food safety,pārtikas drošība
+114,en,lv_LV,formaldehyde,formaldehīds
+115,en,lv_LV,gastroenteritis,gastroenterīts
+116,en,lv_LV,germicide,baktericīds
+117,en,lv_LV,global pandemic,globāla pandēmija
+118,en,lv_LV,global warming,globālā sasilšana
+119,en,lv_LV,good respiratory hygiene,laba respiratorā higiēna
+120,en,lv_LV,Guangdong,Guanduna
+121,en,lv_LV,H1N1,H1N1
+122,en,lv_LV,H1N1 virus,H1N1 vīruss
+123,en,lv_LV,hand disinfectant,roku dezinfekcijas līdzeklis
+124,en,lv_LV,hand sanitizer,roku dezinfekcijas līdzeklis
+125,en,lv_LV,health care provider,veselības aprūpes nodrošinātājs
+126,en,lv_LV,health crisis,veselības aprūpes nozares krīze
+127,en,lv_LV,health plan carrier,veselības aprūpes plāna nodrošinātājs
+128,en,lv_LV,health services,veselības aprūpes pakalpojumi
+129,en,lv_LV,heart failure,sirds mazspēja
+130,en,lv_LV,high fever,augsts drudzis
+131,en,lv_LV,HIV,HIV
+132,en,lv_LV,hospitalize,hospitalizēt
+133,en,lv_LV,household bleach,mājsaimniecības balinātājs
+134,en,lv_LV,Hubei,Hubei
+135,en,lv_LV,hydrogen peroxide,ūdeņraža peroksīds
+136,en,lv_LV,hygiene,higiēna
+137,en,lv_LV,immune system,imūnsistēma
+138,en,lv_LV,immunity,imunitāte
+139,en,lv_LV,immunocompromised,imūnkompromitēts
+140,en,lv_LV,immunologist,imunologs
+141,en,lv_LV,incubation,inkubācija
+142,en,lv_LV,incubation period,inkubācijas periods
+143,en,lv_LV,indirect contact,netiešs kontakts
+144,en,lv_LV,infect,inficēt
+145,en,lv_LV,infection,infekcija
+146,en,lv_LV,infectious,infekciozs
+147,en,lv_LV,infectivity,infekciozitāte
+148,en,lv_LV,influenza,gripa
+149,en,lv_LV,initial transmission event,sākotnējās pārneses gadījums
+150,en,lv_LV,intensive care equipment,intensīvās terapijas aprīkojums
+151,en,lv_LV,intermediate host,starpsaimnieks
+152,en,lv_LV,intrauterine,intrauterīns
+153,en,lv_LV,intubation,intubācija
+154,en,lv_LV,isolation,izolācija
+155,en,lv_LV,Isopropanol,izopropanols
+156,en,lv_LV,laboratory test kit,laboratoriska testa komplekts
+157,en,lv_LV,laboratory testing,laboratoriska testēšana
+158,en,lv_LV,lack of testing,testēšanas nepietiekamība
+159,en,lv_LV,lack of tests,testu nepietiekamība
+160,en,lv_LV,latest updates,jaunākās ziņas
+161,en,lv_LV,liver failure,aknu mazspēja
+162,en,lv_LV,local public health authority,vietējā sabiedriskās veselības organizācija
+163,en,lv_LV,lockdown,noslēgšana
+164,en,lv_LV,lungs,plaušas
+165,en,lv_LV,masks,maskas
+166,en,lv_LV,measles,masalas
+167,en,lv_LV,mechanical ventilation,mehāniskā ventilācija
+168,en,lv_LV,media coverage,atspoguļojums plašsaziņas līdzekļos
+169,en,lv_LV,medical care,medicīniskā aprūpe
+170,en,lv_LV,MERS,MERS
+171,en,lv_LV,MERS CoV,MERS CoV
+172,en,lv_LV,microbiologist,mikrobiologs
+173,en,lv_LV,mild cough,neliels klepus
+174,en,lv_LV,mortality rate,mirstības līmenis
+175,en,lv_LV,multi-organ failure,vairāku orgānu mazspēja
+176,en,lv_LV,nasal congestion,aizlikts deguns
+177,en,lv_LV,neutral detergent,neitrāls mazgāšanas līdzeklis
+178,en,lv_LV,new normal,jaunā norma
+179,en,lv_LV,novel corona virus,jauns koronavīruss
+180,en,lv_LV,novel coronavirus,jauns koronavīruss
+181,en,lv_LV,novel coronavirus outbreak,jaunā koronavīrusa uzliesmojums
+182,en,lv_LV,novel virus,jauns vīruss
+183,en,lv_LV,online medical consultation,tiešsaistes medicīniska konsultācija
+184,en,lv_LV,onset,sākums
+185,en,lv_LV,outbreak,uzliesmojums
+186,en,lv_LV,outbreak readiness,gatavība uzliesmojumam
+187,en,lv_LV,overall case fatality,kopējie mirstības rādītāji
+188,en,lv_LV,pandemic,pandēmija
+189,en,lv_LV,pangolin,zvīņnesis
+190,en,lv_LV,pathogen,patogēns
+191,en,lv_LV,pathology,patoloģija
+192,en,lv_LV,patient care equipment,pacientu terapijas aprīkojums
+193,en,lv_LV,personal protective equipment,individuālie aizsardzības līdzekļi
+194,en,lv_LV,person-to-person transmission,pārnese no cilvēka uz cilvēku
+195,en,lv_LV,phlegm,gļotas
+196,en,lv_LV,physical contact,fizisks kontakts
+197,en,lv_LV,plague,mēris
+198,en,lv_LV,pneumonia,pneimonija
+199,en,lv_LV,pneumonias,pneimonijas
+200,en,lv_LV,positive test,pozitīvs tests
+201,en,lv_LV,precaution,piesardzības pasākums
+202,en,lv_LV,precautionary,piesardzības
+203,en,lv_LV,pre-existing condition,iepriekš pastāvošs veselības stāvoklis
+204,en,lv_LV,preparedness,gatavība
+205,en,lv_LV,prognosis,prognoze
+206,en,lv_LV,protect myself,pasargāt sevi
+207,en,lv_LV,protect others,pasargāt citus
+208,en,lv_LV,protect yourself,pasargāt sevi
+209,en,lv_LV,protective measures,aizsardzības pasākumi
+210,en,lv_LV,public health crisis,sabiedriskās veselības krīze
+211,en,lv_LV,pulmonary tissue damage,plaušu audu bojājumi
+212,en,lv_LV,quarantine,karantīna
+213,en,lv_LV,rapid risk assessment,sākotnējo draudu novērtējums
+214,en,lv_LV,reagent,reaģents
+215,en,lv_LV,regular flu,gripa
+216,en,lv_LV,reinfection,atkārtota infekcija
+217,en,lv_LV,renal disease,nieru slimība
+218,en,lv_LV,renal failure,nieru mazspēja
+219,en,lv_LV,respirator,respirators
+220,en,lv_LV,respiratory,respiratora
+221,en,lv_LV,respiratory disease,respiratora slimība
+222,en,lv_LV,respiratory distress,respirators distress
+223,en,lv_LV,respiratory droplets,respiratorie pilieni
+224,en,lv_LV,respiratory hygiene,respiratorā higiēna
+225,en,lv_LV,respiratory illness,elpošanas ceļu slimība
+226,en,lv_LV,respiratory syndrome,respiratorais sindroms
+227,en,lv_LV,respiratory tract disease,respiratorā trakta slimība
+228,en,lv_LV,restrictions,ierobežojumi
+229,en,lv_LV,resurge,atkārtota parādīšanās
+230,en,lv_LV,RNA,RNA
+231,en,lv_LV,rubeola,masalas
+232,en,lv_LV,runny nose,iesnas
+233,en,lv_LV,SARS,SARS
+234,en,lv_LV,SARS-CoV-2,SARS-CoV-2
+235,en,lv_LV,SARS-CoV,SARS-CoV
+236,en,lv_LV,sars-related coronavirus,ar SARS saistīts koronavīruss
+237,en,lv_LV,seasonal flu,sezonālā gripa
+238,en,lv_LV,seasonal influenza,sezonālā gripa
+239,en,lv_LV,secretion,sekrēts
+240,en,lv_LV,self-quarantine,paškarantīna
+241,en,lv_LV,sepsis,sepse
+242,en,lv_LV,septic shock,septisks šoks
+243,en,lv_LV,Severe Acute Respiratory Syndrome,smagais akūtais respiratorais sindroms
+244,en,lv_LV,shortness of breath,elpas trūkums
+245,en,lv_LV,sickened,saslimis
+246,en,lv_LV,sickness,slimība
+247,en,lv_LV,sneeze,šķaudīt
+248,en,lv_LV,sneezes,šķauda
+249,en,lv_LV,sneezing,šķaudīšana
+250,en,lv_LV,social distancing,sociālā distancēšanās
+251,en,lv_LV,sore throat,iekaisis kakls
+252,en,lv_LV,spanish flu,Spāņu gripa
+253,en,lv_LV,specimen collection,paraugu vākšana
+254,en,lv_LV,spread,izplatība
+255,en,lv_LV,sputum,krēpas
+256,en,lv_LV,stigmatisation,stigmatizācija
+257,en,lv_LV,supportive,atbalstošs
+258,en,lv_LV,surface,virsma
+259,en,lv_LV,surfaces,virsmas
+260,en,lv_LV,suspected infection,aizdomas par infekciju
+261,en,lv_LV,swab,vates kociņš
+262,en,lv_LV,swine flu,cūku gripa
+263,en,lv_LV,symptom,simptoms
+264,en,lv_LV,symptomatic,simptomātisks
+265,en,lv_LV,symptoms,simptomi
+266,en,lv_LV,targeted disinfection,mērķtiecīga dezinficēšana
+267,en,lv_LV,test kit,testa komplekts
+268,en,lv_LV,testing error,testēšanas kļūda
+269,en,lv_LV,tissue damage,audu bojājums
+270,en,lv_LV,tp shortage,tp nepietiekamība
+271,en,lv_LV,toilet paper shortage,tualetes papīra nepietiekamība
+272,en,lv_LV,touch,pieskāriens
+273,en,lv_LV,touching,pieskarties
+274,en,lv_LV,transmissibility,spēja pārnest
+275,en,lv_LV,transmissible,transmitīvs
+276,en,lv_LV,transmission,pārnese
+277,en,lv_LV,transmission potential,pārneses potenciāls
+278,en,lv_LV,typical flu,parasta gripa
+279,en,lv_LV,underlying disease,pamatslimība
+280,en,lv_LV,updates,atjauninājumi
+281,en,lv_LV,vaccine,vakcīna
+282,en,lv_LV,vaccines,vakcīnas
+283,en,lv_LV,ventilation,ventilācija
+284,en,lv_LV,ventilator,ventilators
+285,en,lv_LV,ventilators,ventilatori
+286,en,lv_LV,viral infection,vīrusa infekcija
+287,en,lv_LV,viral outbreak,vīrusa uzliesmojums
+288,en,lv_LV,viral pandemic,vīrusa pandēmija
+289,en,lv_LV,viral pneumonia,vīrusa pneimonija
+290,en,lv_LV,virtual care,virtuāla aprūpe
+291,en,lv_LV,virulence,virulence
+292,en,lv_LV,virus itself,pats vīruss
+293,en,lv_LV,virus outbreak,vīrusa uzliesmojums
+294,en,lv_LV,virus scare,bailes no vīrusa
+295,en,lv_LV,virus spreads,vīrusa izplatība
+296,en,lv_LV,virus strain,vīrusa celms
+297,en,lv_LV,viral transmission,vīrusa pārnese
+298,en,lv_LV,vivid-19,vivid-19
+299,en,lv_LV,washing hands,roku mazgāšana
+300,en,lv_LV,washing ones hands,paša roku mazgāšana
+301,en,lv_LV,wash your hands,mazgājiet rokas
+302,en,lv_LV,white blood cell count,balto asinsķermenīšu skaits
+303,en,lv_LV,widespread transmission,plaši izplatīta pārnese
+304,en,lv_LV,working from home,darbs no mājām
+305,en,lv_LV,WFH,WFH
+306,en,lv_LV,Wuhan,Uhaņa

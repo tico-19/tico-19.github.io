@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ne_NP,1918 flu,१९१८ फ्लू
+2,en,ne_NP,acute bronchitis,गम्भीर ब्रोङ्काइटिस
+3,en,ne_NP,acute respiratory disease,गम्भीर श्वासप्रश्वास सम्बन्धी रोग
+4,en,ne_NP,AIDS,एड्स
+5,en,ne_NP,airborne droplets,हावाबाट फैलिने थोपाहरू
+6,en,ne_NP,airway,वायुमार्ग
+7,en,ne_NP,alcohol-based,अल्कोहलमा आधारित
+8,en,ne_NP,alcohol-based hand rub,अल्कोहलमा आधारित ह्याण्ड रब
+9,en,ne_NP,alcohol-based hand sanitizer,अल्कोहलमा आधारित ह्याण्ड स्यानिटाइजर
+10,en,ne_NP,alveolar disease,अल्भोलर रोग
+11,en,ne_NP,an epidemic,महामारी
+12,en,ne_NP,annual flu,वार्षिक फ्लू
+13,en,ne_NP,anti-inflammatory drug,जलनविरूद्धको औषधी
+14,en,ne_NP,antiviral drug,एन्टिभाइरल औषधी
+15,en,ne_NP,antiviral treatment,एन्टिभाइरल उपचार
+16,en,ne_NP,assay,जाँच
+17,en,ne_NP,asymptomatic,लक्षण नदेखिने
+18,en,ne_NP,avian flu,एभिएन फ्लु
+19,en,ne_NP,Black Plague,कालो प्लेग
+20,en,ne_NP,blood pressure,रक्तचाप
+21,en,ne_NP,body fluid,शरीरको तरल
+22,en,ne_NP,breathing,सास लिने
+23,en,ne_NP,bubonic plague,बुबोनिक प्लेग
+24,en,ne_NP,c19,सी१९
+25,en,ne_NP,cv19,सीभी१९
+26,en,ne_NP,case fatality rate,केस मृत्युदर
+27,en,ne_NP,causative agent,कारण एजेन्ट
+28,en,ne_NP,CDC,सीडीसी
+29,en,ne_NP,chemical disinfection,केमिकल डिस्इन्फेक्सन
+30,en,ne_NP,chest x-ray,छातीको एक्स-रे
+31,en,ne_NP,clinical diagnosis,क्लिनिकल निदान
+32,en,ne_NP,clinical trial,क्लिनिकल परीक्षण
+33,en,ne_NP,close contact,नजिकको सम्पर्क
+34,en,ne_NP,cvirus,सीभाइरस
+35,en,ne_NP,chronic respiratory disease,क्रोनिक श्वासप्रश्वास सम्बन्धी रोग
+36,en,ne_NP,common cold,रूघा
+37,en,ne_NP,common flu,सामान्य फ्लू
+38,en,ne_NP,communicable disease,सरूवा रोग
+39,en,ne_NP,community spread,समुदायमा फैलिने
+40,en,ne_NP,community transmission,समुदायमा सर्ने
+41,en,ne_NP,compromised immune system,कमजोर प्रतिरक्षा प्रणाली
+42,en,ne_NP,contagion,रोग सञ्चार
+43,en,ne_NP,contagious,संक्रामक
+44,en,ne_NP,contagiousness,संक्रामक हुने
+45,en,ne_NP,corona,कोरोना
+46,en,ne_NP,corona virus,कोरोना भाइरस
+47,en,ne_NP,corona virus epidemic,कोरोना भाइरस महामारी
+48,en,ne_NP,corona virus outbreak,कोरोना भाइरस प्रकोप
+49,en,ne_NP,corona virus scare,कोरोना भाइरस डर
+50,en,ne_NP,coronavirus,कोरोनाभाइरस
+51,en,ne_NP,coronavirus cases,कोरोनाभाइरस केसहरू
+52,en,ne_NP,coronavirus outbreak,कोरोनाभाइरस प्रकोप
+53,en,ne_NP,coronavirus pandemic,कोरोनाभाइरस विश्वव्यापी महामारी
+54,en,ne_NP,coronavirus scare,कोरोनाभाइरस डर
+55,en,ne_NP,cough,खोकी
+56,en,ne_NP,cough etiquette,खोकीको शिष्टाचार
+57,en,ne_NP,coughing,खोक्ने
+58,en,ne_NP,cov 19,कोभ १९
+59,en,ne_NP,cov19,कोभ१९
+60,en,ne_NP,COVID,कोभिड
+61,en,ne_NP,COVID-19 crisis,कोभिड-१९ संकट
+62,en,ne_NP,covid-19,कोभिड-१९
+63,en,ne_NP,covid19,कोभिड१९
+64,en,ne_NP,COVID-19 epidemic,कोभिड-१९ महामारी
+65,en,ne_NP,COVID-19 outbreak,कोभिड-१९ प्रकोप
+66,en,ne_NP,COVID-19 pandemic,कोभिड-१९ विश्वव्यापी महामारी
+67,en,ne_NP,COVID 19,कोभिड १९
+68,en,ne_NP,current crisis,अहिलेको संकट
+69,en,ne_NP,current health crisis,अहिलेको स्वास्थ्य संकट
+70,en,ne_NP,current outbreak,अहिलेको प्रकोप
+71,en,ne_NP,current pandemic,अहिलेको विश्वव्यापी महामारी
+72,en,ne_NP,CV,सीभी
+73,en,ne_NP,CV-19,सीभी-१९
+74,en,ne_NP,deadly,घातक
+75,en,ne_NP,deadly virus,घातक भाइरस
+76,en,ne_NP,death rate,मृत्यु दर
+77,en,ne_NP,death toll,मृत्यु संख्या
+78,en,ne_NP,decontaminate,किटाणुरहित बनाउने
+79,en,ne_NP,detectable,पत्ता लगाउन सकिने
+80,en,ne_NP,detergent,डिटर्जेन्ट
+81,en,ne_NP,difficulty breathing,सास फेर्न गाह्रो
+82,en,ne_NP,diabetes,मधुमेह
+83,en,ne_NP,diagnosable disease,निदान हुने रोग
+84,en,ne_NP,diagnostic protocol,निदानको प्रोटोकल
+85,en,ne_NP,diagnostic testing,निदानको परीक्षण
+86,en,ne_NP,disease itself,रोग स्वयं
+87,en,ne_NP,disease outbreak,रोग प्रकोप
+88,en,ne_NP,disinfectant,कीटाणुरहित बनाउने
+89,en,ne_NP,disposable,फाल्न मिल्ने
+90,en,ne_NP,droplet transmission,थोपाबाट सर्ने
+91,en,ne_NP,droplets,थोपाहरू
+92,en,ne_NP,dry cough,सुख्खा खोकी
+93,en,ne_NP,dry surface contamination,सुख्खा सतह दूषित
+94,en,ne_NP,ebola,इबोला
+95,en,ne_NP,effective treatment,प्रभावकारी उपचार
+96,en,ne_NP,electron microscope,इलेक्ट्रोन माइक्रोस्कोप
+97,en,ne_NP,emergency department,आपतकालीन विभाग
+98,en,ne_NP,epidemic,महामारी
+99,en,ne_NP,epidemic curve,महामारीको बक्र
+100,en,ne_NP,epidemic peak,महामारी शिखर
+101,en,ne_NP,epidemiologist,महामारीविद्
+102,en,ne_NP,exposure,एक्सपोजर
+103,en,ne_NP,extreme caution,अत्याधिक सावधानी
+104,en,ne_NP,eye protection,आँखाको बचावट
+105,en,ne_NP,face mask,अनुहारको मास्क
+106,en,ne_NP,face masks,अनुहारको मास्कहरू
+107,en,ne_NP,family cluster,परिवार समूह
+108,en,ne_NP,fatality rate,मृत्यु दर
+109,en,ne_NP,fecal contamination,दिसा दूषित
+110,en,ne_NP,fever,ज्वरो
+111,en,ne_NP,flatten the infection curve,संक्रमणको बक्र समतल गर्ने
+112,en,ne_NP,flu,फ्लू
+113,en,ne_NP,food safety,खाद्य सुरक्षा
+114,en,ne_NP,formaldehyde,फर्मलडिहाइ
+115,en,ne_NP,gastroenteritis,ग्यास्ट्रोइन्टेराइटिस
+116,en,ne_NP,germicide,जर्मिसाइड
+117,en,ne_NP,global pandemic,विश्वव्यापी महामारी
+118,en,ne_NP,global warming,विश्वव्यापी उष्णता
+119,en,ne_NP,good respiratory hygiene,राम्रो श्वासप्रश्वास सरसफाइ
+120,en,ne_NP,Guangdong,गुवानडङ
+121,en,ne_NP,H1N1,एचवानएनवान
+122,en,ne_NP,H1N1 virus,एनवानएनवान भाइरस
+123,en,ne_NP,hand disinfectant,हातलाई कीटाणुरहित बनाउने
+124,en,ne_NP,hand sanitizer,ह्याण्ड स्यानिटाइजर
+125,en,ne_NP,health care provider,स्वास्थ्य सेवा प्रदायक
+126,en,ne_NP,health crisis,स्वास्थ्य संकट
+127,en,ne_NP,health plan carrier,स्वास्थ्य योजना बाहक
+128,en,ne_NP,health services,स्वास्थ्य सेवाहरू
+129,en,ne_NP,heart failure,मुटुको असफलता
+130,en,ne_NP,high fever,उच्च ज्वरो
+131,en,ne_NP,HIV,एचआइभी
+132,en,ne_NP,hospitalize,अस्पताल भर्ना
+133,en,ne_NP,household bleach,घरेलु ब्लीच
+134,en,ne_NP,Hubei,हुवेइ
+135,en,ne_NP,hydrogen peroxide,हाइड्रोजन पेरोक्साइड
+136,en,ne_NP,hygiene,सरसफाइ
+137,en,ne_NP,immune system,प्रतिरक्षा प्रणाली
+138,en,ne_NP,immunity,प्रतिरक्षा क्षमता
+139,en,ne_NP,immunocompromised,कमजोर प्रतिरक्षा
+140,en,ne_NP,immunologist,प्रतिरक्षाविद्
+141,en,ne_NP,incubation,इन्क्युबेसन
+142,en,ne_NP,incubation period,इन्क्युबेसन अवधी
+143,en,ne_NP,indirect contact,अप्रत्यक्ष सम्पर्क
+144,en,ne_NP,infect,संक्रमित गर्नु
+145,en,ne_NP,infection,संक्रमण
+146,en,ne_NP,infectious,संक्रामक
+147,en,ne_NP,infectivity,संक्रामकता
+148,en,ne_NP,influenza,इन्फ्लुएन्जा
+149,en,ne_NP,initial transmission event,प्रारम्भिक सर्ने घटना
+150,en,ne_NP,intensive care equipment,सघन हेरचाह उपकरण
+151,en,ne_NP,intermediate host,मध्यम होस्ट
+152,en,ne_NP,intrauterine,अन्तर्गर्भाशायी
+153,en,ne_NP,intubation,इन्ट्युबेसन
+154,en,ne_NP,isolation,एकान्तबास
+155,en,ne_NP,Isopropanol,इसोप्रोपानोल
+156,en,ne_NP,laboratory test kit,प्रयोगशाला परीक्षण किट
+157,en,ne_NP,laboratory testing,प्रयोगशाला परीक्षण
+158,en,ne_NP,lack of testing,परीक्षणको कमी
+159,en,ne_NP,lack of tests,परीक्षणहरूको कमी
+160,en,ne_NP,latest updates,पछिल्लो अपडेटहरू
+161,en,ne_NP,liver failure,कलेजोको असफलता
+162,en,ne_NP,local public health authority,स्थानीय जनस्वास्थ्य प्राधिकरण
+163,en,ne_NP,lockdown,लकडाउन
+164,en,ne_NP,lungs,फोक्सो
+165,en,ne_NP,masks,मास्कहरू
+166,en,ne_NP,measles,दादुरा
+167,en,ne_NP,mechanical ventilation,मेकानिकल भेन्टिलेसन
+168,en,ne_NP,media coverage,मिडिया कभरेज
+169,en,ne_NP,medical care,मेडिकल हेरचाह
+170,en,ne_NP,MERS,मर्स
+171,en,ne_NP,MERS CoV,मर्क सीओभी
+172,en,ne_NP,microbiologist,माइक्रोबायोलोजिस्ट
+173,en,ne_NP,mild cough,हल्का खोकी
+174,en,ne_NP,mortality rate,मृत्यु दर
+175,en,ne_NP,multi-organ failure,बहुअंग असफलता
+176,en,ne_NP,nasal congestion,नाकमा कठिनाइ
+177,en,ne_NP,neutral detergent,न्युट्रल डिटर्जेन्ट
+178,en,ne_NP,new normal,नयाँ सामान्य
+179,en,ne_NP,novel corona virus,नोभल कोरोना भाइरस
+180,en,ne_NP,novel coronavirus,नोभल कोरोनाभाइरस
+181,en,ne_NP,novel coronavirus outbreak,नोभल कोरोनाभाइरस प्रकोप
+182,en,ne_NP,novel virus,नोभल भाइरस
+183,en,ne_NP,online medical consultation,अनलाईन मेडिकल परामर्श
+184,en,ne_NP,onset,शुरू
+185,en,ne_NP,outbreak,प्रकोप
+186,en,ne_NP,outbreak readiness,प्रकोपको तयारी
+187,en,ne_NP,overall case fatality,समग्र केस मृत्यु
+188,en,ne_NP,pandemic,विश्वव्यापी महामारी
+189,en,ne_NP,pangolin,पान्गोलिन
+190,en,ne_NP,pathogen,प्याथोजिन
+191,en,ne_NP,pathology,प्याथोलोजी
+192,en,ne_NP,patient care equipment,विरामीको हेरचाह उपकरण
+193,en,ne_NP,personal protective equipment,व्यक्तिगत बचावटको उपकरण
+194,en,ne_NP,person-to-person transmission,व्यक्तिदेखि व्यक्तिमा सर्ने
+195,en,ne_NP,phlegm,फ्लेग्म
+196,en,ne_NP,physical contact,शारीरिक सम्पर्क
+197,en,ne_NP,plague,प्लेग
+198,en,ne_NP,pneumonia,निमोनिया
+199,en,ne_NP,pneumonias,निमोनियाहरू
+200,en,ne_NP,positive test,सकारात्मक जाँच
+201,en,ne_NP,precaution,पूर्व सावधानी
+202,en,ne_NP,precautionary,निवारक
+203,en,ne_NP,pre-existing condition,पूर्व-विद्यमान अवस्था
+204,en,ne_NP,preparedness,पूर्वतयारी
+205,en,ne_NP,prognosis,रोगको निदान
+206,en,ne_NP,protect myself,मलाई जोगाउनुहोस्
+207,en,ne_NP,protect others,अरूलाई जोगाउनुहोस्
+208,en,ne_NP,protect yourself,तपाईं स्वयंलाई जोगाउनुहोस्
+209,en,ne_NP,protective measures,बचावटका उपायहरू
+210,en,ne_NP,public health crisis,जनस्वास्थ्य संकट
+211,en,ne_NP,pulmonary tissue damage,पल्मोनरी तन्तुमा क्षति
+212,en,ne_NP,quarantine,क्वारेन्टिन
+213,en,ne_NP,rapid risk assessment,द्रुत जोखिम मुल्यांकन
+214,en,ne_NP,reagent,रिएजेन्ट
+215,en,ne_NP,regular flu,नियमित फ्लू
+216,en,ne_NP,reinfection,पुनः संक्रमण
+217,en,ne_NP,renal disease,रेनल रोग
+218,en,ne_NP,renal failure,रेनल असफलता
+219,en,ne_NP,respirator,रेस्पिरेटर
+220,en,ne_NP,respiratory,श्वासप्रश्वास
+221,en,ne_NP,respiratory disease,श्वासप्रश्वास रोग
+222,en,ne_NP,respiratory distress,श्वासप्रश्वास संकट
+223,en,ne_NP,respiratory droplets,श्वासप्रश्वास थोपाहरू
+224,en,ne_NP,respiratory hygiene,श्वासप्रश्वास सरसफाइ
+225,en,ne_NP,respiratory illness,श्वासप्रश्वास रोग
+226,en,ne_NP,respiratory syndrome,श्वासप्रश्वास लक्षण
+227,en,ne_NP,respiratory tract disease,श्वासप्रश्वास प्रणाली रोग
+228,en,ne_NP,restrictions,प्रतिवन्धहरू
+229,en,ne_NP,resurge,रिसर्ज
+230,en,ne_NP,RNA,आरएनए
+231,en,ne_NP,rubeola,रूबेला
+232,en,ne_NP,runny nose,बगिरहने नाक
+233,en,ne_NP,SARS,सार्स
+234,en,ne_NP,SARS-CoV-2,सार्स-सीओभी-२
+235,en,ne_NP,SARS-CoV,सार्स-सीओभी
+236,en,ne_NP,sars-related coronavirus,सार्ससम्वन्धी कोरोनाभाइरस
+237,en,ne_NP,seasonal flu,मौसमी फ्लू
+238,en,ne_NP,seasonal influenza,मौसमी इन्फ्लुएन्जा
+239,en,ne_NP,secretion,स्राव
+240,en,ne_NP,self-quarantine,सेल्फ क्वारेन्टिन
+241,en,ne_NP,sepsis,सेप्सिस
+242,en,ne_NP,septic shock,सेप्टिक शक
+243,en,ne_NP,Severe Acute Respiratory Syndrome,असाध्यै गम्भीर श्वासप्रश्वास लक्षण
+244,en,ne_NP,shortness of breath,सास फेर्न कठीन
+245,en,ne_NP,sickened,विरामी भएको
+246,en,ne_NP,sickness,विरामीपना
+247,en,ne_NP,sneeze,हाँच्छ्यु
+248,en,ne_NP,sneezes,हाँच्छ्यु गर्छ
+249,en,ne_NP,sneezing,हाँँच्छ्यु गर्नु
+250,en,ne_NP,social distancing,सामाजिक दूरी
+251,en,ne_NP,sore throat,घाँटी दुख्ने
+252,en,ne_NP,spanish flu,स्पेनिस फ्लू
+253,en,ne_NP,specimen collection,नमूना संकलन
+254,en,ne_NP,spread,फैलिनु
+255,en,ne_NP,sputum,स्पुटम
+256,en,ne_NP,stigmatisation,लान्छना लगाउने
+257,en,ne_NP,supportive,सहयोगी
+258,en,ne_NP,surface,सतह
+259,en,ne_NP,surfaces,सतहहरू
+260,en,ne_NP,suspected infection,शंकास्पद संक्रमण
+261,en,ne_NP,swab,स्वाब
+262,en,ne_NP,swine flu,स्वाइन फ्लू
+263,en,ne_NP,symptom,लक्षण
+264,en,ne_NP,symptomatic,लक्षण देखाएको
+265,en,ne_NP,symptoms,लक्षणहरू
+266,en,ne_NP,targeted disinfection,लक्षित संक्रमणरहित बनाउने
+267,en,ne_NP,test kit,परीक्षण किट
+268,en,ne_NP,testing error,परीक्षणमा त्रुटी
+269,en,ne_NP,tissue damage,तन्तुमा नोक्सानी
+270,en,ne_NP,tp shortage,टीपी अभाव
+271,en,ne_NP,toilet paper shortage,ट्वाइलेट पेपरको अभाव
+272,en,ne_NP,touch,छुनु
+273,en,ne_NP,touching,छुने
+274,en,ne_NP,transmissibility,सर्न सक्ने
+275,en,ne_NP,transmissible,सर्न योग्य
+276,en,ne_NP,transmission,सर्ने
+277,en,ne_NP,transmission potential,सर्ने सम्भावना
+278,en,ne_NP,typical flu,सामान्य फ्लू
+279,en,ne_NP,underlying disease,भित्री रोग
+280,en,ne_NP,updates,अपडेटहरू
+281,en,ne_NP,vaccine,खोप
+282,en,ne_NP,vaccines,खोपहरू
+283,en,ne_NP,ventilation,भेन्टिलेसन
+284,en,ne_NP,ventilator,भेन्टिलेटर
+285,en,ne_NP,ventilators,भेन्टिलेटरहरू
+286,en,ne_NP,viral infection,भाइरल संक्रमण
+287,en,ne_NP,viral outbreak,भाइरल प्रकोप
+288,en,ne_NP,viral pandemic,भाइरल विश्वव्यापी महामारी
+289,en,ne_NP,viral pneumonia,भाइरल निमोनिया
+290,en,ne_NP,virtual care,भर्चुअल हेरचाह
+291,en,ne_NP,virulence,दोष
+292,en,ne_NP,virus itself,भाइरस स्वयं
+293,en,ne_NP,virus outbreak,भाइरसको प्रकोप
+294,en,ne_NP,virus scare,भाइरसको डर
+295,en,ne_NP,virus spreads,भाइरस फैलिन्छ
+296,en,ne_NP,virus strain,भाइरस तनाव
+297,en,ne_NP,viral transmission,भाइरल सर्ने
+298,en,ne_NP,vivid-19,भिभिड-१९
+299,en,ne_NP,washing hands,हात धुने
+300,en,ne_NP,washing ones hands,कसैको हात धुने
+301,en,ne_NP,wash your hands,तपाईंको हातहरू धुनुहोस्
+302,en,ne_NP,white blood cell count,सेतो रक्तकोषको गणना
+303,en,ne_NP,widespread transmission,चारैतिर सर्ने
+304,en,ne_NP,working from home,घरबाट काम गर्ने
+305,en,ne_NP,WFH,डब्लुएफएच
+306,en,ne_NP,Wuhan,वुहान

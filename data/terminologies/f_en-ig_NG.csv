@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ig_NG,1918 flu,Flu nke 1918
+2,en,ig_NG,acute bronchitis,nnukwu bronchitis
+3,en,ig_NG,acute respiratory disease,nnukwu ọrịa okuku ume
+4,en,ig_NG,AIDS,AIDS
+5,en,ig_NG,airborne droplets,ihe ntụsa na efe n'ikuku
+6,en,ig_NG,airway,ụzọ ikuku
+7,en,ig_NG,alcohol-based,nke eji mmanya eme
+8,en,ig_NG,alcohol-based hand rub,nke eji mmanya eme a na ete n'aka
+9,en,ig_NG,alcohol-based hand sanitizer,ihe nsacha aka nke eji mmanya eme
+10,en,ig_NG,alveolar disease,ọrịa alveolar
+11,en,ig_NG,an epidemic,ntiwapụ ọrịa
+12,en,ig_NG,annual flu,flu kwa afọ
+13,en,ig_NG,anti-inflammatory drug,ọgwụ na egbochi mkpali
+14,en,ig_NG,antiviral drug,ọgwụ mgbochi nje
+15,en,ig_NG,antiviral treatment,ọgwụgwọ mgbochi nje
+16,en,ig_NG,assay,nyocha
+17,en,ig_NG,asymptomatic,anaghị egosi ahụ mgbanwe
+18,en,ig_NG,avian flu,avian flu
+19,en,ig_NG,Black Plague,Ọrịa Mkpochapụ Ojii
+20,en,ig_NG,blood pressure,ike ọbara
+21,en,ig_NG,body fluid,mmiri anụahụ
+22,en,ig_NG,breathing,iku ume
+23,en,ig_NG,bubonic plague,ọrịa mkpochapụ bubonic
+24,en,ig_NG,c19,c19
+25,en,ig_NG,cv19,cv19
+26,en,ig_NG,case fatality rate,ọnụọgụgụ ọnwụ
+27,en,ig_NG,causative agent,ihe na ebute ihe
+28,en,ig_NG,CDC,CDC
+29,en,ig_NG,chemical disinfection,nhicha eji kemịkalụ
+30,en,ig_NG,chest x-ray,x-ray obi
+31,en,ig_NG,clinical diagnosis,nchọpụta ụlọ ọgwụ
+32,en,ig_NG,clinical trial,nnwale ụlọ ọgwụ
+33,en,ig_NG,close contact,onye mkpọtụrụ nọ nso
+34,en,ig_NG,cvirus,cvirus
+35,en,ig_NG,chronic respiratory disease,ọrịa okuku ume na adịghị ala ala
+36,en,ig_NG,common cold,oyi nkịtị
+37,en,ig_NG,common flu,flu nkịtị
+38,en,ig_NG,communicable disease,ọrịa na efe efe
+39,en,ig_NG,community spread,nkesa ogbe
+40,en,ig_NG,community transmission,nnyefe ogbe
+41,en,ig_NG,compromised immune system,sistemụ mgbochi ahụ mebiri emebi
+42,en,ig_NG,contagion,mbusasị ọrịa
+43,en,ig_NG,contagious,na efesasị efesa
+44,en,ig_NG,contagiousness,nfesasị efesa
+45,en,ig_NG,corona,corona
+46,en,ig_NG,corona virus,nje corona
+47,en,ig_NG,corona virus epidemic,ntiwapụ nje corona
+48,en,ig_NG,corona virus outbreak,ndapụta nje corona
+49,en,ig_NG,corona virus scare,ihe egwu nje corona
+50,en,ig_NG,coronavirus,coronavirus
+51,en,ig_NG,coronavirus cases,okwu coronavirus
+52,en,ig_NG,coronavirus outbreak,ndapụta coronavirus
+53,en,ig_NG,coronavirus pandemic,ntiwapụ coronavirus
+54,en,ig_NG,coronavirus scare,ihe egwu coronavirus
+55,en,ig_NG,cough,ụkwara
+56,en,ig_NG,cough etiquette,iwu ụkwara
+57,en,ig_NG,coughing,ịkwa ụkwara
+58,en,ig_NG,cov 19,cov 19
+59,en,ig_NG,cov19,cov19
+60,en,ig_NG,COVID,COVID
+61,en,ig_NG,COVID-19 crisis,nsogbu COVID-19
+62,en,ig_NG,covid-19,covid-19
+63,en,ig_NG,covid19,covid19
+64,en,ig_NG,COVID-19 epidemic,ntiwapụ COVID-19
+65,en,ig_NG,COVID-19 outbreak,ndapụta COVID-19
+66,en,ig_NG,COVID-19 pandemic,ọgbaghara COVID-19
+67,en,ig_NG,COVID 19,COVID 19
+68,en,ig_NG,current crisis,nsogbu dị ugbu a
+69,en,ig_NG,current health crisis,nsogbu ahụike dị ugbu a
+70,en,ig_NG,current outbreak,ndapụta dị ugbu a
+71,en,ig_NG,current pandemic,ọgbaghara dị ugbu a
+72,en,ig_NG,CV,CV
+73,en,ig_NG,CV-19,CV-19
+74,en,ig_NG,deadly,na egbu egbu
+75,en,ig_NG,deadly virus,nje na egbu egbu
+76,en,ig_NG,death rate,ọnụọgụgụ ọnwụ
+77,en,ig_NG,death toll,ọnụọgụgụ ndị nwụrụ anwụ
+78,en,ig_NG,decontaminate,hichapụ nje
+79,en,ig_NG,detectable,a na achọpụtanwu
+80,en,ig_NG,detergent,ncha
+81,en,ig_NG,difficulty breathing,nhịahụ n'iku ume
+82,en,ig_NG,diabetes,ọrịa mamịrị
+83,en,ig_NG,diagnosable disease,ọrịa enwere ike ịchọpụtanwu
+84,en,ig_NG,diagnostic protocol,usoro nchọpụta
+85,en,ig_NG,diagnostic testing,nnwale nchọpụta
+86,en,ig_NG,disease itself,ọrịa n'onwe ya
+87,en,ig_NG,disease outbreak,ndapụta ọrịa
+88,en,ig_NG,disinfectant,ihe mgbochi nje
+89,en,ig_NG,disposable,ihe ntufu
+90,en,ig_NG,droplet transmission,nnyefe ihe ntụsa
+91,en,ig_NG,droplets,ihe ntụsa
+92,en,ig_NG,dry cough,ụkwara kpọrọ nkụ
+93,en,ig_NG,dry surface contamination,ofufe elu kpọrọ nkụ
+94,en,ig_NG,ebola,ebola
+95,en,ig_NG,effective treatment,ọgwụgwọ na arụ ọrụ
+96,en,ig_NG,electron microscope,mikroscopu elektrọn
+97,en,ig_NG,emergency department,ngalaba ihe mberede
+98,en,ig_NG,epidemic,ntiwapụ ọrịa
+99,en,ig_NG,epidemic curve,usoro ntiwapụ ọrịa
+100,en,ig_NG,epidemic peak,isi ntiwapụ ọrịa
+101,en,ig_NG,epidemiologist,ọkachamara na ntiwapụ ọrịa
+102,en,ig_NG,exposure,mkpughe
+103,en,ig_NG,extreme caution,nnukwu mkpachapụ anya
+104,en,ig_NG,eye protection,mkpuchi anya
+105,en,ig_NG,face mask,ihe mkpuchi ihu
+106,en,ig_NG,face masks,ihe ndị mkpuchi ihu
+107,en,ig_NG,family cluster,ụyọkọ ezinụlọ
+108,en,ig_NG,fatality rate,ọnụọgụgụ ọnwụ
+109,en,ig_NG,fecal contamination,ofufe sitere na nsi
+110,en,ig_NG,fever,ahụ ọkụ
+111,en,ig_NG,flatten the infection curve,tidaa usoro ọfụfe ahụ
+112,en,ig_NG,flu,flu
+113,en,ig_NG,food safety,mkpuchido nri
+114,en,ig_NG,formaldehyde,formaldehyde
+115,en,ig_NG,gastroenteritis,gastroenteritis
+116,en,ig_NG,germicide,germicide
+117,en,ig_NG,global pandemic,ọgbaghara ozuru ụwa
+118,en,ig_NG,global warming,okpomọkụ ozuru ụwa
+119,en,ig_NG,good respiratory hygiene,ezigbo ịdị ọcha okuku ume
+120,en,ig_NG,Guangdong,Guangdong
+121,en,ig_NG,H1N1,H1N1
+122,en,ig_NG,H1N1 virus,nje H1N1
+123,en,ig_NG,hand disinfectant,ihe mgbochi nje nke aka
+124,en,ig_NG,hand sanitizer,ihe nsacha aka nke aka
+125,en,ig_NG,health care provider,onye na enye nlekọta ahụike
+126,en,ig_NG,health crisis,nsogbu ahụike
+127,en,ig_NG,health plan carrier,ihe ndọkpụ atụmatụ ahụike
+128,en,ig_NG,health services,ọrụ ahụike
+129,en,ig_NG,heart failure,mbibi mkpụrụobibi
+130,en,ig_NG,high fever,nnukwu ahụ ọkụ
+131,en,ig_NG,HIV,HIV
+132,en,ig_NG,hospitalize,tinye n'ụlọ ọgwụ
+133,en,ig_NG,household bleach,ihe nsacha ezinụlọ
+134,en,ig_NG,Hubei,Hubei
+135,en,ig_NG,hydrogen peroxide,hydrogen peroxide
+136,en,ig_NG,hygiene,ịdị ọcha
+137,en,ig_NG,immune system,sistemụ mgbochi ahụ
+138,en,ig_NG,immunity,nchekwa
+139,en,ig_NG,immunocompromised,sistemụ mgbochi ahụ na adịghị mma
+140,en,ig_NG,immunologist,onye na ahụta maka mgbochi ahụ
+141,en,ig_NG,incubation,ọbụbụ
+142,en,ig_NG,incubation period,oge ọbụbụ
+143,en,ig_NG,indirect contact,mmetụta sitere n'aka ọzọ
+144,en,ig_NG,infect,fesa
+145,en,ig_NG,infection,ọrịa
+146,en,ig_NG,infectious,na efe efe
+147,en,ig_NG,infectivity,ọfụfe
+148,en,ig_NG,influenza,influenza
+149,en,ig_NG,initial transmission event,mmemme nnyefe izizi
+150,en,ig_NG,intensive care equipment,akụrụngwa nlekọta dị oke mkpa
+151,en,ig_NG,intermediate host,onye mbugharị nọ n'etiti
+152,en,ig_NG,intrauterine,intrauterine
+153,en,ig_NG,intubation,intubation
+154,en,ig_NG,isolation,nnọpụ iche
+155,en,ig_NG,Isopropanol,Isopropanol
+156,en,ig_NG,laboratory test kit,ngwungwu nnwale ụlọ nyocha
+157,en,ig_NG,laboratory testing,nnwale ụlọ nyocha
+158,en,ig_NG,lack of testing,enweghị nnwale
+159,en,ig_NG,lack of tests,enweghị nnwale
+160,en,ig_NG,latest updates,mmelite kachasị ọhụrụ
+161,en,ig_NG,liver failure,mbibi imeju
+162,en,ig_NG,local public health authority,ikike ahụike ọhaneze
+163,en,ig_NG,lockdown,mkpọchi
+164,en,ig_NG,lungs,akpa ume
+165,en,ig_NG,masks,ihe mkpuchi ihu
+166,en,ig_NG,measles,akpata
+167,en,ig_NG,mechanical ventilation,iku ume eji igwe akwado
+168,en,ig_NG,media coverage,mkpuchi ndị mgbasa ozi
+169,en,ig_NG,medical care,nlekọta ahụike
+170,en,ig_NG,MERS,MERS
+171,en,ig_NG,MERS CoV,MERS CoV
+172,en,ig_NG,microbiologist,ọkachamara na nje
+173,en,ig_NG,mild cough,obere ụkwara
+174,en,ig_NG,mortality rate,ọnụọgụgụ ọnwụ
+175,en,ig_NG,multi-organ failure,mbibi ọtụtụ-ngwa ahụ
+176,en,ig_NG,nasal congestion,mkpuchi imi
+177,en,ig_NG,neutral detergent,ncha nọpụrụ iche
+178,en,ig_NG,new normal,ihe nkịtị ọhụrụ
+179,en,ig_NG,novel corona virus,nje corona dị ọhụrụ
+180,en,ig_NG,novel coronavirus,coronavirus dị ọhụrụ
+181,en,ig_NG,novel coronavirus outbreak,ndapụta coronavirus dị ọhụrụ
+182,en,ig_NG,novel virus,nje dị ọhụrụ
+183,en,ig_NG,online medical consultation,ịchọ ndụmọdụ ahụike n'ịntanetị
+184,en,ig_NG,onset,ozugbo
+185,en,ig_NG,outbreak,ndapụta
+186,en,ig_NG,outbreak readiness,nkwadobe ndapụta
+187,en,ig_NG,overall case fatality,nchịkọta ọnụọgụgụ ọnwụ
+188,en,ig_NG,pandemic,ọgbaghara
+189,en,ig_NG,pangolin,pangolin
+190,en,ig_NG,pathogen,patojin
+191,en,ig_NG,pathology,ọmụmụ ọgwụgwọ
+192,en,ig_NG,patient care equipment,akụrụngwa nlekọta onye ọrịa
+193,en,ig_NG,personal protective equipment,akụrụngwa nchedo nkeonwe
+194,en,ig_NG,person-to-person transmission,nnyefe site na mmadụ-gaa-na-mmadụ
+195,en,ig_NG,phlegm,nkwapụta ụkwara
+196,en,ig_NG,physical contact,onye a ga-akpọtụrụ
+197,en,ig_NG,plague,ọrịa mkpochapụ
+198,en,ig_NG,pneumonia,ọrịa oyi
+199,en,ig_NG,pneumonias,ọrịa oyi
+200,en,ig_NG,positive test,nnwale positivu
+201,en,ig_NG,precaution,mkpachapụ anya
+202,en,ig_NG,precautionary,ihe mkpachapụ anya
+203,en,ig_NG,pre-existing condition,ọnọdụ dịbụ adị
+204,en,ig_NG,preparedness,nkwadobe
+205,en,ig_NG,prognosis,nleba anya
+206,en,ig_NG,protect myself,kpuchido onwe m
+207,en,ig_NG,protect others,kpuchido ndị ọzọ
+208,en,ig_NG,protect yourself,kpuchido onwe gị
+209,en,ig_NG,protective measures,ụkpụrụ mkpuchido
+210,en,ig_NG,public health crisis,nsogbu ahụike ọhaneze
+211,en,ig_NG,pulmonary tissue damage,mmebi akpa ume ahụ
+212,en,ig_NG,quarantine,mwezuga iche
+213,en,ig_NG,rapid risk assessment,nyocha ngwangwa maka ihe egwu
+214,en,ig_NG,reagent,reagent
+215,en,ig_NG,regular flu,flu nkịtị
+216,en,ig_NG,reinfection,mfegharị
+217,en,ig_NG,renal disease,ọrịa renal
+218,en,ig_NG,renal failure,mbibi renal
+219,en,ig_NG,respirator,ihe iku ume
+220,en,ig_NG,respiratory,okuku ume
+221,en,ig_NG,respiratory disease,ọrịa okuku ume
+222,en,ig_NG,respiratory distress,nsogbu okuku ume
+223,en,ig_NG,respiratory droplets,ihe ntụsa okuku ume
+224,en,ig_NG,respiratory hygiene,ịdị ọcha okuku ume
+225,en,ig_NG,respiratory illness,ọrịa okuku ume
+226,en,ig_NG,respiratory syndrome,ihe ngosipụta mgbanwe okuku ume
+227,en,ig_NG,respiratory tract disease,ọrịa trakt okuku ume
+228,en,ig_NG,restrictions,mmachi
+229,en,ig_NG,resurge,mkpalitegharị
+230,en,ig_NG,RNA,RNA
+231,en,ig_NG,rubeola,rubeola
+232,en,ig_NG,runny nose,imi na agba mmiri
+233,en,ig_NG,SARS,SARS
+234,en,ig_NG,SARS-CoV-2,SARS-CoV-2
+235,en,ig_NG,SARS-CoV,SARS-CoV
+236,en,ig_NG,sars-related coronavirus,sars-metụtara coronavirus
+237,en,ig_NG,seasonal flu,flu kwa mgbanwe oge
+238,en,ig_NG,seasonal influenza,influenze kwa mgbanwe oge
+239,en,ig_NG,secretion,mmịpụta
+240,en,ig_NG,self-quarantine,mwezuga iche onwe
+241,en,ig_NG,sepsis,sepsis
+242,en,ig_NG,septic shock,mmaja septik
+243,en,ig_NG,Severe Acute Respiratory Syndrome,Nnukwu Ihe Ngosipụta Mgbanwe Okuku Ume
+244,en,ig_NG,shortness of breath,mbeleta ume
+245,en,ig_NG,sickened,ịya ahụ
+246,en,ig_NG,sickness,ọrịa
+247,en,ig_NG,sneeze,ize uzere
+248,en,ig_NG,sneezes,zere uzere
+249,en,ig_NG,sneezing,ize uzere
+250,en,ig_NG,social distancing,ịnọpụ n'ebe ọhaneze nọ
+251,en,ig_NG,sore throat,akpịrị mgbu
+252,en,ig_NG,spanish flu,Spanish flu
+253,en,ig_NG,specimen collection,mkpokọta ụdịrị
+254,en,ig_NG,spread,kesaa
+255,en,ig_NG,sputum,sputum
+256,en,ig_NG,stigmatisation,nkatọ
+257,en,ig_NG,supportive,nkwado
+258,en,ig_NG,surface,ihu
+259,en,ig_NG,surfaces,ihu
+260,en,ig_NG,suspected infection,ọrịa a na enyo enyo
+261,en,ig_NG,swab,swab
+262,en,ig_NG,swine flu,flu ezi
+263,en,ig_NG,symptom,ihe ngosipụta
+264,en,ig_NG,symptomatic,na egosi ahụ mgbanwe
+265,en,ig_NG,symptoms,ihe ngosipụta
+266,en,ig_NG,targeted disinfection,nhicha agbadoro anya
+267,en,ig_NG,test kit,ngwungwu nnwale
+268,en,ig_NG,testing error,mperi nnwale
+269,en,ig_NG,tissue damage,mmebi anụahụ
+270,en,ig_NG,tp shortage,ụkọ tp
+271,en,ig_NG,toilet paper shortage,ụkọ akwụkwọ ụlọ mposi
+272,en,ig_NG,touch,metụ
+273,en,ig_NG,touching,mmetụ
+274,en,ig_NG,transmissibility,nnyefe
+275,en,ig_NG,transmissible,enwere ike ịnyefe
+276,en,ig_NG,transmission,nnyefe
+277,en,ig_NG,transmission potential,nke nwere ike ịgafe
+278,en,ig_NG,typical flu,flu dịkarịrị
+279,en,ig_NG,underlying disease,ọrịa isi mmalite
+280,en,ig_NG,updates,mmelite
+281,en,ig_NG,vaccine,ọgwụ mgbochi
+282,en,ig_NG,vaccines,ọgwụ mgbochi
+283,en,ig_NG,ventilation,imepe oghere maka ikuku
+284,en,ig_NG,ventilator,igwe eji eku ume
+285,en,ig_NG,ventilators,igwe ndị eji eku ume
+286,en,ig_NG,viral infection,ọrịa na akpọtụ
+287,en,ig_NG,viral outbreak,ndapụta na akpọtụ
+288,en,ig_NG,viral pandemic,ọgbaghara na akpọtụ
+289,en,ig_NG,viral pneumonia,ọrịa oyi na akpọtụ
+290,en,ig_NG,virtual care,nlekọta oteaka
+291,en,ig_NG,virulence,njigide
+292,en,ig_NG,virus itself,nje n'onwe ya
+293,en,ig_NG,virus outbreak,ndapụta nje
+294,en,ig_NG,virus scare,ihe egwu nje
+295,en,ig_NG,virus spreads,nkesa nje
+296,en,ig_NG,virus strain,ụdị nje
+297,en,ig_NG,viral transmission,nnyefe nje
+298,en,ig_NG,vivid-19,vivid-19
+299,en,ig_NG,washing hands,ịsacha aka
+300,en,ig_NG,washing ones hands,ịsacha aka mmadụ
+301,en,ig_NG,wash your hands,sachaa aka gị
+302,en,ig_NG,white blood cell count,ngụ seelụ ọbara ọcha
+303,en,ig_NG,widespread transmission,nnyefe gazuru ebe niile
+304,en,ig_NG,working from home,i si n'ụlọ arụ ọrụ
+305,en,ig_NG,WFH,WFH
+306,en,ig_NG,Wuhan,Wuhan

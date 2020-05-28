@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,gu_IN,1918 flu,1918નો ફ્લૂ
+2,en,gu_IN,acute bronchitis,એક્યૂટ બ્રોંકાઇટિસ
+3,en,gu_IN,acute respiratory disease,તીવ્ર શ્વસન રોગ
+4,en,gu_IN,AIDS,એઇડ્સ
+5,en,gu_IN,airborne droplets,વાયુજન્ય ટીપા
+6,en,gu_IN,airway,વાયુ માર્ગે
+7,en,gu_IN,alcohol-based,આલ્કોહોલ આધારિત
+8,en,gu_IN,alcohol-based hand rub,આલ્કોહોલ આધારિત હેન્ડ રબ
+9,en,gu_IN,alcohol-based hand sanitizer,આલ્કોહોલ આધારિત હેન્ડ સેનેટાઇઝર
+10,en,gu_IN,alveolar disease,ઍલ્વીઓલરનો રોગ
+11,en,gu_IN,an epidemic,રોગચાળો
+12,en,gu_IN,annual flu,એન્યુઅલ ફ્લૂ
+13,en,gu_IN,anti-inflammatory drug,ઍન્ટિ-ઇન્ફ્લૅમટરી ડ્રગ
+14,en,gu_IN,antiviral drug,ઍન્ટિવાઇરલ ડ્રગ
+15,en,gu_IN,antiviral treatment,ઍન્ટિવાઇરલ ટ્રીટમેન્ટ
+16,en,gu_IN,assay,પરીક્ષણ
+17,en,gu_IN,asymptomatic,એસીમ્પ્ટોમેટિક
+18,en,gu_IN,avian flu,એવિઅન ફ્લૂ
+19,en,gu_IN,Black Plague,બ્લેક પ્લેગ
+20,en,gu_IN,blood pressure,બ્લડ પ્રેશર
+21,en,gu_IN,body fluid,શરીરમાં રહેલું પ્રવાહી
+22,en,gu_IN,breathing,શ્વાસોચ્છવાસ
+23,en,gu_IN,bubonic plague,બ્યુબોનિક પ્લેગ
+24,en,gu_IN,c19,c19
+25,en,gu_IN,cv19,cv19
+26,en,gu_IN,case fatality rate,કેસ મૃત્યુદર
+27,en,gu_IN,causative agent,કાર્યકારી એજન્ટ
+28,en,gu_IN,CDC,CDC
+29,en,gu_IN,chemical disinfection,રાસાયણિક જીવાણુ નાશકક્રિયા
+30,en,gu_IN,chest x-ray,છાતીનો એક્સ-રે
+31,en,gu_IN,clinical diagnosis,ક્લિનિકલ નિદાન
+32,en,gu_IN,clinical trial,ક્લિનિકલ ટ્રાયલ
+33,en,gu_IN,close contact,નજીકનો સંપર્ક
+34,en,gu_IN,cvirus,સીવાઇરસ
+35,en,gu_IN,chronic respiratory disease,શ્વસન સંબંધી જૂનો રોગ
+36,en,gu_IN,common cold,સામાન્ય શરદી
+37,en,gu_IN,common flu,સામાન્ય ફ્લૂ
+38,en,gu_IN,communicable disease,સંક્રમણક્ષમ રોગ
+39,en,gu_IN,community spread,કોમ્યુનિટીમાં ફેલાવ
+40,en,gu_IN,community transmission,કોમ્યુનિટી ટ્રાંસ્મિશન
+41,en,gu_IN,compromised immune system,નબળું ઇમ્યૂન સિસ્ટમ
+42,en,gu_IN,contagion,ચેપ લાગવો
+43,en,gu_IN,contagious,ચેપી
+44,en,gu_IN,contagiousness,કન્ટેજસ્નિસ
+45,en,gu_IN,corona,કોરોના
+46,en,gu_IN,corona virus,કોરોના વાઇરસ
+47,en,gu_IN,corona virus epidemic,કોરોના વાઇરસનો રોગચાળો
+48,en,gu_IN,corona virus outbreak,કોરોના વાઇરસનો કહેર
+49,en,gu_IN,corona virus scare,કોરોના વાઇરસની દહેશત
+50,en,gu_IN,coronavirus,કોરોનાવાઇરસ
+51,en,gu_IN,coronavirus cases,કોરોનાવાઇરસના કેસ
+52,en,gu_IN,coronavirus outbreak,કોરોનાવાઇરસનો કહેર
+53,en,gu_IN,coronavirus pandemic,કોરોનાવાઇરસની મહામારી
+54,en,gu_IN,coronavirus scare,કોરોનાવાઇરસની દહેશત
+55,en,gu_IN,cough,કફ
+56,en,gu_IN,cough etiquette,ઉધરસ ખાવાની રીત
+57,en,gu_IN,coughing,ઉધરસ ખાવી
+58,en,gu_IN,cov 19,cov 19
+59,en,gu_IN,cov19,cov19
+60,en,gu_IN,COVID,COVID
+61,en,gu_IN,COVID-19 crisis,COVID-19ની કટોકટી
+62,en,gu_IN,covid-19,covid-19
+63,en,gu_IN,covid19,covid19
+64,en,gu_IN,COVID-19 epidemic,COVID-19નો રોગચાળો
+65,en,gu_IN,COVID-19 outbreak,COVID-19નો કહેર
+66,en,gu_IN,COVID-19 pandemic,COVID-19ની મહામારી
+67,en,gu_IN,COVID 19,COVID 19
+68,en,gu_IN,current crisis,વર્તમાન કટોકટી
+69,en,gu_IN,current health crisis,આરોગ્ય સંબંધી વર્તમાન કટોકટી
+70,en,gu_IN,current outbreak,વર્તમાન કહેર
+71,en,gu_IN,current pandemic,વર્તમાન મહામારી
+72,en,gu_IN,CV,CV
+73,en,gu_IN,CV-19,CV-19
+74,en,gu_IN,deadly,જીવલેણ
+75,en,gu_IN,deadly virus,જીવલેણ વાઇરસ
+76,en,gu_IN,death rate,મૃત્યુ દર
+77,en,gu_IN,death toll,મૃત્યુઆંક
+78,en,gu_IN,decontaminate,ચેપ-મુક્ત કરો
+79,en,gu_IN,detectable,શોધી કાઢવા યોગ્ય
+80,en,gu_IN,detergent,ડિટર્જન્ટ
+81,en,gu_IN,difficulty breathing,શ્વાસ લેવામાં તકલીફ
+82,en,gu_IN,diabetes,ડાયાબિટીસ
+83,en,gu_IN,diagnosable disease,નિદાન યોગ્ય રોગ
+84,en,gu_IN,diagnostic protocol,રોગનિદાન સંબંધી પ્રોટોકૉલ
+85,en,gu_IN,diagnostic testing,રોગનિદાન સંબંધી પરીક્ષણ
+86,en,gu_IN,disease itself,રોગ પોતે
+87,en,gu_IN,disease outbreak,રોગનો કહેર
+88,en,gu_IN,disinfectant,જીવાણુનાશક
+89,en,gu_IN,disposable,ડિસ્પોઝેબલ
+90,en,gu_IN,droplet transmission,ડ્રૉપલેટ ટ્રાંસ્મિશન
+91,en,gu_IN,droplets,ટીપા
+92,en,gu_IN,dry cough,સૂકી ખાંસી
+93,en,gu_IN,dry surface contamination,સૂકી સપાટી પર રહેલ ચેપ
+94,en,gu_IN,ebola,ઇબોલા
+95,en,gu_IN,effective treatment,અસરકારક સારવાર
+96,en,gu_IN,electron microscope,ઇલેક્ટ્રોન માઇક્રોસ્કોપ
+97,en,gu_IN,emergency department,ઇમર્જન્સી ડિપાર્ટમેન્ટ
+98,en,gu_IN,epidemic,રોગચાળો
+99,en,gu_IN,epidemic curve,રોગચાળાથી સંબંધિત આંકડા
+100,en,gu_IN,epidemic peak,રોગચાળાનો સૌથી વધુ પ્રભાવ
+101,en,gu_IN,epidemiologist,મહામારીવિદ
+102,en,gu_IN,exposure,એક્સપોઝર
+103,en,gu_IN,extreme caution,અત્યંત સાવચેતી
+104,en,gu_IN,eye protection,આંખોની સુરક્ષા
+105,en,gu_IN,face mask,ફેસ માસ્ક
+106,en,gu_IN,face masks,ફેસ માસ્ક
+107,en,gu_IN,family cluster,ફૅમિલી ક્લસ્ટર
+108,en,gu_IN,fatality rate,મૃત્યુ દર
+109,en,gu_IN,fecal contamination,ફેકલ કન્ટામિનેશન
+110,en,gu_IN,fever,તાવ
+111,en,gu_IN,flatten the infection curve,ચેપને લગતા ગ્રાફને સપાટી પર લાવો
+112,en,gu_IN,flu,ફ્લૂ
+113,en,gu_IN,food safety,ભોજનની સુરક્ષા
+114,en,gu_IN,formaldehyde,ફૉર્મલડિહાઇડ
+115,en,gu_IN,gastroenteritis,ગેસ્ટ્રોએન્ટિરિટિસ
+116,en,gu_IN,germicide,જીવાણુનાશક
+117,en,gu_IN,global pandemic,વૈશ્વિક મહામારી
+118,en,gu_IN,global warming,ગ્લોબલ વૉર્મિંગ
+119,en,gu_IN,good respiratory hygiene,શ્વસન સંબંધી સારા પ્રમાણમાં સ્વચ્છતા
+120,en,gu_IN,Guangdong,ગુઆંગડોંગ
+121,en,gu_IN,H1N1,H1N1
+122,en,gu_IN,H1N1 virus,H1N1 વાઇરસ
+123,en,gu_IN,hand disinfectant,હાથ માટે જીવાણુનાશક
+124,en,gu_IN,hand sanitizer,હેન્ડ સેનેટાઇઝર
+125,en,gu_IN,health care provider,હેલ્થ કેર પ્રોવાઇડર
+126,en,gu_IN,health crisis,આરોગ્ય કટોકટી
+127,en,gu_IN,health plan carrier,હેલ્થ પ્લાન કૅરિઅર
+128,en,gu_IN,health services,આરોગ્ય સેવાઓ
+129,en,gu_IN,heart failure,હૃદયનું કાર્ય બંધ થવું
+130,en,gu_IN,high fever,તીવ્ર તાવ
+131,en,gu_IN,HIV,એચઆઇવી
+132,en,gu_IN,hospitalize,હોસ્પિટલમાં દાખલ કરવું
+133,en,gu_IN,household bleach,ઘરેલું બ્લીચ
+134,en,gu_IN,Hubei,હુબેઇ
+135,en,gu_IN,hydrogen peroxide,હાઇડ્રોજન પેરોક્સાઇડ
+136,en,gu_IN,hygiene,સ્વચ્છતા
+137,en,gu_IN,immune system,ઇમ્યૂન સિસ્ટમ
+138,en,gu_IN,immunity,ઇમ્યુનિટી
+139,en,gu_IN,immunocompromised,ઇમ્યુનોકોમ્પ્રોમાઇઝ્ડ
+140,en,gu_IN,immunologist,ઇમ્યુનોલોજિસ્ટ
+141,en,gu_IN,incubation,ઇન્ક્યુબેશન
+142,en,gu_IN,incubation period,ઇન્ક્યુબેશનની અવધિ
+143,en,gu_IN,indirect contact,આડકતરો સંપર્ક
+144,en,gu_IN,infect,સંક્રમણ
+145,en,gu_IN,infection,રોગનો ચેપ
+146,en,gu_IN,infectious,ચેપી
+147,en,gu_IN,infectivity,ચેપ
+148,en,gu_IN,influenza,ઇન્ફ્લુએન્ઝા
+149,en,gu_IN,initial transmission event,શરૂઆતી પ્રસારની ઘટના
+150,en,gu_IN,intensive care equipment,સઘન સંભાળનાં સાધનો
+151,en,gu_IN,intermediate host,ઇન્ટર્મીડિએટ હોસ્ટ
+152,en,gu_IN,intrauterine,ઇન્ટ્રાયુટેરિન
+153,en,gu_IN,intubation,ઇન્ટ્યુબેશન
+154,en,gu_IN,isolation,આઇસોલેશન
+155,en,gu_IN,Isopropanol,ઇસોપ્રોપેનોલ
+156,en,gu_IN,laboratory test kit,લેબોરેટરી ટેસ્ટ કિટ
+157,en,gu_IN,laboratory testing,લેબોરેટરી ટેસ્ટિંગ
+158,en,gu_IN,lack of testing,પરીક્ષણની કમી
+159,en,gu_IN,lack of tests,ટેસ્ટની કમી
+160,en,gu_IN,latest updates,લેટેસ્ટ અપડેટ
+161,en,gu_IN,liver failure,લીવરનું કાર્ય બંધ થવું
+162,en,gu_IN,local public health authority,સ્થાનિક જાહેર આરોગ્ય અધિકારી
+163,en,gu_IN,lockdown,લૉકડાઉન
+164,en,gu_IN,lungs,ફેફસાં
+165,en,gu_IN,masks,માસ્ક
+166,en,gu_IN,measles,ઓરી
+167,en,gu_IN,mechanical ventilation,મેકેનિકલ વેન્ટિલેશન
+168,en,gu_IN,media coverage,મીડિયા કવરેજ
+169,en,gu_IN,medical care,મેડિકલ કેર
+170,en,gu_IN,MERS,MERS
+171,en,gu_IN,MERS CoV,MERS CoV
+172,en,gu_IN,microbiologist,માઇક્રોબાયોલોજિસ્ટ
+173,en,gu_IN,mild cough,હળવી ઉધરસ
+174,en,gu_IN,mortality rate,મૃત્યુ દર
+175,en,gu_IN,multi-organ failure,એક કરતાં વધુ અંગનું કાર્ય બંધ થવું
+176,en,gu_IN,nasal congestion,નાક બંધ થવી
+177,en,gu_IN,neutral detergent,ન્યૂટ્રલ ડિટર્જન્ટ
+178,en,gu_IN,new normal,નવા સામાન્ય
+179,en,gu_IN,novel corona virus,નોવેલ કોરોના વાઇરસ
+180,en,gu_IN,novel coronavirus,નોવેલ કોરોનાવાઇરસ
+181,en,gu_IN,novel coronavirus outbreak,નોવેલ કોરોનાવાઇરસનો કહેર
+182,en,gu_IN,novel virus,નોવેલ વાઇરસ
+183,en,gu_IN,online medical consultation,ઑનલાઇન તબીબી સલાહ
+184,en,gu_IN,onset,ચાલુ
+185,en,gu_IN,outbreak,કહેર
+186,en,gu_IN,outbreak readiness,કહેર થવાની તૈયારી
+187,en,gu_IN,overall case fatality,કેસનો એકંદર મૃત્યુદર
+188,en,gu_IN,pandemic,મહામારી
+189,en,gu_IN,pangolin,પેંગોલિન
+190,en,gu_IN,pathogen,રોગકારક
+191,en,gu_IN,pathology,પેથોલોજી
+192,en,gu_IN,patient care equipment,દર્દીની સારવાર સંબંધી સાધનો
+193,en,gu_IN,personal protective equipment,વ્યક્તિગત રક્ષણાત્મક સાધનો
+194,en,gu_IN,person-to-person transmission,વ્યક્તિથી વ્યક્તિમાં પ્રસાર
+195,en,gu_IN,phlegm,કફ
+196,en,gu_IN,physical contact,શારીરિક સંપર્ક
+197,en,gu_IN,plague,પ્લેગ
+198,en,gu_IN,pneumonia,ન્યૂમોનિયા
+199,en,gu_IN,pneumonias,ન્યૂમોનિઆસ
+200,en,gu_IN,positive test,પોઝિટિવ ટેસ્ટ
+201,en,gu_IN,precaution,સાચવેતી
+202,en,gu_IN,precautionary,સાવચેતીરૂપે લીધેલા પગલાં
+203,en,gu_IN,pre-existing condition,પૂર્વ-હાલની સ્થિતિ
+204,en,gu_IN,preparedness,સાવધાની
+205,en,gu_IN,prognosis,પ્રોગ્નૉસિસ
+206,en,gu_IN,protect myself,સ્વયંની સુરક્ષા કરો
+207,en,gu_IN,protect others,અન્ય લોકોની સુરક્ષા કરો
+208,en,gu_IN,protect yourself,પોતાની સુરક્ષા કરો
+209,en,gu_IN,protective measures,સંરક્ષણાત્મક પગલાં
+210,en,gu_IN,public health crisis,જાહેર આરોગ્ય કટોકટી
+211,en,gu_IN,pulmonary tissue damage,પલ્મોનરી ટિસ્યૂ નુકસાન
+212,en,gu_IN,quarantine,ક્વારંટાઇન
+213,en,gu_IN,rapid risk assessment,ઝડપથી ફેલાતા જોખમની આકારણી
+214,en,gu_IN,reagent,રીએજન્ટ
+215,en,gu_IN,regular flu,નિયમિત ફ્લૂ
+216,en,gu_IN,reinfection,ફરીથી સંક્રમણ
+217,en,gu_IN,renal disease,મૂત્રપિંડ સંબંધી રોગ
+218,en,gu_IN,renal failure,મૂત્રપિંડનું કાર્ય બંધ થવું
+219,en,gu_IN,respirator,રેસ્પિરેટર
+220,en,gu_IN,respiratory,રેસ્પિરેટરી
+221,en,gu_IN,respiratory disease,શ્વાસોચ્છ્વાસ સંબંધી રોગ
+222,en,gu_IN,respiratory distress,શ્વાસોચ્છ્વાસમાં તકલીફ
+223,en,gu_IN,respiratory droplets,રેસ્પિરેટરી ડ્રૉપલેટ
+224,en,gu_IN,respiratory hygiene,શ્વસન સંબંધી સ્વચ્છતા
+225,en,gu_IN,respiratory illness,શ્વાસોચ્છ્વાસની માંદગી
+226,en,gu_IN,respiratory syndrome,શ્વાસોચ્છ્વાસના રોગના લક્ષણ
+227,en,gu_IN,respiratory tract disease,શ્વસનમાર્ગનો રોગ
+228,en,gu_IN,restrictions,પ્રતિબંધ
+229,en,gu_IN,resurge,ફરીથી થવું
+230,en,gu_IN,RNA,RNA
+231,en,gu_IN,rubeola,રૂબેલા
+232,en,gu_IN,runny nose,વહેતું નાક
+233,en,gu_IN,SARS,સાર્સ
+234,en,gu_IN,SARS-CoV-2,SARS-CoV-2
+235,en,gu_IN,SARS-CoV,SARS-CoV
+236,en,gu_IN,sars-related coronavirus,સાર્સ-સંબંધિત કોરોનાવાઇરસ
+237,en,gu_IN,seasonal flu,મોસમી ફ્લૂ
+238,en,gu_IN,seasonal influenza,મોસમી ઇન્ફ્લુએન્ઝા
+239,en,gu_IN,secretion,સ્ત્રાવ
+240,en,gu_IN,self-quarantine,સેલ્ફ-ક્વોરેન્ટાઇન
+241,en,gu_IN,sepsis,સેપ્સિસ
+242,en,gu_IN,septic shock,સેપ્ટિક શૉક
+243,en,gu_IN,Severe Acute Respiratory Syndrome,સિવીઅર એક્યૂટ રેસ્પિરેટરી સિંડ્રોમ
+244,en,gu_IN,shortness of breath,હાંફ ચઢવી
+245,en,gu_IN,sickened,માંદા થવું
+246,en,gu_IN,sickness,માંદગી
+247,en,gu_IN,sneeze,છીંક
+248,en,gu_IN,sneezes,છીંકવું
+249,en,gu_IN,sneezing,છીંક ખાવું
+250,en,gu_IN,social distancing,સોશિયલ ડિસ્ટન્સિંગ
+251,en,gu_IN,sore throat,ગળામાં ખરાશ
+252,en,gu_IN,spanish flu,સ્પેનિશ ફ્લૂ
+253,en,gu_IN,specimen collection,નમૂના સંગ્રહ
+254,en,gu_IN,spread,ફેલાવો
+255,en,gu_IN,sputum,થૂંક
+256,en,gu_IN,stigmatisation,સ્ટિગ્મેટાઇઝેશન
+257,en,gu_IN,supportive,સપોર્ટિવ
+258,en,gu_IN,surface,સપાટી
+259,en,gu_IN,surfaces,સપાટી
+260,en,gu_IN,suspected infection,સંદિગ્ધ સંક્રમણ
+261,en,gu_IN,swab,સ્વૉબ
+262,en,gu_IN,swine flu,સ્વાઇન ફ્લૂ
+263,en,gu_IN,symptom,લક્ષણ
+264,en,gu_IN,symptomatic,સીમ્પ્ટોમેટિક
+265,en,gu_IN,symptoms,લક્ષણો
+266,en,gu_IN,targeted disinfection,લક્ષિત જીવાણુ નાશકક્રિયા
+267,en,gu_IN,test kit,ટેસ્ટ કિટ
+268,en,gu_IN,testing error,પરીક્ષણમાં ભૂલ
+269,en,gu_IN,tissue damage,પેશીઓને નુકસાન
+270,en,gu_IN,tp shortage,tp ની અછત
+271,en,gu_IN,toilet paper shortage,ટોયલેટ પેપરની અછત
+272,en,gu_IN,touch,સ્પર્શ
+273,en,gu_IN,touching,સ્પર્શવું
+274,en,gu_IN,transmissibility,ટ્રાન્સ્મિસિબિલિટી
+275,en,gu_IN,transmissible,ટ્રાન્સ્મિસિબલ
+276,en,gu_IN,transmission,ટ્રાંસ્મિશન
+277,en,gu_IN,transmission potential,પ્રસારની ક્ષમતા
+278,en,gu_IN,typical flu,સામાન્ય ફ્લૂ
+279,en,gu_IN,underlying disease,મુખ્ય રોગ
+280,en,gu_IN,updates,અપડેટ
+281,en,gu_IN,vaccine,રસી
+282,en,gu_IN,vaccines,રસીઓ
+283,en,gu_IN,ventilation,વેન્ટિલેશન
+284,en,gu_IN,ventilator,વેન્ટિલેટર
+285,en,gu_IN,ventilators,વેન્ટિલેટર
+286,en,gu_IN,viral infection,વાઇરલ ઇન્ફેક્શન
+287,en,gu_IN,viral outbreak,વાઇરલ આઉટબ્રેક
+288,en,gu_IN,viral pandemic,વાઇરલ પેન્ડેમિક
+289,en,gu_IN,viral pneumonia,વાઇરલ ન્યૂમોનિયા
+290,en,gu_IN,virtual care,વર્ચ્યુઅલ કેર
+291,en,gu_IN,virulence,વાઇરલન્સ
+292,en,gu_IN,virus itself,વાઇરસ પોતે
+293,en,gu_IN,virus outbreak,વાઇરસનો કહેર
+294,en,gu_IN,virus scare,વાઇરસની દહેશત
+295,en,gu_IN,virus spreads,વાઇરસનો ફેલાવો
+296,en,gu_IN,virus strain,વાઇરસનો પ્રકાર
+297,en,gu_IN,viral transmission,વાઇરલ ટ્રાંસ્મિશન
+298,en,gu_IN,vivid-19,vivid-19
+299,en,gu_IN,washing hands,હાથ ધોવા
+300,en,gu_IN,washing ones hands,હાથ ધોવા
+301,en,gu_IN,wash your hands,તમારા હાથ ધૂઓ
+302,en,gu_IN,white blood cell count,વ્હાઇટ બ્લડ સેલની સંખ્યા
+303,en,gu_IN,widespread transmission,વ્યાપક પ્રસાર
+304,en,gu_IN,working from home,ઘરથી કામ કરવું
+305,en,gu_IN,WFH,WFH
+306,en,gu_IN,Wuhan,વુહાન

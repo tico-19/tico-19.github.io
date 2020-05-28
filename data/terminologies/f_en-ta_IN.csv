@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ta_IN,1918 flu,1918 ஃப்ளூ
+2,en,ta_IN,acute bronchitis,கடுமையான மூச்சுக்குழாய் அழற்சி
+3,en,ta_IN,acute respiratory disease,கடுமையான சுவாச நோய்
+4,en,ta_IN,AIDS,எய்ட்ஸ்
+5,en,ta_IN,airborne droplets,ஏர்பார்ன் டிராப்லெட்ஸ்
+6,en,ta_IN,airway,ஏர்வே
+7,en,ta_IN,alcohol-based,ஆல்கஹால் சார்ந்தது
+8,en,ta_IN,alcohol-based hand rub,ஆல்கஹால் கலந்த கை கழுவும் திரவும்
+9,en,ta_IN,alcohol-based hand sanitizer,ஆல்கஹால் சார்ந்த ஹேண்ட் சானிட்டைசர்
+10,en,ta_IN,alveolar disease,அல்வியோலர் நோய்
+11,en,ta_IN,an epidemic,தொற்றுநோய்
+12,en,ta_IN,annual flu,ஆண்டுதோறும் ஏற்படும் ஃப்ளூ
+13,en,ta_IN,anti-inflammatory drug,நோய் எதிர்ப்புக்கான மருந்து
+14,en,ta_IN,antiviral drug,நோய் எதிர்ப்பு மருந்து
+15,en,ta_IN,antiviral treatment,ஆன்டிவைரல் சிகிச்சை
+16,en,ta_IN,assay,சோதனை
+17,en,ta_IN,asymptomatic,அறிகுறி இல்லாமல் இருப்பது
+18,en,ta_IN,avian flu,ஏவியன் ஃப்ளூ
+19,en,ta_IN,Black Plague,கருப்பு பிளேக்
+20,en,ta_IN,blood pressure,இரத்த அழுத்தம்
+21,en,ta_IN,body fluid,உடல் திரவம்
+22,en,ta_IN,breathing,சுவாசிப்பது
+23,en,ta_IN,bubonic plague,கொடிய பிளேக் நோய்
+24,en,ta_IN,c19,c19
+25,en,ta_IN,cv19,cv19
+26,en,ta_IN,case fatality rate,கேஸின் இறப்பு விகிதம்
+27,en,ta_IN,causative agent,நோய் ஏற்படுவதற்கான காரணம்
+28,en,ta_IN,CDC,CDC
+29,en,ta_IN,chemical disinfection,இரசாயன கிருமி நீக்கம்
+30,en,ta_IN,chest x-ray,மார்பு பகுதியின் எக்ஸ்ரே
+31,en,ta_IN,clinical diagnosis,மருத்துவ ஆய்வு
+32,en,ta_IN,clinical trial,மருத்துவச் சோதனை
+33,en,ta_IN,close contact,நெருங்கிய தொடர்பு
+34,en,ta_IN,cvirus,வைரஸ்
+35,en,ta_IN,chronic respiratory disease,தீவிர சுவாச நோய்
+36,en,ta_IN,common cold,சாதாரண சளி
+37,en,ta_IN,common flu,சாதாரண காய்ச்சல்
+38,en,ta_IN,communicable disease,தொற்றுவியாதி
+39,en,ta_IN,community spread,சமூகத்தில் பரவுதல்
+40,en,ta_IN,community transmission,சமூகத்தில் பகிர்தல்
+41,en,ta_IN,compromised immune system,குறைந்த நோய் எதிர்ப்பு ஆற்றல்
+42,en,ta_IN,contagion,தொற்று
+43,en,ta_IN,contagious,பரவக்கூடியவை
+44,en,ta_IN,contagiousness,தொற்று
+45,en,ta_IN,corona,கொரோனா
+46,en,ta_IN,corona virus,கொரோனா வைரஸ்
+47,en,ta_IN,corona virus epidemic,கொரோனா வைரஸ் தொற்றுநோய்
+48,en,ta_IN,corona virus outbreak,கொரோனா வைரஸின் திடீர் பாதிப்பு
+49,en,ta_IN,corona virus scare,கொரோனா வைரஸ் தொடர்பான அச்சம்
+50,en,ta_IN,coronavirus,கொரோனா வைரஸ்
+51,en,ta_IN,coronavirus cases,கொரோனா வைரஸால் பாதிக்கப்பட்டவர்கள்
+52,en,ta_IN,coronavirus outbreak,கொரோனா வைரஸின் திடீர் பாதிப்பு
+53,en,ta_IN,coronavirus pandemic,கொரோனா வைரஸ் உலகளவில் ஒரு பெரிய தொற்றுநோய்
+54,en,ta_IN,coronavirus scare,கொரோனா வைரஸ் தொடர்பான அச்சம்
+55,en,ta_IN,cough,இருமல்
+56,en,ta_IN,cough etiquette,இருமும் முறை
+57,en,ta_IN,coughing,இருமல் ஏற்படுதல்
+58,en,ta_IN,cov 19,cov 19
+59,en,ta_IN,cov19,cov19
+60,en,ta_IN,COVID,COVID
+61,en,ta_IN,COVID-19 crisis,COVID-19 பேரிடர்
+62,en,ta_IN,covid-19,covid-19
+63,en,ta_IN,covid19,covid19
+64,en,ta_IN,COVID-19 epidemic,COVID-19 தொற்றுநோய்
+65,en,ta_IN,COVID-19 outbreak,COVID-19 இன் திடீர் பாதிப்பு
+66,en,ta_IN,COVID-19 pandemic,COVID-19 உலகளவில் ஒரு பெரிய தொற்றுநோய்
+67,en,ta_IN,COVID 19,COVID 19
+68,en,ta_IN,current crisis,தற்போதைய பேரிடர்
+69,en,ta_IN,current health crisis,தற்போது உடல் ரீதியான பேரிடர்
+70,en,ta_IN,current outbreak,தற்போது ஏற்பட்டுள்ள பாதிப்பு
+71,en,ta_IN,current pandemic,தற்போது உலகளவில் ஒரு பெரிய தொற்றுநோய்
+72,en,ta_IN,CV,CV
+73,en,ta_IN,CV-19,CV-19
+74,en,ta_IN,deadly,கொடிய நோய்
+75,en,ta_IN,deadly virus,கொடிய வைரஸ்
+76,en,ta_IN,death rate,இறப்பு விகிதம்
+77,en,ta_IN,death toll,இறப்பு எண்ணிக்கை
+78,en,ta_IN,decontaminate,கிருமிகளை அகற்றக்கூடியது
+79,en,ta_IN,detectable,கண்டறியக்கூடியது
+80,en,ta_IN,detergent,டிட்டர்ஜென்ட்
+81,en,ta_IN,difficulty breathing,சுவாசிப்பதில் பிரச்சனை
+82,en,ta_IN,diabetes,நீரிழிவு நோய்
+83,en,ta_IN,diagnosable disease,கண்டறியக்கூடிய நோய்
+84,en,ta_IN,diagnostic protocol,கண்டறிவதற்கான நெறிமுறை
+85,en,ta_IN,diagnostic testing,நோய் கண்டறிதலுக்கான சோதனை
+86,en,ta_IN,disease itself,நோய் தானாகவே
+87,en,ta_IN,disease outbreak,நோய் பரவுதல்
+88,en,ta_IN,disinfectant,கிருமிநாசினி
+89,en,ta_IN,disposable,ஒருமுறை மட்டும் பயன்படுத்தக்கூடியவை
+90,en,ta_IN,droplet transmission,ட்ராப்லெட் ட்ரான்ஸ்மிஷன்
+91,en,ta_IN,droplets,ட்ராப்லெட்கள்
+92,en,ta_IN,dry cough,வறட்டு இருமல்
+93,en,ta_IN,dry surface contamination,சுத்தமான இடத்தை மாசுப்படுத்துவது
+94,en,ta_IN,ebola,எபோலா
+95,en,ta_IN,effective treatment,பயனுள்ள சிகிச்சை
+96,en,ta_IN,electron microscope,எலக்ட்ரான் மைக்ரோஸ்கோப்
+97,en,ta_IN,emergency department,அவசரசிகிச்சைப் பிரிவு
+98,en,ta_IN,epidemic,தொற்றுநோய்
+99,en,ta_IN,epidemic curve,தொற்று நோயால் புதிதாகப் பாதிக்கப்பட்டவர்களைக் காட்டுவது
+100,en,ta_IN,epidemic peak,தொற்றுநோய் அதிகரித்தல்
+101,en,ta_IN,epidemiologist,தொற்றுநோயியல் நிபுணர்
+102,en,ta_IN,exposure,வெளிப்பாடு
+103,en,ta_IN,extreme caution,தீவிர முன்னெச்சரிக்கை
+104,en,ta_IN,eye protection,கண்களைப் பாதுகாப்பாக வைப்பது
+105,en,ta_IN,face mask,ஃபேஸ் மாஸ்க்
+106,en,ta_IN,face masks,ஃபேஸ் மாஸ்க்குகள்
+107,en,ta_IN,family cluster,குடும்ப நெறிமுறைகள்
+108,en,ta_IN,fatality rate,இறப்பு விகிதம்
+109,en,ta_IN,fecal contamination,மலத்தினால் மாசடைதல்
+110,en,ta_IN,fever,காய்ச்சல்
+111,en,ta_IN,flatten the infection curve,பாதிக்கப்பட்டவர்கலைக் காட்டும் கர்வைக் குறைக்கும்
+112,en,ta_IN,flu,ஃப்ளூ
+113,en,ta_IN,food safety,உணவு பாதுகாப்பு
+114,en,ta_IN,formaldehyde,ஃபார்மால்டிஹைட்
+115,en,ta_IN,gastroenteritis,இரைப்பைக் குடல் அழற்சி
+116,en,ta_IN,germicide,ஜெர்மிசைடு
+117,en,ta_IN,global pandemic,உலகளாவிய தொற்றுநோய்
+118,en,ta_IN,global warming,உலக வெப்பமயமாதல்
+119,en,ta_IN,good respiratory hygiene,நல்ல சுவாச ஆரோக்கியம்
+120,en,ta_IN,Guangdong,குவாங்டாங்
+121,en,ta_IN,H1N1,H1N1
+122,en,ta_IN,H1N1 virus,H1N1 வைரஸ்
+123,en,ta_IN,hand disinfectant,கைகளுக்கான கிருமிநாசினி
+124,en,ta_IN,hand sanitizer,ஹேண்ட் சானிட்டைசர்
+125,en,ta_IN,health care provider,மருத்துவர்
+126,en,ta_IN,health crisis,உடல்நலக் குறைவு
+127,en,ta_IN,health plan carrier,வாழ்க்கைக்கான உடல்நலத் திட்டம்
+128,en,ta_IN,health services,உடல்நலச் சேவைகள்
+129,en,ta_IN,heart failure,இதயக் கோளாறு
+130,en,ta_IN,high fever,அதிகமான காய்ச்சல்
+131,en,ta_IN,HIV,ஹெச்ஐவி
+132,en,ta_IN,hospitalize,மருத்துவமனையில் சேர்ப்பது
+133,en,ta_IN,household bleach,வீட்டில் உபயோகிக்கும் ப்ளீச்
+134,en,ta_IN,Hubei,ஹூபே
+135,en,ta_IN,hydrogen peroxide,ஹைட்ரஜன் பெராக்சைடு
+136,en,ta_IN,hygiene,ஆரோக்கியம்
+137,en,ta_IN,immune system,நோய் எதிர்ப்பு ஆற்றல்
+138,en,ta_IN,immunity,நோய் எதிர்ப்பு சக்தி
+139,en,ta_IN,immunocompromised,நோயெதிர்ப்பு குறைபாடு
+140,en,ta_IN,immunologist,நோயெதிர்ப்பு நிபுணர்
+141,en,ta_IN,incubation,இன்குபெஷன்
+142,en,ta_IN,incubation period,இன்குபெஷன் காலம்
+143,en,ta_IN,indirect contact,மறைமுகமானத தொடர்பு
+144,en,ta_IN,infect,தொற்று
+145,en,ta_IN,infection,தொற்று
+146,en,ta_IN,infectious,தொற்று நோய்
+147,en,ta_IN,infectivity,நோய் தொற்றகூடிய இடங்கள்
+148,en,ta_IN,influenza,இன்ஃப்ளூயன்ஸா
+149,en,ta_IN,initial transmission event,ஆரம்ப பரிமாற்ற நிகழ்வு
+150,en,ta_IN,intensive care equipment,தீவிர சிகிச்சைக்கான உபகரணம்
+151,en,ta_IN,intermediate host,இடைநிலை ஹோஸ்ட்
+152,en,ta_IN,intrauterine,கருப்பை
+153,en,ta_IN,intubation,மூச்சுக்குழலுக்குள் குழாய் செருகுதல்
+154,en,ta_IN,isolation,தனிமைப்படுத்துதல்
+155,en,ta_IN,Isopropanol,ஐசோபுரொப்பனால்
+156,en,ta_IN,laboratory test kit,ஆய்வகத்திற்கான சோதனை கிட்
+157,en,ta_IN,laboratory testing,ஆய்வகச் சோதனை
+158,en,ta_IN,lack of testing,சோதனைக் குறைபாடு
+159,en,ta_IN,lack of tests,சோதனைகள் இல்லாமல் இருப்பது
+160,en,ta_IN,latest updates,சமீபத்திய அறிவிப்புகள்
+161,en,ta_IN,liver failure,கல்லீரல் செயலிழப்பு
+162,en,ta_IN,local public health authority,உள்ளூர் பொது சுகாதார ஆய்வாளர்
+163,en,ta_IN,lockdown,லாக்டவுன்
+164,en,ta_IN,lungs,நுரையீரல்கள்
+165,en,ta_IN,masks,மாஸ்க்குகள்
+166,en,ta_IN,measles,தட்டம்மை
+167,en,ta_IN,mechanical ventilation,இயந்திர காற்றோட்டம்
+168,en,ta_IN,media coverage,மீடியா கவரேஜ்
+169,en,ta_IN,medical care,மருத்துவப் பராமரிப்பு
+170,en,ta_IN,MERS,MERS
+171,en,ta_IN,MERS CoV,MERS CoV
+172,en,ta_IN,microbiologist,நுண்ணுயிரியலாளர்
+173,en,ta_IN,mild cough,லேசான இருமல்
+174,en,ta_IN,mortality rate,இறப்பு விகிதம்
+175,en,ta_IN,multi-organ failure,ஒன்றுக்கும் மேற்பட்ட உடல் உறுப்புகள் செயலிழப்பது
+176,en,ta_IN,nasal congestion,மூக்கடைப்பு
+177,en,ta_IN,neutral detergent,நியுட்ரல் டிட்டர்ஜென்ட்
+178,en,ta_IN,new normal,புதிய வழக்கமான
+179,en,ta_IN,novel corona virus,நோவல் கொரோனா வைரஸ்
+180,en,ta_IN,novel coronavirus,நோவல் கொரோனா வைரஸ்
+181,en,ta_IN,novel coronavirus outbreak,நோவல் கொரோனா வைரஸின் திடீர் பாதிப்பு
+182,en,ta_IN,novel virus,நோவல் வைரஸ்
+183,en,ta_IN,online medical consultation,ஆன்லைன் மருத்துவ ஆலோசனை
+184,en,ta_IN,onset,ஆன்செட்
+185,en,ta_IN,outbreak,பரவுதல்
+186,en,ta_IN,outbreak readiness,பரவுதலை தடுப்பதற்கான தயார்நிலை
+187,en,ta_IN,overall case fatality,ஒட்டுமொத்த இறப்பு விகிதம்
+188,en,ta_IN,pandemic,தொற்று
+189,en,ta_IN,pangolin,பங்கோளின்
+190,en,ta_IN,pathogen,நோய்க்கிருமி
+191,en,ta_IN,pathology,நோயியல்
+192,en,ta_IN,patient care equipment,நோயாளி பாதுகாப்பு உபகரணங்கள்
+193,en,ta_IN,personal protective equipment,தனிப்பட்ட பாதுகாப்பு உபகரணம்
+194,en,ta_IN,person-to-person transmission,ஒருவர் மூலம் இன்னொருவருக்குப் பரவுதல்
+195,en,ta_IN,phlegm,கபம்
+196,en,ta_IN,physical contact,உடல் ரீதியான தொடர்பு
+197,en,ta_IN,plague,பிளேக்
+198,en,ta_IN,pneumonia,நிமோனியா
+199,en,ta_IN,pneumonias,நிமோனியாஸ்
+200,en,ta_IN,positive test,பாசிடிவ் டெஸ்ட்
+201,en,ta_IN,precaution,முன்னெச்சரிக்கை
+202,en,ta_IN,precautionary,முன்னெச்சரிக்கையாக இருப்பது
+203,en,ta_IN,pre-existing condition,முன்பே இருக்கும் நிலை
+204,en,ta_IN,preparedness,தயாராக இருப்பது
+205,en,ta_IN,prognosis,முன்கணிப்பு
+206,en,ta_IN,protect myself,தன்னைத்தானே பாதுகாப்பது
+207,en,ta_IN,protect others,பிறரைப் பாதுகாப்பது
+208,en,ta_IN,protect yourself,உங்களைப் பாதுகாப்பது
+209,en,ta_IN,protective measures,பாதுகாப்பு நடவடிக்கைகள்
+210,en,ta_IN,public health crisis,பொது உடல்நலக் குறைவு பேரிடர்
+211,en,ta_IN,pulmonary tissue damage,நுரையீரல் திசு சேதம்
+212,en,ta_IN,quarantine,தனிமைப்படுத்தல்
+213,en,ta_IN,rapid risk assessment,விரைவான இடர் மதிப்பீடு
+214,en,ta_IN,reagent,ரியேஜென்ட்
+215,en,ta_IN,regular flu,வழக்கமான ஃப்ளூ
+216,en,ta_IN,reinfection,மறு தொற்று
+217,en,ta_IN,renal disease,சிறுநீரக நோய்
+218,en,ta_IN,renal failure,சிறுநீரகக் கோளாறு
+219,en,ta_IN,respirator,சுவாசக் கருவி
+220,en,ta_IN,respiratory,சுவாசப் பிரச்சனை
+221,en,ta_IN,respiratory disease,சுவாச நோய்
+222,en,ta_IN,respiratory distress,சுவாசக் கோளாறு
+223,en,ta_IN,respiratory droplets,ரெஸ்பிரேட்டரி ட்ராப்லெட்கள்
+224,en,ta_IN,respiratory hygiene,சுவாச ஆரோக்கியம்
+225,en,ta_IN,respiratory illness,சுவாசப் பிரச்சனை
+226,en,ta_IN,respiratory syndrome,சுவாச நோய்குறிகள்
+227,en,ta_IN,respiratory tract disease,சுவாசக்குழாய் நோய்
+228,en,ta_IN,restrictions,கட்டுப்பாடுகள்
+229,en,ta_IN,resurge,மீண்டும் உயிர்பிழைத்தல்
+230,en,ta_IN,RNA,RNA
+231,en,ta_IN,rubeola,ருபியோலா
+232,en,ta_IN,runny nose,மூக்கு ஒழுகுதல்
+233,en,ta_IN,SARS,SARS
+234,en,ta_IN,SARS-CoV-2,SARS-CoV-2
+235,en,ta_IN,SARS-CoV,SARS-CoV
+236,en,ta_IN,sars-related coronavirus,சார்ஸ்-தொடர்பான கொரோனா வைரஸ்
+237,en,ta_IN,seasonal flu,பருவகால காய்ச்சல்
+238,en,ta_IN,seasonal influenza,பருவகால குளிர் காய்ச்சல்
+239,en,ta_IN,secretion,சுரப்பு
+240,en,ta_IN,self-quarantine,சுய தனிமைப்படுத்தல்
+241,en,ta_IN,sepsis,செப்சிஸ்
+242,en,ta_IN,septic shock,செப்டிக் ஷாக்
+243,en,ta_IN,Severe Acute Respiratory Syndrome,மிகக் கடுமையான சுவாச நோய்குறிகள்
+244,en,ta_IN,shortness of breath,மூச்சுத் திணறல்
+245,en,ta_IN,sickened,நோய்வாய்ப்பட்டது
+246,en,ta_IN,sickness,நோய்
+247,en,ta_IN,sneeze,தும்மல்
+248,en,ta_IN,sneezes,தும்மல்
+249,en,ta_IN,sneezing,தும்மல்
+250,en,ta_IN,social distancing,ஒருவருக்கொருவர் விலகி இருப்பது
+251,en,ta_IN,sore throat,தொண்டை வலி
+252,en,ta_IN,spanish flu,ஸ்பானிஷ் ஃப்ளூ
+253,en,ta_IN,specimen collection,ஸ்பேசிமன் சேகரிப்பு
+254,en,ta_IN,spread,பரவுதல்
+255,en,ta_IN,sputum,கோழை
+256,en,ta_IN,stigmatisation,புறக்கணிக்கப்படுவது
+257,en,ta_IN,supportive,ஆதரவாக இருப்பது
+258,en,ta_IN,surface,சர்ஃபேஸ்
+259,en,ta_IN,surfaces,சர்ஃபேஸ்கள்
+260,en,ta_IN,suspected infection,நோய் தொற்று இருப்பதாகக் கண்டறியப்படுவது
+261,en,ta_IN,swab,ஸ்வாப்
+262,en,ta_IN,swine flu,பன்றிக் காய்ச்சல்
+263,en,ta_IN,symptom,நோய்க்குறி
+264,en,ta_IN,symptomatic,நோய் அறிகுறி தொடர்பானது
+265,en,ta_IN,symptoms,நோய் அறிகுறிகள்
+266,en,ta_IN,targeted disinfection,இலக்கிடப்பட்ட கிருமிநாசினி
+267,en,ta_IN,test kit,சோதனை கிட்
+268,en,ta_IN,testing error,சோதனைப் பிழை
+269,en,ta_IN,tissue damage,திசு பாதிப்பு
+270,en,ta_IN,tp shortage,டிபி குறைபாடு
+271,en,ta_IN,toilet paper shortage,கழிப்பறை காகிதப் பற்றாக்குறை
+272,en,ta_IN,touch,தொடு
+273,en,ta_IN,touching,தொடுதல்
+274,en,ta_IN,transmissibility,பரவுதல்
+275,en,ta_IN,transmissible,பரவக்கூடியது
+276,en,ta_IN,transmission,பரவுதல்
+277,en,ta_IN,transmission potential,பரவும் திறனுடையது
+278,en,ta_IN,typical flu,வழக்கமான காய்ச்சல்
+279,en,ta_IN,underlying disease,அடிப்படை நோய்
+280,en,ta_IN,updates,அறிவிப்புகள்
+281,en,ta_IN,vaccine,தடுப்பூசி
+282,en,ta_IN,vaccines,தடுப்பூசிகள்
+283,en,ta_IN,ventilation,காற்றோட்டம்
+284,en,ta_IN,ventilator,வெண்டிலேட்டர்
+285,en,ta_IN,ventilators,வெண்டிலேட்டர்கள்
+286,en,ta_IN,viral infection,வைரல் தொற்று
+287,en,ta_IN,viral outbreak,வைரல் பாதிப்பு
+288,en,ta_IN,viral pandemic,வைரல் தொற்றுநோய்
+289,en,ta_IN,viral pneumonia,வைரல் நிமோனியா
+290,en,ta_IN,virtual care,விர்சுவல் கேர்
+291,en,ta_IN,virulence,தீவரம்
+292,en,ta_IN,virus itself,வைரஸ் தானாகவே
+293,en,ta_IN,virus outbreak,வைரஸின் திடீர் பாதிப்பு
+294,en,ta_IN,virus scare,வைரஸ் தொடர்பான அச்சம்
+295,en,ta_IN,virus spreads,வைரஸ் பரவுதல்
+296,en,ta_IN,virus strain,வைரஸ் ஸ்ட்ரைன்
+297,en,ta_IN,viral transmission,வைரல் ட்ரான்ஸ்மிஷன்
+298,en,ta_IN,vivid-19,vivid-19
+299,en,ta_IN,washing hands,கைகளைக் கழுவுதல்
+300,en,ta_IN,washing ones hands,ஒருவரின் கைகளைக் கழுவுதல்
+301,en,ta_IN,wash your hands,உங்கள் கைகளைக் கழுவுதல்
+302,en,ta_IN,white blood cell count,இரத்தத்தில் உள்ள வெள்ளை அணுக்களின் எண்ணிக்கை
+303,en,ta_IN,widespread transmission,பெரியளவில் பரவுவது
+304,en,ta_IN,working from home,வீட்டில் இருந்து வேலை செய்வது
+305,en,ta_IN,WFH,வீட்டில் இருந்து வேலை செய்வது
+306,en,ta_IN,Wuhan,Wuhan

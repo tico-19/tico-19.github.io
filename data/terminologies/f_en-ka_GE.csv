@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ka_GE,1918 flu,1918 გრიპი
+2,en,ka_GE,acute bronchitis,მწვავე ბრონქიტი
+3,en,ka_GE,acute respiratory disease,მწვავე რესპირატორული დაავადება
+4,en,ka_GE,AIDS,შიდსი
+5,en,ka_GE,airborne droplets,ჰაერწვეთოვანი გზით გავრცელება
+6,en,ka_GE,airway,სასუნთქი გზები
+7,en,ka_GE,alcohol-based,სპირტზე დამზადებული
+8,en,ka_GE,alcohol-based hand rub,სპირტზე დამზადებული ხელის დასამუშავებელი საშუალება
+9,en,ka_GE,alcohol-based hand sanitizer,სპირტზე დამზადებული ხელის მადეზინფიცირებადი საშუალება
+10,en,ka_GE,alveolar disease,ალვეოკოკოზი
+11,en,ka_GE,an epidemic,ეპიდემია
+12,en,ka_GE,annual flu,ყოველწლიური გრიპი
+13,en,ka_GE,anti-inflammatory drug,ანთების საწინაღმდეგო საშუალება
+14,en,ka_GE,antiviral drug,ანტივირუსული საშუალება
+15,en,ka_GE,antiviral treatment,ანტივირუსული მკურნალობა
+16,en,ka_GE,assay,ანალიზი
+17,en,ka_GE,asymptomatic,უსიმპტომო
+18,en,ka_GE,avian flu,ფრინველის გრიპი
+19,en,ka_GE,Black Plague,შავი ჭირი
+20,en,ka_GE,blood pressure,სისხლის წნევა
+21,en,ka_GE,body fluid,სითხის დონე სხეულში
+22,en,ka_GE,breathing,სუნთქვა
+23,en,ka_GE,bubonic plague,ბუბონური შავი ჭირი
+24,en,ka_GE,c19,c19
+25,en,ka_GE,cv19,cv19
+26,en,ka_GE,case fatality rate,დაავადების ლეტალურობის მაჩვენებელი
+27,en,ka_GE,causative agent,ეტიოლოგიური ფაქტორი
+28,en,ka_GE,CDC,დაავადებათა კონტროლის ცენტრი
+29,en,ka_GE,chemical disinfection,ქიმიური დეზინფექცია
+30,en,ka_GE,chest x-ray,გულმკერდის რენტგენი
+31,en,ka_GE,clinical diagnosis,კლინიკური დიაგნოზი
+32,en,ka_GE,clinical trial,კლინიკური კვლევა
+33,en,ka_GE,close contact,ახლო კონტაქტი
+34,en,ka_GE,cvirus,c-ვირუსი
+35,en,ka_GE,chronic respiratory disease,ქრონიკული რესპირატორული დაავადება
+36,en,ka_GE,common cold,ზედა სასუნთქი გზების ვირუსული ინფექცია
+37,en,ka_GE,common flu,ჩვეულებრივი გრიპი
+38,en,ka_GE,communicable disease,ინფექციური დაავადება
+39,en,ka_GE,community spread,საზოგადოებაში გავრცელება
+40,en,ka_GE,community transmission,საზოგადოებაში გადაცემა
+41,en,ka_GE,compromised immune system,სუსტი იმუნური სისტემა
+42,en,ka_GE,contagion,ინფექციური აგენტი
+43,en,ka_GE,contagious,გადამდები
+44,en,ka_GE,contagiousness,გადამდებობა
+45,en,ka_GE,corona,კორონა
+46,en,ka_GE,corona virus,კორონა ვირუსი
+47,en,ka_GE,corona virus epidemic,კორონა ვირუსის ეპიდემია
+48,en,ka_GE,corona virus outbreak,კორონა ვირუსის ეპიდაფეთქება
+49,en,ka_GE,corona virus scare,კორონა ვირუსის შიში
+50,en,ka_GE,coronavirus,კორონავირუსი
+51,en,ka_GE,coronavirus cases,კორონავირუსის შემთხვევები
+52,en,ka_GE,coronavirus outbreak,კორონავირუსის ეპიდაფეთქება
+53,en,ka_GE,coronavirus pandemic,კორონავირუსის პანდემია
+54,en,ka_GE,coronavirus scare,კორონავირუსის შიში
+55,en,ka_GE,cough,ხველა
+56,en,ka_GE,cough etiquette,ხველის ეტიკეტი
+57,en,ka_GE,coughing,ხველება
+58,en,ka_GE,cov 19,cov 19
+59,en,ka_GE,cov19,cov19
+60,en,ka_GE,COVID,COVID
+61,en,ka_GE,COVID-19 crisis,COVID-19-ის კრიზისი
+62,en,ka_GE,covid-19,covid-19
+63,en,ka_GE,covid19,covid19
+64,en,ka_GE,COVID-19 epidemic,COVID-19-ის ეპიდემია
+65,en,ka_GE,COVID-19 outbreak,COVID-19-ის ეპიდაფეთქება
+66,en,ka_GE,COVID-19 pandemic,COVID-19-ის პანდემია
+67,en,ka_GE,COVID 19,COVID 19
+68,en,ka_GE,current crisis,მიმდინარე კრიზისი
+69,en,ka_GE,current health crisis,ჯანმრთელობის მიმდინარე კრიზისი
+70,en,ka_GE,current outbreak,მიმდინარე ეპიდაფეთქება
+71,en,ka_GE,current pandemic,მიმდინარე პანდემია
+72,en,ka_GE,CV,CV
+73,en,ka_GE,CV-19,CV-19
+74,en,ka_GE,deadly,მომაკვდინებელი
+75,en,ka_GE,deadly virus,მომაკვდინებელი ვირუსი
+76,en,ka_GE,death rate,სიკვდილიანობის კოეფიციენტი
+77,en,ka_GE,death toll,სიკვდილიანობის მაჩვენებელი
+78,en,ka_GE,decontaminate,გაუსნებოვნება
+79,en,ka_GE,detectable,გამოვლენილი
+80,en,ka_GE,detergent,გამწმენდი საშუალება
+81,en,ka_GE,difficulty breathing,სუნთქვის გაძნელება
+82,en,ka_GE,diabetes,დიაბეტი
+83,en,ka_GE,diagnosable disease,დიაგნოსტირებადი დაავადება
+84,en,ka_GE,diagnostic protocol,დიაგნოსტიკური ოქმი
+85,en,ka_GE,diagnostic testing,დიაგნოსტიკური შემოწმება
+86,en,ka_GE,disease itself,თავად დაავადება
+87,en,ka_GE,disease outbreak,დაავადების აფეთქება
+88,en,ka_GE,disinfectant,დეზინფექცია
+89,en,ka_GE,disposable,ერთჯერადი
+90,en,ka_GE,droplet transmission,წვეთოვანი გზით გადაცემა
+91,en,ka_GE,droplets,წვეთები
+92,en,ka_GE,dry cough,მშრალი ხველა
+93,en,ka_GE,dry surface contamination,მშრალი ზედაპირის დაბინძურება
+94,en,ka_GE,ebola,ებოლა
+95,en,ka_GE,effective treatment,ეფექტური მკურნალობა
+96,en,ka_GE,electron microscope,ელექტრონული მიკროსკოპი
+97,en,ka_GE,emergency department,გადაუდებელი დახმარების განყოფილება
+98,en,ka_GE,epidemic,ეპიდემია
+99,en,ka_GE,epidemic curve,ეპიდემიის მრუდი
+100,en,ka_GE,epidemic peak,ეპიდემიის პიკი
+101,en,ka_GE,epidemiologist,ეპიდემიოლოგი
+102,en,ka_GE,exposure,ზემოქმედება
+103,en,ka_GE,extreme caution,უკიდურესი სიფრთხილე
+104,en,ka_GE,eye protection,თვალების დაცვა
+105,en,ka_GE,face mask,სახის ნიღაბი
+106,en,ka_GE,face masks,სახის ნიღბები
+107,en,ka_GE,family cluster,ოჯახური კლასტერი
+108,en,ka_GE,fatality rate,ლეტალურობის მაჩვენებელი
+109,en,ka_GE,fecal contamination,სახის დაბინძურება
+110,en,ka_GE,fever,ცხელება
+111,en,ka_GE,flatten the infection curve,ინფექციის მრუდის გასწორება
+112,en,ka_GE,flu,გრიპი
+113,en,ka_GE,food safety,საკვების უსაფრთხოება
+114,en,ka_GE,formaldehyde,ფორმალდეჰიდი
+115,en,ka_GE,gastroenteritis,გასტროენტერიტი
+116,en,ka_GE,germicide,ჰერმიციდი
+117,en,ka_GE,global pandemic,გლობალური პანდემია
+118,en,ka_GE,global warming,გლობალური დათბობა
+119,en,ka_GE,good respiratory hygiene,სათანადო რესპირატორული ჰიგიენა
+120,en,ka_GE,Guangdong,გუანდუნი
+121,en,ka_GE,H1N1,H1N1
+122,en,ka_GE,H1N1 virus,H1N1 ვირუსი
+123,en,ka_GE,hand disinfectant,ხელის სადეზინფექციო საშუალება
+124,en,ka_GE,hand sanitizer,ხელის ანტისეპტიკური საშუალება
+125,en,ka_GE,health care provider,სამედიცინო დაწესებულება
+126,en,ka_GE,health crisis,ჯანმრთელობის კრიზისი
+127,en,ka_GE,health plan carrier,ჯანდაცვის გეგმის მატარებელი
+128,en,ka_GE,health services,ჯანდაცვის მომსახურებები
+129,en,ka_GE,heart failure,გულის უკმარისობა
+130,en,ka_GE,high fever,მაღალი ცხელება
+131,en,ka_GE,HIV,აივ ინფექცია
+132,en,ka_GE,hospitalize,ჰოსპიტალიზაცია
+133,en,ka_GE,household bleach,საყოფაცხოვრებო მათეთრებელი
+134,en,ka_GE,Hubei,ჰუბეი
+135,en,ka_GE,hydrogen peroxide,წყალბადის ზეჟანგი
+136,en,ka_GE,hygiene,ჰიგიენა
+137,en,ka_GE,immune system,იმუნური სისტემა
+138,en,ka_GE,immunity,იმუნიტეტი
+139,en,ka_GE,immunocompromised,დაქვეითებული იმუნიტეტით
+140,en,ka_GE,immunologist,იმუნოლოგი
+141,en,ka_GE,incubation,ინკუბაცია
+142,en,ka_GE,incubation period,ინკუბაციის პერიოდი
+143,en,ka_GE,indirect contact,არაპირდაპირი კონტაქტი
+144,en,ka_GE,infect,ინფიცირება
+145,en,ka_GE,infection,ინფექცია
+146,en,ka_GE,infectious,ინფექციური
+147,en,ka_GE,infectivity,ინფექციურობა
+148,en,ka_GE,influenza,ინფლუენზა
+149,en,ka_GE,initial transmission event,საწყისი გადაცემის მოვლენა
+150,en,ka_GE,intensive care equipment,სარეანიმაციო აღჭურვილობა
+151,en,ka_GE,intermediate host,შუამავალი მასპინძელი
+152,en,ka_GE,intrauterine,საშვილოსნოსშიდა
+153,en,ka_GE,intubation,ინტუბაცია
+154,en,ka_GE,isolation,იზოლაცია
+155,en,ka_GE,Isopropanol,იზოპროპანოლი
+156,en,ka_GE,laboratory test kit,ლაბორატორიული შემოწმების კომპლექტი
+157,en,ka_GE,laboratory testing,ლაბორატორიული შემოწმება
+158,en,ka_GE,lack of testing,შემოწმების ნაკლებობა
+159,en,ka_GE,lack of tests,ტესტების ნაკლებობა
+160,en,ka_GE,latest updates,ბოლოდროინდელი განახლებები
+161,en,ka_GE,liver failure,ღვიძლის უკმარისობა
+162,en,ka_GE,local public health authority,ჯანდაცვის ადგილობრივი უწყება
+163,en,ka_GE,lockdown,მკაცრი იზოლაცია
+164,en,ka_GE,lungs,ფილტვები
+165,en,ka_GE,masks,ნიღბები
+166,en,ka_GE,measles,წითელა
+167,en,ka_GE,mechanical ventilation,ხელოვნური ვენტილაცია
+168,en,ka_GE,media coverage,მედიით გაშუქება
+169,en,ka_GE,medical care,სამედიცინო მომსახურება
+170,en,ka_GE,MERS,MERS
+171,en,ka_GE,MERS CoV,MERS CoV
+172,en,ka_GE,microbiologist,მიკრობიოლოგი
+173,en,ka_GE,mild cough,მსუბუქი ხველა
+174,en,ka_GE,mortality rate,სიკვდილიანობის კოეფიციენტი
+175,en,ka_GE,multi-organ failure,პოლიორგანული უკმარისობა
+176,en,ka_GE,nasal congestion,ცხვირის გაჭედვა
+177,en,ka_GE,neutral detergent,ნეიტრალური გამწმენდი საშუალება
+178,en,ka_GE,new normal,ახალი ნორმები
+179,en,ka_GE,novel corona virus,ახალი კორონა ვირუსი
+180,en,ka_GE,novel coronavirus,ახალი კორონავირუსი
+181,en,ka_GE,novel coronavirus outbreak,ახალი კორონავირუსის ეპიდაფეთქება
+182,en,ka_GE,novel virus,ახალი ვირუსი
+183,en,ka_GE,online medical consultation,ონლაინ სამედიცინო კონსულტაცია
+184,en,ka_GE,onset,დაავადების მანიფესტაცია
+185,en,ka_GE,outbreak,აფეთქება
+186,en,ka_GE,outbreak readiness,აფეთქებისთვის მზაობა
+187,en,ka_GE,overall case fatality,ლეტალურობის საყოველთაო მაჩვენებელი
+188,en,ka_GE,pandemic,პანდემია
+189,en,ka_GE,pangolin,პანგოლინი
+190,en,ka_GE,pathogen,პათოგენი
+191,en,ka_GE,pathology,პათოლოგია
+192,en,ka_GE,patient care equipment,სამედიცინო მომსახურების აღჭურვილობა
+193,en,ka_GE,personal protective equipment,პერსონალის დამცავი აღჭურვილობა
+194,en,ka_GE,person-to-person transmission,ადამიანიდან ადამიანზე გადაცემა
+195,en,ka_GE,phlegm,ლორწო
+196,en,ka_GE,physical contact,ფიზიკური კონტაქტი
+197,en,ka_GE,plague,ჭირი
+198,en,ka_GE,pneumonia,პნევმონია
+199,en,ka_GE,pneumonias,პნევმონიები
+200,en,ka_GE,positive test,დადებითი ტესტი
+201,en,ka_GE,precaution,სიფრთხილე
+202,en,ka_GE,precautionary,გამაფრთხილებელი
+203,en,ka_GE,pre-existing condition,ჯანმრთელობის წინასწარ არსებული მდგომარეობა
+204,en,ka_GE,preparedness,მზაობა
+205,en,ka_GE,prognosis,პროგნოზი
+206,en,ka_GE,protect myself,ჩემი თავის დაცვა
+207,en,ka_GE,protect others,სხვების დაცვა
+208,en,ka_GE,protect yourself,საკუთარი თავის დაცვა
+209,en,ka_GE,protective measures,დამცავი ზომები
+210,en,ka_GE,public health crisis,საზოგადოებრივი ჯანმრთელობის კრიზისი
+211,en,ka_GE,pulmonary tissue damage,ფილტვის ქსოვილის დაზიანება
+212,en,ka_GE,quarantine,კარანტინი
+213,en,ka_GE,rapid risk assessment,რისკის სწრაფი შეფასება
+214,en,ka_GE,reagent,რეაგენტი
+215,en,ka_GE,regular flu,რეგულარული გრიპი
+216,en,ka_GE,reinfection,განმეორებითი ინფექცია
+217,en,ka_GE,renal disease,თირკმლის დაავადება
+218,en,ka_GE,renal failure,თირკმლის უკმარისობა
+219,en,ka_GE,respirator,რესპირატორი
+220,en,ka_GE,respiratory,რესპირატორული
+221,en,ka_GE,respiratory disease,რესპირატორული დაავადება
+222,en,ka_GE,respiratory distress,რესპირატორული აშლილობა
+223,en,ka_GE,respiratory droplets,რესპირატორული წვეთები
+224,en,ka_GE,respiratory hygiene,რესპირატორული ჰიგიენა
+225,en,ka_GE,respiratory illness,რესპირატორული დაავადება
+226,en,ka_GE,respiratory syndrome,რესპირატორული სინდრომი
+227,en,ka_GE,respiratory tract disease,სასუნთქი გზების დაავადება
+228,en,ka_GE,restrictions,შეზღუდვები
+229,en,ka_GE,resurge,ახალი ტალღა
+230,en,ka_GE,RNA,რნმ
+231,en,ka_GE,rubeola,წითურა
+232,en,ka_GE,runny nose,სურდო
+233,en,ka_GE,SARS,SARS
+234,en,ka_GE,SARS-CoV-2,SARS-CoV-2
+235,en,ka_GE,SARS-CoV,SARS-CoV
+236,en,ka_GE,sars-related coronavirus,sars-თან დაკავშირებული კორონავირუსი
+237,en,ka_GE,seasonal flu,სეზონური გრიპი
+238,en,ka_GE,seasonal influenza,სეზონური ინფლუენზა
+239,en,ka_GE,secretion,სეკრეცია
+240,en,ka_GE,self-quarantine,თვით-კარანტინი
+241,en,ka_GE,sepsis,სეპსისი
+242,en,ka_GE,septic shock,სეპტიკური შოკი
+243,en,ka_GE,Severe Acute Respiratory Syndrome,ატიპური პნევმონია
+244,en,ka_GE,shortness of breath,სუნთქვის უკმარისობა
+245,en,ka_GE,sickened,დაავადებული
+246,en,ka_GE,sickness,ავადმყოფობა
+247,en,ka_GE,sneeze,ცემინება
+248,en,ka_GE,sneezes,ცემინება
+249,en,ka_GE,sneezing,დაცემინება
+250,en,ka_GE,social distancing,სოციალური დისტანცირება
+251,en,ka_GE,sore throat,ანგინა
+252,en,ka_GE,spanish flu,ესპანური გრიპი
+253,en,ka_GE,specimen collection,სინჯების აღება
+254,en,ka_GE,spread,გავრცელება
+255,en,ka_GE,sputum,ნერწყვი
+256,en,ka_GE,stigmatisation,მარგინალიზაცია
+257,en,ka_GE,supportive,მხარდამჭერი
+258,en,ka_GE,surface,ზედაპირი
+259,en,ka_GE,surfaces,ზედაპირები
+260,en,ka_GE,suspected infection,სავარაუდო ინფექცია
+261,en,ka_GE,swab,ნაცხი
+262,en,ka_GE,swine flu,ღორის გრიპი
+263,en,ka_GE,symptom,სიმპტომი
+264,en,ka_GE,symptomatic,სიმპტომატური
+265,en,ka_GE,symptoms,სიმპტომები
+266,en,ka_GE,targeted disinfection,მიზნობრივი დეზინფექცია
+267,en,ka_GE,test kit,ტესტების კომპლექტი
+268,en,ka_GE,testing error,ტესტირების შეცდომა
+269,en,ka_GE,tissue damage,ქსოვილის დაზიანება
+270,en,ka_GE,tp shortage,tp-ის ნაკლებობა
+271,en,ka_GE,toilet paper shortage,ტუალეტის ქაღალდის ნაკლებობა
+272,en,ka_GE,touch,შეხება
+273,en,ka_GE,touching,შეხება
+274,en,ka_GE,transmissibility,გადამცემობა
+275,en,ka_GE,transmissible,გადაცემადი
+276,en,ka_GE,transmission,გადაცემა
+277,en,ka_GE,transmission potential,გადაცემის პოტენციალი
+278,en,ka_GE,typical flu,სტანდარტული გრიპი
+279,en,ka_GE,underlying disease,თანმხლები დაავადება
+280,en,ka_GE,updates,განახლებები
+281,en,ka_GE,vaccine,ვაქცინა
+282,en,ka_GE,vaccines,ვაქცინები
+283,en,ka_GE,ventilation,ვენტილაცია
+284,en,ka_GE,ventilator,სასუნთქი აპარატი
+285,en,ka_GE,ventilators,სასუნთქი აპარატები
+286,en,ka_GE,viral infection,ვირუსული ინფექცია
+287,en,ka_GE,viral outbreak,ვირუსული აფეთქება
+288,en,ka_GE,viral pandemic,ვირუსული პანდემია
+289,en,ka_GE,viral pneumonia,ვირუსული პნევმონია
+290,en,ka_GE,virtual care,ფაქტობრივი მკურნალობა
+291,en,ka_GE,virulence,ვირულენტურობა
+292,en,ka_GE,virus itself,თავად ვირუსი
+293,en,ka_GE,virus outbreak,ვირუსის აფეთქება
+294,en,ka_GE,virus scare,ვირუსის შიში
+295,en,ka_GE,virus spreads,ვირუსის გავრცელება
+296,en,ka_GE,virus strain,ვირუსის შტამი
+297,en,ka_GE,viral transmission,ვირუსის გადაცემა
+298,en,ka_GE,vivid-19,vivid-19
+299,en,ka_GE,washing hands,ხელების დაბანა
+300,en,ka_GE,washing ones hands,ცალი ხელის დაბანა
+301,en,ka_GE,wash your hands,დაიბანეთ ხელები
+302,en,ka_GE,white blood cell count,სისხლში ლეიკოციტების დონე
+303,en,ka_GE,widespread transmission,გავრცელებული გადაცემა
+304,en,ka_GE,working from home,სახლიდან მუშაობა
+305,en,ka_GE,WFH,WFH (სახლიდან მუშაობა)
+306,en,ka_GE,Wuhan,ვუჰანი

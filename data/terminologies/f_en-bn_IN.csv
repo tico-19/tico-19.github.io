@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,bn_IN,1918 flu,1918 ফ্লু
+2,en,bn_IN,acute bronchitis,তীব্র ব্রঙ্কাইটিস
+3,en,bn_IN,acute respiratory disease,তীব্র শ্বাস-প্রশ্বাস সম্বন্ধীয় রোগ
+4,en,bn_IN,AIDS,এইডস
+5,en,bn_IN,airborne droplets,বায়ুবাহিত ফোঁটা
+6,en,bn_IN,airway,আকাশপথে
+7,en,bn_IN,alcohol-based,অ্যালকোহল-ভিত্তিক
+8,en,bn_IN,alcohol-based hand rub,অ্যালকোহল-ভিত্তিক টেস্ট রাব
+9,en,bn_IN,alcohol-based hand sanitizer,অ্যালকোহল-ভিত্তিক হ্যান্ড স্যানিটাইজার
+10,en,bn_IN,alveolar disease,অ্যালভিওলার ডিজিজ
+11,en,bn_IN,an epidemic,মহামারী
+12,en,bn_IN,annual flu,বার্ষিক ফ্লু
+13,en,bn_IN,anti-inflammatory drug,প্রদান দূর করার ওষুধ
+14,en,bn_IN,antiviral drug,অ্যান্টিভাইরাল ড্রাগ
+15,en,bn_IN,antiviral treatment,অ্যান্টিভাইরাল ট্রিটমেন্ট
+16,en,bn_IN,assay,গবেষণা
+17,en,bn_IN,asymptomatic,অ্যাসিম্পটোমাটিক
+18,en,bn_IN,avian flu,এভিয়ান ফ্লু
+19,en,bn_IN,Black Plague,ব্ল্যাক প্লেগ
+20,en,bn_IN,blood pressure,ব্লাড প্রেসার
+21,en,bn_IN,body fluid,বডি ফ্লুইড
+22,en,bn_IN,breathing,ব্রিদিং
+23,en,bn_IN,bubonic plague,বুবোনিক প্লেগ
+24,en,bn_IN,c19,সি19
+25,en,bn_IN,cv19,কোভিড19
+26,en,bn_IN,case fatality rate,কেসে মৃত্যুর হার
+27,en,bn_IN,causative agent,কসাটিভ এজেন্ট
+28,en,bn_IN,CDC,সিডিসি
+29,en,bn_IN,chemical disinfection,কেমিক্যাল ডিসইনফেকশন
+30,en,bn_IN,chest x-ray,চেস্ট এক্স-রে
+31,en,bn_IN,clinical diagnosis,ক্লিনিক্যাল রোগ নির্ণয়
+32,en,bn_IN,clinical trial,ক্লিনিক্যাল ট্রায়াল
+33,en,bn_IN,close contact,ঘনিষ্ঠ যোগাযোগ
+34,en,bn_IN,cvirus,ভাইরাস
+35,en,bn_IN,chronic respiratory disease,ক্রোনিক রেসপিরেটরি ডিজিজ
+36,en,bn_IN,common cold,সাধারণ সর্দি কাশি
+37,en,bn_IN,common flu,কমন ফ্লু
+38,en,bn_IN,communicable disease,কমিউনিকেবল ডিজিজ
+39,en,bn_IN,community spread,কমিউনিটিতে ছড়িয়ে পড়া
+40,en,bn_IN,community transmission,কমিউনিটি ট্রান্সমিশন
+41,en,bn_IN,compromised immune system,কম্প্রোমাইজড ইমিউন সিস্টেম
+42,en,bn_IN,contagion,রোগসংক্রমণ
+43,en,bn_IN,contagious,সংক্রামক
+44,en,bn_IN,contagiousness,সংক্রমণ
+45,en,bn_IN,corona,করোনা
+46,en,bn_IN,corona virus,করোনা ভাইরাস
+47,en,bn_IN,corona virus epidemic,করোনাভাইরাস মহামারী
+48,en,bn_IN,corona virus outbreak,করোনাভাইরাসের প্রাদুর্ভাব
+49,en,bn_IN,corona virus scare,করোনাভাইরাসের ভয়
+50,en,bn_IN,coronavirus,করোনাভাইরাস
+51,en,bn_IN,coronavirus cases,করোনাভাইরাসে আক্রান্ত
+52,en,bn_IN,coronavirus outbreak,করোনাভাইরাস ছড়িয়ে পড়া
+53,en,bn_IN,coronavirus pandemic,করোনাভাইরাস অতিমারী
+54,en,bn_IN,coronavirus scare,করোনাভাইরাসের ত্রাস
+55,en,bn_IN,cough,কাশি
+56,en,bn_IN,cough etiquette,কীভাবে কাশবেন
+57,en,bn_IN,coughing,কাশি হওয়া
+58,en,bn_IN,cov 19,কোভিড 19
+59,en,bn_IN,cov19,কোভিড19
+60,en,bn_IN,COVID,কোভিড
+61,en,bn_IN,COVID-19 crisis,কোভিড-19 ক্রাইসিস
+62,en,bn_IN,covid-19,কোভিড-19
+63,en,bn_IN,covid19,কোভিড19
+64,en,bn_IN,COVID-19 epidemic,কোভিড-19 মহামারী
+65,en,bn_IN,COVID-19 outbreak,কোভিড-19 ছড়িয়ে পড়া
+66,en,bn_IN,COVID-19 pandemic,কোভিড-19 অতিমারী
+67,en,bn_IN,COVID 19,কোভিড 19
+68,en,bn_IN,current crisis,বর্তমান সংকট
+69,en,bn_IN,current health crisis,বর্তমান স্বাস্থ্য সংকট
+70,en,bn_IN,current outbreak,বর্তমান প্রকোপ
+71,en,bn_IN,current pandemic,বর্তমান মহামারী
+72,en,bn_IN,CV,কোভিড
+73,en,bn_IN,CV-19,কোভিড-19
+74,en,bn_IN,deadly,মারাত্মক
+75,en,bn_IN,deadly virus,মারাত্মক ভাইরাস
+76,en,bn_IN,death rate,মৃত্যুর হার
+77,en,bn_IN,death toll,ডেথ টোল
+78,en,bn_IN,decontaminate,সংক্রমণমুক্ত করা
+79,en,bn_IN,detectable,নির্ধারণযোগ্য
+80,en,bn_IN,detergent,ডিটারজেন্ট
+81,en,bn_IN,difficulty breathing,শ্বাস নিতে সমস্যা
+82,en,bn_IN,diabetes,ডায়াবেটিস
+83,en,bn_IN,diagnosable disease,রোগ নির্ণয়যোগ্য
+84,en,bn_IN,diagnostic protocol,ডায়াগোনস্টিক প্রোটোকল
+85,en,bn_IN,diagnostic testing,ডায়াগোনস্টিক টেস্টিং
+86,en,bn_IN,disease itself,এটাই রোগ
+87,en,bn_IN,disease outbreak,রোগ ছড়ানো
+88,en,bn_IN,disinfectant,ডিসইনফেকট্যান্ট
+89,en,bn_IN,disposable,ডিসপোজেবল
+90,en,bn_IN,droplet transmission,ড্রপলেট ট্রান্সমিশন
+91,en,bn_IN,droplets,ড্রপলেট
+92,en,bn_IN,dry cough,শুকনো কাশি
+93,en,bn_IN,dry surface contamination,ড্রাই সারফেসে দূষণ
+94,en,bn_IN,ebola,ইবোলা
+95,en,bn_IN,effective treatment,কার্যকর চিকিৎসা
+96,en,bn_IN,electron microscope,ইলেকট্রন মাইক্রোস্কোপ
+97,en,bn_IN,emergency department,এমার্জেন্সি ডিপার্টমেন্ট
+98,en,bn_IN,epidemic,মহামারী
+99,en,bn_IN,epidemic curve,এপিডেমিক কার্ভ
+100,en,bn_IN,epidemic peak,মহামারীর সর্বাধিক সীমা
+101,en,bn_IN,epidemiologist,এপডিমিওলজিস্ট
+102,en,bn_IN,exposure,এক্সপ্লোজার
+103,en,bn_IN,extreme caution,চরম সাবধানতা
+104,en,bn_IN,eye protection,চোখের সুরক্ষা
+105,en,bn_IN,face mask,ফেস মাস্ক
+106,en,bn_IN,face masks,ফেস মাস্কগুলো
+107,en,bn_IN,family cluster,ফ্যামিলি ক্লাস্টার
+108,en,bn_IN,fatality rate,ফেটালিটি রেট
+109,en,bn_IN,fecal contamination,ফেকাল কন্টামিনেশন
+110,en,bn_IN,fever,জ্বর
+111,en,bn_IN,flatten the infection curve,সংক্রমণের বক্ররেখা সমতল করা
+112,en,bn_IN,flu,ফ্লু
+113,en,bn_IN,food safety,খাদ্যে নিরাপত্তা
+114,en,bn_IN,formaldehyde,ফর্মালডিহাইড
+115,en,bn_IN,gastroenteritis,গ্যাস্ট্রোএন্টারাটাইটিস
+116,en,bn_IN,germicide,জীবাণুনাশক
+117,en,bn_IN,global pandemic,বিশ্বব্যাপী মহামারী
+118,en,bn_IN,global warming,বৈশ্বিক উষ্ণতা
+119,en,bn_IN,good respiratory hygiene,ভালো রেসপিরেটরি হাইজিন
+120,en,bn_IN,Guangdong,গুয়াংডং
+121,en,bn_IN,H1N1,এইচওয়ানএনওয়ান
+122,en,bn_IN,H1N1 virus,এইচওয়ানএনওয়ান ভাইরাস
+123,en,bn_IN,hand disinfectant,হ্যান্ড ডিসইনফেকট্যান্ট
+124,en,bn_IN,hand sanitizer,হ্যান্ড স্যানিটাইজার
+125,en,bn_IN,health care provider,হেলথ কেয়ার প্রভাইডার
+126,en,bn_IN,health crisis,স্বাস্থ্য সংকট
+127,en,bn_IN,health plan carrier,হেলথ প্ল্যান কেরিয়ার
+128,en,bn_IN,health services,হেলথ সার্ভিস
+129,en,bn_IN,heart failure,হৃদস্পন্দন বন্ধ হওয়া
+130,en,bn_IN,high fever,খুব জ্বর
+131,en,bn_IN,HIV,এইচআইভি
+132,en,bn_IN,hospitalize,হাসপাতালে
+133,en,bn_IN,household bleach,ঘরের ব্লিচ
+134,en,bn_IN,Hubei,হুবেই
+135,en,bn_IN,hydrogen peroxide,হাইড্রোজেন পারঅক্সাইড
+136,en,bn_IN,hygiene,হাইজিন
+137,en,bn_IN,immune system,ইমিউন সিস্টেম
+138,en,bn_IN,immunity,ইমিউনিটি
+139,en,bn_IN,immunocompromised,ইমিউনোকম্প্রোমাইজড
+140,en,bn_IN,immunologist,ইমিউনোলজিস্ট
+141,en,bn_IN,incubation,ইনকিউবেশন
+142,en,bn_IN,incubation period,ইনকিউবেশনের মেয়াদ
+143,en,bn_IN,indirect contact,ইনডাইরেক্ট কন্ট্যাক্ট
+144,en,bn_IN,infect,সংক্রামিত করা
+145,en,bn_IN,infection,সংক্রমণ
+146,en,bn_IN,infectious,সংক্রামক
+147,en,bn_IN,infectivity,ইনফেকটিভিটি
+148,en,bn_IN,influenza,ইনফ্লুয়েঞ্জা
+149,en,bn_IN,initial transmission event,প্রাথমিক সংক্রমণের ঘটনা
+150,en,bn_IN,intensive care equipment,ইনটেনসিভ কেয়ারের উপকরণ
+151,en,bn_IN,intermediate host,ইমিডিয়েট হোস্ট
+152,en,bn_IN,intrauterine,জরায়ুর ভিতরে
+153,en,bn_IN,intubation,ইনটিউবেশন
+154,en,bn_IN,isolation,আইসোলেশন
+155,en,bn_IN,Isopropanol,আইসোপ্রোপ্যানল
+156,en,bn_IN,laboratory test kit,ল্যাবরেটরি টেস্ট কিট
+157,en,bn_IN,laboratory testing,ল্যাবরেটরি টেস্টিং
+158,en,bn_IN,lack of testing,পরীক্ষার অভাব
+159,en,bn_IN,lack of tests,টেস্ট কেন্দ্রের অভাব
+160,en,bn_IN,latest updates,সর্বশেষ আপডেট
+161,en,bn_IN,liver failure,লিভার ফেলিওর
+162,en,bn_IN,local public health authority,স্থানীয় জনস্বাস্থ্য কর্তৃপক্ষ
+163,en,bn_IN,lockdown,লকডাউন
+164,en,bn_IN,lungs,ফুসফুস
+165,en,bn_IN,masks,মাস্ক
+166,en,bn_IN,measles,হাম
+167,en,bn_IN,mechanical ventilation,মেকানিক্যাল ভেন্টিলেশন
+168,en,bn_IN,media coverage,মিডিয়া কভারেজ
+169,en,bn_IN,medical care,মেডিক্যাল কেয়ার
+170,en,bn_IN,MERS,মার্স
+171,en,bn_IN,MERS CoV,মার্স কোভ
+172,en,bn_IN,microbiologist,মাইক্রোবায়োলজিস্ট
+173,en,bn_IN,mild cough,অল্প কাফ
+174,en,bn_IN,mortality rate,মৃত্যুর হার
+175,en,bn_IN,multi-organ failure,একাধিক-অঙ্গ বিকল হওয়া
+176,en,bn_IN,nasal congestion,ন্যাসাল কনজেসন
+177,en,bn_IN,neutral detergent,নিউট্রাল ডিটারজেন্ট
+178,en,bn_IN,new normal,নিউ নর্মাল
+179,en,bn_IN,novel corona virus,নোভাল করোনাভাইরাস
+180,en,bn_IN,novel coronavirus,নোভা করোনাভাইরাস
+181,en,bn_IN,novel coronavirus outbreak,নোভাল করোনাভাইরাস ছড়িয়ে পড়া
+182,en,bn_IN,novel virus,নোভাল ভাইরাস
+183,en,bn_IN,online medical consultation,অনলাইন মেডিক্যাল কনসালটেশন
+184,en,bn_IN,onset,রোগের সূত্রপাত
+185,en,bn_IN,outbreak,ছড়িয়ে পড়া
+186,en,bn_IN,outbreak readiness,প্রাদুর্ভাবের প্রস্তুতি
+187,en,bn_IN,overall case fatality,সামগ্রিক মৃত্যুর হার
+188,en,bn_IN,pandemic,অতিমারী
+189,en,bn_IN,pangolin,প্যাঙ্গোলিন
+190,en,bn_IN,pathogen,প্যাথোজেন
+191,en,bn_IN,pathology,প্যাথোলজি
+192,en,bn_IN,patient care equipment,রোগীদের দেখাশোনার উপকরণ
+193,en,bn_IN,personal protective equipment,ব্যক্তিগত সুরক্ষার উপকরণ
+194,en,bn_IN,person-to-person transmission,পার্সন-টু-পার্সন ট্রান্সমিশন
+195,en,bn_IN,phlegm,কফ
+196,en,bn_IN,physical contact,ফিজিক্যাল কন্ট্যাক্ট
+197,en,bn_IN,plague,প্লেগ
+198,en,bn_IN,pneumonia,নিউমোনিয়া
+199,en,bn_IN,pneumonias,নিউমোনিয়াস
+200,en,bn_IN,positive test,পজিটিভ টেস্ট
+201,en,bn_IN,precaution,সতর্কতা
+202,en,bn_IN,precautionary,সতর্কতা
+203,en,bn_IN,pre-existing condition,আগে থেকে যে লক্ষ্ণণ বিদ্যমান ছিল
+204,en,bn_IN,preparedness,প্রস্তুতিমূলক
+205,en,bn_IN,prognosis,রোগের লক্ষ্ণণ
+206,en,bn_IN,protect myself,আমার সুরক্ষা
+207,en,bn_IN,protect others,অন্যের সুরক্ষা
+208,en,bn_IN,protect yourself,নিজের সুরক্ষা
+209,en,bn_IN,protective measures,সুরক্ষার পদ্ধতি
+210,en,bn_IN,public health crisis,জন স্বাস্থ্যের সংকট
+211,en,bn_IN,pulmonary tissue damage,ফুসফুস টিস্যুর ক্ষতি
+212,en,bn_IN,quarantine,কোয়ারেন্টিন
+213,en,bn_IN,rapid risk assessment,দ্রুত ঝুঁকি মূল্যায়ন
+214,en,bn_IN,reagent,বিকারক
+215,en,bn_IN,regular flu,রেগুলার ফ্লু
+216,en,bn_IN,reinfection,আবার সংক্রমণ
+217,en,bn_IN,renal disease,মূত্রাশয় সম্বন্ধীয় ব্যাধি
+218,en,bn_IN,renal failure,রেনাল ফেলিউর
+219,en,bn_IN,respirator,রেসপিরেটর
+220,en,bn_IN,respiratory,রেসপিরেটরি
+221,en,bn_IN,respiratory disease,রেসপিরেটরি ডিজিজ
+222,en,bn_IN,respiratory distress,রেসপিরেটরি ডিসট্রেস
+223,en,bn_IN,respiratory droplets,রেসপিরেটরি ড্রপলেটস
+224,en,bn_IN,respiratory hygiene,রেসপিরেটরি হাইজিন
+225,en,bn_IN,respiratory illness,শ্বাসকষ্ট
+226,en,bn_IN,respiratory syndrome,রেসপিরেটরি সিনড্রোম
+227,en,bn_IN,respiratory tract disease,শ্বাস নালীর রোগ
+228,en,bn_IN,restrictions,সীমাবদ্ধতা
+229,en,bn_IN,resurge,রিসার্জ
+230,en,bn_IN,RNA,আরএনএ
+231,en,bn_IN,rubeola,রিবোলা
+232,en,bn_IN,runny nose,নাক দিয়ে জল পড়া
+233,en,bn_IN,SARS,সার্স
+234,en,bn_IN,SARS-CoV-2,সার্স-কোভ-2
+235,en,bn_IN,SARS-CoV,সার্স-কোভ
+236,en,bn_IN,sars-related coronavirus,সার্স-সংক্রান্ত করোনাভাইরাস
+237,en,bn_IN,seasonal flu,সিজনাল ফ্লু
+238,en,bn_IN,seasonal influenza,সিজনাল ইনফ্লুয়েঞ্জা
+239,en,bn_IN,secretion,সিক্রেশন
+240,en,bn_IN,self-quarantine,সেলফ-কোয়ারেন্টিন
+241,en,bn_IN,sepsis,সেপসিস
+242,en,bn_IN,septic shock,সেপ্টিক শক
+243,en,bn_IN,Severe Acute Respiratory Syndrome,শ্বাসযন্ত্রের কিছু তীব্র লক্ষণ
+244,en,bn_IN,shortness of breath,শ্বাসকষ্ট
+245,en,bn_IN,sickened,অসুস্থ
+246,en,bn_IN,sickness,অসুস্থতা
+247,en,bn_IN,sneeze,হাঁচি
+248,en,bn_IN,sneezes,হাঁচি
+249,en,bn_IN,sneezing,হাঁচি দেওয়া
+250,en,bn_IN,social distancing,সামাজিক দূরত্ব
+251,en,bn_IN,sore throat,গলা ব্যথা
+252,en,bn_IN,spanish flu,স্প্যানিশ ফ্লু
+253,en,bn_IN,specimen collection,নমুনা সংগ্রহ
+254,en,bn_IN,spread,বিস্তার
+255,en,bn_IN,sputum,থুতু
+256,en,bn_IN,stigmatisation,কলঙ্ক
+257,en,bn_IN,supportive,সহায়ক
+258,en,bn_IN,surface,সারফেস
+259,en,bn_IN,surfaces,সারফেস
+260,en,bn_IN,suspected infection,সন্দেহযুক্ত সংক্রমণ
+261,en,bn_IN,swab,সোয়াব
+262,en,bn_IN,swine flu,সোয়াইন ফ্লু
+263,en,bn_IN,symptom,লক্ষ্ণণ
+264,en,bn_IN,symptomatic,লক্ষ্ণণ যুক্ত
+265,en,bn_IN,symptoms,লক্ষ্ণণ
+266,en,bn_IN,targeted disinfection,টাগেটেড ডিসইনফেকশন
+267,en,bn_IN,test kit,টেস্ট কিট
+268,en,bn_IN,testing error,টেস্টিংয়ের সমস্যা
+269,en,bn_IN,tissue damage,টিস্যু ডেমেজ
+270,en,bn_IN,tp shortage,টিপি শর্টেজ
+271,en,bn_IN,toilet paper shortage,টয়লেট পেপারের শর্টেজ
+272,en,bn_IN,touch,স্পর্শ
+273,en,bn_IN,touching,স্পর্শ করা
+274,en,bn_IN,transmissibility,ট্রান্সমিসিবিলিটি
+275,en,bn_IN,transmissible,ট্রান্সমিসিবল
+276,en,bn_IN,transmission,ট্রান্সমিশন
+277,en,bn_IN,transmission potential,সংক্রমণের সম্ভাবনা
+278,en,bn_IN,typical flu,টিপিক্যাল ফ্লু
+279,en,bn_IN,underlying disease,অন্তর্নিহিত রোগ
+280,en,bn_IN,updates,আপডেট
+281,en,bn_IN,vaccine,ভ্যাকসিন
+282,en,bn_IN,vaccines,ভ্যাকসিন
+283,en,bn_IN,ventilation,ভেন্টিলেশন
+284,en,bn_IN,ventilator,ভেন্টিলেটর
+285,en,bn_IN,ventilators,ভেন্টিলেটর্স
+286,en,bn_IN,viral infection,ভাইরাল ইনফেকশন
+287,en,bn_IN,viral outbreak,ভাইরালভাবে ছড়ানো
+288,en,bn_IN,viral pandemic,ভাইরাল প্যানডেমিক
+289,en,bn_IN,viral pneumonia,ভাইরাল নিউমোনিয়া
+290,en,bn_IN,virtual care,ভার্চুয়াল কেয়ার
+291,en,bn_IN,virulence,অত্যধিক তীব্রতা
+292,en,bn_IN,virus itself,এটি ভাইরাস
+293,en,bn_IN,virus outbreak,ভাইরাসের প্রাদুর্ভাব
+294,en,bn_IN,virus scare,ভাইরাসের ভয়
+295,en,bn_IN,virus spreads,ভাইরাস ছড়ানো
+296,en,bn_IN,virus strain,ভাইরাস জনিত মানসিক চাপ
+297,en,bn_IN,viral transmission,ভাইরাল ট্রান্সমিশন
+298,en,bn_IN,vivid-19,ভিভিড-19
+299,en,bn_IN,washing hands,হাত ধোওয়া
+300,en,bn_IN,washing ones hands,হাত ধোওয়া
+301,en,bn_IN,wash your hands,আপনার হাত ধুন
+302,en,bn_IN,white blood cell count,শ্বেত রক্ত কণিকার কাউন্ট
+303,en,bn_IN,widespread transmission,বিস্তৃত সংক্রমণ
+304,en,bn_IN,working from home,বাড়ি থেকে কাজ করা
+305,en,bn_IN,WFH,ওয়ার্ক ফ্রম হোম
+306,en,bn_IN,Wuhan,উহান

@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ja_XX,1918 flu,1918 年インフルエンザ
+2,en,ja_XX,acute bronchitis,急性気管支炎
+3,en,ja_XX,acute respiratory disease,急性呼吸器疾患
+4,en,ja_XX,AIDS,エイズ
+5,en,ja_XX,airborne droplets,飛沫
+6,en,ja_XX,airway,気道
+7,en,ja_XX,alcohol-based,アルコールベース
+8,en,ja_XX,alcohol-based hand rub,アルコールベースの手指消毒剤
+9,en,ja_XX,alcohol-based hand sanitizer,アルコールベースのハンドサニタイザー
+10,en,ja_XX,alveolar disease,肺胞疾患
+11,en,ja_XX,an epidemic,伝染病
+12,en,ja_XX,annual flu,毎年のインフルエンザ
+13,en,ja_XX,anti-inflammatory drug,抗炎症薬
+14,en,ja_XX,antiviral drug,抗ウイルス薬
+15,en,ja_XX,antiviral treatment,抗ウイルス治療
+16,en,ja_XX,assay,試験
+17,en,ja_XX,asymptomatic,無症候性
+18,en,ja_XX,avian flu,鳥インフルエンザ
+19,en,ja_XX,Black Plague,黒死病
+20,en,ja_XX,blood pressure,血圧
+21,en,ja_XX,body fluid,体液
+22,en,ja_XX,breathing,呼吸
+23,en,ja_XX,bubonic plague,腺ペスト
+24,en,ja_XX,c19,c19
+25,en,ja_XX,cv19,cv19
+26,en,ja_XX,case fatality rate,致死率
+27,en,ja_XX,causative agent,原因物質
+28,en,ja_XX,CDC,疾病管理予防センター
+29,en,ja_XX,chemical disinfection,化学消毒
+30,en,ja_XX,chest x-ray,胸部レントゲン
+31,en,ja_XX,clinical diagnosis,臨床診断
+32,en,ja_XX,clinical trial,臨床試験
+33,en,ja_XX,close contact,濃厚接触
+34,en,ja_XX,cvirus,C ウィルス
+35,en,ja_XX,chronic respiratory disease,慢性呼吸器疾患
+36,en,ja_XX,common cold,流行性感冒
+37,en,ja_XX,common flu,流行性インフルエンザ
+38,en,ja_XX,communicable disease,感染性疾患
+39,en,ja_XX,community spread,地域感染
+40,en,ja_XX,community transmission,地域感染
+41,en,ja_XX,compromised immune system,免疫不全
+42,en,ja_XX,contagion,接触伝染
+43,en,ja_XX,contagious,伝染性
+44,en,ja_XX,contagiousness,伝染性
+45,en,ja_XX,corona,コロナ
+46,en,ja_XX,corona virus,コロナウイルス
+47,en,ja_XX,corona virus epidemic,コロナウイルス伝染病
+48,en,ja_XX,corona virus outbreak,コロナウイルスの流行
+49,en,ja_XX,corona virus scare,コロナウイルスの恐怖
+50,en,ja_XX,coronavirus,コロナウイルス
+51,en,ja_XX,coronavirus cases,コロナウイルスのケース
+52,en,ja_XX,coronavirus outbreak,コロナウイルスの流行
+53,en,ja_XX,coronavirus pandemic,コロナウイルスパンデミック
+54,en,ja_XX,coronavirus scare,コロナウイルスの恐怖
+55,en,ja_XX,cough,咳
+56,en,ja_XX,cough etiquette,咳に関するエチケット
+57,en,ja_XX,coughing,咳
+58,en,ja_XX,cov 19,cov 19
+59,en,ja_XX,cov19,cov19
+60,en,ja_XX,COVID,COVID
+61,en,ja_XX,COVID-19 crisis,COVID-19 による危機
+62,en,ja_XX,covid-19,covid-19
+63,en,ja_XX,covid19,covid19
+64,en,ja_XX,COVID-19 epidemic,COVID-19 伝染病
+65,en,ja_XX,COVID-19 outbreak,COVID-19 の流行
+66,en,ja_XX,COVID-19 pandemic,COVID-19 パンデミック
+67,en,ja_XX,COVID 19,COVID 19
+68,en,ja_XX,current crisis,現在の危機
+69,en,ja_XX,current health crisis,現在の医療危機
+70,en,ja_XX,current outbreak,現在の伝染病流行
+71,en,ja_XX,current pandemic,現在のパンデミック
+72,en,ja_XX,CV,CV
+73,en,ja_XX,CV-19,CV-19
+74,en,ja_XX,deadly,致命的
+75,en,ja_XX,deadly virus,致命的ウイルス
+76,en,ja_XX,death rate,死亡率
+77,en,ja_XX,death toll,死亡者数
+78,en,ja_XX,decontaminate,消毒
+79,en,ja_XX,detectable,検出可能
+80,en,ja_XX,detergent,洗剤
+81,en,ja_XX,difficulty breathing,呼吸困難
+82,en,ja_XX,diabetes,糖尿病
+83,en,ja_XX,diagnosable disease,診断可能な疾患
+84,en,ja_XX,diagnostic protocol,診断プロトコル
+85,en,ja_XX,diagnostic testing,診断的検査
+86,en,ja_XX,disease itself,病気自体
+87,en,ja_XX,disease outbreak,病気の流行
+88,en,ja_XX,disinfectant,消毒剤
+89,en,ja_XX,disposable,使い捨て
+90,en,ja_XX,droplet transmission,飛沫感染
+91,en,ja_XX,droplets,飛沫
+92,en,ja_XX,dry cough,空咳
+93,en,ja_XX,dry surface contamination,乾燥表面の汚染
+94,en,ja_XX,ebola,エボラ
+95,en,ja_XX,effective treatment,効果的治療法
+96,en,ja_XX,electron microscope,電子顕微鏡
+97,en,ja_XX,emergency department,救急科
+98,en,ja_XX,epidemic,伝染病
+99,en,ja_XX,epidemic curve,流行曲線
+100,en,ja_XX,epidemic peak,流行のピーク
+101,en,ja_XX,epidemiologist,疫学者
+102,en,ja_XX,exposure,接触
+103,en,ja_XX,extreme caution,細心の注意
+104,en,ja_XX,eye protection,保護めがね
+105,en,ja_XX,face mask,フェイスマスク
+106,en,ja_XX,face masks,フェイスマスク
+107,en,ja_XX,family cluster,家系内多発
+108,en,ja_XX,fatality rate,致死率
+109,en,ja_XX,fecal contamination,糞便汚染
+110,en,ja_XX,fever,熱
+111,en,ja_XX,flatten the infection curve,感染者数の抑制
+112,en,ja_XX,flu,インフルエンザ
+113,en,ja_XX,food safety,食品の安全性
+114,en,ja_XX,formaldehyde,ホルムアルデヒド
+115,en,ja_XX,gastroenteritis,胃腸炎
+116,en,ja_XX,germicide,殺菌剤
+117,en,ja_XX,global pandemic,世界的パンデミック
+118,en,ja_XX,global warming,地球温暖化
+119,en,ja_XX,good respiratory hygiene,良い呼吸器衛生習慣
+120,en,ja_XX,Guangdong,広東
+121,en,ja_XX,H1N1,H1N1
+122,en,ja_XX,H1N1 virus,H1N1 ウィルス
+123,en,ja_XX,hand disinfectant,手指消毒剤
+124,en,ja_XX,hand sanitizer,ハンドサニタイザー
+125,en,ja_XX,health care provider,医療提供者
+126,en,ja_XX,health crisis,医療危機
+127,en,ja_XX,health plan carrier,健康保険会社
+128,en,ja_XX,health services,医療サービス
+129,en,ja_XX,heart failure,心不全
+130,en,ja_XX,high fever,高熱
+131,en,ja_XX,HIV,HIV
+132,en,ja_XX,hospitalize,入院
+133,en,ja_XX,household bleach,家庭用漂白剤
+134,en,ja_XX,Hubei,湖北
+135,en,ja_XX,hydrogen peroxide,過酸化水素
+136,en,ja_XX,hygiene,衛生
+137,en,ja_XX,immune system,免疫系
+138,en,ja_XX,immunity,免疫
+139,en,ja_XX,immunocompromised,免疫不全
+140,en,ja_XX,immunologist,免疫学者
+141,en,ja_XX,incubation,潜伏
+142,en,ja_XX,incubation period,潜伏期間
+143,en,ja_XX,indirect contact,間接接触
+144,en,ja_XX,infect,感染
+145,en,ja_XX,infection,感染症
+146,en,ja_XX,infectious,感染性
+147,en,ja_XX,infectivity,感染力
+148,en,ja_XX,influenza,インフルエンザ
+149,en,ja_XX,initial transmission event,初期感染
+150,en,ja_XX,intensive care equipment,集中治療装置
+151,en,ja_XX,intermediate host,中間宿主
+152,en,ja_XX,intrauterine,子宮内
+153,en,ja_XX,intubation,挿管
+154,en,ja_XX,isolation,隔離
+155,en,ja_XX,Isopropanol,イソプロパノール
+156,en,ja_XX,laboratory test kit,臨床検査キット
+157,en,ja_XX,laboratory testing,臨床検査
+158,en,ja_XX,lack of testing,検査キットの不足
+159,en,ja_XX,lack of tests,検査の不足
+160,en,ja_XX,latest updates,最新情報
+161,en,ja_XX,liver failure,肝不全
+162,en,ja_XX,local public health authority,地方公共保健機関
+163,en,ja_XX,lockdown,外出禁止令
+164,en,ja_XX,lungs,肺
+165,en,ja_XX,masks,マスク
+166,en,ja_XX,measles,麻疹
+167,en,ja_XX,mechanical ventilation,人工呼吸
+168,en,ja_XX,media coverage,報道
+169,en,ja_XX,medical care,医療
+170,en,ja_XX,MERS,MERS
+171,en,ja_XX,MERS CoV,MERS CoV
+172,en,ja_XX,microbiologist,微生物学者
+173,en,ja_XX,mild cough,軽度の咳
+174,en,ja_XX,mortality rate,死亡率
+175,en,ja_XX,multi-organ failure,多臓器不全
+176,en,ja_XX,nasal congestion,鼻づまり
+177,en,ja_XX,neutral detergent,中性洗剤
+178,en,ja_XX,new normal,新しい標準
+179,en,ja_XX,novel corona virus,新型コロナウイルス
+180,en,ja_XX,novel coronavirus,新型コロナウイルス
+181,en,ja_XX,novel coronavirus outbreak,新型コロナウイルスの流行
+182,en,ja_XX,novel virus,新型ウィルス
+183,en,ja_XX,online medical consultation,オンライン医療相談
+184,en,ja_XX,onset,発症
+185,en,ja_XX,outbreak,流行
+186,en,ja_XX,outbreak readiness,流行対策
+187,en,ja_XX,overall case fatality,全体的致死率
+188,en,ja_XX,pandemic,パンデミック
+189,en,ja_XX,pangolin,センザンコウ
+190,en,ja_XX,pathogen,病原体
+191,en,ja_XX,pathology,病理学
+192,en,ja_XX,patient care equipment,医療機器
+193,en,ja_XX,personal protective equipment,個人用保護具
+194,en,ja_XX,person-to-person transmission,人から人への感染
+195,en,ja_XX,phlegm,痰
+196,en,ja_XX,physical contact,物理的接触
+197,en,ja_XX,plague,疫病
+198,en,ja_XX,pneumonia,肺炎
+199,en,ja_XX,pneumonias,肺炎
+200,en,ja_XX,positive test,陽性の検査結果
+201,en,ja_XX,precaution,予防策
+202,en,ja_XX,precautionary,予防的
+203,en,ja_XX,pre-existing condition,持病
+204,en,ja_XX,preparedness,準備体制
+205,en,ja_XX,prognosis,予測
+206,en,ja_XX,protect myself,自分を守る
+207,en,ja_XX,protect others,他人を守る
+208,en,ja_XX,protect yourself,自身を守る
+209,en,ja_XX,protective measures,保護措置
+210,en,ja_XX,public health crisis,公衆衛生の危機
+211,en,ja_XX,pulmonary tissue damage,肺組織の損傷
+212,en,ja_XX,quarantine,検疫
+213,en,ja_XX,rapid risk assessment,迅速なリスク評価
+214,en,ja_XX,reagent,試薬
+215,en,ja_XX,regular flu,一般的なインフルエンザ
+216,en,ja_XX,reinfection,再感染
+217,en,ja_XX,renal disease,腎疾患
+218,en,ja_XX,renal failure,腎不全
+219,en,ja_XX,respirator,人工呼吸器
+220,en,ja_XX,respiratory,呼吸器
+221,en,ja_XX,respiratory disease,呼吸器疾患
+222,en,ja_XX,respiratory distress,呼吸困難
+223,en,ja_XX,respiratory droplets,飛沫
+224,en,ja_XX,respiratory hygiene,呼吸器衛生
+225,en,ja_XX,respiratory illness,呼吸器系の病気
+226,en,ja_XX,respiratory syndrome,呼吸器症候群
+227,en,ja_XX,respiratory tract disease,呼吸器疾患
+228,en,ja_XX,restrictions,制限
+229,en,ja_XX,resurge,再上昇
+230,en,ja_XX,RNA,RNA
+231,en,ja_XX,rubeola,麻疹
+232,en,ja_XX,runny nose,鼻水
+233,en,ja_XX,SARS,SARS
+234,en,ja_XX,SARS-CoV-2,SARS-CoV-2
+235,en,ja_XX,SARS-CoV,SARS-CoV
+236,en,ja_XX,sars-related coronavirus,SARS 関連コロナウィルス
+237,en,ja_XX,seasonal flu,季節性インフルエンザ
+238,en,ja_XX,seasonal influenza,季節性インフルエンザ
+239,en,ja_XX,secretion,分泌
+240,en,ja_XX,self-quarantine,自己隔離
+241,en,ja_XX,sepsis,敗血症
+242,en,ja_XX,septic shock,敗血症性ショック
+243,en,ja_XX,Severe Acute Respiratory Syndrome,重症急性呼吸器症候群
+244,en,ja_XX,shortness of breath,息切れ
+245,en,ja_XX,sickened,病気になる
+246,en,ja_XX,sickness,病気
+247,en,ja_XX,sneeze,くしゃみ
+248,en,ja_XX,sneezes,くしゃみ
+249,en,ja_XX,sneezing,くしゃみ
+250,en,ja_XX,social distancing,ソーシャルディスタンシング
+251,en,ja_XX,sore throat,のどの痛み
+252,en,ja_XX,spanish flu,スペイン風邪
+253,en,ja_XX,specimen collection,検体採取
+254,en,ja_XX,spread,まん延
+255,en,ja_XX,sputum,つば
+256,en,ja_XX,stigmatisation,標徴形成
+257,en,ja_XX,supportive,協力的
+258,en,ja_XX,surface,表面
+259,en,ja_XX,surfaces,表面
+260,en,ja_XX,suspected infection,感染の疑い
+261,en,ja_XX,swab,綿棒
+262,en,ja_XX,swine flu,豚インフルエンザ
+263,en,ja_XX,symptom,症状
+264,en,ja_XX,symptomatic,症候性
+265,en,ja_XX,symptoms,症状
+266,en,ja_XX,targeted disinfection,集中消毒
+267,en,ja_XX,test kit,検査キット
+268,en,ja_XX,testing error,検査エラー
+269,en,ja_XX,tissue damage,組織の損傷
+270,en,ja_XX,tp shortage,トイレットペーパー不足
+271,en,ja_XX,toilet paper shortage,トイレットペーパー不足
+272,en,ja_XX,touch,接触
+273,en,ja_XX,touching,接触
+274,en,ja_XX,transmissibility,感染力
+275,en,ja_XX,transmissible,感染性
+276,en,ja_XX,transmission,感染
+277,en,ja_XX,transmission potential,感染の可能性
+278,en,ja_XX,typical flu,典型的なインフルエンザ
+279,en,ja_XX,underlying disease,基礎疾患
+280,en,ja_XX,updates,最新情報
+281,en,ja_XX,vaccine,ワクチン
+282,en,ja_XX,vaccines,ワクチン
+283,en,ja_XX,ventilation,換気
+284,en,ja_XX,ventilator,人工呼吸器
+285,en,ja_XX,ventilators,人工呼吸器
+286,en,ja_XX,viral infection,ウイルス感染
+287,en,ja_XX,viral outbreak,ウィルスの流行
+288,en,ja_XX,viral pandemic,ウイルス性パンデミック
+289,en,ja_XX,viral pneumonia,ウイルス性肺炎
+290,en,ja_XX,virtual care,バーチャルケア
+291,en,ja_XX,virulence,毒性
+292,en,ja_XX,virus itself,ウイルス自体
+293,en,ja_XX,virus outbreak,ウイルスの流行
+294,en,ja_XX,virus scare,ウイルスの恐怖
+295,en,ja_XX,virus spreads,ウイルスのまん延
+296,en,ja_XX,virus strain,ウイルス株
+297,en,ja_XX,viral transmission,ウイルス感染
+298,en,ja_XX,vivid-19,vivid-19
+299,en,ja_XX,washing hands,手洗い
+300,en,ja_XX,washing ones hands,手洗い
+301,en,ja_XX,wash your hands,手洗い
+302,en,ja_XX,white blood cell count,白血球数
+303,en,ja_XX,widespread transmission,広範囲での感染
+304,en,ja_XX,working from home,自宅勤務
+305,en,ja_XX,WFH,WFH
+306,en,ja_XX,Wuhan,武漢

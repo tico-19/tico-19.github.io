@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,lt_LT,1918 flu,1918 m. gripas
+2,en,lt_LT,acute bronchitis,ūminis bronchitas
+3,en,lt_LT,acute respiratory disease,ūminė kvėpavimo takų liga
+4,en,lt_LT,AIDS,AIDS
+5,en,lt_LT,airborne droplets,ore esantys oro lašeliai
+6,en,lt_LT,airway,kvėpavimo takai
+7,en,lt_LT,alcohol-based,alkoholio pagrindu
+8,en,lt_LT,alcohol-based hand rub,rankų valiklis alkoholio pagrindu
+9,en,lt_LT,alcohol-based hand sanitizer,rankų dezinfekcinė priemonė alkoholio pagrindu
+10,en,lt_LT,alveolar disease,alveolių liga
+11,en,lt_LT,an epidemic,epidemija
+12,en,lt_LT,annual flu,kasmetinis gripas
+13,en,lt_LT,anti-inflammatory drug,priešuždegiminis vaistas
+14,en,lt_LT,antiviral drug,antivirusinis vaistas
+15,en,lt_LT,antiviral treatment,antivirusinis gydymas
+16,en,lt_LT,assay,tyrimas
+17,en,lt_LT,asymptomatic,besimptomis
+18,en,lt_LT,avian flu,paukščių gripas
+19,en,lt_LT,Black Plague,Juodasis maras
+20,en,lt_LT,blood pressure,kraujo spaudimas
+21,en,lt_LT,body fluid,kūno skystis
+22,en,lt_LT,breathing,kvėpavimas
+23,en,lt_LT,bubonic plague,buboninis maras
+24,en,lt_LT,c19,c19
+25,en,lt_LT,cv19,cv19
+26,en,lt_LT,case fatality rate,atvejų mirtingumo koeficientas
+27,en,lt_LT,causative agent,sukėlėjas
+28,en,lt_LT,CDC,CDC
+29,en,lt_LT,chemical disinfection,cheminė dezinfekcija
+30,en,lt_LT,chest x-ray,krūtinės ląstos rentgenas
+31,en,lt_LT,clinical diagnosis,klinikinė diagnozė
+32,en,lt_LT,clinical trial,klinikinis tyrimas
+33,en,lt_LT,close contact,artimas kontaktas
+34,en,lt_LT,cvirus,C virusas
+35,en,lt_LT,chronic respiratory disease,lėtinė kvėpavimo takų liga
+36,en,lt_LT,common cold,įprastas peršalimas
+37,en,lt_LT,common flu,įprastas gripas
+38,en,lt_LT,communicable disease,užkrečiama liga
+39,en,lt_LT,community spread,paplitimas bendruomenėje
+40,en,lt_LT,community transmission,perdavimas bendruomenėje
+41,en,lt_LT,compromised immune system,pažeista imuninė sistema
+42,en,lt_LT,contagion,užkratas
+43,en,lt_LT,contagious,užkrečiama
+44,en,lt_LT,contagiousness,užkrečiamumas
+45,en,lt_LT,corona,korona
+46,en,lt_LT,corona virus,koronavirusas
+47,en,lt_LT,corona virus epidemic,koronaviruso epidemija
+48,en,lt_LT,corona virus outbreak,koronaviruso protrūkis
+49,en,lt_LT,corona virus scare,panika dėl koronaviruso
+50,en,lt_LT,coronavirus,koronavirusas
+51,en,lt_LT,coronavirus cases,koronaviruso atvejai
+52,en,lt_LT,coronavirus outbreak,koronaviruso protrūkis
+53,en,lt_LT,coronavirus pandemic,koronaviruso pandemija
+54,en,lt_LT,coronavirus scare,panika dėl koronaviruso
+55,en,lt_LT,cough,kosulys
+56,en,lt_LT,cough etiquette,kosėjimo etiketas
+57,en,lt_LT,coughing,kosėjimas
+58,en,lt_LT,cov 19,cov 19
+59,en,lt_LT,cov19,cov19
+60,en,lt_LT,COVID,COVID
+61,en,lt_LT,COVID-19 crisis,COVID-19 krizė
+62,en,lt_LT,covid-19,covid-19
+63,en,lt_LT,covid19,covid19
+64,en,lt_LT,COVID-19 epidemic,COVID-19 epidemija
+65,en,lt_LT,COVID-19 outbreak,COVID-19 protrūkis
+66,en,lt_LT,COVID-19 pandemic,COVID-19 pandemija
+67,en,lt_LT,COVID 19,COVID 19
+68,en,lt_LT,current crisis,dabartinė krizė
+69,en,lt_LT,current health crisis,dabartinė krizė sveikatos srityje
+70,en,lt_LT,current outbreak,dabartinis protrūkis
+71,en,lt_LT,current pandemic,dabartinė pandemija
+72,en,lt_LT,CV,CV
+73,en,lt_LT,CV-19,CV-19
+74,en,lt_LT,deadly,mirtinas
+75,en,lt_LT,deadly virus,mirtinas virusas
+76,en,lt_LT,death rate,mirštamumas
+77,en,lt_LT,death toll,bendras mirusiųjų skaičius
+78,en,lt_LT,decontaminate,nukenksminti
+79,en,lt_LT,detectable,aptinkamas
+80,en,lt_LT,detergent,ploviklis
+81,en,lt_LT,difficulty breathing,pasunkėjęs kvėpavimas
+82,en,lt_LT,diabetes,diabetas
+83,en,lt_LT,diagnosable disease,diagnozuojama liga
+84,en,lt_LT,diagnostic protocol,diagnostinis protokolas
+85,en,lt_LT,diagnostic testing,diagnostinis testavimas
+86,en,lt_LT,disease itself,pati liga
+87,en,lt_LT,disease outbreak,ligos protrūkis
+88,en,lt_LT,disinfectant,dezinfekavimo priemonė
+89,en,lt_LT,disposable,vienkartinis
+90,en,lt_LT,droplet transmission,perdavimas oro lašeliais
+91,en,lt_LT,droplets,oro lašeliai
+92,en,lt_LT,dry cough,sausas kosulys
+93,en,lt_LT,dry surface contamination,sauso paviršiaus užteršimas
+94,en,lt_LT,ebola,ebola
+95,en,lt_LT,effective treatment,efektyvus gydymas
+96,en,lt_LT,electron microscope,elektroninis mikroskopas
+97,en,lt_LT,emergency department,greitosios pagalbos skyrius
+98,en,lt_LT,epidemic,epidemija
+99,en,lt_LT,epidemic curve,epidemijos kreivė
+100,en,lt_LT,epidemic peak,epidemijos pikas
+101,en,lt_LT,epidemiologist,epidemiologas
+102,en,lt_LT,exposure,poveikis
+103,en,lt_LT,extreme caution,ekstremalus perspėjimas
+104,en,lt_LT,eye protection,akių apsauga
+105,en,lt_LT,face mask,veido kaukė
+106,en,lt_LT,face masks,veido kaukės
+107,en,lt_LT,family cluster,šeimos susibūrimas
+108,en,lt_LT,fatality rate,mirtingumo koeficientas
+109,en,lt_LT,fecal contamination,išmatų užterštumas
+110,en,lt_LT,fever,karščiavimas
+111,en,lt_LT,flatten the infection curve,išlyginti infekcijos kreivę
+112,en,lt_LT,flu,gripas
+113,en,lt_LT,food safety,maisto sauga
+114,en,lt_LT,formaldehyde,formaldehidas
+115,en,lt_LT,gastroenteritis,gastroenteritas
+116,en,lt_LT,germicide,germicidas
+117,en,lt_LT,global pandemic,pasaulinė pandemija
+118,en,lt_LT,global warming,globalinis atšilimas
+119,en,lt_LT,good respiratory hygiene,gera kvėpavimo takų higiena
+120,en,lt_LT,Guangdong,Guangdongas
+121,en,lt_LT,H1N1,H1N1
+122,en,lt_LT,H1N1 virus,H1N1 virusas
+123,en,lt_LT,hand disinfectant,rankų dezinfekavimo priemonė
+124,en,lt_LT,hand sanitizer,rankų dezinfekcinė priemonė
+125,en,lt_LT,health care provider,sveikatos priežiūros paslaugų teikėjas
+126,en,lt_LT,health crisis,krizė sveikatos srityje
+127,en,lt_LT,health plan carrier,sveikatos priežiūros plano laikmena
+128,en,lt_LT,health services,sveikatos priežiūros paslaugos
+129,en,lt_LT,heart failure,širdies nepakankamumas
+130,en,lt_LT,high fever,didelis karščiavimas
+131,en,lt_LT,HIV,ŽIV
+132,en,lt_LT,hospitalize,hospitalizuoti
+133,en,lt_LT,household bleach,buitinis baliklis
+134,en,lt_LT,Hubei,Hubėjus
+135,en,lt_LT,hydrogen peroxide,vandenilio peroksidas
+136,en,lt_LT,hygiene,higiena
+137,en,lt_LT,immune system,imuninė sistema
+138,en,lt_LT,immunity,imunitetas
+139,en,lt_LT,immunocompromised,susilpnėjęs imunitetas
+140,en,lt_LT,immunologist,imunologas
+141,en,lt_LT,incubation,inkubacija
+142,en,lt_LT,incubation period,inkubacinis periodas
+143,en,lt_LT,indirect contact,netiesioginis kontaktas
+144,en,lt_LT,infect,užkrėsti
+145,en,lt_LT,infection,infekcija
+146,en,lt_LT,infectious,infekcinis
+147,en,lt_LT,infectivity,užkrečiamumas
+148,en,lt_LT,influenza,gripas
+149,en,lt_LT,initial transmission event,pradinis perdavimo įvykis
+150,en,lt_LT,intensive care equipment,intensyviosios priežiūros įranga
+151,en,lt_LT,intermediate host,tarpinis šeimininkas
+152,en,lt_LT,intrauterine,intrauterinė
+153,en,lt_LT,intubation,intubacija
+154,en,lt_LT,isolation,izoliacija
+155,en,lt_LT,Isopropanol,izopropanolis
+156,en,lt_LT,laboratory test kit,laboratorinių tyrimų rinkinys
+157,en,lt_LT,laboratory testing,laboratoriniai tyrimai
+158,en,lt_LT,lack of testing,tyrimų trūkumas
+159,en,lt_LT,lack of tests,tyrimo priemonių trūkumas
+160,en,lt_LT,latest updates,paskutiniai atnaujinimai
+161,en,lt_LT,liver failure,kepenų nepakankamumas
+162,en,lt_LT,local public health authority,vietinė visuomenės sveikatos priežiūros institucija
+163,en,lt_LT,lockdown,užrakinimas
+164,en,lt_LT,lungs,plaučiai
+165,en,lt_LT,masks,kaukės
+166,en,lt_LT,measles,tymai
+167,en,lt_LT,mechanical ventilation,mechaninė ventiliacija
+168,en,lt_LT,media coverage,žiniasklaidos aprėptis
+169,en,lt_LT,medical care,medicininė priežiūra
+170,en,lt_LT,MERS,MERS
+171,en,lt_LT,MERS CoV,MERS CoV
+172,en,lt_LT,microbiologist,mikrobiologas
+173,en,lt_LT,mild cough,lengvas kosulys
+174,en,lt_LT,mortality rate,mirštamumo koeficientas
+175,en,lt_LT,multi-organ failure,kelių organų nepakankamumas
+176,en,lt_LT,nasal congestion,nosies užgulimas
+177,en,lt_LT,neutral detergent,neutralus ploviklis
+178,en,lt_LT,new normal,naujas normalus
+179,en,lt_LT,novel corona virus,naujas koronavirusas
+180,en,lt_LT,novel coronavirus,naujas koronavirusas
+181,en,lt_LT,novel coronavirus outbreak,naujo koronaviruso protrūkis
+182,en,lt_LT,novel virus,naujas virusas
+183,en,lt_LT,online medical consultation,medicininė konsultacija internetu
+184,en,lt_LT,onset,antplūdis
+185,en,lt_LT,outbreak,protrūkis
+186,en,lt_LT,outbreak readiness,pasirengimas protrūkiui
+187,en,lt_LT,overall case fatality,bendras atvejų mirtingumas
+188,en,lt_LT,pandemic,pandemija
+189,en,lt_LT,pangolin,pangolinas
+190,en,lt_LT,pathogen,patogenas
+191,en,lt_LT,pathology,patologija
+192,en,lt_LT,patient care equipment,pacientų priežiūros įranga
+193,en,lt_LT,personal protective equipment,asmeninės apsaugos priemonės
+194,en,lt_LT,person-to-person transmission,žmogaus perdavimas žmogui
+195,en,lt_LT,phlegm,skrepliai
+196,en,lt_LT,physical contact,fizinis kontaktas
+197,en,lt_LT,plague,maras
+198,en,lt_LT,pneumonia,plaučių uždegimas
+199,en,lt_LT,pneumonias,plaučių uždegimo atvejai
+200,en,lt_LT,positive test,teigiamas testas
+201,en,lt_LT,precaution,atsargumo priemonė
+202,en,lt_LT,precautionary,prevencinė priemonė
+203,en,lt_LT,pre-existing condition,buvusi sąlyga
+204,en,lt_LT,preparedness,pasirengimas
+205,en,lt_LT,prognosis,prognozė
+206,en,lt_LT,protect myself,apsisaugoti
+207,en,lt_LT,protect others,apsaugoti kitus
+208,en,lt_LT,protect yourself,apsisaugoti pačiam
+209,en,lt_LT,protective measures,apsaugos priemonės
+210,en,lt_LT,public health crisis,visuomenės krizė sveikatos srityje
+211,en,lt_LT,pulmonary tissue damage,plaučių audinio pažeidimas
+212,en,lt_LT,quarantine,karantinas
+213,en,lt_LT,rapid risk assessment,greitas rizikos vertinimas
+214,en,lt_LT,reagent,reagentas
+215,en,lt_LT,regular flu,įprastas gripas
+216,en,lt_LT,reinfection,pasikartojanti infekcija
+217,en,lt_LT,renal disease,inkstų liga
+218,en,lt_LT,renal failure,inkstų nepakankamumas
+219,en,lt_LT,respirator,respiratorius
+220,en,lt_LT,respiratory,respiracinis
+221,en,lt_LT,respiratory disease,kvėpavimo takų liga
+222,en,lt_LT,respiratory distress,kvėpavimo sutrikimas
+223,en,lt_LT,respiratory droplets,oro lašeliai kvėpavimo takuose
+224,en,lt_LT,respiratory hygiene,kvėpavimo takų higiena
+225,en,lt_LT,respiratory illness,kvėpavimo takų pažeidimas
+226,en,lt_LT,respiratory syndrome,kvėpavimo sindromas
+227,en,lt_LT,respiratory tract disease,kvėpavimo takų liga
+228,en,lt_LT,restrictions,apribojimai
+229,en,lt_LT,resurge,atgyti
+230,en,lt_LT,RNA,RNA
+231,en,lt_LT,rubeola,raudonukė
+232,en,lt_LT,runny nose,tekanti nosis
+233,en,lt_LT,SARS,SARS
+234,en,lt_LT,SARS-CoV-2,SARS-CoV-2
+235,en,lt_LT,SARS-CoV,SARS-CoV
+236,en,lt_LT,sars-related coronavirus,su SARS susijęs koronavirusas
+237,en,lt_LT,seasonal flu,sezoninis gripas
+238,en,lt_LT,seasonal influenza,sezoninis gripas
+239,en,lt_LT,secretion,sekretas
+240,en,lt_LT,self-quarantine,savikarantinas
+241,en,lt_LT,sepsis,sepsis
+242,en,lt_LT,septic shock,septinis šokas
+243,en,lt_LT,Severe Acute Respiratory Syndrome,sunkus ūmus kvėpavimo sindromas
+244,en,lt_LT,shortness of breath,dusulys
+245,en,lt_LT,sickened,sirgo
+246,en,lt_LT,sickness,liga
+247,en,lt_LT,sneeze,čiaudėti
+248,en,lt_LT,sneezes,čiaudi
+249,en,lt_LT,sneezing,čiaudėjimas
+250,en,lt_LT,social distancing,socialinis atsiribojimas
+251,en,lt_LT,sore throat,gerklės skausmas
+252,en,lt_LT,spanish flu,gripas Ispanijoje
+253,en,lt_LT,specimen collection,mėginių komplektas
+254,en,lt_LT,spread,pasklisti
+255,en,lt_LT,sputum,skrepliai
+256,en,lt_LT,stigmatisation,stigmatizavimas
+257,en,lt_LT,supportive,palaikantis
+258,en,lt_LT,surface,paviršius
+259,en,lt_LT,surfaces,paviršiai
+260,en,lt_LT,suspected infection,įtariama infekcija
+261,en,lt_LT,swab,tepinėlis
+262,en,lt_LT,swine flu,kiaulių gripas
+263,en,lt_LT,symptom,simptomas
+264,en,lt_LT,symptomatic,simptomatika
+265,en,lt_LT,symptoms,simptomai
+266,en,lt_LT,targeted disinfection,tikslinė dezinfekcija
+267,en,lt_LT,test kit,tyrimų rinkinys
+268,en,lt_LT,testing error,tyrimo klaida
+269,en,lt_LT,tissue damage,audinių pažeidimas
+270,en,lt_LT,tp shortage,tp trūkumas
+271,en,lt_LT,toilet paper shortage,tualetinio popieriaus trūkumas
+272,en,lt_LT,touch,liesti
+273,en,lt_LT,touching,lietimas
+274,en,lt_LT,transmissibility,perduodamumas
+275,en,lt_LT,transmissible,pernešamas
+276,en,lt_LT,transmission,perdavimas
+277,en,lt_LT,transmission potential,potencialus perdavimas
+278,en,lt_LT,typical flu,tipinis gripas
+279,en,lt_LT,underlying disease,pagrindinė liga
+280,en,lt_LT,updates,naujiniai
+281,en,lt_LT,vaccine,vakcina
+282,en,lt_LT,vaccines,vakcinos
+283,en,lt_LT,ventilation,ventiliavimas
+284,en,lt_LT,ventilator,ventiliatorius
+285,en,lt_LT,ventilators,ventiliatoriai
+286,en,lt_LT,viral infection,virusinė infekcija
+287,en,lt_LT,viral outbreak,viruso protrūkis
+288,en,lt_LT,viral pandemic,virusinė pandemija
+289,en,lt_LT,viral pneumonia,virusinis plaučių uždegimas
+290,en,lt_LT,virtual care,virtuali priežiūra
+291,en,lt_LT,virulence,virulentiškumas
+292,en,lt_LT,virus itself,pats virusas
+293,en,lt_LT,virus outbreak,viruso protrūkis
+294,en,lt_LT,virus scare,panika dėl viruso
+295,en,lt_LT,virus spreads,viruso paplitimas
+296,en,lt_LT,virus strain,viruso padermė
+297,en,lt_LT,viral transmission,viruso perdavimas
+298,en,lt_LT,vivid-19,vivid-19
+299,en,lt_LT,washing hands,rankų plovimas
+300,en,lt_LT,washing ones hands,savo rankų plovimas
+301,en,lt_LT,wash your hands,plaukite rankas
+302,en,lt_LT,white blood cell count,leukocitų skaičius
+303,en,lt_LT,widespread transmission,paplitęs perdavimas
+304,en,lt_LT,working from home,darbas iš namų
+305,en,lt_LT,WFH,WFH
+306,en,lt_LT,Wuhan,Uhanas

@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ru_RU,1918 flu,грипп 1918 года
+2,en,ru_RU,acute bronchitis,острый бронхит
+3,en,ru_RU,acute respiratory disease,острый респираторный синдром
+4,en,ru_RU,AIDS,СПИД
+5,en,ru_RU,airborne droplets,воздушные капли
+6,en,ru_RU,airway,дыхательная трубка
+7,en,ru_RU,alcohol-based,на спиртовой основе
+8,en,ru_RU,alcohol-based hand rub,спиртовой раствор для рук
+9,en,ru_RU,alcohol-based hand sanitizer,антисептик для рук на спиртовой основе
+10,en,ru_RU,alveolar disease,альвеолярная болезнь
+11,en,ru_RU,an epidemic,эпидемия
+12,en,ru_RU,annual flu,сезонный грипп
+13,en,ru_RU,anti-inflammatory drug,противовоспалительное средство
+14,en,ru_RU,antiviral drug,противовирусный препарат
+15,en,ru_RU,antiviral treatment,противовирусное лечение
+16,en,ru_RU,assay,исследование
+17,en,ru_RU,asymptomatic,бессимптомный
+18,en,ru_RU,avian flu,птичий грипп
+19,en,ru_RU,Black Plague,черная чума
+20,en,ru_RU,blood pressure,артериальное давление
+21,en,ru_RU,body fluid,жидкость организма
+22,en,ru_RU,breathing,breathing
+23,en,ru_RU,bubonic plague,бубонная чума
+24,en,ru_RU,c19,c19
+25,en,ru_RU,cv19,cv19
+26,en,ru_RU,case fatality rate,уровень смертности
+27,en,ru_RU,causative agent,возбудитель
+28,en,ru_RU,CDC,CDC
+29,en,ru_RU,chemical disinfection,химическая дезинфекция
+30,en,ru_RU,chest x-ray,рентген грудной клетки
+31,en,ru_RU,clinical diagnosis,клинический диагноз
+32,en,ru_RU,clinical trial,клиническое исследование
+33,en,ru_RU,close contact,близкий контакт
+34,en,ru_RU,cvirus,с-вирус
+35,en,ru_RU,chronic respiratory disease,хроническое респираторное заболевание
+36,en,ru_RU,common cold,обычная простуда
+37,en,ru_RU,common flu,обычный грипп
+38,en,ru_RU,communicable disease,заразное заболевание
+39,en,ru_RU,community spread,общественное распространение
+40,en,ru_RU,community transmission,передача в обществе
+41,en,ru_RU,compromised immune system,ослабленный иммунитет
+42,en,ru_RU,contagion,заражение
+43,en,ru_RU,contagious,заразный
+44,en,ru_RU,contagiousness,заразность
+45,en,ru_RU,corona,корона
+46,en,ru_RU,corona virus,коронавирус
+47,en,ru_RU,corona virus epidemic,эпидемия коронавируса
+48,en,ru_RU,corona virus outbreak,вспышка коронавируса
+49,en,ru_RU,corona virus scare,паника из-за коронавируса
+50,en,ru_RU,coronavirus,коронавирус
+51,en,ru_RU,coronavirus cases,случаи коронавируса
+52,en,ru_RU,coronavirus outbreak,вспышка коронавируса
+53,en,ru_RU,coronavirus pandemic,пандемия коронавируса
+54,en,ru_RU,coronavirus scare,паника из-за коронавируса
+55,en,ru_RU,cough,кашель
+56,en,ru_RU,cough etiquette,этикет кашля
+57,en,ru_RU,coughing,кашель
+58,en,ru_RU,cov 19,cov 19
+59,en,ru_RU,cov19,cov19
+60,en,ru_RU,COVID,COVID
+61,en,ru_RU,COVID-19 crisis,кризис из-за COVID-19
+62,en,ru_RU,covid-19,covid-19
+63,en,ru_RU,covid19,covid19
+64,en,ru_RU,COVID-19 epidemic,эпидемия COVID-19
+65,en,ru_RU,COVID-19 outbreak,вспышка COVID-19
+66,en,ru_RU,COVID-19 pandemic,пандемия COVID-19
+67,en,ru_RU,COVID 19,COVID 19
+68,en,ru_RU,current crisis,нынешний кризис
+69,en,ru_RU,current health crisis,нынешний кризис здравоохранения
+70,en,ru_RU,current outbreak,нынешняя вспышка
+71,en,ru_RU,current pandemic,нынешняя пандемия
+72,en,ru_RU,CV,CV
+73,en,ru_RU,CV-19,CV-19
+74,en,ru_RU,deadly,смертельный
+75,en,ru_RU,deadly virus,смертельный вирус
+76,en,ru_RU,death rate,смертность
+77,en,ru_RU,death toll,количество жертв
+78,en,ru_RU,decontaminate,обеззараживать
+79,en,ru_RU,detectable,определяемый
+80,en,ru_RU,detergent,моющее средство
+81,en,ru_RU,difficulty breathing,затрудненное дыхание
+82,en,ru_RU,diabetes,диабет
+83,en,ru_RU,diagnosable disease,диагностируемое заболевание
+84,en,ru_RU,diagnostic protocol,протокол диагностики
+85,en,ru_RU,diagnostic testing,диагностическое тестирование
+86,en,ru_RU,disease itself,само заболевание
+87,en,ru_RU,disease outbreak,вспышка заболевания
+88,en,ru_RU,disinfectant,дезинфектор
+89,en,ru_RU,disposable,одноразовый
+90,en,ru_RU,droplet transmission,капельная передача
+91,en,ru_RU,droplets,капли
+92,en,ru_RU,dry cough,сухой кашель
+93,en,ru_RU,dry surface contamination,заражение сухой поверхности
+94,en,ru_RU,ebola,Эбола
+95,en,ru_RU,effective treatment,эффективное лечение
+96,en,ru_RU,electron microscope,электронный микроскоп
+97,en,ru_RU,emergency department,отделение неотложной помощи
+98,en,ru_RU,epidemic,эпидемический
+99,en,ru_RU,epidemic curve,эпидемическая кривая
+100,en,ru_RU,epidemic peak,пик эпидемии
+101,en,ru_RU,epidemiologist,эпидемиолог
+102,en,ru_RU,exposure,воздействие
+103,en,ru_RU,extreme caution,особая осторожность
+104,en,ru_RU,eye protection,защита глаз
+105,en,ru_RU,face mask,лицевая маска
+106,en,ru_RU,face masks,лицевые маски
+107,en,ru_RU,family cluster,семейная группа
+108,en,ru_RU,fatality rate,уровень смертности
+109,en,ru_RU,fecal contamination,заражение через фекалии
+110,en,ru_RU,fever,жар
+111,en,ru_RU,flatten the infection curve,сгладить кривую инфицирования
+112,en,ru_RU,flu,грипп
+113,en,ru_RU,food safety,безопасность продуктов
+114,en,ru_RU,formaldehyde,формальдегид
+115,en,ru_RU,gastroenteritis,гастроэнтерит
+116,en,ru_RU,germicide,бактерицидный
+117,en,ru_RU,global pandemic,глобальная пандемия
+118,en,ru_RU,global warming,глобальное потепление
+119,en,ru_RU,good respiratory hygiene,хорошая респираторная гигиена
+120,en,ru_RU,Guangdong,Гуандун
+121,en,ru_RU,H1N1,H1N1
+122,en,ru_RU,H1N1 virus,вирус H1N1
+123,en,ru_RU,hand disinfectant,дезинфектор для рук
+124,en,ru_RU,hand sanitizer,антисептик для рук
+125,en,ru_RU,health care provider,медицинский работник
+126,en,ru_RU,health crisis,кризис здравоохранения
+127,en,ru_RU,health plan carrier,держатель медицинского полиса
+128,en,ru_RU,health services,медицинское обслуживание
+129,en,ru_RU,heart failure,сердечная недостаточность
+130,en,ru_RU,high fever,сильный жар
+131,en,ru_RU,HIV,ВИЧ
+132,en,ru_RU,hospitalize,госпитализировать
+133,en,ru_RU,household bleach,бытовой отбеливатель
+134,en,ru_RU,Hubei,Hubei
+135,en,ru_RU,hydrogen peroxide,перекись водорода
+136,en,ru_RU,hygiene,гигиена
+137,en,ru_RU,immune system,иммунная система
+138,en,ru_RU,immunity,иммунитет
+139,en,ru_RU,immunocompromised,с ослабленным иммунитетом
+140,en,ru_RU,immunologist,иммунолог
+141,en,ru_RU,incubation,инкубация
+142,en,ru_RU,incubation period,инкубационный период
+143,en,ru_RU,indirect contact,непрямой контакт
+144,en,ru_RU,infect,инфицировать
+145,en,ru_RU,infection,инфекция
+146,en,ru_RU,infectious,инфекционный
+147,en,ru_RU,infectivity,инфекционность
+148,en,ru_RU,influenza,грипп
+149,en,ru_RU,initial transmission event,исходный случай передачи
+150,en,ru_RU,intensive care equipment,оборудование интенсивной терапии
+151,en,ru_RU,intermediate host,промежуточный носитель
+152,en,ru_RU,intrauterine,внутриматочная спираль
+153,en,ru_RU,intubation,инкубация
+154,en,ru_RU,isolation,изоляция
+155,en,ru_RU,Isopropanol,Изопропанол
+156,en,ru_RU,laboratory test kit,лабораторный тест-набор
+157,en,ru_RU,laboratory testing,лабораторное тестирование
+158,en,ru_RU,lack of testing,недостаточное тестирование
+159,en,ru_RU,lack of tests,нехватка тестов
+160,en,ru_RU,latest updates,последние обновления
+161,en,ru_RU,liver failure,печеночная недостаточность
+162,en,ru_RU,local public health authority,местный орган здравоохранения
+163,en,ru_RU,lockdown,строгая изоляция
+164,en,ru_RU,lungs,легкие
+165,en,ru_RU,masks,маски
+166,en,ru_RU,measles,корь
+167,en,ru_RU,mechanical ventilation,механическая вентиляция
+168,en,ru_RU,media coverage,освещение в СМИ
+169,en,ru_RU,medical care,медицинская помощь
+170,en,ru_RU,MERS,MERS
+171,en,ru_RU,MERS CoV,MERS CoV
+172,en,ru_RU,microbiologist,микробиолог
+173,en,ru_RU,mild cough,умеренный кашель
+174,en,ru_RU,mortality rate,смертность
+175,en,ru_RU,multi-organ failure,отказ нескольких органов
+176,en,ru_RU,nasal congestion,заложенность носа
+177,en,ru_RU,neutral detergent,нейтральное моющее средство
+178,en,ru_RU,new normal,новая норма
+179,en,ru_RU,novel corona virus,новый коронавирус
+180,en,ru_RU,novel coronavirus,новый коронавирус
+181,en,ru_RU,novel coronavirus outbreak,вспышка нового коронавируса
+182,en,ru_RU,novel virus,новый вирус
+183,en,ru_RU,online medical consultation,медицинская онлайн-консультация
+184,en,ru_RU,onset,начало работы
+185,en,ru_RU,outbreak,вспышка
+186,en,ru_RU,outbreak readiness,готовность к вспышке
+187,en,ru_RU,overall case fatality,общая смертность
+188,en,ru_RU,pandemic,пандемия
+189,en,ru_RU,pangolin,панголин
+190,en,ru_RU,pathogen,патоген
+191,en,ru_RU,pathology,патология
+192,en,ru_RU,patient care equipment,оборудование для ухода за пациентами
+193,en,ru_RU,personal protective equipment,средства индивидуальной защиты
+194,en,ru_RU,person-to-person transmission,передача от человека к человеку
+195,en,ru_RU,phlegm,мокрота
+196,en,ru_RU,physical contact,физический контакт
+197,en,ru_RU,plague,чума
+198,en,ru_RU,pneumonia,пневмония
+199,en,ru_RU,pneumonias,пневмонии
+200,en,ru_RU,positive test,положительный анализ
+201,en,ru_RU,precaution,мера предосторожности
+202,en,ru_RU,precautionary,в мерах предосторожности
+203,en,ru_RU,pre-existing condition,предшествующее состояние
+204,en,ru_RU,preparedness,готовность
+205,en,ru_RU,prognosis,прогноз
+206,en,ru_RU,protect myself,защитить себя
+207,en,ru_RU,protect others,защитить других
+208,en,ru_RU,protect yourself,защитить вас
+209,en,ru_RU,protective measures,защитные меры
+210,en,ru_RU,public health crisis,кризис общественного здравоохранения
+211,en,ru_RU,pulmonary tissue damage,повреждение легочной ткани
+212,en,ru_RU,quarantine,карантин
+213,en,ru_RU,rapid risk assessment,оперативная оценка риска
+214,en,ru_RU,reagent,реагент
+215,en,ru_RU,regular flu,обычный грипп
+216,en,ru_RU,reinfection,реинфицирование
+217,en,ru_RU,renal disease,заболевание почек
+218,en,ru_RU,renal failure,почечная недостаточность
+219,en,ru_RU,respirator,респиратор
+220,en,ru_RU,respiratory,респираторный
+221,en,ru_RU,respiratory disease,респираторное заболевание
+222,en,ru_RU,respiratory distress,расстройство дыхания
+223,en,ru_RU,respiratory droplets,выдыхаемые капли
+224,en,ru_RU,respiratory hygiene,респираторная гигиена
+225,en,ru_RU,respiratory illness,респираторное заболевание
+226,en,ru_RU,respiratory syndrome,респираторный синдром
+227,en,ru_RU,respiratory tract disease,заболевание дыхательных путей
+228,en,ru_RU,restrictions,ограничения
+229,en,ru_RU,resurge,обнаруживать
+230,en,ru_RU,RNA,RNA
+231,en,ru_RU,rubeola,корь
+232,en,ru_RU,runny nose,насморк
+233,en,ru_RU,SARS,SARS
+234,en,ru_RU,SARS-CoV-2,SARS-CoV-2
+235,en,ru_RU,SARS-CoV,SARS-CoV
+236,en,ru_RU,sars-related coronavirus,связанный с коронавирусом sars
+237,en,ru_RU,seasonal flu,сезонный грипп
+238,en,ru_RU,seasonal influenza,сезонный грипп
+239,en,ru_RU,secretion,выделение
+240,en,ru_RU,self-quarantine,самоизоляция
+241,en,ru_RU,sepsis,сепсис
+242,en,ru_RU,septic shock,септический шок
+243,en,ru_RU,Severe Acute Respiratory Syndrome,тяжелый острый респираторный синдром
+244,en,ru_RU,shortness of breath,нехватка воздуха
+245,en,ru_RU,sickened,больной
+246,en,ru_RU,sickness,болезнь
+247,en,ru_RU,sneeze,чихнуть
+248,en,ru_RU,sneezes,чихи
+249,en,ru_RU,sneezing,чиханье
+250,en,ru_RU,social distancing,социальное дистанцирование
+251,en,ru_RU,sore throat,боль в горле
+252,en,ru_RU,spanish flu,испанский грипп
+253,en,ru_RU,specimen collection,сбор образцов
+254,en,ru_RU,spread,распространенный
+255,en,ru_RU,sputum,мокрота
+256,en,ru_RU,stigmatisation,стигматизация
+257,en,ru_RU,supportive,поддерживающий
+258,en,ru_RU,surface,поверхность
+259,en,ru_RU,surfaces,поверхности
+260,en,ru_RU,suspected infection,предполагаемая инфекция
+261,en,ru_RU,swab,мазок
+262,en,ru_RU,swine flu,свинной грипп
+263,en,ru_RU,symptom,симптом
+264,en,ru_RU,symptomatic,симптоматический
+265,en,ru_RU,symptoms,симптомы
+266,en,ru_RU,targeted disinfection,целенаправленная дезинфекция
+267,en,ru_RU,test kit,тест-набор
+268,en,ru_RU,testing error,ошибка при тесте
+269,en,ru_RU,tissue damage,повреждение тканей
+270,en,ru_RU,tp shortage,нехватка туалетной бумаги
+271,en,ru_RU,toilet paper shortage,дефицит туалетной бумаги
+272,en,ru_RU,touch,касаться
+273,en,ru_RU,touching,прикосновение
+274,en,ru_RU,transmissibility,трансмиссивность
+275,en,ru_RU,transmissible,трансмиссивный
+276,en,ru_RU,transmission,передача
+277,en,ru_RU,transmission potential,потенциал передачи
+278,en,ru_RU,typical flu,обычный грипп
+279,en,ru_RU,underlying disease,основное заболевание
+280,en,ru_RU,updates,обновляется
+281,en,ru_RU,vaccine,вакцина
+282,en,ru_RU,vaccines,вакцины
+283,en,ru_RU,ventilation,вентиляция
+284,en,ru_RU,ventilator,аппарат ИВЛ
+285,en,ru_RU,ventilators,аппараты ИВЛ
+286,en,ru_RU,viral infection,вирусная инфекция
+287,en,ru_RU,viral outbreak,вирусная вспышка
+288,en,ru_RU,viral pandemic,вирусная пандемия
+289,en,ru_RU,viral pneumonia,вирусная пневмония
+290,en,ru_RU,virtual care,виртуальный уход
+291,en,ru_RU,virulence,вирулентность
+292,en,ru_RU,virus itself,сам вирус
+293,en,ru_RU,virus outbreak,вспышка вируса
+294,en,ru_RU,virus scare,вирусная паника
+295,en,ru_RU,virus spreads,вирус распространяется
+296,en,ru_RU,virus strain,штамм вируса
+297,en,ru_RU,viral transmission,вирусная передача
+298,en,ru_RU,vivid-19,vivid-19
+299,en,ru_RU,washing hands,мытье рук
+300,en,ru_RU,washing ones hands,мыть руки
+301,en,ru_RU,wash your hands,мойте ваши руки
+302,en,ru_RU,white blood cell count,количество лейкоцитов
+303,en,ru_RU,widespread transmission,широко распространенная передача
+304,en,ru_RU,working from home,работать из дома
+305,en,ru_RU,WFH,Работать Из Дома
+306,en,ru_RU,Wuhan,Wuhan

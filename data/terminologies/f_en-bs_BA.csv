@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,bs_BA,1918 flu,gripa iz 1918.
+2,en,bs_BA,acute bronchitis,akutni bronhitis
+3,en,bs_BA,acute respiratory disease,akutna respiratorna bolest
+4,en,bs_BA,AIDS,AIDS
+5,en,bs_BA,airborne droplets,kapljice nošene zrakom
+6,en,bs_BA,airway,dišni put
+7,en,bs_BA,alcohol-based,na bazi alkohola
+8,en,bs_BA,alcohol-based hand rub,sredstvo za dezinfekciju ruku na bazi alkohola
+9,en,bs_BA,alcohol-based hand sanitizer,dezinficijens za ruke na bazi alkohola
+10,en,bs_BA,alveolar disease,alveolarna bolest
+11,en,bs_BA,an epidemic,epidemija
+12,en,bs_BA,annual flu,sezonska gripa
+13,en,bs_BA,anti-inflammatory drug,protivupalni lijek
+14,en,bs_BA,antiviral drug,protivvirusni lijek
+15,en,bs_BA,antiviral treatment,liječenje protiv virusa
+16,en,bs_BA,assay,test
+17,en,bs_BA,asymptomatic,asimptomatski
+18,en,bs_BA,avian flu,ptičja gripa
+19,en,bs_BA,Black Plague,Crna kuga
+20,en,bs_BA,blood pressure,krvni pritisak
+21,en,bs_BA,body fluid,tjelesna tekućina
+22,en,bs_BA,breathing,disanje
+23,en,bs_BA,bubonic plague,bubonska kuga
+24,en,bs_BA,c19,c19
+25,en,bs_BA,cv19,cv19
+26,en,bs_BA,case fatality rate,stopa smrtnih slučajeva
+27,en,bs_BA,causative agent,uzročnik
+28,en,bs_BA,CDC,CDC
+29,en,bs_BA,chemical disinfection,hemijska dezinfekcija
+30,en,bs_BA,chest x-ray,rendgen pluća
+31,en,bs_BA,clinical diagnosis,klinička dijagnoza
+32,en,bs_BA,clinical trial,kliničko ispitivanje
+33,en,bs_BA,close contact,bliski kontakt
+34,en,bs_BA,cvirus,kvirus
+35,en,bs_BA,chronic respiratory disease,hronična respiratorna bolest
+36,en,bs_BA,common cold,obična prehlada
+37,en,bs_BA,common flu,obična gripa
+38,en,bs_BA,communicable disease,prenosiva bolest
+39,en,bs_BA,community spread,širenje u zajednici
+40,en,bs_BA,community transmission,prenošenje u zajednici
+41,en,bs_BA,compromised immune system,oslabljeni imunološki sistem
+42,en,bs_BA,contagion,zaraza
+43,en,bs_BA,contagious,zarazno
+44,en,bs_BA,contagiousness,zaraznost
+45,en,bs_BA,corona,korona
+46,en,bs_BA,corona virus,virus korona
+47,en,bs_BA,corona virus epidemic,epidemija virusa korona
+48,en,bs_BA,corona virus outbreak,izbijanje epidemije virusa korona
+49,en,bs_BA,corona virus scare,strah od virusa korona
+50,en,bs_BA,coronavirus,koronavirus
+51,en,bs_BA,coronavirus cases,slučajevi zaraze virusom korona
+52,en,bs_BA,coronavirus outbreak,izbijanje epidemije koronavirusa
+53,en,bs_BA,coronavirus pandemic,pandemija virusa korona
+54,en,bs_BA,coronavirus scare,strah od koronavirusa
+55,en,bs_BA,cough,kašalj
+56,en,bs_BA,cough etiquette,pravila ponašanja prilikom kašljanja
+57,en,bs_BA,coughing,kašljanje
+58,en,bs_BA,cov 19,cov 19
+59,en,bs_BA,cov19,cov19
+60,en,bs_BA,COVID,COVID
+61,en,bs_BA,COVID-19 crisis,kriza izazvana virusom COVID-19
+62,en,bs_BA,covid-19,covid-19
+63,en,bs_BA,covid19,covid19
+64,en,bs_BA,COVID-19 epidemic,epidemija virusa COVID-19
+65,en,bs_BA,COVID-19 outbreak,izbijanje epidemije virusa COVID-19
+66,en,bs_BA,COVID-19 pandemic,pandemija virusa COVID-19
+67,en,bs_BA,COVID 19,COVID 19
+68,en,bs_BA,current crisis,aktuelna kriza
+69,en,bs_BA,current health crisis,aktuelna zdravstvena kriza
+70,en,bs_BA,current outbreak,aktuelna epidemija
+71,en,bs_BA,current pandemic,aktuelna pandemija
+72,en,bs_BA,CV,CV
+73,en,bs_BA,CV-19,CV-19
+74,en,bs_BA,deadly,smrtonosni
+75,en,bs_BA,deadly virus,smrtonosni virus
+76,en,bs_BA,death rate,stopa smrtnosti
+77,en,bs_BA,death toll,broj žrtava
+78,en,bs_BA,decontaminate,dekontaminirati
+79,en,bs_BA,detectable,detektibilan
+80,en,bs_BA,detergent,deterdžent
+81,en,bs_BA,difficulty breathing,teškoće pri disanju
+82,en,bs_BA,diabetes,dijabetes
+83,en,bs_BA,diagnosable disease,bolest koja se može dijagnosticirati
+84,en,bs_BA,diagnostic protocol,dijagnostički protokol
+85,en,bs_BA,diagnostic testing,dijagnostičko testiranje
+86,en,bs_BA,disease itself,sama bolest
+87,en,bs_BA,disease outbreak,izbijanje bolesti
+88,en,bs_BA,disinfectant,dezinficijens
+89,en,bs_BA,disposable,za jednokratnu upotrebu
+90,en,bs_BA,droplet transmission,prenošenje kapljičnim putem
+91,en,bs_BA,droplets,kapljice
+92,en,bs_BA,dry cough,suhi kašalj
+93,en,bs_BA,dry surface contamination,kontaminacija suhih površina
+94,en,bs_BA,ebola,ebola
+95,en,bs_BA,effective treatment,djelotvorna terapija
+96,en,bs_BA,electron microscope,elektronski mikroskop
+97,en,bs_BA,emergency department,odjel za hitne slučajeve
+98,en,bs_BA,epidemic,epidemijski
+99,en,bs_BA,epidemic curve,epidemijska krivulja
+100,en,bs_BA,epidemic peak,vrhunac epidemije
+101,en,bs_BA,epidemiologist,epidemiolog
+102,en,bs_BA,exposure,izlaganje
+103,en,bs_BA,extreme caution,izuzetan oprez
+104,en,bs_BA,eye protection,zaštita očiju
+105,en,bs_BA,face mask,maska za lice
+106,en,bs_BA,face masks,maske za lice
+107,en,bs_BA,family cluster,porodični klaster
+108,en,bs_BA,fatality rate,stopa smrtnosti
+109,en,bs_BA,fecal contamination,fekalna kontaminacija
+110,en,bs_BA,fever,groznica
+111,en,bs_BA,flatten the infection curve,izravnavanje krivulje infekcije
+112,en,bs_BA,flu,gripa
+113,en,bs_BA,food safety,sigurnost hrane
+114,en,bs_BA,formaldehyde,formaldehid
+115,en,bs_BA,gastroenteritis,gastroenteritis
+116,en,bs_BA,germicide,germicid
+117,en,bs_BA,global pandemic,globalna pandemija
+118,en,bs_BA,global warming,globalno zagrijavanje
+119,en,bs_BA,good respiratory hygiene,dobra respiratorna higijena
+120,en,bs_BA,Guangdong,Guangdong
+121,en,bs_BA,H1N1,H1N1
+122,en,bs_BA,H1N1 virus,virus H1N1
+123,en,bs_BA,hand disinfectant,dezinficijens za ruke
+124,en,bs_BA,hand sanitizer,sredstvo za dezinfekciju ruku
+125,en,bs_BA,health care provider,pružatelj zdravstvene njege
+126,en,bs_BA,health crisis,zdravstvena kriza
+127,en,bs_BA,health plan carrier,pružatelj usluga zdravstvenog osiguranja
+128,en,bs_BA,health services,zdravstvene usluge
+129,en,bs_BA,heart failure,zatajenje srca
+130,en,bs_BA,high fever,visoka tjelesna temperatura
+131,en,bs_BA,HIV,HIV
+132,en,bs_BA,hospitalize,hospitalizirati
+133,en,bs_BA,household bleach,kućansko sredstvo za izbjeljivanje
+134,en,bs_BA,Hubei,Hubei
+135,en,bs_BA,hydrogen peroxide,hidrogen peroksid
+136,en,bs_BA,hygiene,higijena
+137,en,bs_BA,immune system,imunološki sistem
+138,en,bs_BA,immunity,imunitet
+139,en,bs_BA,immunocompromised,imunokompromitiran
+140,en,bs_BA,immunologist,imunolog
+141,en,bs_BA,incubation,inkubacija
+142,en,bs_BA,incubation period,period inkubacije
+143,en,bs_BA,indirect contact,indirektni kontakt
+144,en,bs_BA,infect,inficirati
+145,en,bs_BA,infection,infekcija
+146,en,bs_BA,infectious,infektivno
+147,en,bs_BA,infectivity,infektivnost
+148,en,bs_BA,influenza,influenca
+149,en,bs_BA,initial transmission event,događaj inicijalnog prijenosa
+150,en,bs_BA,intensive care equipment,oprema za intenzivnu njegu
+151,en,bs_BA,intermediate host,prijelazni domaćin
+152,en,bs_BA,intrauterine,unutarmaterični
+153,en,bs_BA,intubation,intubacija
+154,en,bs_BA,isolation,izolacija
+155,en,bs_BA,Isopropanol,Izopropanol
+156,en,bs_BA,laboratory test kit,laboratorijski testni komplet
+157,en,bs_BA,laboratory testing,laboratorijsko testiranje
+158,en,bs_BA,lack of testing,nedostatak testiranja
+159,en,bs_BA,lack of tests,nedostatak testova
+160,en,bs_BA,latest updates,najnovije vijesti
+161,en,bs_BA,liver failure,zatajenje jetre
+162,en,bs_BA,local public health authority,lokalni organ za javno zdravlje
+163,en,bs_BA,lockdown,blokada
+164,en,bs_BA,lungs,pluća
+165,en,bs_BA,masks,maske
+166,en,bs_BA,measles,ospice
+167,en,bs_BA,mechanical ventilation,mehanička ventilacija
+168,en,bs_BA,media coverage,medijsko praćenje
+169,en,bs_BA,medical care,medicinska njega
+170,en,bs_BA,MERS,MERS
+171,en,bs_BA,MERS CoV,MERS CoV
+172,en,bs_BA,microbiologist,mikrobiolog
+173,en,bs_BA,mild cough,blagi kašalj
+174,en,bs_BA,mortality rate,stopa smrtnosti
+175,en,bs_BA,multi-organ failure,zatajenje više organa
+176,en,bs_BA,nasal congestion,nazalno začepljenje
+177,en,bs_BA,neutral detergent,neutralni deterdžent
+178,en,bs_BA,new normal,novonastalo stanje
+179,en,bs_BA,novel corona virus,novi virus korona
+180,en,bs_BA,novel coronavirus,novi koronavirus
+181,en,bs_BA,novel coronavirus outbreak,epidemija novog koronavirusa
+182,en,bs_BA,novel virus,novi virus
+183,en,bs_BA,online medical consultation,internetske medicinske konsultacije
+184,en,bs_BA,onset,nastup
+185,en,bs_BA,outbreak,izbijanje
+186,en,bs_BA,outbreak readiness,spremnost za izbijanje
+187,en,bs_BA,overall case fatality,ukupna smrtnost
+188,en,bs_BA,pandemic,pandemija
+189,en,bs_BA,pangolin,ljuskavac
+190,en,bs_BA,pathogen,patogen
+191,en,bs_BA,pathology,patologija
+192,en,bs_BA,patient care equipment,oprema za njegu pacijenata
+193,en,bs_BA,personal protective equipment,lična zaštitna oprema
+194,en,bs_BA,person-to-person transmission,prenošenje s osobe na osobu
+195,en,bs_BA,phlegm,sluz
+196,en,bs_BA,physical contact,fizički kontakt
+197,en,bs_BA,plague,kuga
+198,en,bs_BA,pneumonia,upala pluća
+199,en,bs_BA,pneumonias,upale pluća
+200,en,bs_BA,positive test,pozitivan test
+201,en,bs_BA,precaution,predostrožnost
+202,en,bs_BA,precautionary,predostrožno
+203,en,bs_BA,pre-existing condition,postojeće oboljenje
+204,en,bs_BA,preparedness,pripremljenost
+205,en,bs_BA,prognosis,prognoza
+206,en,bs_BA,protect myself,zaštititi sebe
+207,en,bs_BA,protect others,zaštititi druge
+208,en,bs_BA,protect yourself,zaštitite sebe
+209,en,bs_BA,protective measures,zaštitne mjere
+210,en,bs_BA,public health crisis,kriza javnog zdravlja
+211,en,bs_BA,pulmonary tissue damage,oštećenje plućnog tkiva
+212,en,bs_BA,quarantine,karantin
+213,en,bs_BA,rapid risk assessment,brza procjena rizika
+214,en,bs_BA,reagent,reagens
+215,en,bs_BA,regular flu,obična gripa
+216,en,bs_BA,reinfection,ponovna infekcija
+217,en,bs_BA,renal disease,bolest bubrega
+218,en,bs_BA,renal failure,zatajenje bubrega
+219,en,bs_BA,respirator,respirator
+220,en,bs_BA,respiratory,respiratorni
+221,en,bs_BA,respiratory disease,respiratorna bolest
+222,en,bs_BA,respiratory distress,respiratorni distres
+223,en,bs_BA,respiratory droplets,respiratorne kapljice
+224,en,bs_BA,respiratory hygiene,respiratorna higijena
+225,en,bs_BA,respiratory illness,respiratorno oboljenje
+226,en,bs_BA,respiratory syndrome,respiratorni sindrom
+227,en,bs_BA,respiratory tract disease,bolest respiratornog trakta
+228,en,bs_BA,restrictions,ograničenja
+229,en,bs_BA,resurge,ponovno porasti
+230,en,bs_BA,RNA,RNK
+231,en,bs_BA,rubeola,rubeola
+232,en,bs_BA,runny nose,curenje nosa
+233,en,bs_BA,SARS,SARS
+234,en,bs_BA,SARS-CoV-2,SARS-CoV-2
+235,en,bs_BA,SARS-CoV,SARS-CoV
+236,en,bs_BA,sars-related coronavirus,koronavirus povezan sa sarsom
+237,en,bs_BA,seasonal flu,sezonska gripa
+238,en,bs_BA,seasonal influenza,sezonska influenca
+239,en,bs_BA,secretion,sekrecija
+240,en,bs_BA,self-quarantine,samokarantin
+241,en,bs_BA,sepsis,sepsa
+242,en,bs_BA,septic shock,septički šok
+243,en,bs_BA,Severe Acute Respiratory Syndrome,Teški akutni respiratorni sindrom
+244,en,bs_BA,shortness of breath,kratkoća daha
+245,en,bs_BA,sickened,obolio
+246,en,bs_BA,sickness,bolest
+247,en,bs_BA,sneeze,kihati
+248,en,bs_BA,sneezes,kiše
+249,en,bs_BA,sneezing,kihanje
+250,en,bs_BA,social distancing,socijalno distanciranje
+251,en,bs_BA,sore throat,bolno grlo
+252,en,bs_BA,spanish flu,španska gripa
+253,en,bs_BA,specimen collection,prikupljanje uzoraka
+254,en,bs_BA,spread,širenje
+255,en,bs_BA,sputum,ispljuvak
+256,en,bs_BA,stigmatisation,stigmatiziranje
+257,en,bs_BA,supportive,suportivno
+258,en,bs_BA,surface,površina
+259,en,bs_BA,surfaces,površine
+260,en,bs_BA,suspected infection,suspektna infekcija
+261,en,bs_BA,swab,bris
+262,en,bs_BA,swine flu,svinjska gripa
+263,en,bs_BA,symptom,simptom
+264,en,bs_BA,symptomatic,simptomatično
+265,en,bs_BA,symptoms,simptomi
+266,en,bs_BA,targeted disinfection,ciljana dezinfekcija
+267,en,bs_BA,test kit,komplet za testiranje
+268,en,bs_BA,testing error,greška u testiranju
+269,en,bs_BA,tissue damage,oštećenje tkiva
+270,en,bs_BA,tp shortage,nestašica toaletnog papira
+271,en,bs_BA,toilet paper shortage,nestašica toaletnog papira
+272,en,bs_BA,touch,dodir
+273,en,bs_BA,touching,dodirivanje
+274,en,bs_BA,transmissibility,prenosivost
+275,en,bs_BA,transmissible,prenosiv
+276,en,bs_BA,transmission,prenošenje
+277,en,bs_BA,transmission potential,potencijal za prenosivost
+278,en,bs_BA,typical flu,tipična gripa
+279,en,bs_BA,underlying disease,prateće oboljenje
+280,en,bs_BA,updates,vijesti
+281,en,bs_BA,vaccine,vakcina
+282,en,bs_BA,vaccines,vakcine
+283,en,bs_BA,ventilation,ventilacija
+284,en,bs_BA,ventilator,ventilator
+285,en,bs_BA,ventilators,ventilatori
+286,en,bs_BA,viral infection,virusna infekcija
+287,en,bs_BA,viral outbreak,virusna epidemija
+288,en,bs_BA,viral pandemic,virusna pandemija
+289,en,bs_BA,viral pneumonia,virusna upala pluća
+290,en,bs_BA,virtual care,virtuelna njega
+291,en,bs_BA,virulence,virulentnost
+292,en,bs_BA,virus itself,sam virus
+293,en,bs_BA,virus outbreak,izbijanje epidemija virusa
+294,en,bs_BA,virus scare,strah od virusa
+295,en,bs_BA,virus spreads,širenje virusa
+296,en,bs_BA,virus strain,soj virusa
+297,en,bs_BA,viral transmission,prenošenje virusa
+298,en,bs_BA,vivid-19,vivid-19
+299,en,bs_BA,washing hands,pranje ruku
+300,en,bs_BA,washing ones hands,pranje vlastitih ruku
+301,en,bs_BA,wash your hands,perite ruke
+302,en,bs_BA,white blood cell count,broj leukocita
+303,en,bs_BA,widespread transmission,široko rasprostranjeno prenošenje
+304,en,bs_BA,working from home,rad od kuće
+305,en,bs_BA,WFH,WFH
+306,en,bs_BA,Wuhan,Wuhan

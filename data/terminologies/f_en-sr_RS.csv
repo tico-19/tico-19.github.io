@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,sr_RS,1918 flu,грип из 1918.
+2,en,sr_RS,acute bronchitis,акутни бронхитис
+3,en,sr_RS,acute respiratory disease,акутна респираторна болест
+4,en,sr_RS,AIDS,СИДА
+5,en,sr_RS,airborne droplets,лебдеће капљице
+6,en,sr_RS,airway,ваздушни пут
+7,en,sr_RS,alcohol-based,на бази алкохола
+8,en,sr_RS,alcohol-based hand rub,средство за руке на бази алкохола
+9,en,sr_RS,alcohol-based hand sanitizer,средство за дезинфекцију руку на бази алкохола
+10,en,sr_RS,alveolar disease,алвеоларна болест
+11,en,sr_RS,an epidemic,епидемија
+12,en,sr_RS,annual flu,годишњи грип
+13,en,sr_RS,anti-inflammatory drug,антиинфламаторни лек
+14,en,sr_RS,antiviral drug,антивирусни лек
+15,en,sr_RS,antiviral treatment,антивирусно лечење
+16,en,sr_RS,assay,тест
+17,en,sr_RS,asymptomatic,асимптоматично
+18,en,sr_RS,avian flu,птичји грип
+19,en,sr_RS,Black Plague,Црна смрт
+20,en,sr_RS,blood pressure,крвни притисак
+21,en,sr_RS,body fluid,телесна течност
+22,en,sr_RS,breathing,дисање
+23,en,sr_RS,bubonic plague,бубонска куга
+24,en,sr_RS,c19,c19
+25,en,sr_RS,cv19,cv19
+26,en,sr_RS,case fatality rate,стопа леталитета
+27,en,sr_RS,causative agent,узрочни фактор
+28,en,sr_RS,CDC,CDC
+29,en,sr_RS,chemical disinfection,хемијска дезинфекција
+30,en,sr_RS,chest x-ray,рендген грудног коша
+31,en,sr_RS,clinical diagnosis,клиничка дијагноза
+32,en,sr_RS,clinical trial,клиничко испитивање
+33,en,sr_RS,close contact,близак контакт
+34,en,sr_RS,cvirus,корона вирус
+35,en,sr_RS,chronic respiratory disease,хронична респираторна болест
+36,en,sr_RS,common cold,прехлада
+37,en,sr_RS,common flu,обичан грип
+38,en,sr_RS,communicable disease,заразна болест
+39,en,sr_RS,community spread,ширење у заједници
+40,en,sr_RS,community transmission,пренос у заједници
+41,en,sr_RS,compromised immune system,угрожен имуни систем
+42,en,sr_RS,contagion,зараза
+43,en,sr_RS,contagious,заразно
+44,en,sr_RS,contagiousness,заразност
+45,en,sr_RS,corona,корона
+46,en,sr_RS,corona virus,вирус корона
+47,en,sr_RS,corona virus epidemic,епидемија вируса корона
+48,en,sr_RS,corona virus outbreak,нагла појава вируса корона
+49,en,sr_RS,corona virus scare,страх од вируса корона
+50,en,sr_RS,coronavirus,корона вирус
+51,en,sr_RS,coronavirus cases,случајеви корона вируса
+52,en,sr_RS,coronavirus outbreak,нагла појава корона вируса
+53,en,sr_RS,coronavirus pandemic,пандемија корона вируса
+54,en,sr_RS,coronavirus scare,страх од корона вируса
+55,en,sr_RS,cough,кашаљ
+56,en,sr_RS,cough etiquette,правилно кашљање
+57,en,sr_RS,coughing,кашљање
+58,en,sr_RS,cov 19,cov 19
+59,en,sr_RS,cov19,cov19
+60,en,sr_RS,COVID,COVID
+61,en,sr_RS,COVID-19 crisis,криза COVID-19
+62,en,sr_RS,covid-19,covid-19
+63,en,sr_RS,covid19,covid19
+64,en,sr_RS,COVID-19 epidemic,епидемија COVID-19
+65,en,sr_RS,COVID-19 outbreak,нагла појава COVID-19
+66,en,sr_RS,COVID-19 pandemic,пандемија COVID-19
+67,en,sr_RS,COVID 19,COVID 19
+68,en,sr_RS,current crisis,тренутна криза
+69,en,sr_RS,current health crisis,тренутна здравствена криза
+70,en,sr_RS,current outbreak,тренутна нагла појава
+71,en,sr_RS,current pandemic,тренутна пандемија
+72,en,sr_RS,CV,CV
+73,en,sr_RS,CV-19,CV-19
+74,en,sr_RS,deadly,смртоносно
+75,en,sr_RS,deadly virus,смртоносни вирус
+76,en,sr_RS,death rate,стопа смртности
+77,en,sr_RS,death toll,број смртних случајева
+78,en,sr_RS,decontaminate,деконтаминирати
+79,en,sr_RS,detectable,детектабилно
+80,en,sr_RS,detergent,детерџент
+81,en,sr_RS,difficulty breathing,тешкоће у дисању
+82,en,sr_RS,diabetes,дијабетес
+83,en,sr_RS,diagnosable disease,болест која се може дијагностиковати
+84,en,sr_RS,diagnostic protocol,дијагностички протокол
+85,en,sr_RS,diagnostic testing,дијагностичко испитивање
+86,en,sr_RS,disease itself,сама болест
+87,en,sr_RS,disease outbreak,нагла појава болести
+88,en,sr_RS,disinfectant,средство за дезинфекцију
+89,en,sr_RS,disposable,за једнократну употребу
+90,en,sr_RS,droplet transmission,пренос капљица
+91,en,sr_RS,droplets,капљице
+92,en,sr_RS,dry cough,суви кашаљ
+93,en,sr_RS,dry surface contamination,контаминација сувих површина
+94,en,sr_RS,ebola,ебола
+95,en,sr_RS,effective treatment,делотворно лечење
+96,en,sr_RS,electron microscope,електронски микроскоп
+97,en,sr_RS,emergency department,одељење хитне службе
+98,en,sr_RS,epidemic,епидемија
+99,en,sr_RS,epidemic curve,кривуља епидемије
+100,en,sr_RS,epidemic peak,врхунац епидемије
+101,en,sr_RS,epidemiologist,епидиомолог
+102,en,sr_RS,exposure,изложеност
+103,en,sr_RS,extreme caution,крајњи опрез
+104,en,sr_RS,eye protection,заштита очију
+105,en,sr_RS,face mask,маска за лице
+106,en,sr_RS,face masks,маске за лице
+107,en,sr_RS,family cluster,породични кластер
+108,en,sr_RS,fatality rate,стопа смртности
+109,en,sr_RS,fecal contamination,фекална контаминација
+110,en,sr_RS,fever,температура
+111,en,sr_RS,flatten the infection curve,изравнати криву инфекције
+112,en,sr_RS,flu,грип
+113,en,sr_RS,food safety,безбедност хране
+114,en,sr_RS,formaldehyde,формалдехид
+115,en,sr_RS,gastroenteritis,гастроентеритис
+116,en,sr_RS,germicide,гермицид
+117,en,sr_RS,global pandemic,глобална пандемија
+118,en,sr_RS,global warming,глобално загревање
+119,en,sr_RS,good respiratory hygiene,добра респираторна хигијена
+120,en,sr_RS,Guangdong,Гуандунг
+121,en,sr_RS,H1N1,H1N1
+122,en,sr_RS,H1N1 virus,вирус H1N1
+123,en,sr_RS,hand disinfectant,средство за дезинфекцију руку
+124,en,sr_RS,hand sanitizer,средство за чишћење руку
+125,en,sr_RS,health care provider,здравствена установа
+126,en,sr_RS,health crisis,здравствена криза
+127,en,sr_RS,health plan carrier,установа здравственог осигурања
+128,en,sr_RS,health services,здравствене услуге
+129,en,sr_RS,heart failure,срчана инсуфицијенција
+130,en,sr_RS,high fever,висока температура
+131,en,sr_RS,HIV,ХИВ
+132,en,sr_RS,hospitalize,хоспитализовати
+133,en,sr_RS,household bleach,кућни избељивач
+134,en,sr_RS,Hubei,Хубеј
+135,en,sr_RS,hydrogen peroxide,водоник-пероксид
+136,en,sr_RS,hygiene,хигијена
+137,en,sr_RS,immune system,имуни систем
+138,en,sr_RS,immunity,имунитет
+139,en,sr_RS,immunocompromised,имуно компромитован
+140,en,sr_RS,immunologist,имунолог
+141,en,sr_RS,incubation,инкубација
+142,en,sr_RS,incubation period,период инкубације
+143,en,sr_RS,indirect contact,посредни контакт
+144,en,sr_RS,infect,заразити
+145,en,sr_RS,infection,инфекција
+146,en,sr_RS,infectious,инфективно
+147,en,sr_RS,infectivity,инфективност
+148,en,sr_RS,influenza,инфлуенза
+149,en,sr_RS,initial transmission event,иницијални пренос
+150,en,sr_RS,intensive care equipment,опрема за интензивну негу
+151,en,sr_RS,intermediate host,домаћин-посредник
+152,en,sr_RS,intrauterine,интраутерина
+153,en,sr_RS,intubation,интубација
+154,en,sr_RS,isolation,изолација
+155,en,sr_RS,Isopropanol,изопропанол
+156,en,sr_RS,laboratory test kit,опрема за лабораторијско испитивање
+157,en,sr_RS,laboratory testing,лабораторијско испитивање
+158,en,sr_RS,lack of testing,недостатак испитивања
+159,en,sr_RS,lack of tests,недостатак тестова
+160,en,sr_RS,latest updates,најновије вести
+161,en,sr_RS,liver failure,инсуфицијенција јетре
+162,en,sr_RS,local public health authority,локална јавна здравствена установа
+163,en,sr_RS,lockdown,карантин
+164,en,sr_RS,lungs,плућа
+165,en,sr_RS,masks,маске
+166,en,sr_RS,measles,богиње
+167,en,sr_RS,mechanical ventilation,механичка вентилација
+168,en,sr_RS,media coverage,покривеност у медијима
+169,en,sr_RS,medical care,здравствена нега
+170,en,sr_RS,MERS,MERS
+171,en,sr_RS,MERS CoV,MERS CoV
+172,en,sr_RS,microbiologist,микробиолог
+173,en,sr_RS,mild cough,благи кашаљ
+174,en,sr_RS,mortality rate,стопа морталитета
+175,en,sr_RS,multi-organ failure,инсуфицијенција више органа
+176,en,sr_RS,nasal congestion,запушеност ваздушног пута
+177,en,sr_RS,neutral detergent,неутрални детерџент
+178,en,sr_RS,new normal,нова свакодневница
+179,en,sr_RS,novel corona virus,нови вирус корона
+180,en,sr_RS,novel coronavirus,нови корона вирус
+181,en,sr_RS,novel coronavirus outbreak,нагла појава новог корона вируса
+182,en,sr_RS,novel virus,нови вирус
+183,en,sr_RS,online medical consultation,медицинске консултације на мрежи
+184,en,sr_RS,onset,почетак
+185,en,sr_RS,outbreak,нагла појава
+186,en,sr_RS,outbreak readiness,припремљеност на наглу појаву
+187,en,sr_RS,overall case fatality,укупан број смртних случајева
+188,en,sr_RS,pandemic,пандемија
+189,en,sr_RS,pangolin,панголин
+190,en,sr_RS,pathogen,патоген
+191,en,sr_RS,pathology,патологија
+192,en,sr_RS,patient care equipment,опрема за негу пацијената
+193,en,sr_RS,personal protective equipment,лична заштитна опрема
+194,en,sr_RS,person-to-person transmission,пренос с особе на особу
+195,en,sr_RS,phlegm,шлајм
+196,en,sr_RS,physical contact,физички контакт
+197,en,sr_RS,plague,куга
+198,en,sr_RS,pneumonia,упала плућа
+199,en,sr_RS,pneumonias,упале плућа
+200,en,sr_RS,positive test,позитиван тест
+201,en,sr_RS,precaution,мера предострожности
+202,en,sr_RS,precautionary,предострожно
+203,en,sr_RS,pre-existing condition,претходно постојеће стање
+204,en,sr_RS,preparedness,припремљеност
+205,en,sr_RS,prognosis,прогноза
+206,en,sr_RS,protect myself,заштити себе
+207,en,sr_RS,protect others,заштити друге
+208,en,sr_RS,protect yourself,заштити себе
+209,en,sr_RS,protective measures,заштитне мере
+210,en,sr_RS,public health crisis,криза јавног здравља
+211,en,sr_RS,pulmonary tissue damage,оштећење плућног ткива
+212,en,sr_RS,quarantine,карантин
+213,en,sr_RS,rapid risk assessment,брза процена ризика
+214,en,sr_RS,reagent,реагенс
+215,en,sr_RS,regular flu,редовни грип
+216,en,sr_RS,reinfection,поновно инфицирање
+217,en,sr_RS,renal disease,бубрежна болест
+218,en,sr_RS,renal failure,бубрежна инсуфицијенција
+219,en,sr_RS,respirator,респиратор
+220,en,sr_RS,respiratory,респираторно
+221,en,sr_RS,respiratory disease,респираторна болест
+222,en,sr_RS,respiratory distress,респираторни дистрес
+223,en,sr_RS,respiratory droplets,респираторне капљице
+224,en,sr_RS,respiratory hygiene,респираторна хигијена
+225,en,sr_RS,respiratory illness,болест плућа
+226,en,sr_RS,respiratory syndrome,респираторни синдром
+227,en,sr_RS,respiratory tract disease,болест респираторног тракта
+228,en,sr_RS,restrictions,ограничења
+229,en,sr_RS,resurge,поновна појава
+230,en,sr_RS,RNA,РНА
+231,en,sr_RS,rubeola,рубеола
+232,en,sr_RS,runny nose,цурење носа
+233,en,sr_RS,SARS,САРС
+234,en,sr_RS,SARS-CoV-2,SARS-CoV-2
+235,en,sr_RS,SARS-CoV,SARS-CoV
+236,en,sr_RS,sars-related coronavirus,корона вирус који је повезан са сарсом
+237,en,sr_RS,seasonal flu,сезонски грип
+238,en,sr_RS,seasonal influenza,сезонска инфлуенза
+239,en,sr_RS,secretion,секреција
+240,en,sr_RS,self-quarantine,самоизолација
+241,en,sr_RS,sepsis,сепса
+242,en,sr_RS,septic shock,септички шок
+243,en,sr_RS,Severe Acute Respiratory Syndrome,тешки акутни респираторни синдром
+244,en,sr_RS,shortness of breath,кратак дах
+245,en,sr_RS,sickened,болестан
+246,en,sr_RS,sickness,болест
+247,en,sr_RS,sneeze,кинути
+248,en,sr_RS,sneezes,кијавице
+249,en,sr_RS,sneezing,кијање
+250,en,sr_RS,social distancing,социјално дистанцирање
+251,en,sr_RS,sore throat,болно грло
+252,en,sr_RS,spanish flu,шпанска грозница
+253,en,sr_RS,specimen collection,прикупљање узорака
+254,en,sr_RS,spread,ширење
+255,en,sr_RS,sputum,испљувак
+256,en,sr_RS,stigmatisation,стигматизација
+257,en,sr_RS,supportive,подршка
+258,en,sr_RS,surface,површина
+259,en,sr_RS,surfaces,површине
+260,en,sr_RS,suspected infection,сумња на инфекцију
+261,en,sr_RS,swab,узорак
+262,en,sr_RS,swine flu,свињски грип
+263,en,sr_RS,symptom,симптом
+264,en,sr_RS,symptomatic,симптоматично
+265,en,sr_RS,symptoms,симптоми
+266,en,sr_RS,targeted disinfection,циљана дезинфекција
+267,en,sr_RS,test kit,опрема за тестирање
+268,en,sr_RS,testing error,грешка у тестирању
+269,en,sr_RS,tissue damage,оштећење ткива
+270,en,sr_RS,tp shortage,несташица тп
+271,en,sr_RS,toilet paper shortage,несташица тоалет папира
+272,en,sr_RS,touch,додир
+273,en,sr_RS,touching,додиривање
+274,en,sr_RS,transmissibility,преносивост
+275,en,sr_RS,transmissible,преносив
+276,en,sr_RS,transmission,пренос
+277,en,sr_RS,transmission potential,могућност преноса
+278,en,sr_RS,typical flu,типични грип
+279,en,sr_RS,underlying disease,основна болест
+280,en,sr_RS,updates,новости
+281,en,sr_RS,vaccine,вакцина
+282,en,sr_RS,vaccines,вакцине
+283,en,sr_RS,ventilation,вентилација
+284,en,sr_RS,ventilator,вентилатор
+285,en,sr_RS,ventilators,вентилатори
+286,en,sr_RS,viral infection,вирусна инфекција
+287,en,sr_RS,viral outbreak,нагла појава вируса
+288,en,sr_RS,viral pandemic,вирусна пандемија
+289,en,sr_RS,viral pneumonia,вирусна упала плућа
+290,en,sr_RS,virtual care,виртуелна брига
+291,en,sr_RS,virulence,вируленција
+292,en,sr_RS,virus itself,сам вирус
+293,en,sr_RS,virus outbreak,нагла појава вируса
+294,en,sr_RS,virus scare,страх од вируса
+295,en,sr_RS,virus spreads,ширење вируса
+296,en,sr_RS,virus strain,сој вируса
+297,en,sr_RS,viral transmission,пренос вируса
+298,en,sr_RS,vivid-19,vivid-19
+299,en,sr_RS,washing hands,прање руку
+300,en,sr_RS,washing ones hands,прање руку
+301,en,sr_RS,wash your hands,перите руке
+302,en,sr_RS,white blood cell count,број белих крвних зрнаца
+303,en,sr_RS,widespread transmission,широко распрострањен пренос
+304,en,sr_RS,working from home,рад од куће
+305,en,sr_RS,WFH,WFH
+306,en,sr_RS,Wuhan,Вухан

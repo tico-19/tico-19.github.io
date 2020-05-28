@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,su_ID,1918 flu,flu 1918
+2,en,su_ID,acute bronchitis,bronkhitis akut
+3,en,su_ID,acute respiratory disease,penyakit pernapasan akut
+4,en,su_ID,AIDS,panyakit AIDS
+5,en,su_ID,airborne droplets,hawa nu kaluar
+6,en,su_ID,airway,jalan napas
+7,en,su_ID,alcohol-based,berbahan dasar alkohol
+8,en,su_ID,alcohol-based hand rub,ngusap panangan jeung alkohol
+9,en,su_ID,alcohol-based hand sanitizer,pencuci panangan berbahan alkohol
+10,en,su_ID,alveolar disease,panyakit alveoulus
+11,en,su_ID,an epidemic,wabah
+12,en,su_ID,annual flu,flu tahuneun
+13,en,su_ID,anti-inflammatory drug,ubar anti inplamasi
+14,en,su_ID,antiviral drug,ubar anti virus
+15,en,su_ID,antiviral treatment,parawatan anti virus
+16,en,su_ID,assay,uji eusi na logam
+17,en,su_ID,asymptomatic,teu aya gajala
+18,en,su_ID,avian flu,flu burung
+19,en,su_ID,Black Plague,Wabah Hideung
+20,en,su_ID,blood pressure,tekanan geutih
+21,en,su_ID,body fluid,cairan awak
+22,en,su_ID,breathing,napas
+23,en,su_ID,bubonic plague,wabah sampar
+24,en,su_ID,c19,c 19
+25,en,su_ID,cv19,cv 19
+26,en,su_ID,case fatality rate,laju kafatalan kasus
+27,en,su_ID,causative agent,agen panyabab
+28,en,su_ID,CDC,Pusat Pengontrol dan Pancagah Penyakit di Amerika
+29,en,su_ID,chemical disinfection,ngumbah make bahan kimia
+30,en,su_ID,chest x-ray,rongsen dada
+31,en,su_ID,clinical diagnosis,diagnosis klinis
+32,en,su_ID,clinical trial,parcobaan klinis
+33,en,su_ID,close contact,hubungan dekeut
+34,en,su_ID,cvirus,c virus
+35,en,su_ID,chronic respiratory disease,panyakit pernapasan kronis
+36,en,su_ID,common cold,flu biasa / pilek
+37,en,su_ID,common flu,flu biasa
+38,en,su_ID,communicable disease,panyakit tepa
+39,en,su_ID,community spread,panyabaran masyarakat
+40,en,su_ID,community transmission,pangiriman sekitar masyarakat
+41,en,su_ID,compromised immune system,kompromi sistem daya tahan awak
+42,en,su_ID,contagion,penularan
+43,en,su_ID,contagious,tepa
+44,en,su_ID,contagiousness,panulareun
+45,en,su_ID,corona,korona
+46,en,su_ID,corona virus,korona virus
+47,en,su_ID,corona virus epidemic,wabah virus korona
+48,en,su_ID,corona virus outbreak,kajadian rongkah korona virus
+49,en,su_ID,corona virus scare,kasieunan ku sabab korona virus
+50,en,su_ID,coronavirus,koronavirus
+51,en,su_ID,coronavirus cases,kasus korona virus
+52,en,su_ID,coronavirus outbreak,kajadian rongkah koronavirus
+53,en,su_ID,coronavirus pandemic,wabah korona virus nu aya di mana-mana
+54,en,su_ID,coronavirus scare,kasieunan ku sabab koronavirus
+55,en,su_ID,cough,batuk
+56,en,su_ID,cough etiquette,etika batuk
+57,en,su_ID,coughing,keur batuk
+58,en,su_ID,cov 19,cov19
+59,en,su_ID,cov19,cov 19
+60,en,su_ID,COVID,KOVID
+61,en,su_ID,COVID-19 crisis,krisis COVID-19
+62,en,su_ID,covid-19,covid19
+63,en,su_ID,covid19,covid-19
+64,en,su_ID,COVID-19 epidemic,wabah covid-19 nu aya di mana-mana
+65,en,su_ID,COVID-19 outbreak,kasieunan ku sabab covid-19
+66,en,su_ID,COVID-19 pandemic,wabah covid-19
+67,en,su_ID,COVID 19,COVID19
+68,en,su_ID,current crisis,krisis nu keur jalan ayeuna
+69,en,su_ID,current health crisis,krisis kesehatan nu keur jalan ayeuna
+70,en,su_ID,current outbreak,kasieunan nu keur jalan
+71,en,su_ID,current pandemic,wabah nu keur aya di mana-mana
+72,en,su_ID,CV,cv
+73,en,su_ID,CV-19,CV19
+74,en,su_ID,deadly,maot
+75,en,su_ID,deadly virus,virus nu nyieun maot
+76,en,su_ID,death rate,laju maot
+77,en,su_ID,death toll,korban maot
+78,en,su_ID,decontaminate,dekontaminasi
+79,en,su_ID,detectable,terdeteksi
+80,en,su_ID,detergent,sabun keur nyuseuh
+81,en,su_ID,difficulty breathing,hese napas
+82,en,su_ID,diabetes,Diabetes
+83,en,su_ID,diagnosable disease,panyakit nu bisa didiagnosa
+84,en,su_ID,diagnostic protocol,tata cara diagnosa
+85,en,su_ID,diagnostic testing,tes diagnosa
+86,en,su_ID,disease itself,panyakit eta sorangan
+87,en,su_ID,disease outbreak,kasieunan ku sabab panyakit
+88,en,su_ID,disinfectant,ubar semprot keur virus
+89,en,su_ID,disposable,sakali pake
+90,en,su_ID,droplet transmission,panularan margi tetesan nu leutik
+91,en,su_ID,droplets,tetesan nu leutik
+92,en,su_ID,dry cough,batuk garing
+93,en,su_ID,dry surface contamination,permukaan garing nu terkontaminasi
+94,en,su_ID,ebola,panyakit ebola
+95,en,su_ID,effective treatment,parawatan efektip
+96,en,su_ID,electron microscope,mikroskop elektron
+97,en,su_ID,emergency department,bagain gawat darurat
+98,en,su_ID,epidemic,wabah nu aya dimana-mana
+99,en,su_ID,epidemic curve,kurva wabah nu aya dimana-mana
+100,en,su_ID,epidemic peak,puncakna wabah nu aya dimana-mana
+101,en,su_ID,epidemiologist,ahli ilmu epidemi
+102,en,su_ID,exposure,paparan
+103,en,su_ID,extreme caution,mepeling ekstrim
+104,en,su_ID,eye protection,palindung soca
+105,en,su_ID,face mask,palindung rai
+106,en,su_ID,face masks,masker rai
+107,en,su_ID,family cluster,pakait kulawarga
+108,en,su_ID,fatality rate,laju kafatalan
+109,en,su_ID,fecal contamination,kontaminasi tai
+110,en,su_ID,fever,panas
+111,en,su_ID,flatten the infection curve,kurva infeksi nu datar
+112,en,su_ID,flu,pilek
+113,en,su_ID,food safety,dahareun nu aman
+114,en,su_ID,formaldehyde,folmaldehida
+115,en,su_ID,gastroenteritis,panyakit infeksi peujit
+116,en,su_ID,germicide,ubar keur maotkeun kuman
+117,en,su_ID,global pandemic,wabah sadunya
+118,en,su_ID,global warming,pamanasan sadunya
+119,en,su_ID,good respiratory hygiene,kabersihan pernapasan nu alus
+120,en,su_ID,Guangdong,Kota Guangdong
+121,en,su_ID,H1N1,H 1 N 1
+122,en,su_ID,H1N1 virus,virus H1N1
+123,en,su_ID,hand disinfectant,pembersih kuman keur panangan
+124,en,su_ID,hand sanitizer,pembersih panangan
+125,en,su_ID,health care provider,pamere kasehatan
+126,en,su_ID,health crisis,krisis kasehatan
+127,en,su_ID,health plan carrier,pamere rencana kasehatan
+128,en,su_ID,health services,palayan kasehatan
+129,en,su_ID,heart failure,gagal jantung
+130,en,su_ID,high fever,panas pisan
+131,en,su_ID,HIV,H I V
+132,en,su_ID,hospitalize,asup rumah sakit
+133,en,su_ID,household bleach,pambersih imah
+134,en,su_ID,Hubei,Wilayah Hubei
+135,en,su_ID,hydrogen peroxide,hidrogen peroksida
+136,en,su_ID,hygiene,kabersihan
+137,en,su_ID,immune system,sistem kakebalan awak
+138,en,su_ID,immunity,kakebalan awak
+139,en,su_ID,immunocompromised,kalainan kakebalan awak
+140,en,su_ID,immunologist,ilmu kakebalan awak
+141,en,su_ID,incubation,inkubasi
+142,en,su_ID,incubation period,lila na inkubasi
+143,en,su_ID,indirect contact,hubungan nu teu langsung
+144,en,su_ID,infect,nularkeun
+145,en,su_ID,infection,katulareun
+146,en,su_ID,infectious,tepaeun
+147,en,su_ID,infectivity,laju katepaan
+148,en,su_ID,influenza,fflu / pilek
+149,en,su_ID,initial transmission event,acara pangiriman nu di hareup
+150,en,su_ID,intensive care equipment,alat parawatan nu intensif
+151,en,su_ID,intermediate host,urang nu jadi perantara
+152,en,su_ID,intrauterine,kandungan
+153,en,su_ID,intubation,intubasi
+154,en,su_ID,isolation,isolasi
+155,en,su_ID,Isopropanol,iso propanol
+156,en,su_ID,laboratory test kit,peralatan pangujian di laboratorium
+157,en,su_ID,laboratory testing,pangujian laboratorium
+158,en,su_ID,lack of testing,pangujian nu bocor
+159,en,su_ID,lack of tests,kabocoran pangujian
+160,en,su_ID,latest updates,pamutahiran panganyarna
+161,en,su_ID,liver failure,gagal hate
+162,en,su_ID,local public health authority,puskesmas
+163,en,su_ID,lockdown,panguncian
+164,en,su_ID,lungs,bayah
+165,en,su_ID,masks,masker
+166,en,su_ID,measles,campak
+167,en,su_ID,mechanical ventilation,ventilasi mekanik
+168,en,su_ID,media coverage,liputan ti media
+169,en,su_ID,medical care,parawatan medis
+170,en,su_ID,MERS,M E R S
+171,en,su_ID,MERS CoV,MERS COV
+172,en,su_ID,microbiologist,ilmu mikrobiologi
+173,en,su_ID,mild cough,batuk biasa
+174,en,su_ID,mortality rate,laju kamungkinan maot
+175,en,su_ID,multi-organ failure,kagagalan sagala organ
+176,en,su_ID,nasal congestion,irung kasumbat
+177,en,su_ID,neutral detergent,sabun nyeseuh nu netral
+178,en,su_ID,new normal,biasa nu panganyarna
+179,en,su_ID,novel corona virus,virus korona novel
+180,en,su_ID,novel coronavirus,novel koronavirus
+181,en,su_ID,novel coronavirus outbreak,kajadian luar biasa novel koronavirus
+182,en,su_ID,novel virus,virus novel
+183,en,su_ID,online medical consultation,konsultasi kasehatan online
+184,en,su_ID,onset,serangan
+185,en,su_ID,outbreak,kajadian luar biasa
+186,en,su_ID,outbreak readiness,kasiapan ka na kajadian nu luar biasa
+187,en,su_ID,overall case fatality,kasus maot sadayana
+188,en,su_ID,pandemic,wabah nu aya di mana-mana
+189,en,su_ID,pangolin,trenggiling
+190,en,su_ID,pathogen,panyakit / kuman
+191,en,su_ID,pathology,ilmu panyakit
+192,en,su_ID,patient care equipment,alat parawatan keur pasien
+193,en,su_ID,personal protective equipment,alat palindung diri
+194,en,su_ID,person-to-person transmission,penyebaran ti jalma ka jalma lain
+195,en,su_ID,phlegm,dahak
+196,en,su_ID,physical contact,kontak awak
+197,en,su_ID,plague,infeksi ti na bakteri
+198,en,su_ID,pneumonia,panyakit pneumonia
+199,en,su_ID,pneumonias,radang panyakit pneumonia
+200,en,su_ID,positive test,pangujian positif
+201,en,su_ID,precaution,pancagahan
+202,en,su_ID,precautionary,panjagahan bisi
+203,en,su_ID,pre-existing condition,kondisi nu tos aya ti baheula
+204,en,su_ID,preparedness,kasiapan
+205,en,su_ID,prognosis,prediksi
+206,en,su_ID,protect myself,ngalindungan awak urang
+207,en,su_ID,protect others,ngalindungan batur
+208,en,su_ID,protect yourself,ngalindungan diri
+209,en,su_ID,protective measures,tindakan parlindungan
+210,en,su_ID,public health crisis,krisis kasehatan masyarakat
+211,en,su_ID,pulmonary tissue damage,karusakan membran pulmonari
+212,en,su_ID,quarantine,karantina
+213,en,su_ID,rapid risk assessment,penilaian resiko nu gancang
+214,en,su_ID,reagent,reagen
+215,en,su_ID,regular flu,flu nu biasa
+216,en,su_ID,reinfection,kana infeksi
+217,en,su_ID,renal disease,panyakit ginjal
+218,en,su_ID,renal failure,gagal ginjal
+219,en,su_ID,respirator,alat pernapasan
+220,en,su_ID,respiratory,pernapasan
+221,en,su_ID,respiratory disease,panyakit pernapasan
+222,en,su_ID,respiratory distress,sesah napas
+223,en,su_ID,respiratory droplets,percikan cai ti napas
+224,en,su_ID,respiratory hygiene,kabersihan pernapasan
+225,en,su_ID,respiratory illness,nyeri pernapasan
+226,en,su_ID,respiratory syndrome,sindrom pernapasan
+227,en,su_ID,respiratory tract disease,panyakit sistem pernapasan
+228,en,su_ID,restrictions,larangan
+229,en,su_ID,resurge,dilahirkeun deui
+230,en,su_ID,RNA,R N A
+231,en,su_ID,rubeola,rubela
+232,en,su_ID,runny nose,ngocor
+233,en,su_ID,SARS,virus SARS
+234,en,su_ID,SARS-CoV-2,SARS - COV - 2
+235,en,su_ID,SARS-CoV,SARS - COV
+236,en,su_ID,sars-related coronavirus,sars berhubungan jeung koronavirus
+237,en,su_ID,seasonal flu,flu usuman
+238,en,su_ID,seasonal influenza,flu nu aya usum na
+239,en,su_ID,secretion,sekresi
+240,en,su_ID,self-quarantine,karantina sorangan
+241,en,su_ID,sepsis,geutih nu karacunan
+242,en,su_ID,septic shock,kareuwasan septik
+243,en,su_ID,Severe Acute Respiratory Syndrome,SARS
+244,en,su_ID,shortness of breath,napas pondok
+245,en,su_ID,sickened,geuring
+246,en,su_ID,sickness,panyakit nu nyababkeun geuring
+247,en,su_ID,sneeze,bersin
+248,en,su_ID,sneezes,bersin-bersin
+249,en,su_ID,sneezing,keur bersin
+250,en,su_ID,social distancing,ngajaga jarak jeung batur
+251,en,su_ID,sore throat,nyeri tikoro
+252,en,su_ID,spanish flu,flu spanyol
+253,en,su_ID,specimen collection,koleksi spesimen
+254,en,su_ID,spread,panyebaran
+255,en,su_ID,sputum,kahak
+256,en,su_ID,stigmatisation,pandangan batur
+257,en,su_ID,supportive,dukungan
+258,en,su_ID,surface,parmukaan
+259,en,su_ID,surfaces,sagala parmukaan
+260,en,su_ID,suspected infection,nu tos terinfeksi
+261,en,su_ID,swab,ngusap
+262,en,su_ID,swine flu,flu babi
+263,en,su_ID,symptom,gajala
+264,en,su_ID,symptomatic,aya gajala
+265,en,su_ID,symptoms,gajala-gajala
+266,en,su_ID,targeted disinfection,nu hayang di bersihkeun ti kuman
+267,en,su_ID,test kit,peralatan pangujian
+268,en,su_ID,testing error,tes nu eror
+269,en,su_ID,tissue damage,karusakan membran
+270,en,su_ID,tp shortage,kakurangan tp
+271,en,su_ID,toilet paper shortage,kekurangan tisu wc
+272,en,su_ID,touch,nyabak
+273,en,su_ID,touching,keur nyabak
+274,en,su_ID,transmissibility,bisa jadi panullareun
+275,en,su_ID,transmissible,bisa tepaeun
+276,en,su_ID,transmission,panularan
+277,en,su_ID,transmission potential,potensial bisa nyebarkeun
+278,en,su_ID,typical flu,flu nu khas
+279,en,su_ID,underlying disease,panyakit nu nyebabkeun
+280,en,su_ID,updates,nu pang anyarna
+281,en,su_ID,vaccine,vaksin
+282,en,su_ID,vaccines,vaksin-vaksin
+283,en,su_ID,ventilation,sirkulasi hawa
+284,en,su_ID,ventilator,alat sirkulasi
+285,en,su_ID,ventilators,alat-alat sirkulasi
+286,en,su_ID,viral infection,infeksi viral
+287,en,su_ID,viral outbreak,kajadian viral nu luar biasa
+288,en,su_ID,viral pandemic,wabah viral
+289,en,su_ID,viral pneumonia,pneumonia viral
+290,en,su_ID,virtual care,parawatan virtual
+291,en,su_ID,virulence,karacunan
+292,en,su_ID,virus itself,virus eta sorangan
+293,en,su_ID,virus outbreak,kajadian virus nu luar biasa
+294,en,su_ID,virus scare,virus nu pikasieuneun
+295,en,su_ID,virus spreads,panyebaran virus
+296,en,su_ID,virus strain,ketegangan ka nu virus
+297,en,su_ID,viral transmission,panyebaran nu viral
+298,en,su_ID,vivid-19,VIVID-19
+299,en,su_ID,washing hands,wawasuh panangan
+300,en,su_ID,washing ones hands,wawasuh hiji panangan
+301,en,su_ID,wash your hands,wasuh eta panangan
+302,en,su_ID,white blood cell count,perhitungan sel geutih bodas
+303,en,su_ID,widespread transmission,nyebar sumebar
+304,en,su_ID,working from home,digawe ti imah
+305,en,su_ID,WFH,W F H
+306,en,su_ID,Wuhan,Kota Wuhan

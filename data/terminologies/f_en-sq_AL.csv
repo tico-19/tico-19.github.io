@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,sq_AL,1918 flu,gripi 1918
+2,en,sq_AL,acute bronchitis,bronkit akut
+3,en,sq_AL,acute respiratory disease,sëmundje respiratore akute
+4,en,sq_AL,AIDS,SIDA
+5,en,sq_AL,airborne droplets,spërkla që transmetohen më anë të ajrit
+6,en,sq_AL,airway,rrugët e frymëmarrjes
+7,en,sq_AL,alcohol-based,me bazë alkooli
+8,en,sq_AL,alcohol-based hand rub,solucion për duart me bazë alkooli
+9,en,sq_AL,alcohol-based hand sanitizer,dezinfektues për duart me bazë alkooli
+10,en,sq_AL,alveolar disease,sëmundje alveolare
+11,en,sq_AL,an epidemic,epidemi
+12,en,sq_AL,annual flu,gripi i përvitshëm
+13,en,sq_AL,anti-inflammatory drug,bar antiinflamator
+14,en,sq_AL,antiviral drug,bar antiviral
+15,en,sq_AL,antiviral treatment,trajtim antiviral
+16,en,sq_AL,assay,analizë
+17,en,sq_AL,asymptomatic,asimptomatik
+18,en,sq_AL,avian flu,gripi i shpendëve
+19,en,sq_AL,Black Plague,Murtaja e zezë
+20,en,sq_AL,blood pressure,presioni i gjakut
+21,en,sq_AL,body fluid,lëngjet trupore
+22,en,sq_AL,breathing,frymëmarrja
+23,en,sq_AL,bubonic plague,murtaja bubonike
+24,en,sq_AL,c19,c19
+25,en,sq_AL,cv19,cv19
+26,en,sq_AL,case fatality rate,shkalla e vdekshmërisë së rasteve
+27,en,sq_AL,causative agent,agjenti shkaktar
+28,en,sq_AL,CDC,CDC
+29,en,sq_AL,chemical disinfection,dezinfektim kimik
+30,en,sq_AL,chest x-ray,radiografi e kraharorit
+31,en,sq_AL,clinical diagnosis,diagnoza klinike
+32,en,sq_AL,clinical trial,provë klinike
+33,en,sq_AL,close contact,kontakt i afërt
+34,en,sq_AL,cvirus,koronavirus
+35,en,sq_AL,chronic respiratory disease,sëmundje respiratore kronike
+36,en,sq_AL,common cold,e ftohura
+37,en,sq_AL,common flu,gripi i zakonshëm
+38,en,sq_AL,communicable disease,sëmundje e transmetueshme
+39,en,sq_AL,community spread,përhapja në komunitet
+40,en,sq_AL,community transmission,transmetimi në komunitet
+41,en,sq_AL,compromised immune system,sistemi imunitar i dobët
+42,en,sq_AL,contagion,ngjitja
+43,en,sq_AL,contagious,ngjitëse
+44,en,sq_AL,contagiousness,shkalla e ngjitjes
+45,en,sq_AL,corona,koronavirus
+46,en,sq_AL,corona virus,virusi korona
+47,en,sq_AL,corona virus epidemic,epidemia e koronavirusit
+48,en,sq_AL,corona virus outbreak,shpërthimi i koronavirusit
+49,en,sq_AL,corona virus scare,frika nga koronavirusi
+50,en,sq_AL,coronavirus,koronavirus
+51,en,sq_AL,coronavirus cases,rastet me koronavirus
+52,en,sq_AL,coronavirus outbreak,shpërthimi i koronavirusit
+53,en,sq_AL,coronavirus pandemic,pandemia e koronavirusit
+54,en,sq_AL,coronavirus scare,frika nga koronavirusi
+55,en,sq_AL,cough,kollë
+56,en,sq_AL,cough etiquette,etika për kollën
+57,en,sq_AL,coughing,kollitje
+58,en,sq_AL,cov 19,cov 19
+59,en,sq_AL,cov19,cov19
+60,en,sq_AL,COVID,COVID
+61,en,sq_AL,COVID-19 crisis,kriza e COVID-19
+62,en,sq_AL,covid-19,covid-19
+63,en,sq_AL,covid19,covid19
+64,en,sq_AL,COVID-19 epidemic,epidemia e COVID-19
+65,en,sq_AL,COVID-19 outbreak,shpërthimi i COVID-19
+66,en,sq_AL,COVID-19 pandemic,pandemia e COVID-19
+67,en,sq_AL,COVID 19,COVID 19
+68,en,sq_AL,current crisis,kriza aktuale
+69,en,sq_AL,current health crisis,kriza aktuale e shëndetit
+70,en,sq_AL,current outbreak,shpërthimi aktual
+71,en,sq_AL,current pandemic,pandemia aktuale
+72,en,sq_AL,CV,CV
+73,en,sq_AL,CV-19,CV-19
+74,en,sq_AL,deadly,vdekjeprurës
+75,en,sq_AL,deadly virus,virus vdekjeprurës
+76,en,sq_AL,death rate,shkalla e vdekshmërisë
+77,en,sq_AL,death toll,numri i të vdekurve
+78,en,sq_AL,decontaminate,dezinfektoj
+79,en,sq_AL,detectable,i zbulueshëm
+80,en,sq_AL,detergent,detergjent
+81,en,sq_AL,difficulty breathing,vështirësi në frymëmarrje
+82,en,sq_AL,diabetes,diabet
+83,en,sq_AL,diagnosable disease,sëmundje e diagnostikueshme
+84,en,sq_AL,diagnostic protocol,protokolli diagnostikues
+85,en,sq_AL,diagnostic testing,testimi diagnostikues
+86,en,sq_AL,disease itself,vetë sëmundja
+87,en,sq_AL,disease outbreak,shpërthimi i sëmundjes
+88,en,sq_AL,disinfectant,dezinfektues
+89,en,sq_AL,disposable,njëpërdorimësh
+90,en,sq_AL,droplet transmission,transmetimi me spërkla
+91,en,sq_AL,droplets,spërkla
+92,en,sq_AL,dry cough,kollë e thatë
+93,en,sq_AL,dry surface contamination,kontaminimi i sipërfaqeve të thata
+94,en,sq_AL,ebola,ebola
+95,en,sq_AL,effective treatment,trajtim efektiv
+96,en,sq_AL,electron microscope,mikroskop elektronik
+97,en,sq_AL,emergency department,departamenti i urgjencës
+98,en,sq_AL,epidemic,epidemi
+99,en,sq_AL,epidemic curve,kurba e epidemisë
+100,en,sq_AL,epidemic peak,kulmi e epidemisë
+101,en,sq_AL,epidemiologist,epidemiolog
+102,en,sq_AL,exposure,ekspozim
+103,en,sq_AL,extreme caution,kujdes ekstrem
+104,en,sq_AL,eye protection,mbrojtja e syve
+105,en,sq_AL,face mask,maskë fytyre
+106,en,sq_AL,face masks,maska fytyre
+107,en,sq_AL,family cluster,grupi i familjes
+108,en,sq_AL,fatality rate,shkalla e vdekshmërisë
+109,en,sq_AL,fecal contamination,kontaminim fekal
+110,en,sq_AL,fever,ethe
+111,en,sq_AL,flatten the infection curve,ulja e kurbës së infeksionit
+112,en,sq_AL,flu,grip
+113,en,sq_AL,food safety,siguria ushqimore
+114,en,sq_AL,formaldehyde,formaldehid
+115,en,sq_AL,gastroenteritis,gastroenterit
+116,en,sq_AL,germicide,germicid
+117,en,sq_AL,global pandemic,pandemi globale
+118,en,sq_AL,global warming,paralajmërim global
+119,en,sq_AL,good respiratory hygiene,higjienë e mirë respiratore
+120,en,sq_AL,Guangdong,Guangdong
+121,en,sq_AL,H1N1,H1N1
+122,en,sq_AL,H1N1 virus,virusi H1N1
+123,en,sq_AL,hand disinfectant,dezinfektues duarsh
+124,en,sq_AL,hand sanitizer,dezinfektues duarsh
+125,en,sq_AL,health care provider,ofrues i kujdesit shëndetësor
+126,en,sq_AL,health crisis,krizë shëndetësore
+127,en,sq_AL,health plan carrier,ofruesi i planit shëndetësor
+128,en,sq_AL,health services,shërbimet shëndetësore
+129,en,sq_AL,heart failure,insuficiencë kardiake
+130,en,sq_AL,high fever,temperaturë e lartë
+131,en,sq_AL,HIV,HIV
+132,en,sq_AL,hospitalize,shtroj në spital
+133,en,sq_AL,household bleach,zbardhues
+134,en,sq_AL,Hubei,Hubei
+135,en,sq_AL,hydrogen peroxide,peroksid hidrogjeni
+136,en,sq_AL,hygiene,higjienë
+137,en,sq_AL,immune system,sistemi imunitar
+138,en,sq_AL,immunity,imuniteti
+139,en,sq_AL,immunocompromised,me imunitet të dobët
+140,en,sq_AL,immunologist,imunolog
+141,en,sq_AL,incubation,inkubacion
+142,en,sq_AL,incubation period,periudhë inkubacioni
+143,en,sq_AL,indirect contact,kontakt indirekt
+144,en,sq_AL,infect,infektoj
+145,en,sq_AL,infection,infeksion
+146,en,sq_AL,infectious,infektiv
+147,en,sq_AL,infectivity,infektiviteti
+148,en,sq_AL,influenza,grip
+149,en,sq_AL,initial transmission event,ngjarja e transmetimit fillestar
+150,en,sq_AL,intensive care equipment,pajisje e kujdesit intensiv
+151,en,sq_AL,intermediate host,bartës i ndërmjetëm
+152,en,sq_AL,intrauterine,intrauterine
+153,en,sq_AL,intubation,intubim
+154,en,sq_AL,isolation,izolim
+155,en,sq_AL,Isopropanol,isopropanol
+156,en,sq_AL,laboratory test kit,paketë testimi laboratorik
+157,en,sq_AL,laboratory testing,testim laboratorik
+158,en,sq_AL,lack of testing,mungesë testimi
+159,en,sq_AL,lack of tests,mungesa e testeve
+160,en,sq_AL,latest updates,përditësimet më të fundit
+161,en,sq_AL,liver failure,insuficiencë hepatike
+162,en,sq_AL,local public health authority,autoriteti lokal i shëndetit publik
+163,en,sq_AL,lockdown,mbyllje
+164,en,sq_AL,lungs,mushkëri
+165,en,sq_AL,masks,maska
+166,en,sq_AL,measles,fruth
+167,en,sq_AL,mechanical ventilation,ventilimi mekanik
+168,en,sq_AL,media coverage,mbulimi i medias
+169,en,sq_AL,medical care,kujdes mjekësor
+170,en,sq_AL,MERS,MERS
+171,en,sq_AL,MERS CoV,MERS CoV
+172,en,sq_AL,microbiologist,mikrobiolog
+173,en,sq_AL,mild cough,kollë e lehtë
+174,en,sq_AL,mortality rate,shkalla e vdekshmërisë
+175,en,sq_AL,multi-organ failure,insuficiencë e shumë organeve
+176,en,sq_AL,nasal congestion,bllokim i hundës
+177,en,sq_AL,neutral detergent,detergjent neutral
+178,en,sq_AL,new normal,normaliteti i ri
+179,en,sq_AL,novel corona virus,virusi i ri koronavirus
+180,en,sq_AL,novel coronavirus,koronavirusi i ri
+181,en,sq_AL,novel coronavirus outbreak,shpërthimi i koronavirusit të ri
+182,en,sq_AL,novel virus,virusi i ri
+183,en,sq_AL,online medical consultation,konsulta mjekësore në internet
+184,en,sq_AL,onset,fillesa
+185,en,sq_AL,outbreak,shpërthim
+186,en,sq_AL,outbreak readiness,gatishmëria për shpërthimin
+187,en,sq_AL,overall case fatality,vdekshmëria e përgjithshme e rasteve
+188,en,sq_AL,pandemic,pandemi
+189,en,sq_AL,pangolin,pangolin
+190,en,sq_AL,pathogen,patogjen
+191,en,sq_AL,pathology,patologji
+192,en,sq_AL,patient care equipment,pajisje e kujdesit për pacientin
+193,en,sq_AL,personal protective equipment,pajisje mbrojtëse personale
+194,en,sq_AL,person-to-person transmission,transmetimi nga personi në person
+195,en,sq_AL,phlegm,gëlbazë
+196,en,sq_AL,physical contact,kontakt fizik
+197,en,sq_AL,plague,murtajë
+198,en,sq_AL,pneumonia,pneumonia
+199,en,sq_AL,pneumonias,pneumoni
+200,en,sq_AL,positive test,test pozitiv
+201,en,sq_AL,precaution,masë paraprake
+202,en,sq_AL,precautionary,parandalues
+203,en,sq_AL,pre-existing condition,gjendje e mëparshme
+204,en,sq_AL,preparedness,gatishmëria
+205,en,sq_AL,prognosis,prognoza
+206,en,sq_AL,protect myself,mbroj veten
+207,en,sq_AL,protect others,mbro të tjerët
+208,en,sq_AL,protect yourself,mbro veten tënde
+209,en,sq_AL,protective measures,masa mbrojtëse
+210,en,sq_AL,public health crisis,kriza e shëndetit publik
+211,en,sq_AL,pulmonary tissue damage,dëmtim i indeve pulmonare
+212,en,sq_AL,quarantine,karantinë
+213,en,sq_AL,rapid risk assessment,vlerësim i shpejtë i rrezikut
+214,en,sq_AL,reagent,reagent
+215,en,sq_AL,regular flu,grip i zakonshëm
+216,en,sq_AL,reinfection,riinfektim
+217,en,sq_AL,renal disease,sëmundje e veshkave
+218,en,sq_AL,renal failure,insuficiencë renale
+219,en,sq_AL,respirator,respirator
+220,en,sq_AL,respiratory,respiratore
+221,en,sq_AL,respiratory disease,sëmundje respiratore
+222,en,sq_AL,respiratory distress,shqetësim respirator
+223,en,sq_AL,respiratory droplets,spërkla respiratore
+224,en,sq_AL,respiratory hygiene,higjienë respiratore
+225,en,sq_AL,respiratory illness,sëmundje respiratore
+226,en,sq_AL,respiratory syndrome,sindromë respiratore
+227,en,sq_AL,respiratory tract disease,sëmundje e kanalit të frymëmarrjes
+228,en,sq_AL,restrictions,kufizime
+229,en,sq_AL,resurge,rishfaqet
+230,en,sq_AL,RNA,ARN
+231,en,sq_AL,rubeola,rubeola
+232,en,sq_AL,runny nose,rrufë
+233,en,sq_AL,SARS,SARS
+234,en,sq_AL,SARS-CoV-2,SARS-CoV-2
+235,en,sq_AL,SARS-CoV,SARS-CoV
+236,en,sq_AL,sars-related coronavirus,koronavirus që ka lidhje me SARS
+237,en,sq_AL,seasonal flu,grip stinor
+238,en,sq_AL,seasonal influenza,grip stinor
+239,en,sq_AL,secretion,sekrecion
+240,en,sq_AL,self-quarantine,vetëkarantinim
+241,en,sq_AL,sepsis,septicemi
+242,en,sq_AL,septic shock,shok septik
+243,en,sq_AL,Severe Acute Respiratory Syndrome,Sindromë respiratore akute e rëndë
+244,en,sq_AL,shortness of breath,vështirësi në frymëmarrje
+245,en,sq_AL,sickened,i sëmurë
+246,en,sq_AL,sickness,sëmundje
+247,en,sq_AL,sneeze,teshtij
+248,en,sq_AL,sneezes,teshtima
+249,en,sq_AL,sneezing,teshtimë
+250,en,sq_AL,social distancing,distancimi social
+251,en,sq_AL,sore throat,dhimbje fyti
+252,en,sq_AL,spanish flu,grip spanjoll
+253,en,sq_AL,specimen collection,mbledhja e mostrave
+254,en,sq_AL,spread,përhap
+255,en,sq_AL,sputum,pështymë
+256,en,sq_AL,stigmatisation,stigmatizimi
+257,en,sq_AL,supportive,mbështetës
+258,en,sq_AL,surface,sipërfaqe
+259,en,sq_AL,surfaces,sipërfaqet
+260,en,sq_AL,suspected infection,infektim i dyshuar
+261,en,sq_AL,swab,tampon
+262,en,sq_AL,swine flu,gripi i derrit
+263,en,sq_AL,symptom,simptomë
+264,en,sq_AL,symptomatic,simptomatik
+265,en,sq_AL,symptoms,simptoma
+266,en,sq_AL,targeted disinfection,dezinfektim objektiv
+267,en,sq_AL,test kit,paketë testimi
+268,en,sq_AL,testing error,gabim në testim
+269,en,sq_AL,tissue damage,dëmtim i indeve
+270,en,sq_AL,tp shortage,mungesë letre higjienike
+271,en,sq_AL,toilet paper shortage,mungesa e letrës higjienike
+272,en,sq_AL,touch,prek
+273,en,sq_AL,touching,prekje
+274,en,sq_AL,transmissibility,transmetueshmëria
+275,en,sq_AL,transmissible,i transmetueshëm
+276,en,sq_AL,transmission,transmetim
+277,en,sq_AL,transmission potential,mundësia e transmetimit
+278,en,sq_AL,typical flu,grip tipik
+279,en,sq_AL,underlying disease,sëmundje e nënvendosur
+280,en,sq_AL,updates,përditësime
+281,en,sq_AL,vaccine,vaksinë
+282,en,sq_AL,vaccines,vaksina
+283,en,sq_AL,ventilation,ventilim
+284,en,sq_AL,ventilator,ventilator
+285,en,sq_AL,ventilators,ventilatorë
+286,en,sq_AL,viral infection,infeksion viral
+287,en,sq_AL,viral outbreak,shpërthim viral
+288,en,sq_AL,viral pandemic,pandemi virale
+289,en,sq_AL,viral pneumonia,pneumoni virale
+290,en,sq_AL,virtual care,kujdes virtual
+291,en,sq_AL,virulence,virulencë
+292,en,sq_AL,virus itself,vetë virusi
+293,en,sq_AL,virus outbreak,shpërthimi i virusit
+294,en,sq_AL,virus scare,frika nga virusi
+295,en,sq_AL,virus spreads,përhapja e virusit
+296,en,sq_AL,virus strain,shtamet e virusit
+297,en,sq_AL,viral transmission,transmetim viral
+298,en,sq_AL,vivid-19,vivid-19
+299,en,sq_AL,washing hands,larja e duarve
+300,en,sq_AL,washing ones hands,larja e duarve të tua
+301,en,sq_AL,wash your hands,lani duart tuaja
+302,en,sq_AL,white blood cell count,numri i rruazave të bardha të gjakut
+303,en,sq_AL,widespread transmission,transmetim i përhapur gjerësisht
+304,en,sq_AL,working from home,puna nga shtëpia
+305,en,sq_AL,WFH,puna nga shtëpia
+306,en,sq_AL,Wuhan,Wuhan

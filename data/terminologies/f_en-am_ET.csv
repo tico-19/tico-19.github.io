@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,am_ET,1918 flu,1918 ኢንፍሎዌንዛ
+2,en,am_ET,acute bronchitis,አጣዳፊ ብሮንካይተስ
+3,en,am_ET,acute respiratory disease,አጣዳፊ የመተንፈሻ በሽታ
+4,en,am_ET,AIDS,ኤድስ
+5,en,am_ET,airborne droplets,በአየር ነጠብጣቦች
+6,en,am_ET,airway,የአየር መተላለፊያ
+7,en,am_ET,alcohol-based,በአልኮል-የተመሰረተ
+8,en,am_ET,alcohol-based hand rub,በአልኮል-የተመሰረተ እጅ ማሸት
+9,en,am_ET,alcohol-based hand sanitizer,በአልኮል-የተመሰረተ እጅ ማፅጃ ፈሳሽ
+10,en,am_ET,alveolar disease,አልቬኦላር በሽታ
+11,en,am_ET,an epidemic,ወረርሽኝ
+12,en,am_ET,annual flu,አመታዊ ኢንፍሎዌንዛ
+13,en,am_ET,anti-inflammatory drug,ፀረ-ኢንፍላማቶሪ መድሃኒት
+14,en,am_ET,antiviral drug,የፀረ-ቫይረስ መድሃኒት
+15,en,am_ET,antiviral treatment,የፀረ-ቫይረስ ህክምና
+16,en,am_ET,assay,መፈተን
+17,en,am_ET,asymptomatic,ምልክት የማሳይ
+18,en,am_ET,avian flu,አቪያን ኢንፍሎዌንዛ
+19,en,am_ET,Black Plague,ጥቁር ወረርሽኝ
+20,en,am_ET,blood pressure,የደም ግፊት
+21,en,am_ET,body fluid,የሰውነት ፈሳሽ
+22,en,am_ET,breathing,አተነፋፈስ
+23,en,am_ET,bubonic plague,ቡቦኒክ ወረርሽኝ
+24,en,am_ET,c19,ሲ19
+25,en,am_ET,cv19,ሲቪ19
+26,en,am_ET,case fatality rate,የተመዘገበ የሞት መጠን
+27,en,am_ET,causative agent,መንስኤ የሚሆነው አካል
+28,en,am_ET,CDC,ሲዲሲ
+29,en,am_ET,chemical disinfection,ኬሚካል ኢንፌክሽን ማጥፊያ
+30,en,am_ET,chest x-ray,የደረት ኤክስ-ሬይ
+31,en,am_ET,clinical diagnosis,የክሊኒካል ምርመራ
+32,en,am_ET,clinical trial,የክሊኒካል ሙከራ
+33,en,am_ET,close contact,የቅርብ ንክኪ
+34,en,am_ET,cvirus,ኮቫይረስ
+35,en,am_ET,chronic respiratory disease,ስር የሰደደ የመተንፈሻ አካላት በሽታ
+36,en,am_ET,common cold,የተለመደ ጉንፋን
+37,en,am_ET,common flu,የተለመደ ኢንፍሎዌንዛ
+38,en,am_ET,communicable disease,ተዛማጅ በሽታዎች
+39,en,am_ET,community spread,የማህበረሰብ ስርጭት
+40,en,am_ET,community transmission,የማህበረሰብ መተላለፍ
+41,en,am_ET,compromised immune system,የተጋለጠ በሽታን የመቋቋም ስርዓት
+42,en,am_ET,contagion,ተላላፊ በሽታ
+43,en,am_ET,contagious,ተላላፊ
+44,en,am_ET,contagiousness,ተላላፊ የሆነ በሽታ
+45,en,am_ET,corona,ኮሮና
+46,en,am_ET,corona virus,ኮሮና ቫይረስ
+47,en,am_ET,corona virus epidemic,የኮሮና ቫይረስ ተላላፊ በሽታ
+48,en,am_ET,corona virus outbreak,የኮሮና ቫይረስ መስፋፋት
+49,en,am_ET,corona virus scare,የኮሮና ቫይረስ ፍርሃት
+50,en,am_ET,coronavirus,ኮሮናቫይረስ
+51,en,am_ET,coronavirus cases,የኮሮናቫይረስ ኬዞች
+52,en,am_ET,coronavirus outbreak,የኮሮናቫይረስ መስፋፋት
+53,en,am_ET,coronavirus pandemic,የኮሮናቫይረስ ወረርሽኝ
+54,en,am_ET,coronavirus scare,የኮሮናቫይረስ ፍርሃት
+55,en,am_ET,cough,ሳል
+56,en,am_ET,cough etiquette,የማሳል ሁኔታ
+57,en,am_ET,coughing,ማሳል
+58,en,am_ET,cov 19,ኮቭ 19
+59,en,am_ET,cov19,ኮቭ19
+60,en,am_ET,COVID,ኮቪድ
+61,en,am_ET,COVID-19 crisis,የኮቪድ-19 ቀውሶች
+62,en,am_ET,covid-19,ኮቪድ-19
+63,en,am_ET,covid19,ኮቪድ19
+64,en,am_ET,COVID-19 epidemic,የኮቪድ-19 ተላላፊ በሽታ
+65,en,am_ET,COVID-19 outbreak,የኮቪድ-19 መስፋፋት
+66,en,am_ET,COVID-19 pandemic,የኮቪድ-19 ወረርሽኝ
+67,en,am_ET,COVID 19,ኮቪድ 19
+68,en,am_ET,current crisis,ወቅታዊ ቀውስ
+69,en,am_ET,current health crisis,ወቅታዊ የጤና ቀውስ
+70,en,am_ET,current outbreak,ወቅታዊ መስፋፋት
+71,en,am_ET,current pandemic,ወቅታዊ ወረርሽኝ
+72,en,am_ET,CV,ሲቪ
+73,en,am_ET,CV-19,ሲቪ-19
+74,en,am_ET,deadly,ገዳይ
+75,en,am_ET,deadly virus,ገዳይ ቫይረስ
+76,en,am_ET,death rate,የሞት መጠን
+77,en,am_ET,death toll,የሟች ቁጥር
+78,en,am_ET,decontaminate,ብክለትን ማስወገድ
+79,en,am_ET,detectable,የሚለይ
+80,en,am_ET,detergent,ሳሙና
+81,en,am_ET,difficulty breathing,የአተነፋፈስ ችግር
+82,en,am_ET,diabetes,የስኳር በሽታ
+83,en,am_ET,diagnosable disease,በምርመራ መታወቅ የሚችል በሽታ
+84,en,am_ET,diagnostic protocol,የምርመራ ፕሮቶኮል
+85,en,am_ET,diagnostic testing,የምርመራ ፍተሻ
+86,en,am_ET,disease itself,በሽታው ራሱ
+87,en,am_ET,disease outbreak,የበሽታ መስፋፋት
+88,en,am_ET,disinfectant,ፀረ-ባክቴሪያ
+89,en,am_ET,disposable,የሚጣል
+90,en,am_ET,droplet transmission,የጠብታ መተላለፍ
+91,en,am_ET,droplets,ጠብታዎች
+92,en,am_ET,dry cough,ደረቅ ሳል
+93,en,am_ET,dry surface contamination,የደረቅ ስፍራ መበከል
+94,en,am_ET,ebola,ኢቦላ
+95,en,am_ET,effective treatment,ውጤታማ ህክምና
+96,en,am_ET,electron microscope,ኤሌክትሮን ማይክሮስኮፕ
+97,en,am_ET,emergency department,የድንገተኛ መምሪያ
+98,en,am_ET,epidemic,ተላላፊ
+99,en,am_ET,epidemic curve,የተላፊፊነት ከርቭ
+100,en,am_ET,epidemic peak,የተላፊፊነት የመጨረሻ ከፍተኛ
+101,en,am_ET,epidemiologist,ኢፒዲሞሎጂስት
+102,en,am_ET,exposure,ተጋላጭነት
+103,en,am_ET,extreme caution,ከፍተኛ ጥንቃቄ
+104,en,am_ET,eye protection,የአይን መከላከለያ
+105,en,am_ET,face mask,የፊት ጭምብል
+106,en,am_ET,face masks,የፊት ጭምብሎች
+107,en,am_ET,family cluster,የቤተሰብ ክለስተር
+108,en,am_ET,fatality rate,የሞት መጠን
+109,en,am_ET,fecal contamination,የፌካል ብክለት
+110,en,am_ET,fever,ትኩሳት
+111,en,am_ET,flatten the infection curve,የኢንፌክሽን ከርቭ ማውረድ
+112,en,am_ET,flu,ኢንፎሎዌንዛ
+113,en,am_ET,food safety,የምግብ ደህንነት
+114,en,am_ET,formaldehyde,ፎርማልዲሃይድ
+115,en,am_ET,gastroenteritis,ጋስትሮንቴሪቲስ
+116,en,am_ET,germicide,ጀርምሳይድ
+117,en,am_ET,global pandemic,ዓለም-አቀፍ ወረርሽኝ
+118,en,am_ET,global warming,ዓለም-አቀፍ ማስጠንቀቂያ
+119,en,am_ET,good respiratory hygiene,ጥሩ የመተንፈሻ አካላት የጤና አጠባበቅ
+120,en,am_ET,Guangdong,ጉዋንዶንግ
+121,en,am_ET,H1N1,H1N1
+122,en,am_ET,H1N1 virus,H1N1 ቫይረስ
+123,en,am_ET,hand disinfectant,የእጅ ፀረ-ባክቴሪያ
+124,en,am_ET,hand sanitizer,የእጅ ማፅጃ ፈሳሽ
+125,en,am_ET,health care provider,የጤና እንከብካቤ ሰጪ
+126,en,am_ET,health crisis,የጤና ቀውስ
+127,en,am_ET,health plan carrier,የጤና እቅድ አቅራቢ
+128,en,am_ET,health services,የጤና አገልግሎቶች
+129,en,am_ET,heart failure,የልብ ህመም
+130,en,am_ET,high fever,ከፍተኛ ትኩሳት
+131,en,am_ET,HIV,ኤችአይቪ
+132,en,am_ET,hospitalize,ሆስፒታል ተኝቶ መታከም
+133,en,am_ET,household bleach,የቤተሰብ መቸገር
+134,en,am_ET,Hubei,ሁቤይ
+135,en,am_ET,hydrogen peroxide,ሃይድሮጅን ፐር ኦክሳይድ
+136,en,am_ET,hygiene,ንፅህና መጠበቂያ
+137,en,am_ET,immune system,በሽታን የመቋቋም አቅም ስርዓት
+138,en,am_ET,immunity,በሽታን የመቋቋም አቅም
+139,en,am_ET,immunocompromised,ኢሚዩኖኮምፕሮማይዝድ
+140,en,am_ET,immunologist,ኢሚውኖሎጂስት
+141,en,am_ET,incubation,ለይቶ ማገገሚያ
+142,en,am_ET,incubation period,ለይቶ ማገገሚያ ጊዜ
+143,en,am_ET,indirect contact,ቀጥተኛ ያልሆነ ንክኪ
+144,en,am_ET,infect,መያዝ
+145,en,am_ET,infection,ኢንፌክሽን
+146,en,am_ET,infectious,ኢንፌክሽን አምጪ
+147,en,am_ET,infectivity,ኢንፌክሽን መጠን
+148,en,am_ET,influenza,ኢንፍሉዌንዛ
+149,en,am_ET,initial transmission event,የመጀመሪያ መተላለፍ ክስተት
+150,en,am_ET,intensive care equipment,ከፍተኛ እንክብካቤ መሳሪያ
+151,en,am_ET,intermediate host,መካከለኛ ተቀባይ
+152,en,am_ET,intrauterine,ኢንታራውተሪን
+153,en,am_ET,intubation,ኢንቱቤሽን
+154,en,am_ET,isolation,መገለል
+155,en,am_ET,Isopropanol,አይሶፕሮፓኖል
+156,en,am_ET,laboratory test kit,የላቦራቶሪ መመርመሪያ ኪት
+157,en,am_ET,laboratory testing,የላቦራቶሪ ምርመራ
+158,en,am_ET,lack of testing,የምርምራ እጥረት
+159,en,am_ET,lack of tests,የምርምራዎች እጥረት
+160,en,am_ET,latest updates,የቅርብ ዝማኔዎች
+161,en,am_ET,liver failure,የጉበት ጉዳት
+162,en,am_ET,local public health authority,የአካባቢው ፐብሊክ ጤና ባለስልጣን
+163,en,am_ET,lockdown,መዘጋት
+164,en,am_ET,lungs,ሳንባዎች
+165,en,am_ET,masks,ጭምብሎች
+166,en,am_ET,measles,ሚዝሎች
+167,en,am_ET,mechanical ventilation,የህክምና አየር ማስተላለፊያ
+168,en,am_ET,media coverage,የህክምና ሽፋን
+169,en,am_ET,medical care,የህክምና እንክብካቤ
+170,en,am_ET,MERS,ሜርስ
+171,en,am_ET,MERS CoV,ሜርስ ኮቭ
+172,en,am_ET,microbiologist,ማይክሮባዮሎጂስት
+173,en,am_ET,mild cough,መለስተኛ ሳል
+174,en,am_ET,mortality rate,የህልፈት መጠን
+175,en,am_ET,multi-organ failure,የበርካታ-አካል ስራ ማቆም
+176,en,am_ET,nasal congestion,የአፍንጫ መደፈን
+177,en,am_ET,neutral detergent,የተለመደ ሳሙና
+178,en,am_ET,new normal,አዲስ መደበኛ
+179,en,am_ET,novel corona virus,ኖቬል ኮሮና ቫይረስ
+180,en,am_ET,novel coronavirus,ኖቬል ኮሮናቫይረስ
+181,en,am_ET,novel coronavirus outbreak,የኖቬል ኮሮናቫይረስ መስፋፋት
+182,en,am_ET,novel virus,ኖቬል ቫይረስ
+183,en,am_ET,online medical consultation,የኦንላይን ህክምና ማማከር
+184,en,am_ET,onset,የጥቃት መጀመሪያ
+185,en,am_ET,outbreak,መስፋፋት
+186,en,am_ET,outbreak readiness,የመስፋፋት ዝግጁነት
+187,en,am_ET,overall case fatality,አጠቃላይ የሞት ኬዝ
+188,en,am_ET,pandemic,ወረርሽኝ
+189,en,am_ET,pangolin,ፓንጎሊን
+190,en,am_ET,pathogen,ፓቶጂን
+191,en,am_ET,pathology,የበሽታ ጥናት
+192,en,am_ET,patient care equipment,የታማሚ እንክብካቤ መሳሪያ
+193,en,am_ET,personal protective equipment,የግል መከላከያ መሳሪያ
+194,en,am_ET,person-to-person transmission,ከ-ሰው-ወደ ሰው መተላለፍ
+195,en,am_ET,phlegm,አክታ
+196,en,am_ET,physical contact,የአካል ንክኪ
+197,en,am_ET,plague,ወረርሽኝ
+198,en,am_ET,pneumonia,ክስተት
+199,en,am_ET,pneumonias,ክስተቶች
+200,en,am_ET,positive test,አዎንታዊ ውጤት
+201,en,am_ET,precaution,ቅድመ ጥንቃቄ
+202,en,am_ET,precautionary,ቅድመ አስጠንቃቂ
+203,en,am_ET,pre-existing condition,ቅድመ-ነባር ሁኔታ
+204,en,am_ET,preparedness,ዝግጁነት
+205,en,am_ET,prognosis,መተንበይ
+206,en,am_ET,protect myself,ራሴን መጠበቅ
+207,en,am_ET,protect others,ሌሎችን መጠበቅ
+208,en,am_ET,protect yourself,ራስዎን መጠበቅ
+209,en,am_ET,protective measures,የመከላከለያ እርምጃዎች
+210,en,am_ET,public health crisis,የህዝብ ጤና ቀውስ
+211,en,am_ET,pulmonary tissue damage,ከሳንባ ጋር የሚገናኝ አካል ጉዳት
+212,en,am_ET,quarantine,ማግለል
+213,en,am_ET,rapid risk assessment,ፈጣን የስጋት ግምገማ
+214,en,am_ET,reagent,የኬሚካል ለውጥ የሚያስከትል
+215,en,am_ET,regular flu,መደበኛ ኢንፍሎዌንዛ
+216,en,am_ET,reinfection,ዳግም ኢንፌክሽን
+217,en,am_ET,renal disease,የኩላሊት በሽታ
+218,en,am_ET,renal failure,የኩላሊት ማቆም
+219,en,am_ET,respirator,መተንፈሻ
+220,en,am_ET,respiratory,የመተንፈሻ አካላት
+221,en,am_ET,respiratory disease,የመተንፈሻ አካላት በሽታ
+222,en,am_ET,respiratory distress,የመተንፈሻ አካላት ጉዳት
+223,en,am_ET,respiratory droplets,የመተንፈሻ አካላት ጠብታዎች
+224,en,am_ET,respiratory hygiene,የመተንፈሻ አካላት ንፅህና
+225,en,am_ET,respiratory illness,የመተንፈሻ አካላት ህመም
+226,en,am_ET,respiratory syndrome,የመተንፈሻ አካላት በሽታ ምልክቶች
+227,en,am_ET,respiratory tract disease,የመተንፈሻ አካላት በሽታ
+228,en,am_ET,restrictions,ገደቦች
+229,en,am_ET,resurge,በድጋሚ መገፋት
+230,en,am_ET,RNA,አርኤንኤ
+231,en,am_ET,rubeola,ሩቤኦላ
+232,en,am_ET,runny nose,ነፍጥ ያለበት አፍንጫ
+233,en,am_ET,SARS,ሳርስ
+234,en,am_ET,SARS-CoV-2,ሳርስ-ኮቭ-2
+235,en,am_ET,SARS-CoV,ሳርስ-ኮቭ
+236,en,am_ET,sars-related coronavirus,ከሳርስ-ጋር የሚገናኝ ኮሮናቫይረስ
+237,en,am_ET,seasonal flu,ወቅታዊ ጉንፋን
+238,en,am_ET,seasonal influenza,ወቅታዊ ኢንፍሎዌንዛ
+239,en,am_ET,secretion,ማመንጨት
+240,en,am_ET,self-quarantine,ራስን-መለየት
+241,en,am_ET,sepsis,የመበስበስ ሁኔታ
+242,en,am_ET,septic shock,አስከፊ ድንጋጤ
+243,en,am_ET,Severe Acute Respiratory Syndrome,ከባድ አጣዳፊ የመተንፈሻ በሽታ
+244,en,am_ET,shortness of breath,የትንፋሽ ማጠር
+245,en,am_ET,sickened,የታመመ
+246,en,am_ET,sickness,ህመም
+247,en,am_ET,sneeze,አስነጠሰ
+248,en,am_ET,sneezes,ማስነጠሶች
+249,en,am_ET,sneezing,ማስነጠስ
+250,en,am_ET,social distancing,የማህበራዊ ርቀት
+251,en,am_ET,sore throat,የቆሰለ ጉሮሮ
+252,en,am_ET,spanish flu,የስፓኒሽ ኢንፍሉዌንዛ
+253,en,am_ET,specimen collection,የናሙና ስብስብ
+254,en,am_ET,spread,ስርጭት
+255,en,am_ET,sputum,አክታ
+256,en,am_ET,stigmatisation,መገለል
+257,en,am_ET,supportive,ደጋፊ
+258,en,am_ET,surface,ሽፈን
+259,en,am_ET,surfaces,ሽፈኖች
+260,en,am_ET,suspected infection,የተጠረጠረ ኢንፌክሽን
+261,en,am_ET,swab,መወልወል
+262,en,am_ET,swine flu,የአሳማ ኢንፍሉዌንዛ
+263,en,am_ET,symptom,ምልክት
+264,en,am_ET,symptomatic,ምልክት የሚያሳይ
+265,en,am_ET,symptoms,ምልክቶች
+266,en,am_ET,targeted disinfection,የታሰበው ፀረ-ኢንፌክሽን
+267,en,am_ET,test kit,የምርመራ ኪት
+268,en,am_ET,testing error,የምርመራ ስህተት
+269,en,am_ET,tissue damage,የሶፍት መበላሸት
+270,en,am_ET,tp shortage,የቲፒ እጥረት
+271,en,am_ET,toilet paper shortage,የመፀዳጃ ቤት ሶፍት እጥረት
+272,en,am_ET,touch,ንክኪ
+273,en,am_ET,touching,መነካካት
+274,en,am_ET,transmissibility,ተላላፊነት
+275,en,am_ET,transmissible,ተላላፊ
+276,en,am_ET,transmission,መተላለፍ
+277,en,am_ET,transmission potential,የመተላለፍ እድል
+278,en,am_ET,typical flu,አይነተኛ ኢንፍሉዌንዛ
+279,en,am_ET,underlying disease,ስር የሰደደ በሽታ
+280,en,am_ET,updates,ዝማኔዎች
+281,en,am_ET,vaccine,ክትባት
+282,en,am_ET,vaccines,ክትባተቶች
+283,en,am_ET,ventilation,የአየር መናፈስ
+284,en,am_ET,ventilator,የአየር መናፈሻ
+285,en,am_ET,ventilators,የአየር መናፈሻዎች
+286,en,am_ET,viral infection,የቫይረስ ኢንፌክሽን
+287,en,am_ET,viral outbreak,የቫይረስ መስፋፋት
+288,en,am_ET,viral pandemic,የቫይረስ ወረርሽኝ
+289,en,am_ET,viral pneumonia,በቫይረስ የሚመጣ የሳንባ ምች
+290,en,am_ET,virtual care,ቨርቹዋል እንክብካቤ
+291,en,am_ET,virulence,ገዳይ
+292,en,am_ET,virus itself,ቫይረሱ ራሱ
+293,en,am_ET,virus outbreak,ቫይረስ መስፋፋት
+294,en,am_ET,virus scare,ቫይረስ ፍርሃት
+295,en,am_ET,virus spreads,ቫይረስ መሰራጨት
+296,en,am_ET,virus strain,የቫይረስ ውጥረት
+297,en,am_ET,viral transmission,የቫይረስ ስርጭት
+298,en,am_ET,vivid-19,ቪቪድ-19
+299,en,am_ET,washing hands,እጆችን መታጠብ
+300,en,am_ET,washing ones hands,እጆችን ማጠብ
+301,en,am_ET,wash your hands,እጅዎን ይታጠቡ
+302,en,am_ET,white blood cell count,የነጭ ደም ሴል ብዛት
+303,en,am_ET,widespread transmission,የተስፋፋ ስርጭት
+304,en,am_ET,working from home,በቤት ውስጥ መስራት
+305,en,am_ET,WFH,ደብሊውኤፍኤች
+306,en,am_ET,Wuhan,ውሃን

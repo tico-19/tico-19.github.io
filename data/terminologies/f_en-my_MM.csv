@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,my_MM,1918 flu,1918 တုပ်ကွေး
+2,en,my_MM,acute bronchitis,စိုးရိမ်ရအဆင့်ရှိချောင်းဆိုးရင်ကျပ်နာ
+3,en,my_MM,acute respiratory disease,စိုးရိမ်ရအဆင့်ရှိအသက်ရှုလမ်းကြောင်းနှင့်ပတ်သက်သောရောဂါ
+4,en,my_MM,AIDS,အေအိုင်ဒီအက်စ်
+5,en,my_MM,airborne droplets,လေမှအမှုန့်အမွှားလေးများ
+6,en,my_MM,airway,လေဝင်အသက်ရှုလမ်းကြောင်း
+7,en,my_MM,alcohol-based,အရက်ပျံပါသော
+8,en,my_MM,alcohol-based hand rub,အရက်ပျံပါသော လက်ဆေးရည
+9,en,my_MM,alcohol-based hand sanitizer,အရက်ပျံပါသော လက်ဆေးရည်
+10,en,my_MM,alveolar disease,အသက်ရှုလမ်းကြောင်းနှင့်ဆိုင်သောရောဂါ
+11,en,my_MM,an epidemic,ကူးစက်ရောဂါ
+12,en,my_MM,annual flu,နှစ်စဥ်တုပ်ကွေးရောဂါ
+13,en,my_MM,anti-inflammatory drug,ရောင်ရမ်းမှုကိုကုသသောဆေးဝါး
+14,en,my_MM,antiviral drug,ရောဂါပိုးမွှားများကိုသေစေသည့်ဆေးဝါး
+15,en,my_MM,antiviral treatment,ရောဂါပိုးမွှားများကိုသတ်ပေးသည့်ကုထုံး
+16,en,my_MM,assay,အရည်အသွေးစမ်းသပ်သည်
+17,en,my_MM,asymptomatic,ရောဂါလက္ခဏာ
+18,en,my_MM,avian flu,အေဗီယမ်ငှက်တုပ်ကွေးရောဂါ
+19,en,my_MM,Black Plague,ရှေးပလိပ်ကပ်ရောဂါ
+20,en,my_MM,blood pressure,သွေးဖိအား
+21,en,my_MM,body fluid,ခန္ဓာကိုယ် မှအရည်
+22,en,my_MM,breathing,အသက်ရှုခြင်း
+23,en,my_MM,bubonic plague,ပလိပ်ကပ်ရောဂါ
+24,en,my_MM,c19,စီ19
+25,en,my_MM,cv19,စီဗီ19
+26,en,my_MM,case fatality rate,ဖြစ်ပွားမှု၏သေဆုံးမှုနှုန်း
+27,en,my_MM,causative agent,ရောဂါဖြစ်ပေါ်စေသောအကြောင်းရင်း
+28,en,my_MM,CDC,စီဒီစီ
+29,en,my_MM,chemical disinfection,ဓာတုပိုးသဆေး
+30,en,my_MM,chest x-ray,ရင်ဘက်ဓာတ်မှန်
+31,en,my_MM,clinical diagnosis,ဆေးဝါးကုသမှုစစ်တမ်း
+32,en,my_MM,clinical trial,ဆေးဝါးကုသမှုဆိုင်ရာစမ်းသပ်ချက်
+33,en,my_MM,close contact,နီးကပ်စွာထိတွေ့ကိုင်တွယ်ခြင်း
+34,en,my_MM,cvirus,စီရောဂါပိုးမွှား
+35,en,my_MM,chronic respiratory disease,နာတာရှည်အသက်ရှုလမ်းကြောင်းဆိုင်ရာရောဂါ
+36,en,my_MM,common cold,သာမာန်အအေးမိခြင်း
+37,en,my_MM,common flu,ရိုးရိုးတုပ်ကွေး
+38,en,my_MM,communicable disease,ကူးစက်နိုင်​​​ သောရောဂါ
+39,en,my_MM,community spread,အုပ်စုလိုက်သို့ပြန့်နှံ့ခြင်း
+40,en,my_MM,community transmission,အုပ်စုလိုက်မှတစ်ဆင့်​​​ပို့ဆောင်ခြင်း
+41,en,my_MM,compromised immune system,ခုခံအားကျဆင်းသွားခြင်း
+42,en,my_MM,contagion,ကူးစက်မှု
+43,en,my_MM,contagious,ကူးစက်စေသော
+44,en,my_MM,contagiousness,ကူးစက်စေမှု
+45,en,my_MM,corona,ကိုရိုနာ
+46,en,my_MM,corona virus,ကိုရိုနာဗိုင်းရက်စ်
+47,en,my_MM,corona virus epidemic,ကိုရိုနာဗိုင်းရက်စ် ကမ္ဘာ အနှံ့ ဖြစ်ပွားသောရောဂါ
+48,en,my_MM,corona virus outbreak,ကိုရိုနာဗိုင်းရက်စ် ဖြစ်ပွားမှု
+49,en,my_MM,corona virus scare,ကိုရိုနာဗိုင်းရက်စ် ကြောက်သော
+50,en,my_MM,coronavirus,ကိုရိုနာဗိုင်းရက်စ်
+51,en,my_MM,coronavirus cases,ကိုရိုနာဗိုင်းရက်စ် ဖြစ်ပွားမှုများ
+52,en,my_MM,coronavirus outbreak,ကိုရိုနာဗိုင်းရက်ဖြစ်ပွားခြင်း
+53,en,my_MM,coronavirus pandemic,ကိုရိုနာဗိုင်းရက်စ် ကမ္ဘာအနှံ့ဖြစ်ပွားသောရောဂါ
+54,en,my_MM,coronavirus scare,ကိုရိုနာဗိုင်းရက်စ်ကြောက်သော
+55,en,my_MM,cough,ချောင်းဆိုးသည်
+56,en,my_MM,cough etiquette,ချောင်းဆိုးလျှင်ကျင့်သုံးရမည့်ပုံစံ
+57,en,my_MM,coughing,ချောင်းဆိုးခြင်း
+58,en,my_MM,cov 19,ကိုဗ် 19
+59,en,my_MM,cov19,ကိုဗ်19
+60,en,my_MM,COVID,ကိုဗစ်
+61,en,my_MM,COVID-19 crisis,COVID-19 ပြသာနာ
+62,en,my_MM,covid-19,ကိုဗစ်-19
+63,en,my_MM,covid19,ကိုဗစ်19
+64,en,my_MM,COVID-19 epidemic,COVID-19ကပ်ရောဂါ
+65,en,my_MM,COVID-19 outbreak,COVID-19ဖြစ်ပွားမှု
+66,en,my_MM,COVID-19 pandemic,COVID-19 ကမ္ဘာအနှံ့ ဖြစ်ပွားသောကပ်ရာဂါ
+67,en,my_MM,COVID 19,ကိုဗစ် 19
+68,en,my_MM,current crisis,လက်ရှိအကျပ်အတည်း
+69,en,my_MM,current health crisis,လက်ရှိကျန်းမာရေးအကျပ်အတည်း
+70,en,my_MM,current outbreak,လက်ရှိဖြစ်ပွားမှု
+71,en,my_MM,current pandemic,လက်ရှိကမ္ဘာအနှံ့ ဖြစ်ပွားသောကပ်ရာဂါ
+72,en,my_MM,CV,စီဗီ
+73,en,my_MM,CV-19,စီဗီ-19
+74,en,my_MM,deadly,သေစေလောက်သော
+75,en,my_MM,deadly virus,သေစေလောက်သော​ရောဂါပိုးမွှား
+76,en,my_MM,death rate,သေဆုံးမှုနှုန်း
+77,en,my_MM,death toll,ရောဂါကြောင့်​ သေဆုံးမှု
+78,en,my_MM,decontaminate,ရေဒီယိုသတ္တိကြွပစ္စည်းများကိုဖယ်ထုတ်သည်
+79,en,my_MM,detectable,မြင်သာသော
+80,en,my_MM,detergent,ကြေးချွတ်ဆေး
+81,en,my_MM,difficulty breathing,အသက်ရှုရခက်ခြင်း
+82,en,my_MM,diabetes,ဆီးချိုသွေးချို
+83,en,my_MM,diagnosable disease,ရောဂါအမည်ဖော်ထုတ်နိုင်သောရောဂါ
+84,en,my_MM,diagnostic protocol,ရောဂါအမျိုးအမည်ဖော်ထုတ်ရမည့်လုပ်ထုံးလုပ်နည်း
+85,en,my_MM,diagnostic testing,ရောဂါအမည်ဖော်ထုတ်စမ်းသပ် ခြင်း
+86,en,my_MM,disease itself,ရောဂါကိုယ်နှိုက်
+87,en,my_MM,disease outbreak,ရောဂါဖြစ်ပွားမှု
+88,en,my_MM,disinfectant,ပိုးသတ်ဆေး
+89,en,my_MM,disposable,တစ်ခါသုံး
+90,en,my_MM,droplet transmission,အမှုန့်အမွှားလေးများမှကူးစက်ခြင်း
+91,en,my_MM,droplets,အမှုန့်အမွှားလေးများ
+92,en,my_MM,dry cough,ချောင်းခြောက်ဆိုးခြင်း
+93,en,my_MM,dry surface contamination,ခြောက်သွေ့သောမျက်နှာပြင်ညစ်ညမ်းမှုဖြစ်ခြင်း
+94,en,my_MM,ebola,အီဘိုလာ
+95,en,my_MM,effective treatment,ထိရောက်သောကုထုံး
+96,en,my_MM,electron microscope,အီလက်ထရွန် အဏုကြည့်ကိရိယာ
+97,en,my_MM,emergency department,အရေးပေါ်ငှာန
+98,en,my_MM,epidemic,ကပ်ရောဂါ
+99,en,my_MM,epidemic curve,ကပ်ရောဂါအချိုးအကွေ​ေ့
+100,en,my_MM,epidemic peak,ကပ်ရောဂါထိပ်စီး
+101,en,my_MM,epidemiologist,ကူးစက်ရောဂါ ပျံ့ပွား ခြင်းနှင့် ကာကွယ်ခြင်းဆိုင်ရာ ပညာရပ်။
+102,en,my_MM,exposure,ဖော်ထုတ်ခြင်း
+103,en,my_MM,extreme caution,ပြင်းထန်သောသတိပေးချက်
+104,en,my_MM,eye protection,မျက်စိကာကွယ်ခြင်း
+105,en,my_MM,face mask,မျက်နှာစွပ်
+106,en,my_MM,face masks,မျက်နှာစွပ်များ
+107,en,my_MM,family cluster,မိသားစုအ ပြုံလိုက်
+108,en,my_MM,fatality rate,သေကြေမှုနှုန်း
+109,en,my_MM,fecal contamination,ပိုးမွှားများဖြင့်ညစ်ညမ်းစေသည်
+110,en,my_MM,fever,အ ဖျား
+111,en,my_MM,flatten the infection curve,ကူးစက်မှုအချိုးကို လျော့နည်းစေခြင်း
+112,en,my_MM,flu,အဖျား
+113,en,my_MM,food safety,အစားအသောက်စိတ်ချရမှု
+114,en,my_MM,formaldehyde,ဖော်မလင် ရရှိရန် ရေနှင့်ရောစပ်ရသော အနံ့ပြင်း၊ အရောင်မဲ့ ဖော်မယ်ဒီဟိုက် ဓာတ်ငွေ့။
+115,en,my_MM,gastroenteritis,အစာအိမ်အူရောင်ရမ်းနာ
+116,en,my_MM,germicide,အကျိုးပြု ဘက်တီးရီးယားများကိုသေစေသောအရာ
+117,en,my_MM,global pandemic,ကမ္ဘာဖြစ်ပျက် သောကပ်ရောဂါ
+118,en,my_MM,global warming,ကမ္ဘာချီ ပူနွေးလာမှု
+119,en,my_MM,good respiratory hygiene,ကောင်းမွန်သောအသက်ရှုလမ်းကြောင်းသန့်ရှင်းမှု
+120,en,my_MM,Guangdong,ဂွမ်းဒုံ
+121,en,my_MM,H1N1,အိတ်ချ်1အန်1
+122,en,my_MM,H1N1 virus,H1N1 ရောဂါပိုးမွှား
+123,en,my_MM,hand disinfectant,လက်ပိုးသတ်ဆေး
+124,en,my_MM,hand sanitizer,လက်သန့်ဆေးရည်
+125,en,my_MM,health care provider,ကျန်းမာရေးပညာရှင်
+126,en,my_MM,health crisis,ကျန်းမာရေးအကျပ်အတည်း
+127,en,my_MM,health plan carrier,ကျန်းမာရေး အစီစဥ် သယ်ဆောင်ပေးသူ
+128,en,my_MM,health services,ကျန်းမာရေးဝန်ဆောင်မှုမ​ျား
+129,en,my_MM,heart failure,နှလုံးအလုပ်မလုပ် ခြင်း
+130,en,my_MM,high fever,အဖျားကြီးခြင်း
+131,en,my_MM,HIV,အိတ်ချ်အိုင်ဗီ
+132,en,my_MM,hospitalize,ဆေးရုံတင်ရသော
+133,en,my_MM,household bleach,အိမ်သုံးပိုးသတ်ဆေး
+134,en,my_MM,Hubei,ဟူဘိူင်
+135,en,my_MM,hydrogen peroxide,ဟိုက်ဒရိုဂျင်ပါအောက်ဆိုဒ်
+136,en,my_MM,hygiene,သန့်ရှင်းမှု
+137,en,my_MM,immune system,ကိုယ်ခံအားစနစ်
+138,en,my_MM,immunity,ကို်ယ်ခံအား
+139,en,my_MM,immunocompromised,ခုခံအားကျဆင်းသွားခြင်း
+140,en,my_MM,immunologist,ရောဂါပြီး​ပညာရှင်
+141,en,my_MM,incubation,ပိုးမွေးခြင်း
+142,en,my_MM,incubation period,ပိုးမွေးသည့်ကာလ
+143,en,my_MM,indirect contact,တိုက်ရိုက်မကျသည့်ထိတွေ့မှု
+144,en,my_MM,infect,ကူးစက်သော
+145,en,my_MM,infection,ကူးစက်မှု
+146,en,my_MM,infectious,ကူးစက်စေနိုင်သော
+147,en,my_MM,infectivity,ကူးစက်နိုင်မှု
+148,en,my_MM,influenza,တုပ်ကွေး
+149,en,my_MM,initial transmission event,ကမ္ဘာအနှံ့ဖြစ်ပွားသော ရောဂါ။
+150,en,my_MM,intensive care equipment,အထူးကြပ် မတ်ကုသပေးသောကိရိယာ
+151,en,my_MM,intermediate host,အလတ်အလက်သော လက်ခံကပ်ပါး
+152,en,my_MM,intrauterine,သားအိမ်တွင်း
+153,en,my_MM,intubation,ပိုက်ထ​ည့် ကြည့်ရှုခြင်း
+154,en,my_MM,isolation,သီးခြားနေခြင်း
+155,en,my_MM,Isopropanol,အီဆိုပရိုပနောလ်
+156,en,my_MM,laboratory test kit,ဓာတ်ခွဲခန်းသုံး စမ်းသပ်ကိရိယာ
+157,en,my_MM,laboratory testing,ဓာတ်ခွဲခန်းတွင်စမ်းသပ်ခြင်း
+158,en,my_MM,lack of testing,စမ်းသပ်မှုမရှိ ခြင်း
+159,en,my_MM,lack of tests,စမ်းသပ်မှုများမရှိခြင်း
+160,en,my_MM,latest updates,နောက်ဆုံးသတင်းအချက်အလက်များ
+161,en,my_MM,liver failure,အသည်းပျက်စီးခြင်း
+162,en,my_MM,local public health authority,ဒေသခံလူမှုကျန်းမာရေးစောင့်ရှောက်မှု
+163,en,my_MM,lockdown,ပိတ်ဆို့ခြင်း
+164,en,my_MM,lungs,အဆုတ်များ
+165,en,my_MM,masks,မျက်နှာဖုံးများ
+166,en,my_MM,measles,ဝက်သတ်များ
+167,en,my_MM,mechanical ventilation,စက်ဖြင့်လေဝင်လေထွက်ကောင်းစေခြင်း
+168,en,my_MM,media coverage,မီဒီယာသတင်းပေးပို့ချက်
+169,en,my_MM,medical care,ဆေးဝါးစောင့်ရှောက်မှု
+170,en,my_MM,MERS,မားစ်
+171,en,my_MM,MERS CoV,မားစ်CoV
+172,en,my_MM,microbiologist,အဏုဇီဝပညာရှင်
+173,en,my_MM,mild cough,ချောင်းအနည်းငယ်ဆိုးခြင်း
+174,en,my_MM,mortality rate,သေဆုံးမှုနှုန်း
+175,en,my_MM,multi-organ failure,အင်္ဂ​ါ အတော်များများအလုပ်မလုပ်ခြင်း
+176,en,my_MM,nasal congestion,နှာပိတ်ခြင်း
+177,en,my_MM,neutral detergent,အနေတော်ကြေးချွတ်ဆေး
+178,en,my_MM,new normal,အသစ်သောပုံမှန်အ​​​ခြေနေ
+179,en,my_MM,novel corona virus,ဆန်းကြယ်သောကိုရိုနာဗိုင်းရက်စ်
+180,en,my_MM,novel coronavirus,ဆန်းကြယ်သောကိုိိရို နာဗိုင်းရက်စ်
+181,en,my_MM,novel coronavirus outbreak,ဆန်းကြယ်သော ကိုရိုနာဗိုင်းရက်စ် ဖြစ်ပွားမှု
+182,en,my_MM,novel virus,ဆန်းကြယ်သောရောဂါပိုးမွှား
+183,en,my_MM,online medical consultation,အွန်လိုင်းမှ ဆေးဘက်ဆိုင်ရာတိုင်ပင်ဆွေးနွေးမှု
+184,en,my_MM,onset,သင့်ခြင်း
+185,en,my_MM,outbreak,ဖြစ်ပွားမှု
+186,en,my_MM,outbreak readiness,ဖြစ်ပွားမှု​ အပေါ်အသင့်ရှိမှု
+187,en,my_MM,overall case fatality,ဖြစ်ပွားမှုတွင်သေဆုံးမှုခြုံငုံသုံးသပ်ချက်
+188,en,my_MM,pandemic,ကမ္ဘာအနှံ့ဖြစ်ပွားသော ရောဂါ
+189,en,my_MM,pangolin,သင်းခွေ ချပ်
+190,en,my_MM,pathogen,ရောဂါဖြစ်ပွားစေသောအရာ
+191,en,my_MM,pathology,ရောဂါဗေဒ
+192,en,my_MM,patient care equipment,လူနာကိုစောင့်ရှောက်သည့်အခါတွင်သုံးသည့်ကိရိယာ
+193,en,my_MM,personal protective equipment,ကိုယ်ပိုင်အကာကွယ်ကိရိယာ
+194,en,my_MM,person-to-person transmission,တစ်ယောက်မှတစ်ယောက်ဆီသု့ိကူးစက်ခြင်း
+195,en,my_MM,phlegm,ချွဲ
+196,en,my_MM,physical contact,ခန္ဓာကိုယ် ချင်းထိတွေ့မှု
+197,en,my_MM,plague,ကပ်ရောဂါ
+198,en,my_MM,pneumonia,အဆုတ်ရောင်ရောဂါ
+199,en,my_MM,pneumonias,အဆုတ်ရောင်ရောဂါ
+200,en,my_MM,positive test,ပိုးရှိကြောင်း အ ဖြေထွက်
+201,en,my_MM,precaution,ကြိုတင်သတိပေးချက်
+202,en,my_MM,precautionary,ကြိုတင်သတိပေးချက်
+203,en,my_MM,pre-existing condition,နဂိုမူလရှိထားသောအခြေအနေ
+204,en,my_MM,preparedness,ပြင်ဆင်ထားမှု
+205,en,my_MM,prognosis,ရှေ့ ဖြစ်ဟောကိန်း
+206,en,my_MM,protect myself,မိမိကိုယ်ကိုကာကွယ်ပါ
+207,en,my_MM,protect others,တ​ခြားသူများကိုကာကွယ်ပါ
+208,en,my_MM,protect yourself,ကိုယ့်ကိုယ်ကိုယ်ကာကွယ်ပါ
+209,en,my_MM,protective measures,ကာကွယ်မှုအစီစဥ်များ
+210,en,my_MM,public health crisis,လူထုကျန်းမာရေးအကျပ်အတည်း
+211,en,my_MM,pulmonary tissue damage,အဆုတ်ရှိတစ်ရူးများပျက်စီးခြင်း
+212,en,my_MM,quarantine,ကန့်သတ်ခြင်း
+213,en,my_MM,rapid risk assessment,လျင်မြန်သော ဆိုးကျိုးစစ်ဆေးမှု
+214,en,my_MM,reagent,ဓာတ်စမ်းပစ္စည်း
+215,en,my_MM,regular flu,သာမာန်တုပ်ကွေး
+216,en,my_MM,reinfection,ပြန်လည်ကူးစက်ခြင်း
+217,en,my_MM,renal disease,ကျောက်ကပ်ရောဂါ
+218,en,my_MM,renal failure,ကျောက်ကပ်အလုပ်မလုပ်ခြင်း
+219,en,my_MM,respirator,အသက်ရှုစက်
+220,en,my_MM,respiratory,အသက်ရှုလမ်းကြောင်းဆိုင်ရာ
+221,en,my_MM,respiratory disease,အသက်ရှုလမ်းကြောင်းဆိုင်ရာရောဂါ
+222,en,my_MM,respiratory distress,အသက်ရှုရခက်မှု
+223,en,my_MM,respiratory droplets,အသက်ရှုလမ်းကြောင်းမှထွက်သောအမှုန်အမွှား
+224,en,my_MM,respiratory hygiene,အသက်ရှုလမ်းကြောင်းသန့်ရှင်းမှု
+225,en,my_MM,respiratory illness,အသက်လမ်းကြောင်း​​ မ ကျန်းမာမှု
+226,en,my_MM,respiratory syndrome,အသက်ရှုလမ်းကြောင်းရောဂါ
+227,en,my_MM,respiratory tract disease,အသက်ရှုလမ်းကြောင်းနှင့်ဆိုင်သောရောဂါ
+228,en,my_MM,restrictions,တားမြစ်ချက်များ
+229,en,my_MM,resurge,ပြန်လည်ဖြစ်ပွားသော
+230,en,my_MM,RNA,အာအင်န်အေ
+231,en,my_MM,rubeola,ဝက်သတ်ပေါက်ခြင်း
+232,en,my_MM,runny nose,နှာရည် ကျခြင်း
+233,en,my_MM,SARS,ဆားစ်
+234,en,my_MM,SARS-CoV-2,ဆားစ်-CoV-2
+235,en,my_MM,SARS-CoV,ဆားစ်-CoV
+236,en,my_MM,sars-related coronavirus,ဆားစ်နှင့်ဆက်နွယ်သော ကိုရိုနာဗိုင်းရက်စ်
+237,en,my_MM,seasonal flu,ရာ သီ တုပ် ကွေး
+238,en,my_MM,seasonal influenza,ရာသီတုပ်ကွေး
+239,en,my_MM,secretion,အဆိပ်ထုတ်ပေးခြင်း
+240,en,my_MM,self-quarantine,မိမိဘာသာကန့်သတ်နေခြင်း
+241,en,my_MM,sepsis,အန္တရယ် ပြုသောဘက်တီးရီးယားကင်းစင်မှု
+242,en,my_MM,septic shock,အနာရင်းမှု
+243,en,my_MM,Severe Acute Respiratory Syndrome,ပြင်းထန်သောအသက်ရှုလမ်းကြောင်းဆိုင်ရာရောဂါ
+244,en,my_MM,shortness of breath,အသက်ရှုရခက်ခြင်း
+245,en,my_MM,sickened,ဖျားနာသည်
+246,en,my_MM,sickness,ဖျားနာမှု
+247,en,my_MM,sneeze,နှာစေး သော
+248,en,my_MM,sneezes,နှာစေးသော
+249,en,my_MM,sneezing,နှာစေးခြင်း
+250,en,my_MM,social distancing,လူမှုထိတွေ့ဆက်ဆံမှုကန့်သတ်ခြင်း
+251,en,my_MM,sore throat,လည်ချောင်းနာ
+252,en,my_MM,spanish flu,စပိန်တုပ်ကွေး
+253,en,my_MM,specimen collection,နမူနာစုဆောင်းခြင်း
+254,en,my_MM,spread,ပျံနှ့ံသော
+255,en,my_MM,sputum,ချွဲ
+256,en,my_MM,stigmatisation,ခေါ်တွင်ပါသည်
+257,en,my_MM,supportive,ထောက်ပံ့ပေးသော
+258,en,my_MM,surface,မျက်နှာပြင်
+259,en,my_MM,surfaces,မျက်နှာပြင်မ​ျား
+260,en,my_MM,suspected infection,ကူးစက်ခံရနိုင်သည့်သံသယရှိသူ
+261,en,my_MM,swab,သလိပ်နမူနာ
+262,en,my_MM,swine flu,ဝက်တုပ်ကွေး
+263,en,my_MM,symptom,ရောဂါလက္ခဏာ
+264,en,my_MM,symptomatic,ရောဂါလက္ခဏာ ပြ
+265,en,my_MM,symptoms,ရောဂါလက္ခဏာများ
+266,en,my_MM,targeted disinfection,သတ်မှတ်ထားသောပိုးသတ်မှု
+267,en,my_MM,test kit,စမ်းသပ်ရန်ကိရိယာ
+268,en,my_MM,testing error,စမ်းသပ်မှုအမှား
+269,en,my_MM,tissue damage,တစ်ရှုးများပျက်စီးခြင်း
+270,en,my_MM,tp shortage,tp လျော့ပါးမှု
+271,en,my_MM,toilet paper shortage,အိမ်သာသုံး စက္ကူ လျော့နည်းလာမှု
+272,en,my_MM,touch,ထိတွေ့
+273,en,my_MM,touching,ထိတွေ့ခြင်း
+274,en,my_MM,transmissibility,ကူးစက်နိုင်မှု
+275,en,my_MM,transmissible,ကူးစက်နိုင်ခြင်း
+276,en,my_MM,transmission,ကူးစက်ခြင်း
+277,en,my_MM,transmission potential,ကူးစက်မှုအလားအလာရှိသော
+278,en,my_MM,typical flu,သာမာန်တုပ်ကွေး
+279,en,my_MM,underlying disease,ဖြစ်ပွားနေသည့်ရောဂါအစစ်အမှန်
+280,en,my_MM,updates,အချက်လက်အသစ်
+281,en,my_MM,vaccine,ကာကွယ်ဆေး
+282,en,my_MM,vaccines,ကာကွယ်ဆေးများ
+283,en,my_MM,ventilation,လေဝင်လေထွက်ခြင်း
+284,en,my_MM,ventilator,လေရှုစက်
+285,en,my_MM,ventilators,လေရှုစက်မ​ျား
+286,en,my_MM,viral infection,ရောဂါပိုးမွှားကူးစက်မှု
+287,en,my_MM,viral outbreak,ရောဂါပိုးမွှားဖြစ်ပွားမှု
+288,en,my_MM,viral pandemic,ကမ္ဘာအနှံ့ ရောဂါဖြစ်ပွားမှု
+289,en,my_MM,viral pneumonia,ရောဂါပိုးမွှားကြောင့်အဆုတ်ရောင်ခြင်း
+290,en,my_MM,virtual care,အဝေးမှ ဂရုစိုက်စောင့်ရှောက်​​ပေးမှု
+291,en,my_MM,virulence,သေစေနိုင်လောက်အောင်ပြင်းထန်သော
+292,en,my_MM,virus itself,ပိုးမွှားကိုယ်နှိုက်
+293,en,my_MM,virus outbreak,ပိုးမွှားဖြစ်ပွားမှု
+294,en,my_MM,virus scare,ပိုးမွှားကြောက်သော
+295,en,my_MM,virus spreads,ပိုးမွှားပျံ့နှံ့
+296,en,my_MM,virus strain,ပိုးမွှားဒဏ်
+297,en,my_MM,viral transmission,ရောဂါပိုးကူးစက်ခြင်း
+298,en,my_MM,vivid-19,ဗစ်ဗစ်-19
+299,en,my_MM,washing hands,လက်ကိုဆေးကြောခြင်း
+300,en,my_MM,washing ones hands,လက်ကိုဆေး ကြော ခြင်း
+301,en,my_MM,wash your hands,လက်ကိုဆေးကြောပါ
+302,en,my_MM,white blood cell count,သွေးဖြူဥဆဲလ်ရေတွက်မှု
+303,en,my_MM,widespread transmission,ကူးစက်မှုပြန့်ပွား
+304,en,my_MM,working from home,အိမ်ကနေအလုပ်လုပ်သည်
+305,en,my_MM,WFH,ဒယ်ဗလျူအက်ဗ်အိတ်ချ်
+306,en,my_MM,Wuhan,ဝူဟန်

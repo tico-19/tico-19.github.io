@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,is_IS,1918 flu,1918 flensa
+2,en,is_IS,acute bronchitis,bráð berkjubólga
+3,en,is_IS,acute respiratory disease,bráður öndunarfærasjúkdómur
+4,en,is_IS,AIDS,AIDS
+5,en,is_IS,airborne droplets,svífandi smádropar
+6,en,is_IS,airway,öndunarvegur
+7,en,is_IS,alcohol-based,alkóhólbundinn
+8,en,is_IS,alcohol-based hand rub,alkóhólbundinn handáburður
+9,en,is_IS,alcohol-based hand sanitizer,alkóhólbundið handhreinsiefni
+10,en,is_IS,alveolar disease,tannbergs sjúkdómur
+11,en,is_IS,an epidemic,faraldur
+12,en,is_IS,annual flu,árleg flensa
+13,en,is_IS,anti-inflammatory drug,bólgueyðandi lyf
+14,en,is_IS,antiviral drug,veirueyðandi lyf
+15,en,is_IS,antiviral treatment,veirueyðandi meðferð
+16,en,is_IS,assay,próf
+17,en,is_IS,asymptomatic,einkennalaus
+18,en,is_IS,avian flu,fuglaflensa
+19,en,is_IS,Black Plague,Svartidauði
+20,en,is_IS,blood pressure,blóðþrýstingur
+21,en,is_IS,body fluid,líkamsvessi
+22,en,is_IS,breathing,anda
+23,en,is_IS,bubonic plague,svartidauði
+24,en,is_IS,c19,c19
+25,en,is_IS,cv19,cv19
+26,en,is_IS,case fatality rate,tilvik dauðsfalla
+27,en,is_IS,causative agent,orsakavaldur
+28,en,is_IS,CDC,Sóttvarnalæknir
+29,en,is_IS,chemical disinfection,sótthreinsun með efnum
+30,en,is_IS,chest x-ray,röntgenmynd af brjósti
+31,en,is_IS,clinical diagnosis,klínísk greining
+32,en,is_IS,clinical trial,klínísk rannsókn
+33,en,is_IS,close contact,mikil nánd
+34,en,is_IS,cvirus,cvírus
+35,en,is_IS,chronic respiratory disease,langvinnur öndunarfærasjúkdómur
+36,en,is_IS,common cold,algengt kvef
+37,en,is_IS,common flu,algeng flensa
+38,en,is_IS,communicable disease,smitsjúkdómur
+39,en,is_IS,community spread,dreifing í samfélagi
+40,en,is_IS,community transmission,smit í samfélagi
+41,en,is_IS,compromised immune system,ónæmiskerfi í hættu
+42,en,is_IS,contagion,smitun
+43,en,is_IS,contagious,smitandi
+44,en,is_IS,contagiousness,smitun
+45,en,is_IS,corona,kóróna
+46,en,is_IS,corona virus,kórónavírus
+47,en,is_IS,corona virus epidemic,kórónavírus faraldur
+48,en,is_IS,corona virus outbreak,kórónavírus faraldur
+49,en,is_IS,corona virus scare,hræðsla við kórónavírus
+50,en,is_IS,coronavirus,kórónavírus
+51,en,is_IS,coronavirus cases,tilfelli kórónavíruss
+52,en,is_IS,coronavirus outbreak,kórónavírus faraldur
+53,en,is_IS,coronavirus pandemic,kórónavírus heimsfaraldur
+54,en,is_IS,coronavirus scare,hræðsla við kórónavírus
+55,en,is_IS,cough,hósti
+56,en,is_IS,cough etiquette,siðareglur við hósta
+57,en,is_IS,coughing,hóstandi
+58,en,is_IS,cov 19,cov 19
+59,en,is_IS,cov19,cov19
+60,en,is_IS,COVID,COVID
+61,en,is_IS,COVID-19 crisis,COVID-19 hættuástand
+62,en,is_IS,covid-19,covid-19
+63,en,is_IS,covid19,covid19
+64,en,is_IS,COVID-19 epidemic,COVID-19 faraldur
+65,en,is_IS,COVID-19 outbreak,COVID-19 faraldur
+66,en,is_IS,COVID-19 pandemic,COVID-19 heimsfaraldur
+67,en,is_IS,COVID 19,COVID 19
+68,en,is_IS,current crisis,núverandi hættuástand
+69,en,is_IS,current health crisis,núverandi heilsu hættuástand
+70,en,is_IS,current outbreak,núverandi faraldur
+71,en,is_IS,current pandemic,núverandi heimsfaraldur
+72,en,is_IS,CV,CV
+73,en,is_IS,CV-19,CV-19
+74,en,is_IS,deadly,banvænn
+75,en,is_IS,deadly virus,banvænn vírus
+76,en,is_IS,death rate,dánarhlutfall
+77,en,is_IS,death toll,mannfall
+78,en,is_IS,decontaminate,afmengun
+79,en,is_IS,detectable,greinanlegt
+80,en,is_IS,detergent,þvottaefni
+81,en,is_IS,difficulty breathing,öndunarerfiðleikar
+82,en,is_IS,diabetes,sykursýki
+83,en,is_IS,diagnosable disease,greinanlegur sjúkdómur
+84,en,is_IS,diagnostic protocol,greiningarferli
+85,en,is_IS,diagnostic testing,greiningarpróf
+86,en,is_IS,disease itself,sjúkdómurinn sjálfur
+87,en,is_IS,disease outbreak,faraldur sjúkdóms
+88,en,is_IS,disinfectant,sótthreinsiefni
+89,en,is_IS,disposable,einnota
+90,en,is_IS,droplet transmission,útbreiðsla smádropa
+91,en,is_IS,droplets,smádropar
+92,en,is_IS,dry cough,þurr hósti
+93,en,is_IS,dry surface contamination,þurr yfirborðsmengun
+94,en,is_IS,ebola,ebóla
+95,en,is_IS,effective treatment,árangursrík meðferð
+96,en,is_IS,electron microscope,rafeindasmásjá
+97,en,is_IS,emergency department,bráðadeild
+98,en,is_IS,epidemic,faraldur
+99,en,is_IS,epidemic curve,faraldurs kúrfa
+100,en,is_IS,epidemic peak,hámark faraldurs
+101,en,is_IS,epidemiologist,sóttvarnalæknir
+102,en,is_IS,exposure,útsetning
+103,en,is_IS,extreme caution,mikil varúð
+104,en,is_IS,eye protection,augnvernd
+105,en,is_IS,face mask,andlitsgríma
+106,en,is_IS,face masks,andlitsgrímur
+107,en,is_IS,family cluster,fjölskylduklasi
+108,en,is_IS,fatality rate,dánartíðni
+109,en,is_IS,fecal contamination,saur mengun
+110,en,is_IS,fever,hiti
+111,en,is_IS,flatten the infection curve,fletja út sýkingarkúrfuna
+112,en,is_IS,flu,flensa
+113,en,is_IS,food safety,matar öryggi
+114,en,is_IS,formaldehyde,formaldehýð
+115,en,is_IS,gastroenteritis,meltingarfærabólga
+116,en,is_IS,germicide,sýklaeyðandi
+117,en,is_IS,global pandemic,heimsfaraldur
+118,en,is_IS,global warming,hnatthlýnun
+119,en,is_IS,good respiratory hygiene,gott öndunarfæra hreinlæti
+120,en,is_IS,Guangdong,Guangdong
+121,en,is_IS,H1N1,H1N1
+122,en,is_IS,H1N1 virus,H1N1 vírus
+123,en,is_IS,hand disinfectant,sótthreinsiefni handa
+124,en,is_IS,hand sanitizer,handspritt
+125,en,is_IS,health care provider,veitandi heilsugæslu
+126,en,is_IS,health crisis,heilsukrísa
+127,en,is_IS,health plan carrier,flutningsaðili heilsuáætlunar
+128,en,is_IS,health services,heilbrigðisþjónusta
+129,en,is_IS,heart failure,hjartabilun
+130,en,is_IS,high fever,hár hiti
+131,en,is_IS,HIV,HIV
+132,en,is_IS,hospitalize,á sjúkrahús
+133,en,is_IS,household bleach,klór til heimilisnota
+134,en,is_IS,Hubei,Hubei
+135,en,is_IS,hydrogen peroxide,vetnisperoxíð
+136,en,is_IS,hygiene,hreinlæti
+137,en,is_IS,immune system,ónæmiskerfi
+138,en,is_IS,immunity,ónæmi
+139,en,is_IS,immunocompromised,ónæmisbældum
+140,en,is_IS,immunologist,ónæmisfræðingur
+141,en,is_IS,incubation,ræktun
+142,en,is_IS,incubation period,ræktunartímabil
+143,en,is_IS,indirect contact,óbeint samband
+144,en,is_IS,infect,smita
+145,en,is_IS,infection,smitun
+146,en,is_IS,infectious,smitandi
+147,en,is_IS,infectivity,smitvirkni
+148,en,is_IS,influenza,inflúensa
+149,en,is_IS,initial transmission event,upphaflegur sendingar atburður
+150,en,is_IS,intensive care equipment,gjörgæslubúnaður
+151,en,is_IS,intermediate host,millihýsill
+152,en,is_IS,intrauterine,innanlegs
+153,en,is_IS,intubation,tilfærsla
+154,en,is_IS,isolation,einangrun
+155,en,is_IS,Isopropanol,Ísóprópanól
+156,en,is_IS,laboratory test kit,rannsóknarstofu prófunarbúnaður
+157,en,is_IS,laboratory testing,rannsóknarstofu próf
+158,en,is_IS,lack of testing,skortur á prófum
+159,en,is_IS,lack of tests,skortur á prófum
+160,en,is_IS,latest updates,nýjustu uppfærslurnar
+161,en,is_IS,liver failure,lifrarbilun
+162,en,is_IS,local public health authority,staðbundin heilbrigðiseftirlit sveitarfélaga
+163,en,is_IS,lockdown,lokun
+164,en,is_IS,lungs,lungum
+165,en,is_IS,masks,grímur
+166,en,is_IS,measles,mislingar
+167,en,is_IS,mechanical ventilation,vélræn loftræsting
+168,en,is_IS,media coverage,fjölmiðlaumfjöllun
+169,en,is_IS,medical care,læknishjálp
+170,en,is_IS,MERS,MERS
+171,en,is_IS,MERS CoV,MERS CoV
+172,en,is_IS,microbiologist,örverufræðingur
+173,en,is_IS,mild cough,vægur hósti
+174,en,is_IS,mortality rate,dánartíðni
+175,en,is_IS,multi-organ failure,bilun í mörgum líffærum
+176,en,is_IS,nasal congestion,nefstífla
+177,en,is_IS,neutral detergent,hlutlaust þvottaefni
+178,en,is_IS,new normal,nýtt norm
+179,en,is_IS,novel corona virus,nýr kórónavírus
+180,en,is_IS,novel coronavirus,nýr kórónavírus
+181,en,is_IS,novel coronavirus outbreak,nýr kórónavírus faraldur
+182,en,is_IS,novel virus,nýr vírus
+183,en,is_IS,online medical consultation,læknisráðgjöf á netinu
+184,en,is_IS,onset,upphaf
+185,en,is_IS,outbreak,faraldur
+186,en,is_IS,outbreak readiness,reiðubúin við faraldri
+187,en,is_IS,overall case fatality,dauðsföll í heild
+188,en,is_IS,pandemic,heimsfaraldur
+189,en,is_IS,pangolin,pangólín
+190,en,is_IS,pathogen,sýkill
+191,en,is_IS,pathology,meinafræði
+192,en,is_IS,patient care equipment,búnaður fyrir umönnun sjúklinga
+193,en,is_IS,personal protective equipment,persónuhlífar
+194,en,is_IS,person-to-person transmission,flutningur frá manni til manns
+195,en,is_IS,phlegm,slím
+196,en,is_IS,physical contact,líkamleg snerting
+197,en,is_IS,plague,plága
+198,en,is_IS,pneumonia,lungnabólga
+199,en,is_IS,pneumonias,lungnabólga
+200,en,is_IS,positive test,jákvætt próf
+201,en,is_IS,precaution,varúðar
+202,en,is_IS,precautionary,varúðar
+203,en,is_IS,pre-existing condition,núverandi ástand
+204,en,is_IS,preparedness,viðbúnaður
+205,en,is_IS,prognosis,batahorfur
+206,en,is_IS,protect myself,vernda mig
+207,en,is_IS,protect others,vernda aðra
+208,en,is_IS,protect yourself,vernda sjálfan þig
+209,en,is_IS,protective measures,verndarráðstafanir
+210,en,is_IS,public health crisis,lýðheilsukreppa
+211,en,is_IS,pulmonary tissue damage,lungnavefskemmdir
+212,en,is_IS,quarantine,sóttkví
+213,en,is_IS,rapid risk assessment,hratt áhættumat
+214,en,is_IS,reagent,hvarfefni
+215,en,is_IS,regular flu,venjuleg flensa
+216,en,is_IS,reinfection,endursmit
+217,en,is_IS,renal disease,nýrnasjúkdómur
+218,en,is_IS,renal failure,nýrnabilun
+219,en,is_IS,respirator,öndunarvél
+220,en,is_IS,respiratory,öndunarfæri
+221,en,is_IS,respiratory disease,öndunarfærasjúkdómur
+222,en,is_IS,respiratory distress,öndunarerfiðleikar
+223,en,is_IS,respiratory droplets,öndunar smádropar
+224,en,is_IS,respiratory hygiene,öndunar hreinlæti
+225,en,is_IS,respiratory illness,öndunarfærasjúkdómur
+226,en,is_IS,respiratory syndrome,öndunarfæraheilkenni
+227,en,is_IS,respiratory tract disease,öndunarfærasjúkdómur
+228,en,is_IS,restrictions,takmarkanir
+229,en,is_IS,resurge,koma upp aftur
+230,en,is_IS,RNA,RNA
+231,en,is_IS,rubeola,mislingar
+232,en,is_IS,runny nose,nefrennsli
+233,en,is_IS,SARS,SARS
+234,en,is_IS,SARS-CoV-2,SARS-CoV-2
+235,en,is_IS,SARS-CoV,SARS-CoV
+236,en,is_IS,sars-related coronavirus,sars-tengdur kórónavírus
+237,en,is_IS,seasonal flu,árstíðabundin flensa
+238,en,is_IS,seasonal influenza,árstíðabundin inflúensa
+239,en,is_IS,secretion,seyting
+240,en,is_IS,self-quarantine,sjálf sóttkví
+241,en,is_IS,sepsis,blóðeitrun
+242,en,is_IS,septic shock,blóðsýkingarlost
+243,en,is_IS,Severe Acute Respiratory Syndrome,Alvarlegt brátt öndunarfæraheilkenni
+244,en,is_IS,shortness of breath,andstuttur
+245,en,is_IS,sickened,veikur
+246,en,is_IS,sickness,veikindi
+247,en,is_IS,sneeze,hnerra
+248,en,is_IS,sneezes,hnerrar
+249,en,is_IS,sneezing,hnerra
+250,en,is_IS,social distancing,félagsleg fjarlægð
+251,en,is_IS,sore throat,hálsbólga
+252,en,is_IS,spanish flu,spænska veikin
+253,en,is_IS,specimen collection,sýna safn
+254,en,is_IS,spread,útbreiðsla
+255,en,is_IS,sputum,hráki
+256,en,is_IS,stigmatisation,stigmyndun
+257,en,is_IS,supportive,stoð
+258,en,is_IS,surface,yfirborð
+259,en,is_IS,surfaces,yfirborð
+260,en,is_IS,suspected infection,grunur um sýkingu
+261,en,is_IS,swab,strok
+262,en,is_IS,swine flu,svínaflensa
+263,en,is_IS,symptom,einkenni
+264,en,is_IS,symptomatic,einkenni
+265,en,is_IS,symptoms,einkenni
+266,en,is_IS,targeted disinfection,markviss sótthreinsun
+267,en,is_IS,test kit,prufusett
+268,en,is_IS,testing error,prófunarvilla
+269,en,is_IS,tissue damage,vefjaskemmdir
+270,en,is_IS,tp shortage,sp skortur
+271,en,is_IS,toilet paper shortage,salernispappírs skortur
+272,en,is_IS,touch,snertu
+273,en,is_IS,touching,snerta
+274,en,is_IS,transmissibility,smitleiðir
+275,en,is_IS,transmissible,smitandi
+276,en,is_IS,transmission,smit
+277,en,is_IS,transmission potential,smit möguleikar
+278,en,is_IS,typical flu,dæmigerð flensa
+279,en,is_IS,underlying disease,undirliggjandi sjúkdóm
+280,en,is_IS,updates,uppfærslur
+281,en,is_IS,vaccine,bóluefni
+282,en,is_IS,vaccines,bóluefni
+283,en,is_IS,ventilation,loftræsting
+284,en,is_IS,ventilator,öndunarvél
+285,en,is_IS,ventilators,öndunarvélar
+286,en,is_IS,viral infection,veirusýking
+287,en,is_IS,viral outbreak,veirufaraldur
+288,en,is_IS,viral pandemic,veiru heimsfaraldur
+289,en,is_IS,viral pneumonia,veiru lungnabólga
+290,en,is_IS,virtual care,sýndar umönnun
+291,en,is_IS,virulence,meinleysi
+292,en,is_IS,virus itself,vírusinn sjálfur
+293,en,is_IS,virus outbreak,vírusfaraldur
+294,en,is_IS,virus scare,vírushræðsla
+295,en,is_IS,virus spreads,vírus dreifing
+296,en,is_IS,virus strain,vírusstofn
+297,en,is_IS,viral transmission,veirusmit
+298,en,is_IS,vivid-19,vivid-19
+299,en,is_IS,washing hands,þvo hendur
+300,en,is_IS,washing ones hands,þvo sér um hendur
+301,en,is_IS,wash your hands,þvoðu þér um hendurnar
+302,en,is_IS,white blood cell count,fjöldi hvítra blóðkorna
+303,en,is_IS,widespread transmission,útbreitt smit
+304,en,is_IS,working from home,að vinna að heiman
+305,en,is_IS,WFH,VAH
+306,en,is_IS,Wuhan,Wuhan

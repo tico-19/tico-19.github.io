@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,th_TH,1918 flu,ไข้หวัดใหญ่ ค.ศ. 1918
+2,en,th_TH,acute bronchitis,หลอดลมอักเสบเฉียบพลัน
+3,en,th_TH,acute respiratory disease,โรคระบบทางเดินหายใจเฉียบพลัน
+4,en,th_TH,AIDS,เอดส์
+5,en,th_TH,airborne droplets,การติดต่อทางอากาศผ่านละอองฝอยน้ำมูกน้ำลาย
+6,en,th_TH,airway,ทางเดินหายใจ
+7,en,th_TH,alcohol-based,มีแอลกอฮอล์เป็นส่วนประกอบ
+8,en,th_TH,alcohol-based hand rub,การถูมือด้วยผลิตภัณฑ์ที่มีแอลกอฮอล์เป็นส่วนประกอบ
+9,en,th_TH,alcohol-based hand sanitizer,ผลิตภัณฑ์ทำความสะอาดมือที่มีแอลกอฮอล์เป็นส่วนประกอบ
+10,en,th_TH,alveolar disease,โรคในถุงลมปอด
+11,en,th_TH,an epidemic,โรคระบาด
+12,en,th_TH,annual flu,ไข้หวัดใหญ่ประจำปี
+13,en,th_TH,anti-inflammatory drug,ยาแก้อักเสบ
+14,en,th_TH,antiviral drug,ยาต้านไวรัส
+15,en,th_TH,antiviral treatment,การรักษาด้วยยาต้านไวรัส
+16,en,th_TH,assay,การตรวจวิเคราะห์
+17,en,th_TH,asymptomatic,ไม่แสดงอาการ
+18,en,th_TH,avian flu,ไข้หวัดนก
+19,en,th_TH,Black Plague,การระบาดของกาฬโรค
+20,en,th_TH,blood pressure,ความดันโลหิต
+21,en,th_TH,body fluid,ของเหลวในร่างกาย
+22,en,th_TH,breathing,การหายใจ
+23,en,th_TH,bubonic plague,กาฬโรคต่อมน้ำเหลือง
+24,en,th_TH,c19,c19
+25,en,th_TH,cv19,cv19
+26,en,th_TH,case fatality rate,อัตราป่วยตาย
+27,en,th_TH,causative agent,เชื้อต้นเหตุที่ทำให้เกิดโรค
+28,en,th_TH,CDC,CDC
+29,en,th_TH,chemical disinfection,การฆ่าเชื้อด้วยสารเคมี
+30,en,th_TH,chest x-ray,การเอกซเรย์ทรวงอก
+31,en,th_TH,clinical diagnosis,การวินิจฉัยทางคลินิก
+32,en,th_TH,clinical trial,การทดลองทางคลินิก
+33,en,th_TH,close contact,การสัมผัสใกล้ชิด
+34,en,th_TH,cvirus,cvirus
+35,en,th_TH,chronic respiratory disease,โรคระบบทางเดินหายใจเรื้อรัง
+36,en,th_TH,common cold,ไข้หวัดธรรมดา
+37,en,th_TH,common flu,ไข้หวัดใหญ่ทั่วไป
+38,en,th_TH,communicable disease,โรคติดต่อ
+39,en,th_TH,community spread,การแพร่กระจายภายในชุมชน
+40,en,th_TH,community transmission,การแพร่เชื้อภายในชุมชน
+41,en,th_TH,compromised immune system,ระบบภูมิคุ้มกันอ่อนแอ
+42,en,th_TH,contagion,การติดโรค
+43,en,th_TH,contagious,โรคที่ติดต่อกันได้
+44,en,th_TH,contagiousness,ความสามารถในการติดต่อ
+45,en,th_TH,corona,โคโรนา
+46,en,th_TH,corona virus,ไวรัสโคโรนา
+47,en,th_TH,corona virus epidemic,โรคระบาดจากไวรัสโคโรนา
+48,en,th_TH,corona virus outbreak,การระบาดของไวรัสโคโรนา
+49,en,th_TH,corona virus scare,ความตื่นตระหนกเกี่ยวกับไวรัสโคโรนา
+50,en,th_TH,coronavirus,ไวรัสโคโรนา
+51,en,th_TH,coronavirus cases,ผู้ป่วยที่ติดเชื้อไวรัสโคโรนา
+52,en,th_TH,coronavirus outbreak,การระบาดของไวรัสโคโรนา
+53,en,th_TH,coronavirus pandemic,การระบาดใหญ่ของเชื้อไวรัสโคโรนา
+54,en,th_TH,coronavirus scare,ความตื่นตระหนกเกี่ยวกับไวรัสโคโรนา
+55,en,th_TH,cough,ไอ
+56,en,th_TH,cough etiquette,มารยาทในการไอ
+57,en,th_TH,coughing,การไอ
+58,en,th_TH,cov 19,cov 19
+59,en,th_TH,cov19,cov19
+60,en,th_TH,COVID,โควิด
+61,en,th_TH,COVID-19 crisis,วิกฤตโควิด-19
+62,en,th_TH,covid-19,โควิด-19
+63,en,th_TH,covid19,โควิด19
+64,en,th_TH,COVID-19 epidemic,โรคระบาดโควิด-19
+65,en,th_TH,COVID-19 outbreak,การระบาดของโควิด-19
+66,en,th_TH,COVID-19 pandemic,การระบาดใหญ่ของโควิด-19
+67,en,th_TH,COVID 19,โควิด 19
+68,en,th_TH,current crisis,วิกฤตการณ์ในปัจจุบัน
+69,en,th_TH,current health crisis,วิกฤตสุขภาพในปัจจุบัน
+70,en,th_TH,current outbreak,การระบาดในปัจจุบัน
+71,en,th_TH,current pandemic,การระบาดใหญ่ในปัจจุบัน
+72,en,th_TH,CV,CV
+73,en,th_TH,CV-19,CV-19
+74,en,th_TH,deadly,เป็นอันตรายถึงชีวิต
+75,en,th_TH,deadly virus,ไวรัสที่มีอันตรายถึงชีวิต
+76,en,th_TH,death rate,อัตราการเสียชีวิต
+77,en,th_TH,death toll,ยอดผู้เสียชีวิต
+78,en,th_TH,decontaminate,ขจัดสิ่งปนเปื้อน
+79,en,th_TH,detectable,ตรวจพบได้
+80,en,th_TH,detergent,น้ำยาทำความสะอาด
+81,en,th_TH,difficulty breathing,หายใจลำบาก
+82,en,th_TH,diabetes,โรคเบาหวาน
+83,en,th_TH,diagnosable disease,โรคที่วินิจฉัยได้
+84,en,th_TH,diagnostic protocol,ระเบียบวิธีการวินิจฉัยโรค
+85,en,th_TH,diagnostic testing,การทดสอบเพื่อวินิจฉัยโรค
+86,en,th_TH,disease itself,ตัวของโรคเอง
+87,en,th_TH,disease outbreak,การระบาดของโรค
+88,en,th_TH,disinfectant,สารฆ่าเชื้อ
+89,en,th_TH,disposable,สิ่งที่ใช้ครั้งเดียวแล้วทิ้ง
+90,en,th_TH,droplet transmission,การแพร่กระจายเชื้อโดยละอองฝอยน้ำมูกน้ำลาย
+91,en,th_TH,droplets,ละอองฝอยน้ำมูกน้ำลาย
+92,en,th_TH,dry cough,ไอแห้ง
+93,en,th_TH,dry surface contamination,การปนเปื้อนบนพื้นผิวที่แห้ง
+94,en,th_TH,ebola,อีโบลา
+95,en,th_TH,effective treatment,การรักษาที่ได้ผล
+96,en,th_TH,electron microscope,กล้องจุลทรรศน์อิเล็กตรอน
+97,en,th_TH,emergency department,แผนกฉุกเฉิน
+98,en,th_TH,epidemic,โรคระบาด
+99,en,th_TH,epidemic curve,แผนภูมิการระบาด
+100,en,th_TH,epidemic peak,จุดสูงสุดของการระบาด
+101,en,th_TH,epidemiologist,นักระบาดวิทยา
+102,en,th_TH,exposure,การสัมผัส
+103,en,th_TH,extreme caution,ใช้ความระมัดระวังอย่างยิ่งยวด
+104,en,th_TH,eye protection,การป้องกันดวงตา
+105,en,th_TH,face mask,หน้ากาก
+106,en,th_TH,face masks,หน้ากาก
+107,en,th_TH,family cluster,กลุ่มคนในครอบครัว
+108,en,th_TH,fatality rate,อัตราการตายจากโรค
+109,en,th_TH,fecal contamination,การปนเปื้อนในอุจจาระ
+110,en,th_TH,fever,ไข้
+111,en,th_TH,flatten the infection curve,การทำให้กราฟจำนวนการติดเชื้อเป็นเส้นแบนราบ
+112,en,th_TH,flu,ไข้หวัด
+113,en,th_TH,food safety,ความปลอดภัยทางอาหาร
+114,en,th_TH,formaldehyde,ฟอร์มาลดีไฮด์
+115,en,th_TH,gastroenteritis,กระเพาะอาหารและลำไส้อักเสบ
+116,en,th_TH,germicide,น้ำยาฆ่าเชื้อจุลินทรีย์
+117,en,th_TH,global pandemic,การระบาดใหญ่ทั่วโลก
+118,en,th_TH,global warming,ภาวะโลกร้อน
+119,en,th_TH,good respiratory hygiene,สุขอนามัยทางเดินหายใจที่ดี
+120,en,th_TH,Guangdong,มณฑลกวางตุ้ง
+121,en,th_TH,H1N1,H1N1
+122,en,th_TH,H1N1 virus,ไวรัส H1N1
+123,en,th_TH,hand disinfectant,น้ำยาฆ่าเชื้อที่มือ
+124,en,th_TH,hand sanitizer,ผลิตภัณฑ์ทำความสะอาดมือ
+125,en,th_TH,health care provider,ผู้ให้บริการดูแลสุขภาพ
+126,en,th_TH,health crisis,วิกฤตสุขภาพ
+127,en,th_TH,health plan carrier,ผู้ให้บริการแผนสุขภาพ
+128,en,th_TH,health services,บริการด้านสุขภาพ
+129,en,th_TH,heart failure,ภาวะหัวใจล้มเหลว
+130,en,th_TH,high fever,ไข้สูง
+131,en,th_TH,HIV,HIV
+132,en,th_TH,hospitalize,เข้ารักษาตัวในโรงพยาบาล
+133,en,th_TH,household bleach,สารฟอกขาวที่ใช้ในครัวเรือน
+134,en,th_TH,Hubei,มณฑลหูเป่ย
+135,en,th_TH,hydrogen peroxide,ไฮโดรเจนเพอร์ออกไซด์
+136,en,th_TH,hygiene,สุขอนามัย
+137,en,th_TH,immune system,ระบบภูมิคุ้มกัน
+138,en,th_TH,immunity,ภูมิคุ้มกัน
+139,en,th_TH,immunocompromised,มีภาวะภูมิคุ้มกันอ่อนแอ
+140,en,th_TH,immunologist,นักภูมิคุ้มกันวิทยา
+141,en,th_TH,incubation,การฟักตัว
+142,en,th_TH,incubation period,ระยะฟักตัว
+143,en,th_TH,indirect contact,การสัมผัสทางอ้อม
+144,en,th_TH,infect,ติดเชื้อ
+145,en,th_TH,infection,การติดเชื้อ
+146,en,th_TH,infectious,ติดต่อกันได้
+147,en,th_TH,infectivity,ความสามารถในการติดเชื้อ
+148,en,th_TH,influenza,ไข้หวัดใหญ่
+149,en,th_TH,initial transmission event,เหตุการณ์การแพร่เชื้อขั้นแรก
+150,en,th_TH,intensive care equipment,อุปกรณ์ดูแลผู้ป่วยหนัก
+151,en,th_TH,intermediate host,โฮสต์ตัวกลาง
+152,en,th_TH,intrauterine,ภายในมดลูก
+153,en,th_TH,intubation,การใส่ท่อหายใจ
+154,en,th_TH,isolation,การแยกตัว
+155,en,th_TH,Isopropanol,ไอโซโพรพานอล
+156,en,th_TH,laboratory test kit,ชุดทดสอบทางห้องปฏิบัติการ
+157,en,th_TH,laboratory testing,การทดสอบทางห้องปฏิบัติการ
+158,en,th_TH,lack of testing,ขาดการทดสอบ
+159,en,th_TH,lack of tests,ขาดการทดสอบ
+160,en,th_TH,latest updates,อัพเดตล่าสุด
+161,en,th_TH,liver failure,ภาวะตับวาย
+162,en,th_TH,local public health authority,หน่วยงานสาธารณสุขในท้องถิ่น
+163,en,th_TH,lockdown,การปิดตายชั่วคราว
+164,en,th_TH,lungs,ปอด
+165,en,th_TH,masks,หน้ากาก
+166,en,th_TH,measles,โรคหัด
+167,en,th_TH,mechanical ventilation,การช่วยหายใจโดยอาศัยเครื่อง
+168,en,th_TH,media coverage,การรายงานข่าวทางสื่อ
+169,en,th_TH,medical care,การดูแลทางการแพทย์
+170,en,th_TH,MERS,MERS
+171,en,th_TH,MERS CoV,MERS CoV
+172,en,th_TH,microbiologist,นักจุลชีววิทยา
+173,en,th_TH,mild cough,ไอเล็กน้อย
+174,en,th_TH,mortality rate,อัตราการตาย
+175,en,th_TH,multi-organ failure,ภาวะอวัยวะทำงานล้มเหลวหลายระบบ
+176,en,th_TH,nasal congestion,คัดจมูก
+177,en,th_TH,neutral detergent,น้ำยาทำความสะอาดที่มีฤทธิ์เป็นกลาง
+178,en,th_TH,new normal,ความปกติแบบใหม่
+179,en,th_TH,novel corona virus,ไวรัสโคโรนาสายพันธุ์ใหม่
+180,en,th_TH,novel coronavirus,ไวรัสโคโรนาสายพันธุ์ใหม่
+181,en,th_TH,novel coronavirus outbreak,การระบาดของไวรัสโคโรนาสายพันธุ์ใหม่
+182,en,th_TH,novel virus,ไวรัสสายพันธุ์ใหม่
+183,en,th_TH,online medical consultation,การให้คำปรึกษาทางการแพทย์ออนไลน์
+184,en,th_TH,onset,การเริ่มมีอาการ
+185,en,th_TH,outbreak,การระบาด
+186,en,th_TH,outbreak readiness,ความพร้อมรับมือการระบาดของโรค
+187,en,th_TH,overall case fatality,การป่วยตายโดยรวม
+188,en,th_TH,pandemic,การระบาดใหญ่
+189,en,th_TH,pangolin,ตัวนิ่ม
+190,en,th_TH,pathogen,เชื้อก่อโรค
+191,en,th_TH,pathology,พยาธิวิทยา
+192,en,th_TH,patient care equipment,อุปกรณ์ดูแลผู้ป่วย
+193,en,th_TH,personal protective equipment,อุปกรณ์ป้องกันอันตรายส่วนบุคคล
+194,en,th_TH,person-to-person transmission,การแพร่เชื้อระหว่างบุคคล
+195,en,th_TH,phlegm,เสมหะ
+196,en,th_TH,physical contact,การสัมผัสทางกายภาพ
+197,en,th_TH,plague,กาฬโรค
+198,en,th_TH,pneumonia,ภาวะปอดบวม
+199,en,th_TH,pneumonias,ภาวะปอดบวม
+200,en,th_TH,positive test,ผลทดสอบเป็นบวก
+201,en,th_TH,precaution,ความระมัดระวัง
+202,en,th_TH,precautionary,ป้องกันไว้ก่อน
+203,en,th_TH,pre-existing condition,ภาวะหรือโรคที่มีมาก่อน
+204,en,th_TH,preparedness,การเตรียมพร้อม
+205,en,th_TH,prognosis,การพยากรณ์โรค
+206,en,th_TH,protect myself,ป้องกันตัวเอง
+207,en,th_TH,protect others,ป้องกันผู้อื่น
+208,en,th_TH,protect yourself,ป้องกันตัวคุณ
+209,en,th_TH,protective measures,มาตรการป้องกัน
+210,en,th_TH,public health crisis,วิกฤตสาธารณสุข
+211,en,th_TH,pulmonary tissue damage,เนื้อเยื่อปอดเสียหาย
+212,en,th_TH,quarantine,การกักตัว
+213,en,th_TH,rapid risk assessment,การประเมินความเสี่ยงอย่างรวดเร็ว
+214,en,th_TH,reagent,ตัวทำปฏิกิริยา
+215,en,th_TH,regular flu,ไข้หวัดปกติ
+216,en,th_TH,reinfection,การติดเชื้อซ้ำ
+217,en,th_TH,renal disease,โรคไต
+218,en,th_TH,renal failure,ภาวะไตวาย
+219,en,th_TH,respirator,อุปกรณ์ป้องกันระบบหายใจ
+220,en,th_TH,respiratory,เกี่ยวกับระบบทางเดินหายใจ
+221,en,th_TH,respiratory disease,โรคระบบทางเดินหายใจ
+222,en,th_TH,respiratory distress,อาการแสดงของภาวะที่มีการหายใจลำบากอย่างรุนแรง
+223,en,th_TH,respiratory droplets,ละอองฝอยจากระบบทางเดินหายใจ
+224,en,th_TH,respiratory hygiene,สุขอนามัยระบบทางเดินหายใจ
+225,en,th_TH,respiratory illness,ความเจ็บป่วยจากระบบทางเดินหายใจ
+226,en,th_TH,respiratory syndrome,กลุ่มอาการทางเดินหายใจ
+227,en,th_TH,respiratory tract disease,โรคเกี่ยวกับทางเดินหายใจ
+228,en,th_TH,restrictions,การกำหนดขอบเขต
+229,en,th_TH,resurge,ฟื้นคืนสภาพ
+230,en,th_TH,RNA,RNA
+231,en,th_TH,rubeola,รูบิโอล่า
+232,en,th_TH,runny nose,น้ำมูกไหล
+233,en,th_TH,SARS,SARS
+234,en,th_TH,SARS-CoV-2,SARS-CoV-2
+235,en,th_TH,SARS-CoV,SARS-CoV
+236,en,th_TH,sars-related coronavirus,ไวรัสโคโรนาที่เกี่ยวข้องกับโรคซาร์ส
+237,en,th_TH,seasonal flu,ไข้หวัดตามฤดูกาล
+238,en,th_TH,seasonal influenza,ไข้หวัดใหญ่ตามฤดูกาล
+239,en,th_TH,secretion,สารคัดหลั่ง
+240,en,th_TH,self-quarantine,การกักตนเอง
+241,en,th_TH,sepsis,ภาวะติดเชื้อในกระแสเลือด
+242,en,th_TH,septic shock,ภาวะช็อคจากการติดเชื้อในกระแสเลือด
+243,en,th_TH,Severe Acute Respiratory Syndrome,กลุ่มอาการทางเดินหายใจเฉียบพลันรุนแรง
+244,en,th_TH,shortness of breath,หายใจไม่เต็มอิ่ม
+245,en,th_TH,sickened,ทำให้ป่วย
+246,en,th_TH,sickness,ความเจ็บป่วย
+247,en,th_TH,sneeze,จาม
+248,en,th_TH,sneezes,จาม
+249,en,th_TH,sneezing,การจาม
+250,en,th_TH,social distancing,การเว้นระยะห่างทางสังคม
+251,en,th_TH,sore throat,เจ็บคอ
+252,en,th_TH,spanish flu,ไข้หวัดใหญ่สเปน
+253,en,th_TH,specimen collection,การเก็บตัวอย่าง
+254,en,th_TH,spread,การแพร่กระจาย
+255,en,th_TH,sputum,เสมหะ
+256,en,th_TH,stigmatisation,การประณามให้ร้าย
+257,en,th_TH,supportive,แบบประคับประคอง
+258,en,th_TH,surface,พื้นผิว
+259,en,th_TH,surfaces,พื้นผิว
+260,en,th_TH,suspected infection,การติดเชื้อที่ต้องสงสัย
+261,en,th_TH,swab,การป้ายกวาด
+262,en,th_TH,swine flu,ไข้หวัดใหญ่สุกร
+263,en,th_TH,symptom,อาการ
+264,en,th_TH,symptomatic,แสดงอาการ
+265,en,th_TH,symptoms,อาการ
+266,en,th_TH,targeted disinfection,การฆ่าเชื้อแบบมุ่งเป้า
+267,en,th_TH,test kit,ชุดทดสอบ
+268,en,th_TH,testing error,ข้อผิดพลาดในการทดสอบ
+269,en,th_TH,tissue damage,เนื้อเยื่อเสียหาย
+270,en,th_TH,tp shortage,การขาดแคลนกระดาษชำระ
+271,en,th_TH,toilet paper shortage,การขาดแคลนกระดาษชำระ
+272,en,th_TH,touch,สัมผัส
+273,en,th_TH,touching,การสัมผัส
+274,en,th_TH,transmissibility,ความสามารถในการแพร่เชื้อ
+275,en,th_TH,transmissible,แพร่เชื้อได้
+276,en,th_TH,transmission,การแพร่กระจายเชื้อ
+277,en,th_TH,transmission potential,ศักยภาพในการแพร่เชื้อ
+278,en,th_TH,typical flu,ไข้หวัดทั่วไป
+279,en,th_TH,underlying disease,โรคที่เป็นอยู่เดิม
+280,en,th_TH,updates,อัพเดต
+281,en,th_TH,vaccine,วัคซีน
+282,en,th_TH,vaccines,วัคซีน
+283,en,th_TH,ventilation,การระบายอากาศ
+284,en,th_TH,ventilator,เครื่องช่วยหายใจ
+285,en,th_TH,ventilators,เครื่องช่วยหายใจ
+286,en,th_TH,viral infection,การติดเชื้อไวรัส
+287,en,th_TH,viral outbreak,การระบาดของเชื้อไวรัส
+288,en,th_TH,viral pandemic,การระบาดใหญ่ของเชื้อไวรัส
+289,en,th_TH,viral pneumonia,ภาวะปอดบวมจากเชื้อไวรัส
+290,en,th_TH,virtual care,การดูแลเสมือนจริง
+291,en,th_TH,virulence,ความรุนแรง
+292,en,th_TH,virus itself,ตัวไวรัสเอง
+293,en,th_TH,virus outbreak,การระบาดของไวรัส
+294,en,th_TH,virus scare,ความตื่นตระหนกเกี่ยวกับไวรัส
+295,en,th_TH,virus spreads,ไวรัสแพร่กระจาย
+296,en,th_TH,virus strain,สายพันธุ์ไวรัส
+297,en,th_TH,viral transmission,การแพร่กระจายของเชื้อไวรัส
+298,en,th_TH,vivid-19,วิวิด-19
+299,en,th_TH,washing hands,การล้างมือ
+300,en,th_TH,washing ones hands,การล้างมือตัวเอง
+301,en,th_TH,wash your hands,ล้างมือของคุณ
+302,en,th_TH,white blood cell count,จำนวนเซลล์เม็ดเลือดขาว
+303,en,th_TH,widespread transmission,การแพร่เชื้อในวงกว้าง
+304,en,th_TH,working from home,การทำงานจากที่บ้าน
+305,en,th_TH,WFH,WFH
+306,en,th_TH,Wuhan,มณฑลอู่ฮั่น

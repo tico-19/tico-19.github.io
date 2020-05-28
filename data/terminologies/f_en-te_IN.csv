@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,te_IN,1918 flu,1918 flu
+2,en,te_IN,acute bronchitis,తీవ్ర శ్వాసనాళాల వాపు
+3,en,te_IN,acute respiratory disease,తీవ్రమైన శ్వాసకోశ వ్యాధి
+4,en,te_IN,AIDS,ఎయిడ్స్
+5,en,te_IN,airborne droplets,ఎయిర్‌బార్న్ డ్రాప్‌లెట్స్
+6,en,te_IN,airway,ఎయిర్‌వే
+7,en,te_IN,alcohol-based,ఆల్కహాల్ ఆధారితం
+8,en,te_IN,alcohol-based hand rub,ఆల్కహాల్ ఆధారిత హ్యాండ్ రబ్
+9,en,te_IN,alcohol-based hand sanitizer,ఆల్కహాల్ ఆధారిత హ్యాండ్ శానిటైజర్
+10,en,te_IN,alveolar disease,వాయుకోశ సంబంధ వ్యాధి
+11,en,te_IN,an epidemic,అంటువ్యాధి
+12,en,te_IN,annual flu,వార్షిక ఫ్లూ
+13,en,te_IN,anti-inflammatory drug,శోధ నిరోధక మందులు
+14,en,te_IN,antiviral drug,వైరస్ నిరోధక మందులు
+15,en,te_IN,antiviral treatment,వైరస్ నిరోధక చికిత్స
+16,en,te_IN,assay,నిర్ధారణ
+17,en,te_IN,asymptomatic,వ్యాధిలక్షణ రహిత
+18,en,te_IN,avian flu,ఏవియన్ ఫ్లూ
+19,en,te_IN,Black Plague,నలుపు ప్లేగు
+20,en,te_IN,blood pressure,రక్తపోటు
+21,en,te_IN,body fluid,శరీర ద్రవం
+22,en,te_IN,breathing,శ్వాస
+23,en,te_IN,bubonic plague,బుబోనిక్ ప్లేగు
+24,en,te_IN,c19,c19
+25,en,te_IN,cv19,cv19
+26,en,te_IN,case fatality rate,వాస్తవ మరణాల రేటు
+27,en,te_IN,causative agent,కారక ఏజెంట్
+28,en,te_IN,CDC,CDC
+29,en,te_IN,chemical disinfection,రసాయన క్రిమి సంహారకం
+30,en,te_IN,chest x-ray,ఛాతీ ఎక్స్-రే
+31,en,te_IN,clinical diagnosis,వైద్య నిర్ధారణ
+32,en,te_IN,clinical trial,క్లినికల్ ట్రయల్
+33,en,te_IN,close contact,సన్నిహితంగా ఉన్న వ్యక్తి
+34,en,te_IN,cvirus,సివైరస్
+35,en,te_IN,chronic respiratory disease,దీర్ఘకాలిక శ్వాసకోశ వ్యాధి
+36,en,te_IN,common cold,సాధారణ జలుబు
+37,en,te_IN,common flu,సాధారణ జ్వరం
+38,en,te_IN,communicable disease,అంటు వ్యాధి
+39,en,te_IN,community spread,సమాజంలో వ్యాప్తి
+40,en,te_IN,community transmission,సమాజంలో ప్రసారం
+41,en,te_IN,compromised immune system,పని చేయని రోగ నిరోధక వ్యవస్థ
+42,en,te_IN,contagion,సంక్రమణ
+43,en,te_IN,contagious,అంటు
+44,en,te_IN,contagiousness,అంటుకోవడం
+45,en,te_IN,corona,కరోనా
+46,en,te_IN,corona virus,కరోనా వైరస్
+47,en,te_IN,corona virus epidemic,కరోనా వైరస్ అంటువ్యాధి
+48,en,te_IN,corona virus outbreak,కరోనా వైరస్ అవుట్‌బ్రేక్
+49,en,te_IN,corona virus scare,కరోనా వైరస్ స్కేర్
+50,en,te_IN,coronavirus,కరోనావైరస్
+51,en,te_IN,coronavirus cases,కరోనావైరస్ కేసులు
+52,en,te_IN,coronavirus outbreak,కరోనావైరస్ అవుట్‌బ్రేక్
+53,en,te_IN,coronavirus pandemic,కరోనావైరస్ మహమ్మారి
+54,en,te_IN,coronavirus scare,కరోనావైరస్ భయం
+55,en,te_IN,cough,దగ్గు
+56,en,te_IN,cough etiquette,దగ్గు రీతి
+57,en,te_IN,coughing,దగ్గడం
+58,en,te_IN,cov 19,cov 19
+59,en,te_IN,cov19,cov19
+60,en,te_IN,COVID,COVID
+61,en,te_IN,COVID-19 crisis,COVID-19 సంక్షోభం
+62,en,te_IN,covid-19,covid-19
+63,en,te_IN,covid19,covid19
+64,en,te_IN,COVID-19 epidemic,COVID-19 అంటువ్యాధి
+65,en,te_IN,COVID-19 outbreak,COVID-19 అవుట్‌బ్రేక్
+66,en,te_IN,COVID-19 pandemic,COVID-19 మహమ్మారి
+67,en,te_IN,COVID 19,COVID 19
+68,en,te_IN,current crisis,ప్రస్తుత సంక్షోభం
+69,en,te_IN,current health crisis,ప్రస్తుత ఆరోగ్య సంక్షోభం
+70,en,te_IN,current outbreak,ప్రస్తుత అవుట్‌బ్రేక్
+71,en,te_IN,current pandemic,ప్రస్తుత మహమ్మారి
+72,en,te_IN,CV,CV
+73,en,te_IN,CV-19,CV-19
+74,en,te_IN,deadly,ప్రాణాంతకం
+75,en,te_IN,deadly virus,ప్రాణాంతక వైరస్
+76,en,te_IN,death rate,మరణ రేటు
+77,en,te_IN,death toll,మృతుల సంఖ్య
+78,en,te_IN,decontaminate,ప్రక్షాళన
+79,en,te_IN,detectable,గుర్తించదగిన
+80,en,te_IN,detergent,డిటర్జెంట్
+81,en,te_IN,difficulty breathing,శ్వాస తీసుకోవడంలో ఇబ్బంది
+82,en,te_IN,diabetes,డయాబెటిస్
+83,en,te_IN,diagnosable disease,రోగ నిర్ధారణ చేయదగిన వ్యాధి
+84,en,te_IN,diagnostic protocol,డయాగ్నస్టిక్ ప్రోటోకాల్
+85,en,te_IN,diagnostic testing,డయాగ్నస్టిక్ పరీక్ష
+86,en,te_IN,disease itself,వ్యాధి
+87,en,te_IN,disease outbreak,వ్యాధి అవుట్‌బ్రేక్
+88,en,te_IN,disinfectant,క్రిమిసంహారకాలు
+89,en,te_IN,disposable,పునర్వినియోగించని
+90,en,te_IN,droplet transmission,డ్రాప్‌లెట్ సంక్రమణ
+91,en,te_IN,droplets,డ్రాప్‌లెట్‌లు
+92,en,te_IN,dry cough,పొడి దగ్గు
+93,en,te_IN,dry surface contamination,పొడి ఉపరితల కాలుష్యం
+94,en,te_IN,ebola,ఎబోలా
+95,en,te_IN,effective treatment,ప్రభావవంతమైన చికిత్స
+96,en,te_IN,electron microscope,ఎలక్ట్రాన్ మైక్రోస్కోప్
+97,en,te_IN,emergency department,అత్యవసర శాఖ
+98,en,te_IN,epidemic,అంటువ్యాధి
+99,en,te_IN,epidemic curve,అంటువ్యాధిక వక్రత
+100,en,te_IN,epidemic peak,అంటువ్యాధి తీవ్రత
+101,en,te_IN,epidemiologist,వ్యాధికి సంబంధించిన విజ్ఞానం
+102,en,te_IN,exposure,బహిర్గతం
+103,en,te_IN,extreme caution,తీవ్ర హెచ్చరిక
+104,en,te_IN,eye protection,కంటి రక్షణ
+105,en,te_IN,face mask,ముఖం మాస్క్
+106,en,te_IN,face masks,ముఖం మాస్క్‌లు
+107,en,te_IN,family cluster,కుటుంబ క్లస్టర్
+108,en,te_IN,fatality rate,మరణాల రేటు
+109,en,te_IN,fecal contamination,మల కాలుష్యం
+110,en,te_IN,fever,జ్వరం
+111,en,te_IN,flatten the infection curve,ఇన్ఫెక్షన్ సంక్రమణను తగ్గించడం
+112,en,te_IN,flu,జ్వరం
+113,en,te_IN,food safety,ఆహార భద్రత
+114,en,te_IN,formaldehyde,ఫార్మాల్డిహైడ్
+115,en,te_IN,gastroenteritis,అన్నాశయ శోధ
+116,en,te_IN,germicide,క్రిమి నాశకం
+117,en,te_IN,global pandemic,ప్రపంచానికి మహమ్మారి
+118,en,te_IN,global warming,భూతాపం
+119,en,te_IN,good respiratory hygiene,శ్వాసకోశ పరిశుభ్రత
+120,en,te_IN,Guangdong,గుయంగ్డోంగ్
+121,en,te_IN,H1N1,H1N1
+122,en,te_IN,H1N1 virus,H1N1 వైరస్
+123,en,te_IN,hand disinfectant,చేతి క్రిమిసంహారక మందులు
+124,en,te_IN,hand sanitizer,హ్యాండ్ శానిటైజర్
+125,en,te_IN,health care provider,ఆరోగ్య రక్షణ ప్రదాత
+126,en,te_IN,health crisis,ఆరోగ్య సంక్షోభం
+127,en,te_IN,health plan carrier,ఆరోగ్య ప్లాన్ క్యారియర్
+128,en,te_IN,health services,ఆరోగ్య సేవలు
+129,en,te_IN,heart failure,గుండె వ్యాధి
+130,en,te_IN,high fever,ఎక్కువ జ్వరం
+131,en,te_IN,HIV,హెచ్ఐవి
+132,en,te_IN,hospitalize,ఆసుపత్రిలో చేరడం
+133,en,te_IN,household bleach,ఇంటి వద్ద బ్లీచింగ్ వేయడం
+134,en,te_IN,Hubei,హుబెయ్
+135,en,te_IN,hydrogen peroxide,హైడ్రోజన్ పెరాక్సైడ్
+136,en,te_IN,hygiene,పరిశుభ్రత
+137,en,te_IN,immune system,రోగ నిరోధక వ్యవస్థ
+138,en,te_IN,immunity,రోగ నిరోధక శక్తి
+139,en,te_IN,immunocompromised,రోగ నిరోధక శక్తి తగ్గిపోవడం
+140,en,te_IN,immunologist,ఇమ్యునాలజిస్ట్
+141,en,te_IN,incubation,ఇంక్యుబేషన్
+142,en,te_IN,incubation period,ఇంక్యుబేషన్ వ్యవధి
+143,en,te_IN,indirect contact,పరోక్షంగా ప్రభావం చూపే వ్యక్తి
+144,en,te_IN,infect,ఇన్ఫెక్ట్
+145,en,te_IN,infection,ఇన్ఫెక్షన్
+146,en,te_IN,infectious,ఇన్ఫెక్షన్ సోకదగిన
+147,en,te_IN,infectivity,ఇన్ఫెక్షన్ కావడం
+148,en,te_IN,influenza,శీతల జ్వరం
+149,en,te_IN,initial transmission event,ప్రారంభ సంక్రమణ సంఘటన
+150,en,te_IN,intensive care equipment,ఇంటెన్సివ్ కేర్ పరికరాలు
+151,en,te_IN,intermediate host,ఇంటర్మీడియట్ హోస్ట్
+152,en,te_IN,intrauterine,గర్భాశయంలోని
+153,en,te_IN,intubation,ఇంట్యుబేషన్
+154,en,te_IN,isolation,ఐసొలేషన్
+155,en,te_IN,Isopropanol,ఐసోప్రోపనాల్
+156,en,te_IN,laboratory test kit,ల్యాబొరేటరీ టెస్ట్ కిట్
+157,en,te_IN,laboratory testing,ల్యాబొరేటరీ పరీక్ష
+158,en,te_IN,lack of testing,పరీక్ష కొరత
+159,en,te_IN,lack of tests,పరీక్షల కొరత
+160,en,te_IN,latest updates,తాజా సమాచారం
+161,en,te_IN,liver failure,కాలేయ వైఫల్యం
+162,en,te_IN,local public health authority,స్థానిక ప్రజా ఆరోగ్య అధికారం
+163,en,te_IN,lockdown,లాక్‌డౌన్
+164,en,te_IN,lungs,ఊపిరితిత్తులు
+165,en,te_IN,masks,మాస్క్‌లు
+166,en,te_IN,measles,తట్టు
+167,en,te_IN,mechanical ventilation,మెకానికల్ వెంటిలేషన్
+168,en,te_IN,media coverage,మీడియా కవరేజీ
+169,en,te_IN,medical care,వైద్య చికిత్స
+170,en,te_IN,MERS,MERS
+171,en,te_IN,MERS CoV,MERS CoV
+172,en,te_IN,microbiologist,మైక్రోబయాలజిస్ట్
+173,en,te_IN,mild cough,కొద్దిపాటి ద్గగు
+174,en,te_IN,mortality rate,మరణాల రేటు
+175,en,te_IN,multi-organ failure,అనేక అవయవాల వైఫల్యం
+176,en,te_IN,nasal congestion,ముక్కు దిబ్బడ
+177,en,te_IN,neutral detergent,న్యూట్రల్ డిటర్జెంట్
+178,en,te_IN,new normal,న్యూ నార్మల్
+179,en,te_IN,novel corona virus,నావల్ కరోనా వైరస్
+180,en,te_IN,novel coronavirus,నావల్ కరోనావైరస్
+181,en,te_IN,novel coronavirus outbreak,నావల్ కరోనావైరస్ అవుట్‌బ్రేక్
+182,en,te_IN,novel virus,నావల్ వైరస్
+183,en,te_IN,online medical consultation,ఆన్‌లైన్ మెడికల్ కన్సల్టేషన్
+184,en,te_IN,onset,ఆన్‌సెట్
+185,en,te_IN,outbreak,అవుట్‌బ్రేక్
+186,en,te_IN,outbreak readiness,అవుట్‌బ్రేక్ సంసిద్ధత
+187,en,te_IN,overall case fatality,మొత్తంమీద మరణాలు
+188,en,te_IN,pandemic,మహమ్మారి
+189,en,te_IN,pangolin,పంగోలిన్
+190,en,te_IN,pathogen,వ్యాధి కారకం
+191,en,te_IN,pathology,పాథాలజీ
+192,en,te_IN,patient care equipment,రోగి సంరక్షణ పరికరాలు
+193,en,te_IN,personal protective equipment,వ్యక్తిగత రక్షణ పరికరాలు
+194,en,te_IN,person-to-person transmission,వ్యక్తి నుంచి వ్యక్తికి సంక్రమణ
+195,en,te_IN,phlegm,కఫం
+196,en,te_IN,physical contact,భౌతికంగా తగలడం
+197,en,te_IN,plague,ప్లేగు
+198,en,te_IN,pneumonia,న్యుమోనియా
+199,en,te_IN,pneumonias,న్యుమోనియాలు
+200,en,te_IN,positive test,పాజిటివ్ టెస్ట్
+201,en,te_IN,precaution,జాగ్రత్త చర్య
+202,en,te_IN,precautionary,ముందు జాగ్రత్త
+203,en,te_IN,pre-existing condition,ఇప్పటికే ఉన్న స్థితి
+204,en,te_IN,preparedness,సంసిద్ధత
+205,en,te_IN,prognosis,రోగ నిర్ధారణ
+206,en,te_IN,protect myself,స్వీయ రక్షణ
+207,en,te_IN,protect others,ఇతరుల రక్షణ
+208,en,te_IN,protect yourself,మిమ్మల్ని మీరు రక్షించుకోవడం
+209,en,te_IN,protective measures,భద్రతా కొలమానాలు
+210,en,te_IN,public health crisis,ప్రజా ఆరోగ్య సంక్షోభం
+211,en,te_IN,pulmonary tissue damage,పల్మనరీ కణజాలం పాడైపోవడం
+212,en,te_IN,quarantine,క్వారెంటైన్
+213,en,te_IN,rapid risk assessment,వేగవంతమైన ప్రమాద అంచనా
+214,en,te_IN,reagent,పరీక్ష పదార్థం
+215,en,te_IN,regular flu,సాధారణ జ్వరం
+216,en,te_IN,reinfection,రీఇన్ఫెక్షన్
+217,en,te_IN,renal disease,మూత్రపిండాల వ్యాధి
+218,en,te_IN,renal failure,మూత్రపిండాల వైఫల్యం
+219,en,te_IN,respirator,శ్వాస సాధనం
+220,en,te_IN,respiratory,స్వాస సంబంధిత
+221,en,te_IN,respiratory disease,శ్వాసకోశ వ్యాధి
+222,en,te_IN,respiratory distress,శ్వాస తీసుకోవడంలో ఇబ్బంది
+223,en,te_IN,respiratory droplets,శ్వాస సంబంధ డ్రాప్‌లెట్స్
+224,en,te_IN,respiratory hygiene,శ్వాసకోశ పరిశుభ్రత
+225,en,te_IN,respiratory illness,శ్వాస సంబంధిత అనారోగ్యం
+226,en,te_IN,respiratory syndrome,శ్వాస సంబంధిత రోగ లక్షణం
+227,en,te_IN,respiratory tract disease,రెస్పిరేటరీ ట్రాక్ట్ వ్యాధి
+228,en,te_IN,restrictions,నియంత్రణలు
+229,en,te_IN,resurge,రీసర్జ్
+230,en,te_IN,RNA,RNA
+231,en,te_IN,rubeola,రుబెల్లా
+232,en,te_IN,runny nose,ముక్కు కారడం
+233,en,te_IN,SARS,SARS
+234,en,te_IN,SARS-CoV-2,SARS-CoV-2
+235,en,te_IN,SARS-CoV,SARS-CoV
+236,en,te_IN,sars-related coronavirus,సార్స్ సంబంధిత కరోనావైరస్
+237,en,te_IN,seasonal flu,కాలానుగుణ జ్వరం
+238,en,te_IN,seasonal influenza,కాలానుగుణ శీతల జ్వరం
+239,en,te_IN,secretion,స్రావం
+240,en,te_IN,self-quarantine,స్వీయ నిర్భందం
+241,en,te_IN,sepsis,సెప్సిస్
+242,en,te_IN,septic shock,సెప్టిక్ షాక్
+243,en,te_IN,Severe Acute Respiratory Syndrome,తీవ్రమైన శ్వాస సంబంధిత రోగ లక్షణం
+244,en,te_IN,shortness of breath,శ్వాస తీసుకోవడంలో ఇబ్బంది
+245,en,te_IN,sickened,నీరసించిపోయినవారు
+246,en,te_IN,sickness,నీరసం
+247,en,te_IN,sneeze,తుమ్ము
+248,en,te_IN,sneezes,తుమ్ములు
+249,en,te_IN,sneezing,తుమ్మడం
+250,en,te_IN,social distancing,సామాజిక దూరం పాటించడం
+251,en,te_IN,sore throat,గొంతు మంట
+252,en,te_IN,spanish flu,స్పానిష్ జ్వరం
+253,en,te_IN,specimen collection,నమూనా సేకరణ
+254,en,te_IN,spread,వ్యాప్తి
+255,en,te_IN,sputum,కఫం
+256,en,te_IN,stigmatisation,దూరంగా ఉండటం
+257,en,te_IN,supportive,మద్దతుగా ఉండటం
+258,en,te_IN,surface,ఉపరితలం
+259,en,te_IN,surfaces,ఉపరితలాలు
+260,en,te_IN,suspected infection,అనుమానిత ఇన్ఫెక్షన్
+261,en,te_IN,swab,శుభ్రపరచడం
+262,en,te_IN,swine flu,స్వైన్ ఫ్లూ
+263,en,te_IN,symptom,లక్షణం
+264,en,te_IN,symptomatic,రోగ లక్షణాలు
+265,en,te_IN,symptoms,లక్షణాలు
+266,en,te_IN,targeted disinfection,లక్ష్యం చేసుకున్న క్రిమిసంహారకాలు
+267,en,te_IN,test kit,పరీక్ష కిట్
+268,en,te_IN,testing error,పరీక్ష లోపం
+269,en,te_IN,tissue damage,కణజాల నష్టం
+270,en,te_IN,tp shortage,tp కొరత
+271,en,te_IN,toilet paper shortage,టాయిలెట్ పేపర్ కొరత
+272,en,te_IN,touch,స్పర్శ
+273,en,te_IN,touching,తాకడం
+274,en,te_IN,transmissibility,వ్యాపింపజేయగలడం
+275,en,te_IN,transmissible,వ్యాపించదగిన
+276,en,te_IN,transmission,వ్యాప్తి
+277,en,te_IN,transmission potential,సంభావ్య వ్యాప్తి
+278,en,te_IN,typical flu,సాధారణ జ్వరం
+279,en,te_IN,underlying disease,అంతర్లీన వ్యాధి
+280,en,te_IN,updates,అప్‌డేట్‌లు
+281,en,te_IN,vaccine,వాక్సిన్
+282,en,te_IN,vaccines,వాక్సిన్‌లు
+283,en,te_IN,ventilation,వెంటిలేషన్
+284,en,te_IN,ventilator,వెంటిలేటర్
+285,en,te_IN,ventilators,వెంటిలేటర్‌లు
+286,en,te_IN,viral infection,వైరల్ ఇన్ఫెక్షన్
+287,en,te_IN,viral outbreak,వైరల్ అవుట్‌బ్రేక్
+288,en,te_IN,viral pandemic,వైరల్ మహమ్మారి
+289,en,te_IN,viral pneumonia,వైరల్ న్యుమోనియా
+290,en,te_IN,virtual care,వైరల్ సంరక్షణ
+291,en,te_IN,virulence,తీవ్రత
+292,en,te_IN,virus itself,వైరస్
+293,en,te_IN,virus outbreak,వైరస్ అవుట్‌బ్రేక్
+294,en,te_IN,virus scare,వైరస్ భయం
+295,en,te_IN,virus spreads,వైరస్ వ్యాప్తి
+296,en,te_IN,virus strain,వైరస్ జాతి
+297,en,te_IN,viral transmission,వైరస్ సంక్రమణ
+298,en,te_IN,vivid-19,vivid-19
+299,en,te_IN,washing hands,చేతులు శుభ్రపరచుకోవడం
+300,en,te_IN,washing ones hands,చేతులు కడుక్కోవడం
+301,en,te_IN,wash your hands,మీ చేతులు కడుక్కోండి
+302,en,te_IN,white blood cell count,తెల్ల రక్త కణాల గణన
+303,en,te_IN,widespread transmission,విస్తృత సంక్రమణ
+304,en,te_IN,working from home,ఇంటి నుంచి పని
+305,en,te_IN,WFH,WFH
+306,en,te_IN,Wuhan,వూహాన్

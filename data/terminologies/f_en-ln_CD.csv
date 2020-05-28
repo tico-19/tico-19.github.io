@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ln_CD,1918 flu,grippe ya 1918
+2,en,ln_CD,acute bronchitis,maladi ya pema ya makasi
+3,en,ln_CD,acute respiratory disease,maladi ya makasi ya kopema
+4,en,ln_CD,AIDS,AIDS
+5,en,ln_CD,airborne droplets,Maladi ya mikwa
+6,en,ln_CD,airway,mopepe
+7,en,ln_CD,alcohol-based,Maladi euti na masanga
+8,en,ln_CD,alcohol-based hand rub,Kisi ya kopetola maboko esalemi na alkole
+9,en,ln_CD,alcohol-based hand sanitizer,kisi ya kosokola maboko esalemi na alkole
+10,en,ln_CD,alveolar disease,Maladi ya alveole
+11,en,ln_CD,an epidemic,Maladi makasi
+12,en,ln_CD,annual flu,Grippe ya mbula na mvula
+13,en,ln_CD,anti-inflammatory drug,Kisi ya kokitisa pasi
+14,en,ln_CD,antiviral drug,Kisi ya kolembisa pasi
+15,en,ln_CD,antiviral treatment,Kisi ya kolembisa pasi
+16,en,ln_CD,assay,komeka
+17,en,ln_CD,asymptomatic,Azangi bilembo
+18,en,ln_CD,avian flu,Grippe ya makasi
+19,en,ln_CD,Black Plague,Maladi ya baindo
+20,en,ln_CD,blood pressure,Maladi ya tension
+21,en,ln_CD,body fluid,Mai na nzoto
+22,en,ln_CD,breathing,kopema
+23,en,ln_CD,bubonic plague,Maladi ya kovimba
+24,en,ln_CD,c19,c19
+25,en,ln_CD,cv19,cv19
+26,en,ln_CD,case fatality rate,Motango ya liwa
+27,en,ln_CD,causative agent,Biloko ezoboma
+28,en,ln_CD,CDC,CDC
+29,en,ln_CD,chemical disinfection,Bakisi ya bopeto
+30,en,ln_CD,chest x-ray,Radiogphie ya poumon
+31,en,ln_CD,clinical diagnosis,Ndenge maladi ezali
+32,en,ln_CD,clinical trial,Komeka bakisi
+33,en,ln_CD,close contact,Kozala pembeni makasi
+34,en,ln_CD,cvirus,virisi c
+35,en,ln_CD,chronic respiratory disease,Maladi ya kopema esilaka te
+36,en,ln_CD,common cold,Miyoyo
+37,en,ln_CD,common flu,Grippe ya bato nyonso
+38,en,ln_CD,communicable disease,Maladi oyo ekoki kopesama na basusu
+39,en,ln_CD,community spread,Kopanzana na esika tofandi
+40,en,ln_CD,community transmission,Kopesa bato tofandi na bango
+41,en,ln_CD,compromised immune system,Kolembisa makila oyo ebundisaka microbe
+42,en,ln_CD,contagion,Kopanzanza
+43,en,ln_CD,contagious,Kopanzana
+44,en,ln_CD,contagiousness,Oyo epanzanaka
+45,en,ln_CD,corona,Corona
+46,en,ln_CD,corona virus,Virisi corona
+47,en,ln_CD,corona virus epidemic,Maladi ya virisi corona
+48,en,ln_CD,corona virus outbreak,Kopanzana ya virisi corona
+49,en,ln_CD,corona virus scare,Bobangi ya virisi corona
+50,en,ln_CD,coronavirus,Virisi corona
+51,en,ln_CD,coronavirus cases,Bato bazali na virisi corona
+52,en,ln_CD,coronavirus outbreak,Kopanzana ya virisi corona
+53,en,ln_CD,coronavirus pandemic,Maladi ya virisi corona
+54,en,ln_CD,coronavirus scare,Bobangi ya virisi corona
+55,en,ln_CD,cough,kosukosu
+56,en,ln_CD,cough etiquette,Elembo ya kosukosu
+57,en,ln_CD,coughing,kokosula
+58,en,ln_CD,cov 19,cov 19
+59,en,ln_CD,cov19,cov19
+60,en,ln_CD,COVID,COVID
+61,en,ln_CD,COVID-19 crisis,maladi ya COVID-19
+62,en,ln_CD,covid-19,covid-19`
+63,en,ln_CD,covid19,covid19
+64,en,ln_CD,COVID-19 epidemic,Maladi makasi COVID-19
+65,en,ln_CD,COVID-19 outbreak,Kopanzana ya COVID-19
+66,en,ln_CD,COVID-19 pandemic,Maladi makasi COVID-19
+67,en,ln_CD,COVID 19,COVID 19
+68,en,ln_CD,current crisis,pasi ya sikoyo
+69,en,ln_CD,current health crisis,maladi ya pasi ya sikoyo
+70,en,ln_CD,current outbreak,Kopanzana ya sikoyo
+71,en,ln_CD,current pandemic,Maladi makasi ya sikoyo
+72,en,ln_CD,CV,CV
+73,en,ln_CD,CV-19,CV-19
+74,en,ln_CD,deadly,oyo ebomaka
+75,en,ln_CD,deadly virus,virisi oyo ebomaka
+76,en,ln_CD,death rate,Motango ya bakufi
+77,en,ln_CD,death toll,Talo ya bakufi
+78,en,ln_CD,decontaminate,Bato babiki
+79,en,ln_CD,detectable,Koyeba yango
+80,en,ln_CD,detergent,Kisi
+81,en,ln_CD,difficulty breathing,Pasi ya kopema
+82,en,ln_CD,diabetes,Diabete
+83,en,ln_CD,diagnosable disease,Maladi bakoki komona
+84,en,ln_CD,diagnostic protocol,Ndenge ya koyeba maladi
+85,en,ln_CD,diagnostic testing,Kozala ekzame po na koyeba yango
+86,en,ln_CD,disease itself,Maladi yango moko
+87,en,ln_CD,disease outbreak,Kopanzana ya maladi
+88,en,ln_CD,disinfectant,Kisi ya kotya bopeto
+89,en,ln_CD,disposable,Ya kobwaka
+90,en,ln_CD,droplet transmission,Kopesa matanga mike
+91,en,ln_CD,droplets,Matanga ya mike
+92,en,ln_CD,dry cough,Kosukosu ya makasi
+93,en,ln_CD,dry surface contamination,Kobebisa esika ya kokauka
+94,en,ln_CD,ebola,ebola
+95,en,ln_CD,effective treatment,Kisi ya malamu
+96,en,ln_CD,electron microscope,Microscope ya maboko te
+97,en,ln_CD,emergency department,Departema ya urgence
+98,en,ln_CD,epidemic,Maladi makasi
+99,en,ln_CD,epidemic curve,Bokoli ya maladi makasi
+100,en,ln_CD,epidemic peak,Bokoli ya mingi ya maladi ya makasi
+101,en,ln_CD,epidemiologist,Moto alandelaka maladi ya makasi
+102,en,ln_CD,exposure,Komitika
+103,en,ln_CD,extreme caution,Mayele makasi
+104,en,ln_CD,eye protection,Kobatela miso
+105,en,ln_CD,face mask,Maske
+106,en,ln_CD,face masks,Maske ya miso
+107,en,ln_CD,family cluster,Bato ya libota
+108,en,ln_CD,fatality rate,Talo ya bakufi
+109,en,ln_CD,fecal contamination,Kozwa maladi na nyei
+110,en,ln_CD,fever,fievre
+111,en,ln_CD,flatten the infection curve,Kolembisa bozwi bokono
+112,en,ln_CD,flu,kosukosu
+113,en,ln_CD,food safety,bilei ya malamu
+114,en,ln_CD,formaldehyde,Formaldehyde
+115,en,ln_CD,gastroenteritis,Etali misopo
+116,en,ln_CD,germicide,Germicide
+117,en,ln_CD,global pandemic,Maladi makasi ya mokili mobimba
+118,en,ln_CD,global warming,likebisi ya mokili mobimba
+119,en,ln_CD,good respiratory hygiene,bizaleli malamu ya kopema
+120,en,ln_CD,Guangdong,Guangdong
+121,en,ln_CD,H1N1,H1N1
+122,en,ln_CD,H1N1 virus,Virus H1N1
+123,en,ln_CD,hand disinfectant,Kopetola maboko
+124,en,ln_CD,hand sanitizer,Kotya bopeto na maboko
+125,en,ln_CD,health care provider,Bato basalisaka bato ya maladi
+126,en,ln_CD,health crisis,Kobeba ya kolongono ya nzoto
+127,en,ln_CD,health plan carrier,Mayele ya kozala nzoto kolongono
+128,en,ln_CD,health services,misala ya kolongono ya nzogto
+129,en,ln_CD,heart failure,Kokata motema
+130,en,ln_CD,high fever,fievre ya makasi
+131,en,ln_CD,HIV,SIDA
+132,en,ln_CD,hospitalize,kokota lopitalo
+133,en,ln_CD,household bleach,Mai ya javel ya ndako
+134,en,ln_CD,Hubei,Hubei
+135,en,ln_CD,hydrogen peroxide,Hydrogene ya peroxyde
+136,en,ln_CD,hygiene,Bopeto
+137,en,ln_CD,immune system,makila oyo ebundisaka maladi
+138,en,ln_CD,immunity,kobundisa maladi
+139,en,ln_CD,immunocompromised,Immuno kotungisama na makanisi
+140,en,ln_CD,immunologist,Immunologiste
+141,en,ln_CD,incubation,Kokolisa maladi
+142,en,ln_CD,incubation period,Eleko oyo maladi ezokola
+143,en,ln_CD,indirect contact,Kosangana mbala moko te
+144,en,ln_CD,infect,Kopesa microbe
+145,en,ln_CD,infection,maladi
+146,en,ln_CD,infectious,Eza na maladi
+147,en,ln_CD,infectivity,Eza na maladi
+148,en,ln_CD,influenza,Grippe
+149,en,ln_CD,initial transmission event,Makambo ya liboso oyo esangisaki yango
+150,en,ln_CD,intensive care equipment,Bisaleli ya kosalisa ya makasi
+151,en,ln_CD,intermediate host,Eleko ya kati oyo esalisaka
+152,en,ln_CD,intrauterine,Ya kati ya nzoto ya mwasi
+153,en,ln_CD,intubation,Intibation
+154,en,ln_CD,isolation,Komifandela
+155,en,ln_CD,Isopropanol,Isopropanol
+156,en,ln_CD,laboratory test kit,Bisaleli ya ekzame ya monganga
+157,en,ln_CD,laboratory testing,Baekzame ya monganga
+158,en,ln_CD,lack of testing,Kozanga kosala ekzame
+159,en,ln_CD,lack of tests,Kozonga kosala baekzame
+160,en,ln_CD,latest updates,Basango ya sika
+161,en,ln_CD,liver failure,Kokita ya makila
+162,en,ln_CD,local public health authority,Bakonzi ya mboka Batali kolongono ya nzoto
+163,en,ln_CD,lockdown,Kopekisa kobima pe kokota
+164,en,ln_CD,lungs,bapoumon
+165,en,ln_CD,masks,bamaske
+166,en,ln_CD,measles,Rougeole
+167,en,ln_CD,mechanical ventilation,Mopepe ya mekanike
+168,en,ln_CD,media coverage,Ndenge bazolobela yango na basango
+169,en,ln_CD,medical care,Kozwa lisalisi ya monganga
+170,en,ln_CD,MERS,MERS
+171,en,ln_CD,MERS CoV,MERS CoV
+172,en,ln_CD,microbiologist,Microbiologiste
+173,en,ln_CD,mild cough,Kosukosu ya makasi te
+174,en,ln_CD,mortality rate,Talo ya bato bakufi
+175,en,ln_CD,multi-organ failure,Kobeba ya biteni mingi ya nzoto
+176,en,ln_CD,nasal congestion,Kokangama ya zolo
+177,en,ln_CD,neutral detergent,Kisi epetolaka nyonso
+178,en,ln_CD,new normal,Ezongi lisusu malamu
+179,en,ln_CD,novel corona virus,Virisi corono ya sika
+180,en,ln_CD,novel coronavirus,Virisi corono ya sika
+181,en,ln_CD,novel coronavirus outbreak,Kobima ya sika ya virisi korona
+182,en,ln_CD,novel virus,virisi ya sika
+183,en,ln_CD,online medical consultation,kosolola na monganga na internet
+184,en,ln_CD,onset,ebandeli
+185,en,ln_CD,outbreak,kopanzana
+186,en,ln_CD,outbreak readiness,komibongisa na kopanzana na yango
+187,en,ln_CD,overall case fatality,talo ya bakufi
+188,en,ln_CD,pandemic,maladi
+189,en,ln_CD,pangolin,pangolin
+190,en,ln_CD,pathogen,biloko epesaka maladi
+191,en,ln_CD,pathology,koyeba esika maladi euti pe pasi na yango
+192,en,ln_CD,patient care equipment,biloko ya lisalisi ya moto ya maladi
+193,en,ln_CD,personal protective equipment,biloko ya komibatela
+194,en,ln_CD,person-to-person transmission,kopesa moto mosusu bokono
+195,en,ln_CD,phlegm,flegme
+196,en,ln_CD,physical contact,kosimbana
+197,en,ln_CD,plague,maladi mabe
+198,en,ln_CD,pneumonia,maladi ya pema
+199,en,ln_CD,pneumonias,maladi ya pema
+200,en,ln_CD,positive test,komona maladi
+201,en,ln_CD,precaution,bibongiseli
+202,en,ln_CD,precautionary,bibongiseli
+203,en,ln_CD,pre-existing condition,makambo oyo ezalaki liboso
+204,en,ln_CD,preparedness,komibongisa
+205,en,ln_CD,prognosis,pasi na yo
+206,en,ln_CD,protect myself,namibatela
+207,en,ln_CD,protect others,batela basusu
+208,en,ln_CD,protect yourself,mibatela
+209,en,ln_CD,protective measures,miango mpo na komibatela
+210,en,ln_CD,public health crisis,kobeba ya kolongono ya nzoto ya bato mingi
+211,en,ln_CD,pulmonary tissue damage,kobeba ya biloko ya kopemela
+212,en,ln_CD,quarantine,kozala mosika na bato
+213,en,ln_CD,rapid risk assessment,kotalela nokinoki likama
+214,en,ln_CD,reagent,kozonga lisusu
+215,en,ln_CD,regular flu,grippe ya mbala na mbala
+216,en,ln_CD,reinfection,kozwa lisusu bokono
+217,en,ln_CD,renal disease,bokono ya rein
+218,en,ln_CD,renal failure,maladi ya rein
+219,en,ln_CD,respirator,kopema
+220,en,ln_CD,respiratory,Kopema
+221,en,ln_CD,respiratory disease,bokono ya kopema
+222,en,ln_CD,respiratory distress,susi kopema
+223,en,ln_CD,respiratory droplets,pasi ya kopema
+224,en,ln_CD,respiratory hygiene,ndenge ya kotalela maladi ya kopema
+225,en,ln_CD,respiratory illness,Maladi ya kopema
+226,en,ln_CD,respiratory syndrome,maladi ya kopema
+227,en,ln_CD,respiratory tract disease,maladi ya banzela ya kopema
+228,en,ln_CD,restrictions,bipekiseli
+229,en,ln_CD,resurge,kozonga
+230,en,ln_CD,RNA,RNA
+231,en,ln_CD,rubeola,rubeola
+232,en,ln_CD,runny nose,zolo ezotanga
+233,en,ln_CD,SARS,SARS
+234,en,ln_CD,SARS-CoV-2,SARS-CoV-2
+235,en,ln_CD,SARS-CoV,SARS-CoV
+236,en,ln_CD,sars-related coronavirus,virisi corona oyo eyokani na sars
+237,en,ln_CD,seasonal flu,fievre ya tango mokuse
+238,en,ln_CD,seasonal influenza,grippe ya tango mokuse
+239,en,ln_CD,secretion,kobimisa mai ndakisa nsoi
+240,en,ln_CD,self-quarantine,komifandela
+241,en,ln_CD,sepsis,kopanzana ya mikrobe
+242,en,ln_CD,septic shock,maladi makasi
+243,en,ln_CD,Severe Acute Respiratory Syndrome,Bilembo ya Maladi ya Makasi ya Pema
+244,en,ln_CD,shortness of breath,kopema na pasi
+245,en,ln_CD,sickened,kozala maladi
+246,en,ln_CD,sickness,maladi
+247,en,ln_CD,sneeze,Itsie
+248,en,ln_CD,sneezes,Itsie
+249,en,ln_CD,sneezing,kosala itsie
+250,en,ln_CD,social distancing,kosangana te na bato mosusu
+251,en,ln_CD,sore throat,mungongo pasi
+252,en,ln_CD,spanish flu,grippe espaniole
+253,en,ln_CD,specimen collection,kozwa bilembo
+254,en,ln_CD,spread,kopanzana
+255,en,ln_CD,sputum,Nsoi
+256,en,ln_CD,stigmatisation,komona yango mabe
+257,en,ln_CD,supportive,kosalisa
+258,en,ln_CD,surface,Esika
+259,en,ln_CD,surfaces,bisika
+260,en,ln_CD,suspected infection,maladi oyo ekoki kozala
+261,en,ln_CD,swab,kombo
+262,en,ln_CD,swine flu,grippe ya bangulu
+263,en,ln_CD,symptom,elembo
+264,en,ln_CD,symptomatic,bilembo
+265,en,ln_CD,symptoms,bilembo
+266,en,ln_CD,targeted disinfection,kolongola mbindo
+267,en,ln_CD,test kit,biloko ya komekela
+268,en,ln_CD,testing error,komeka libunga
+269,en,ln_CD,tissue damage,kobeba ya tissue
+270,en,ln_CD,tp shortage,kosila ya bapapie ya wc
+271,en,ln_CD,toilet paper shortage,kosila ya bapapie ya wc
+272,en,ln_CD,touch,kosimba
+273,en,ln_CD,touching,kosimba
+274,en,ln_CD,transmissibility,lolenge ya kopanzana
+275,en,ln_CD,transmissible,kopanzana
+276,en,ln_CD,transmission,kopanza
+277,en,ln_CD,transmission potential,lolenge ya kopanza yango
+278,en,ln_CD,typical flu,grippe oyo eyebani
+279,en,ln_CD,underlying disease,maladi bazolobela
+280,en,ln_CD,updates,basango ya sika
+281,en,ln_CD,vaccine,lingwele
+282,en,ln_CD,vaccines,mangwele
+283,en,ln_CD,ventilation,mopepe
+284,en,ln_CD,ventilator,eloko epesaka mopepe
+285,en,ln_CD,ventilators,biloko epesaka mopepe
+286,en,ln_CD,viral infection,maladi oyo epanzani
+287,en,ln_CD,viral outbreak,kopanzana ya makasi
+288,en,ln_CD,viral pandemic,maladi makasi oyo epanzani
+289,en,ln_CD,viral pneumonia,maladi ya pema oyo epanzani
+290,en,ln_CD,virtual care,lisalisi na internet
+291,en,ln_CD,virulence,ndenge ezomonana
+292,en,ln_CD,virus itself,virisi yango moko
+293,en,ln_CD,virus outbreak,komata ya virisi
+294,en,ln_CD,virus scare,ndenge virisi ezobangisa
+295,en,ln_CD,virus spreads,kopanzana ya virisi
+296,en,ln_CD,virus strain,pasi ya virisi
+297,en,ln_CD,viral transmission,ezopesama mingi
+298,en,ln_CD,vivid-19,vivid-19
+299,en,ln_CD,washing hands,sokola maboko
+300,en,ln_CD,washing ones hands,kosokola maboko
+301,en,ln_CD,wash your hands,sokola maboko na yo
+302,en,ln_CD,white blood cell count,kotanga selile ya pembe ya makila
+303,en,ln_CD,widespread transmission,kopesama na mokili mobimba
+304,en,ln_CD,working from home,kosala longwa na ndako
+305,en,ln_CD,WFH,WFH
+306,en,ln_CD,Wuhan,Wuhan

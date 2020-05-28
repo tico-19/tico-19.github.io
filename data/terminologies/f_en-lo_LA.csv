@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,lo_LA,1918 flu,ໄຂ້ຫວັດໃຫຍ່ປີ 1918
+2,en,lo_LA,acute bronchitis,ອັກເສບປອດຮຸນແຮງ
+3,en,lo_LA,acute respiratory disease,ພະຍາດທາງເດີນຫາຍໃຈຮຸນແຮງ
+4,en,lo_LA,AIDS,AIDS
+5,en,lo_LA,airborne droplets,ລະອອງນ້ຳໃນອາກາດ
+6,en,lo_LA,airway,ທາງອາກາດ
+7,en,lo_LA,alcohol-based,ສານເຫຼົ້າ
+8,en,lo_LA,alcohol-based hand rub,ນ້ຳຢາລ້າງມືທີ່ມີສານເຫຼົ້າ
+9,en,lo_LA,alcohol-based hand sanitizer,ເຈວລ້າງມືທີ່ມີສານເຫຼົ້າ
+10,en,lo_LA,alveolar disease,ພະຍາດຖົງລົມ
+11,en,lo_LA,an epidemic,ໂຣກລະບາດ
+12,en,lo_LA,annual flu,ໄຂ້ຫວັດປະຈຳປີ
+13,en,lo_LA,anti-inflammatory drug,ຢາປ້ອງກັນການອັກເສບ
+14,en,lo_LA,antiviral drug,ຢາປ້ອງກັນໄວຣັສ
+15,en,lo_LA,antiviral treatment,ການປິ່ນປົວດ້ວຍຢາປ້ອງກັນໄວຣັສ
+16,en,lo_LA,assay,ການທົດສອບ
+17,en,lo_LA,asymptomatic,ບໍ່ສະແດງອາການ
+18,en,lo_LA,avian flu,ໄຂ້ຫວັດນົກ
+19,en,lo_LA,Black Plague,ໂຣກລະບາດແບັກເພລກິວ
+20,en,lo_LA,blood pressure,ຄວາມດັນເລືອດ
+21,en,lo_LA,body fluid,ຂອງແຫຼວໃນຮ່າງກາຍ
+22,en,lo_LA,breathing,ການຫາຍໃຈ
+23,en,lo_LA,bubonic plague,ໂຣກລະບາດບູໂບນິກ
+24,en,lo_LA,c19,c19
+25,en,lo_LA,cv19,cv19
+26,en,lo_LA,case fatality rate,ອັດຕາກໍລະນີເສຍຊີວິດ
+27,en,lo_LA,causative agent,ຕົ້ນກຳເນີດສາເຫດ
+28,en,lo_LA,CDC,CDC
+29,en,lo_LA,chemical disinfection,ການຂ້າເຊື້ອດ້ວຍສານເຄມີ
+30,en,lo_LA,chest x-ray,ສ່ອງໄຟເອັກຊະເຣໜ້າເອີກ
+31,en,lo_LA,clinical diagnosis,ການບົ່ງມະຕິທາງການແພດ
+32,en,lo_LA,clinical trial,ການທົດລອງທາງການແພດ
+33,en,lo_LA,close contact,ສຳຜັດໃກ້ຊິດ
+34,en,lo_LA,cvirus,ຊີໄວຣັສ
+35,en,lo_LA,chronic respiratory disease,ພະຍາດທາງເດີນຫາຍໃຈຊຳເຮື້ອ
+36,en,lo_LA,common cold,ໄຂ້ຫວັດທົ່ວໄປ
+37,en,lo_LA,common flu,ໄຂ້ຫວັດໃຫຍ່ທົ່ວໄປ
+38,en,lo_LA,communicable disease,ພະຍາດຕິດຕໍ່
+39,en,lo_LA,community spread,ແຜ່ເຊື້ອເຂົ້າສູ່ຊຸມຊົນ
+40,en,lo_LA,community transmission,ການສົ່ງຕໍ່ເຊື້ອເຂົ້າສູ່ຊຸມຊົນ
+41,en,lo_LA,compromised immune system,ລະບົບພູມຕ້ານທານຫຼຸດນ້ອຍລົງ
+42,en,lo_LA,contagion,ການຕິດເຊື້ອພະຍາດ
+43,en,lo_LA,contagious,ຕິດເຊື້ອພະຍາດ
+44,en,lo_LA,contagiousness,ຕິດເຊື້ອພະຍາດເປັນຈຳນວນຫຼາຍ
+45,en,lo_LA,corona,ໂຄໂຣນາ
+46,en,lo_LA,corona virus,ໄວຣັສ ໂຄໂຣນາ
+47,en,lo_LA,corona virus epidemic,ໂຣກລະບາດໄວຣັສ ໂຄໂຣນາ
+48,en,lo_LA,corona virus outbreak,ການລະບາດຂອງໄວຣັສ ໂຄໂຣນາ
+49,en,lo_LA,corona virus scare,ອາການຢ້ານໄວຣັສ ໂຄໂຣນາ
+50,en,lo_LA,coronavirus,ໄວຣັສໂຄໂຣນາ
+51,en,lo_LA,coronavirus cases,ກໍລະນີຕິດເຊື້ອໄວຣັສໂຄໂຣນາ
+52,en,lo_LA,coronavirus outbreak,ການລະບາດຂອງໄວຣັສໂຄໂຣນາ
+53,en,lo_LA,coronavirus pandemic,ການລະບາດໃຫຍ່ຂອງໄວຣັສໂຄໂຣນາ
+54,en,lo_LA,coronavirus scare,ອາການຢ້ານໄວຣັສໂຄໂຣນາ
+55,en,lo_LA,cough,ອາການໄອ
+56,en,lo_LA,cough etiquette,ມາລະຍາດໃນການໄອ
+57,en,lo_LA,coughing,ໄອ
+58,en,lo_LA,cov 19,cov 19
+59,en,lo_LA,cov19,cov19
+60,en,lo_LA,COVID,ໂຄວິດ
+61,en,lo_LA,COVID-19 crisis,ວິກິດໂຄວິດ-19
+62,en,lo_LA,covid-19,ໂຄວິດ-19
+63,en,lo_LA,covid19,covid19
+64,en,lo_LA,COVID-19 epidemic,ໂຣກລະບາດໂຄວິດ-19
+65,en,lo_LA,COVID-19 outbreak,ການລະບາດຂອງໂຄວິດ-19
+66,en,lo_LA,COVID-19 pandemic,ການລະບາດໃຫຍ່ຂອງໂຄວິດ-19
+67,en,lo_LA,COVID 19,ໂຄວິດ 19
+68,en,lo_LA,current crisis,ວິກິດການໃນປະຈຸບັນ
+69,en,lo_LA,current health crisis,ວິກິດດ້ານສຸຂະພາບໃນປະຈຸບັນ
+70,en,lo_LA,current outbreak,ການລະບາດໃນປະຈຸບັນ
+71,en,lo_LA,current pandemic,ການລະບາດໃຫຍ່ໃນປະຈຸບັນ
+72,en,lo_LA,CV,CV
+73,en,lo_LA,CV-19,CV-19
+74,en,lo_LA,deadly,ອັນຕະລາຍເຖິງຊີວິດ
+75,en,lo_LA,deadly virus,ໄວຣັສທີ່ອັນຕະລາຍເຖິງຊີວິດ
+76,en,lo_LA,death rate,ອັດຕາການເສຍຊີວິດ
+77,en,lo_LA,death toll,ຈຳນວນຜູ້ເສຍຊີວິດ
+78,en,lo_LA,decontaminate,ຂ້າເຊື້ອພະຍາດ
+79,en,lo_LA,detectable,ສາມາດກວດພົບໄດ້
+80,en,lo_LA,detergent,ແຟັບ
+81,en,lo_LA,difficulty breathing,ຫາຍໃຈຍາກ
+82,en,lo_LA,diabetes,ໂຣກເບົາຫວານ
+83,en,lo_LA,diagnosable disease,ພະຍາດທີ່ບົ່ງມະຕິໄດ້
+84,en,lo_LA,diagnostic protocol,ມາດຕະການບົ່ງມະຕິ
+85,en,lo_LA,diagnostic testing,ການທົດສອບການບົ່ງມະຕິ
+86,en,lo_LA,disease itself,ພະຍາດຕົວເອງ
+87,en,lo_LA,disease outbreak,ການລະບາດຂອງພະຍາດ
+88,en,lo_LA,disinfectant,ຢາຂ້າເຊື້ອ
+89,en,lo_LA,disposable,ສາມາດຖິ້ມໄດ້
+90,en,lo_LA,droplet transmission,ການແຜ່ກະຈາຍຂອງລະອອງນ້ຳ
+91,en,lo_LA,droplets,ລະອອງນ້ຳ
+92,en,lo_LA,dry cough,ອາການໄອແຫ້ງ
+93,en,lo_LA,dry surface contamination,ການປົນເປື້ອນພື້ນຜິວແຫ້ງ
+94,en,lo_LA,ebola,ອີໂບລາ
+95,en,lo_LA,effective treatment,ການປິ່ນປົວທີ່ມີປະສິດທິພາບ
+96,en,lo_LA,electron microscope,ກ້ອງຈຸລະທັດເອເລັກໂຕຣນິກ
+97,en,lo_LA,emergency department,ພະແນກສຸກເສີນ
+98,en,lo_LA,epidemic,ໂຣກລະບາດ
+99,en,lo_LA,epidemic curve,ເສັ້ນໂຄງຂອງໂຣກລະບາດ
+100,en,lo_LA,epidemic peak,ຈຸດສູງສຸດຂອງໂຣກລະບາດ
+101,en,lo_LA,epidemiologist,ນັກວິທະຍາໂຣກລະບາດ
+102,en,lo_LA,exposure,ການສຳຜັດ
+103,en,lo_LA,extreme caution,ຂໍ້ຄວນລະວັງຢ່າງຍິ່ງ
+104,en,lo_LA,eye protection,ການປົກປ້ອງຕາ
+105,en,lo_LA,face mask,ຜ້າອັດປາກ
+106,en,lo_LA,face masks,ຜ້າອັດປາກ
+107,en,lo_LA,family cluster,ກຸ່ມຄອບຄົວ
+108,en,lo_LA,fatality rate,ອັດຕາເສຍຊີວິດ
+109,en,lo_LA,fecal contamination,ການປົນເປື້ອນທາງອາຈົມ
+110,en,lo_LA,fever,ໄຂ້
+111,en,lo_LA,flatten the infection curve,ເຮັດໃຫ້ເສັ້ນໂຄ້ງການຕິດເຊື້ອຫຼຸດລົງ
+112,en,lo_LA,flu,ໄຂ້ຫວັດໃຫຍ່
+113,en,lo_LA,food safety,ຄວາມປອດໄພດ້ານອາຫານ
+114,en,lo_LA,formaldehyde,ຟຣໍມາດີໄຮດ໌
+115,en,lo_LA,gastroenteritis,ກະເພາະ ແລະ ລຳໄສ້ອັກເສບ
+116,en,lo_LA,germicide,ຢາຂ້າເຊື້ອໂຣກ
+117,en,lo_LA,global pandemic,ການລະບາດໃຫຍ່ທົ່ວໂລກ
+118,en,lo_LA,global warming,ພາວະໂລກຮ້ອນ
+119,en,lo_LA,good respiratory hygiene,ສຸຂະອະນາໄມທາງເດີນຫາຍໃຈທີ່ດີ
+120,en,lo_LA,Guangdong,ກວາງດົງ
+121,en,lo_LA,H1N1,H1N1
+122,en,lo_LA,H1N1 virus,ໄວຣັສ H1N1
+123,en,lo_LA,hand disinfectant,ຢາຂ້າເຊື້ອມື
+124,en,lo_LA,hand sanitizer,ເຈວລ້າງມື
+125,en,lo_LA,health care provider,ຜູ້ໃຫ້ບໍລິການດູແລສຸຂະພາບ
+126,en,lo_LA,health crisis,ວິກິດການດ້ານສຸຂະພາບ
+127,en,lo_LA,health plan carrier,ຜູ້ໃຫ້ບໍລິການແຜນປະກັນສຸຂະພາບ
+128,en,lo_LA,health services,ການບໍລິການສຸຂະພາບ
+129,en,lo_LA,heart failure,ຫົວໃຈລົ້ມເຫຼວ
+130,en,lo_LA,high fever,ໄຂ້ສູງ
+131,en,lo_LA,HIV,HIV
+132,en,lo_LA,hospitalize,ປິ່ນປົວຢູ່ໂຮງໝໍ
+133,en,lo_LA,household bleach,ນ້ຳຢາຟອກຂາວທີ່ໃຊ້ໃນຄົວເຮືອນ
+134,en,lo_LA,Hubei,ຫູເບຍ໌
+135,en,lo_LA,hydrogen peroxide,ໄຮໂດຣເຈນ ເປີອອກໄຊດ໌
+136,en,lo_LA,hygiene,ສຸຂະອະນາໄມ
+137,en,lo_LA,immune system,ລະບົບພູມຕ້ານທານ
+138,en,lo_LA,immunity,ພູມຕ້ານທານ
+139,en,lo_LA,immunocompromised,ພູມຕ້ານທານຫຼຸດນ້ອຍລົງ
+140,en,lo_LA,immunologist,ນັກວິທະຍາພູມຕ້ານທານ
+141,en,lo_LA,incubation,ການຂະຫຍາຍຕົວ
+142,en,lo_LA,incubation period,ໄລຍະຂະຫຍາຍຕົວ
+143,en,lo_LA,indirect contact,ຕິດຕໍ່ທາງອ້ອມ
+144,en,lo_LA,infect,ຕິດເຊື້ອ
+145,en,lo_LA,infection,ການຕິດເຊື້ອ
+146,en,lo_LA,infectious,ຕິດເຊື້ອພະຍາດ
+147,en,lo_LA,infectivity,ການຕິດເຊື້ອພະຍາດ
+148,en,lo_LA,influenza,ພະຍາດໄຂ້ຫວັດໃຫຍ່
+149,en,lo_LA,initial transmission event,ເຫດການແຜ່ເຊື້ອເບື້ອງຕົ້ນ
+150,en,lo_LA,intensive care equipment,ອຸປະກອນດູແລຜູ້ປ່ວຍໜັກ
+151,en,lo_LA,intermediate host,ຕົວສື່ກາງ
+152,en,lo_LA,intrauterine,ພາຍໃນມົດລູກ
+153,en,lo_LA,intubation,ການໃສ່ທໍ່ຊ່ວຍຫາຍໃຈ
+154,en,lo_LA,isolation,ການແຍກຕົວ
+155,en,lo_LA,Isopropanol,ໄອໂຊໂພຣພານອລ
+156,en,lo_LA,laboratory test kit,ຊຸດເຄື່ອງກວດໃນຫ້ອງທົດລອງ
+157,en,lo_LA,laboratory testing,ການກວດໃນຫ້ອງທົດລອງ
+158,en,lo_LA,lack of testing,ຂາດການກວດ
+159,en,lo_LA,lack of tests,ຂາດການກວດສອບ
+160,en,lo_LA,latest updates,ອັບເດດຫຼ້າສຸດ
+161,en,lo_LA,liver failure,ຕັບລົ້ມເຫຼວ
+162,en,lo_LA,local public health authority,ໜ່ວຍງານສາທາລະນະສຸກໃນທ້ອງຖິ່ນ
+163,en,lo_LA,lockdown,ຈຳກັດຂອບເຂດ
+164,en,lo_LA,lungs,ປອດ
+165,en,lo_LA,masks,ໜ້າການ
+166,en,lo_LA,measles,ໄຂ້ໝາກແດງ
+167,en,lo_LA,mechanical ventilation,ເຄື່ອງຊ່ວຍຫາຍໃຈ
+168,en,lo_LA,media coverage,ການລາຍງານຂ່າວສື່ອອນລາຍ
+169,en,lo_LA,medical care,ການດູແລທາງການແພດ
+170,en,lo_LA,MERS,MERS
+171,en,lo_LA,MERS CoV,MERS CoV
+172,en,lo_LA,microbiologist,ນັກວິທະຍາຈຸລີນຊີ
+173,en,lo_LA,mild cough,ອາການໄອເລັກນ້ອຍ
+174,en,lo_LA,mortality rate,ອັດຕາການຕາຍ
+175,en,lo_LA,multi-organ failure,ອະໄວຍະວະຫຼາຍຢ່າງລົ້ມເຫຼວ
+176,en,lo_LA,nasal congestion,ອາການຕັນດັງ
+177,en,lo_LA,neutral detergent,ແຟັບທຳມະດາ
+178,en,lo_LA,new normal,ໃໝ່ປົກກະຕິ
+179,en,lo_LA,novel corona virus,ໄວຣັສ ໂຄໂຣນາ ສາຍພັນໃໝ່
+180,en,lo_LA,novel coronavirus,ໄວຣັສໂຄໂຣນາ ສາຍພັນໃໝ່
+181,en,lo_LA,novel coronavirus outbreak,ການລະບາດຂອງໄວຣັສໂຄໂຣນາ ສາຍພັນໃໝ່
+182,en,lo_LA,novel virus,ໄວຣັສສາຍພັນໃໝ່
+183,en,lo_LA,online medical consultation,ການໃຫ້ຄຳປຶກສາທາງການແພດອອນລາຍ
+184,en,lo_LA,onset,ການເລີ່ມມີອາການ
+185,en,lo_LA,outbreak,ການລະບາດ
+186,en,lo_LA,outbreak readiness,ການກຽມພ້ອມຮັບມືການລະບາດ
+187,en,lo_LA,overall case fatality,ກໍລະນີເສຍຊີວິດໂດຍລວມ
+188,en,lo_LA,pandemic,ການລະບາດໃຫຍ່
+189,en,lo_LA,pangolin,ລິ່ນ
+190,en,lo_LA,pathogen,ເຊື້ອໂຣກ
+191,en,lo_LA,pathology,ເຊື້ອພະຍາດ
+192,en,lo_LA,patient care equipment,ອຸປະກອນດູແລຄົນເຈັບ
+193,en,lo_LA,personal protective equipment,ອຸປະກອນປ້ອງກັນຕົວ
+194,en,lo_LA,person-to-person transmission,ການຕິດຕໍ່ຈາກຄົນສູ່ຄົນ
+195,en,lo_LA,phlegm,ຂີ້ກະເທິະ
+196,en,lo_LA,physical contact,ການຕິດຕໍ່ທາງຮ່າງກາຍ
+197,en,lo_LA,plague,ພະຍາດລະບາດ
+198,en,lo_LA,pneumonia,ປອດອັກເສບ
+199,en,lo_LA,pneumonias,ປອດອັກເສບ
+200,en,lo_LA,positive test,ຜົນກວດເປັນບວກ
+201,en,lo_LA,precaution,ຂໍ້ຄວນລະມັດລະວັງ
+202,en,lo_LA,precautionary,ການປ້ອງກັນໄວ້ກ່ອນ
+203,en,lo_LA,pre-existing condition,ສະພາວະທີ່ມີຢູ່ກ່ອນ
+204,en,lo_LA,preparedness,ຄວາມພ້ອມ
+205,en,lo_LA,prognosis,ການຄາດການ
+206,en,lo_LA,protect myself,ປົກປ້ອງຕົນເອງ
+207,en,lo_LA,protect others,ປົກປ້ອງຄົນອື່ນ
+208,en,lo_LA,protect yourself,ປົກປ້ອງຕົວທ່ານເອງ
+209,en,lo_LA,protective measures,ມາດຕະການປົກປ້ອງ
+210,en,lo_LA,public health crisis,ວິກິດການດ້ານສາທາລະນະສຸກ
+211,en,lo_LA,pulmonary tissue damage,ຄວາມເສຍຫາຍຂອງແພຈຸລັງປອດ
+212,en,lo_LA,quarantine,ການກັກຕົວ
+213,en,lo_LA,rapid risk assessment,ການປະເມີນຄວາມສ່ຽງຢ່າງວ່ອງໄວ
+214,en,lo_LA,reagent,ນ້ຳຢາປະສົມ
+215,en,lo_LA,regular flu,ໄຂ້ຫວັດປົກກະຕິ
+216,en,lo_LA,reinfection,ການຕິດເຊື້ອຊ້ຳ
+217,en,lo_LA,renal disease,ພະຍາດໝາກໄຂ່ຫຼັງ
+218,en,lo_LA,renal failure,ໝາກໄຂ່ຫຼັງລົ້ມເຫຼວ
+219,en,lo_LA,respirator,ເຄື່ອງຊ່ວຍຫາຍໃຈ
+220,en,lo_LA,respiratory,ລະບົບທາງເດີນຫາຍໃຈ
+221,en,lo_LA,respiratory disease,ພະຍາດທາງເດີນຫາຍໃຈ
+222,en,lo_LA,respiratory distress,ຫາຍໃຈຍາກ
+223,en,lo_LA,respiratory droplets,ລະອອງນ້ຳທາງເດີນຫາຍໃຈ
+224,en,lo_LA,respiratory hygiene,ສຸຂະອະນາໄມທາງເດີນຫາຍໃຈ
+225,en,lo_LA,respiratory illness,ໂຣກທາງເດີນຫາຍໃຈ
+226,en,lo_LA,respiratory syndrome,ກຸ່ມອາການທາງເດີນຫາຍໃຈ
+227,en,lo_LA,respiratory tract disease,ພະຍາດບໍລິເວນທາງເດີນຫາຍໃຈ
+228,en,lo_LA,restrictions,ຂໍ້ຈຳກັດ
+229,en,lo_LA,resurge,ຟື້ນຄືນໃໝ່
+230,en,lo_LA,RNA,RNA
+231,en,lo_LA,rubeola,ຣູບີໂອລາ
+232,en,lo_LA,runny nose,ຂີ້ມູກຍ້ອຍ
+233,en,lo_LA,SARS,SARS
+234,en,lo_LA,SARS-CoV-2,SARS-CoV-2
+235,en,lo_LA,SARS-CoV,SARS-CoV
+236,en,lo_LA,sars-related coronavirus,ໄວຣັສໂຄໂຣນາທີ່ກ່ຽວຂ້ອງກັບໂຣກຊາຣ໌
+237,en,lo_LA,seasonal flu,ໄຂ້ຫວັດຕາມລະດູການ
+238,en,lo_LA,seasonal influenza,ພະຍາດໄຂ້ຫວັດຕາມລະດູການ
+239,en,lo_LA,secretion,ສານຂັບຫຼັ່ງ
+240,en,lo_LA,self-quarantine,ການກັກຕົວເອງ
+241,en,lo_LA,sepsis,ພາວະຕິດເຊື້ອ
+242,en,lo_LA,septic shock,ພາວະຊັອກຕິດເຊື້ອ
+243,en,lo_LA,Severe Acute Respiratory Syndrome,ກຸ່ມອາການພະຍາດທາງເດີນຫານໃຈຮຸນແຮງກະທັບຫັນ
+244,en,lo_LA,shortness of breath,ຫາຍໃຈຖີ່
+245,en,lo_LA,sickened,ເປັນໄຂ້
+246,en,lo_LA,sickness,ບໍ່ສະບາຍ
+247,en,lo_LA,sneeze,ຈາມ
+248,en,lo_LA,sneezes,ຈາມ
+249,en,lo_LA,sneezing,ການຈາມ
+250,en,lo_LA,social distancing,ການອອກຫ່າງຈາກສັງຄົມ
+251,en,lo_LA,sore throat,ເຈັບຄໍ
+252,en,lo_LA,spanish flu,ໄຂ້ຫວັດໃຫຍ່ສະເປ
+253,en,lo_LA,specimen collection,ການເກັບຕົວຢ່າງ
+254,en,lo_LA,spread,ແຜ່ກະຈາຍ
+255,en,lo_LA,sputum,ນ້ຳລາຍ ຫຼື ຂີ້ກະເທີ່
+256,en,lo_LA,stigmatisation,ການໃສ່ຮ້າຍປ້າຍສີ
+257,en,lo_LA,supportive,ການສະໜັບສະໜູນ
+258,en,lo_LA,surface,ພື້ນຜິວ
+259,en,lo_LA,surfaces,ພື້ນຜິວ
+260,en,lo_LA,suspected infection,ສົງໄສວ່າຕິດເຊື້ອ
+261,en,lo_LA,swab,ໄມ້ຖູພື້ນ
+262,en,lo_LA,swine flu,ໄຂ້ຫວັດໝູ
+263,en,lo_LA,symptom,ອາການ
+264,en,lo_LA,symptomatic,ການມີອາການ
+265,en,lo_LA,symptoms,ອາການ
+266,en,lo_LA,targeted disinfection,ການຂ້າເຊື້ອເປົ້າໝາຍ
+267,en,lo_LA,test kit,ຊຸດເຄື່ອງກວດ
+268,en,lo_LA,testing error,ການກວດຜິດພາດ
+269,en,lo_LA,tissue damage,ຄວາມເສຍຫາຍຂອງແພຈຸລັງ
+270,en,lo_LA,tp shortage,ການຂາດແຄນ tp
+271,en,lo_LA,toilet paper shortage,ການຂາດແຄນເຈ້ຍຫ້ອງນ້ຳ
+272,en,lo_LA,touch,ສຳຜັດ
+273,en,lo_LA,touching,ການສຳຜັດ
+274,en,lo_LA,transmissibility,ການສົ່ງຕໍ່ໄດ້
+275,en,lo_LA,transmissible,ສາມາດສົ່ງຕໍ່ໄດ້
+276,en,lo_LA,transmission,ການສົ່ງຕໍ່
+277,en,lo_LA,transmission potential,ຄວາມເປັນໄປໄດ້ໃນການສົ່ງຕໍ່
+278,en,lo_LA,typical flu,ໄຂ້ຫວັດຕາມປົກກະຕິ
+279,en,lo_LA,underlying disease,ພະຍາດພື້ນຖານ
+280,en,lo_LA,updates,ອັບເດດ
+281,en,lo_LA,vaccine,ວັກຊີນ
+282,en,lo_LA,vaccines,ວັກຊີນ
+283,en,lo_LA,ventilation,ການລະບາຍອາກາດ
+284,en,lo_LA,ventilator,ເຄື່ອງລະບາຍອາກາດ
+285,en,lo_LA,ventilators,ເຄື່ອງລະບາຍອາກາດ
+286,en,lo_LA,viral infection,ການຕິດເຊື້ອໄວຣັສ
+287,en,lo_LA,viral outbreak,ການລະບາດຂອງໄວຣັສ
+288,en,lo_LA,viral pandemic,ການລະບາດໃຫຍ່ຂອງໄວຣັສ
+289,en,lo_LA,viral pneumonia,ປອດອັກເສບຈາກໄວຣັສ
+290,en,lo_LA,virtual care,ການດູແລສະເໝືອນຈິງ
+291,en,lo_LA,virulence,ຄວາມຮຸນແຮງ
+292,en,lo_LA,virus itself,ໄວຣັສຕົວມັນເອງ
+293,en,lo_LA,virus outbreak,ການລະບາດຂອງໄວຣັສ
+294,en,lo_LA,virus scare,ອາການຢ້ານໄວຣັສ
+295,en,lo_LA,virus spreads,ໄວຣັສແຜ່ລະບາດ
+296,en,lo_LA,virus strain,ສາຍພັນໄວຣັສ
+297,en,lo_LA,viral transmission,ການແຜ່ລະບາດໄວຣັສ
+298,en,lo_LA,vivid-19,vivid-19
+299,en,lo_LA,washing hands,ລ້າງມື
+300,en,lo_LA,washing ones hands,ລ້າງມືເບື້ອງໜຶ່ງ
+301,en,lo_LA,wash your hands,ລ້າງມືຂອງທ່ານ
+302,en,lo_LA,white blood cell count,ການນັບເມັດເລືອດຂາວ
+303,en,lo_LA,widespread transmission,ການແຜ່ລະບາດຢ່າງກວ້າງຂວາງ
+304,en,lo_LA,working from home,ເຮັດວຽກຢູ່ເຮືອນ
+305,en,lo_LA,WFH,WFH
+306,en,lo_LA,Wuhan,ຫວູຮັ່ນ

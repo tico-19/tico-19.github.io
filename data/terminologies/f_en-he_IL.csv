@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,he_IL,1918 flu,שפעת 1918
+2,en,he_IL,acute bronchitis,ברונכיטיס חמור
+3,en,he_IL,acute respiratory disease,מחלה נשימתית חמורה
+4,en,he_IL,AIDS,איידס
+5,en,he_IL,airborne droplets,טיפות נישאות באוויר
+6,en,he_IL,airway,דרכי אוויר
+7,en,he_IL,alcohol-based,מבוסס אלכוהול
+8,en,he_IL,alcohol-based hand rub,קרם ידיים על בסיס אלכוהול
+9,en,he_IL,alcohol-based hand sanitizer,מחטא ידיים על בסיס אלכוהול
+10,en,he_IL,alveolar disease,מחלת נאדיות הריאה
+11,en,he_IL,an epidemic,מגיפה
+12,en,he_IL,annual flu,שפעת עונתית
+13,en,he_IL,anti-inflammatory drug,תרופה אנטי דלקתית
+14,en,he_IL,antiviral drug,תרופה אנטי-ויראלית
+15,en,he_IL,antiviral treatment,טיפול אנטי-ויראלי
+16,en,he_IL,assay,בדיקת מעבדה
+17,en,he_IL,asymptomatic,אסימפטומטי
+18,en,he_IL,avian flu,שפעת העופות
+19,en,he_IL,Black Plague,המגפה השחורה
+20,en,he_IL,blood pressure,לחץ דם
+21,en,he_IL,body fluid,נוזלי גוף
+22,en,he_IL,breathing,לנשום
+23,en,he_IL,bubonic plague,מגיפת דבר
+24,en,he_IL,c19,c19
+25,en,he_IL,cv19,cv19
+26,en,he_IL,case fatality rate,קצב שיעור התמותה
+27,en,he_IL,causative agent,גורם סיבתי
+28,en,he_IL,CDC,המרכז לבקרת מחלות
+29,en,he_IL,chemical disinfection,חיטוי כימי
+30,en,he_IL,chest x-ray,רנטגן חזה
+31,en,he_IL,clinical diagnosis,אבחנה רפואית
+32,en,he_IL,clinical trial,ניסוי קליני
+33,en,he_IL,close contact,מגע קרוב
+34,en,he_IL,cvirus,cvirus
+35,en,he_IL,chronic respiratory disease,מחלה נשימתית כרונית
+36,en,he_IL,common cold,צינון
+37,en,he_IL,common flu,שפעת נפוצה
+38,en,he_IL,communicable disease,מחלה מדבקת
+39,en,he_IL,community spread,התפשטות בקהילה
+40,en,he_IL,community transmission,הדבקה בקהילה
+41,en,he_IL,compromised immune system,פגיעה במערכת החיסונית
+42,en,he_IL,contagion,הידבקות
+43,en,he_IL,contagious,מדבק
+44,en,he_IL,contagiousness,מדבקת
+45,en,he_IL,corona,קורונה
+46,en,he_IL,corona virus,וירוס הקורונה
+47,en,he_IL,corona virus epidemic,מגפת וירוס הקורונה
+48,en,he_IL,corona virus outbreak,התפרצות וירוס הקורונה
+49,en,he_IL,corona virus scare,בהלת וירוס הקורונה
+50,en,he_IL,coronavirus,וירוסהקורונה
+51,en,he_IL,coronavirus cases,מקרי וירוס הקורונה
+52,en,he_IL,coronavirus outbreak,התפרצות וירוסהקורונה
+53,en,he_IL,coronavirus pandemic,מגפת וירוסהקורונה
+54,en,he_IL,coronavirus scare,בהלת וירוסהקורונה
+55,en,he_IL,cough,שיעול
+56,en,he_IL,cough etiquette,נימוסי שיעול
+57,en,he_IL,coughing,להשתעל
+58,en,he_IL,cov 19,cov 19
+59,en,he_IL,cov19,cov19
+60,en,he_IL,COVID,COVID
+61,en,he_IL,COVID-19 crisis,COVID-19 משבר
+62,en,he_IL,covid-19,covid-19
+63,en,he_IL,covid19,covid19
+64,en,he_IL,COVID-19 epidemic,COVID-19 מגיפת
+65,en,he_IL,COVID-19 outbreak,COVID-19 התפרצות
+66,en,he_IL,COVID-19 pandemic,COVID-19 מגיפת
+67,en,he_IL,COVID 19,COVID 19
+68,en,he_IL,current crisis,המשבר הנוכחי
+69,en,he_IL,current health crisis,משבר הבריאות הנוכחי
+70,en,he_IL,current outbreak,ההתפרצות הנוכחית
+71,en,he_IL,current pandemic,המגיפה הנוכחית
+72,en,he_IL,CV,CV
+73,en,he_IL,CV-19,CV-19
+74,en,he_IL,deadly,קטלני
+75,en,he_IL,deadly virus,וירוס קטלני
+76,en,he_IL,death rate,שיעור תמותה
+77,en,he_IL,death toll,מניין המתים
+78,en,he_IL,decontaminate,טיהור
+79,en,he_IL,detectable,ניתן לגילוי
+80,en,he_IL,detergent,מחטא
+81,en,he_IL,difficulty breathing,בעיות בנשימה
+82,en,he_IL,diabetes,סכרת
+83,en,he_IL,diagnosable disease,מחלה שניתנת לאיבחון
+84,en,he_IL,diagnostic protocol,פרוטוקול איבחון
+85,en,he_IL,diagnostic testing,בדיקה לאבחנה
+86,en,he_IL,disease itself,המחלה עצמה
+87,en,he_IL,disease outbreak,התפרצות המחלה
+88,en,he_IL,disinfectant,חומר חיטוי
+89,en,he_IL,disposable,חד פעמי
+90,en,he_IL,droplet transmission,העברה של טיפות
+91,en,he_IL,droplets,טיפות
+92,en,he_IL,dry cough,שיעול יבש
+93,en,he_IL,dry surface contamination,זיהום של משטח יבש
+94,en,he_IL,ebola,אבולה
+95,en,he_IL,effective treatment,טיפול אפקטיבי
+96,en,he_IL,electron microscope,מיקרוסקופ אלקטרונים
+97,en,he_IL,emergency department,מחלקת חירום
+98,en,he_IL,epidemic,מגפה
+99,en,he_IL,epidemic curve,עקומת המגיפה
+100,en,he_IL,epidemic peak,שיא המגיפה
+101,en,he_IL,epidemiologist,אפידמיולוג
+102,en,he_IL,exposure,חשיפה
+103,en,he_IL,extreme caution,זהירות מרבית
+104,en,he_IL,eye protection,הגנה על העיניים
+105,en,he_IL,face mask,מסיכת פנים
+106,en,he_IL,face masks,מסיכות פנים
+107,en,he_IL,family cluster,מקרי עבר משפחתיים
+108,en,he_IL,fatality rate,שיעור התמותה
+109,en,he_IL,fecal contamination,זיהום צואתי
+110,en,he_IL,fever,חום
+111,en,he_IL,flatten the infection curve,שיטוח עקומת הזיהום
+112,en,he_IL,flu,שפעת
+113,en,he_IL,food safety,בטיחות מזון
+114,en,he_IL,formaldehyde,פורמלדהיד
+115,en,he_IL,gastroenteritis,דלקת מעיים
+116,en,he_IL,germicide,קוטל חיידקים
+117,en,he_IL,global pandemic,מגפה עולמית
+118,en,he_IL,global warming,התחממות גלובלית
+119,en,he_IL,good respiratory hygiene,הגיינה נשימתית טובה
+120,en,he_IL,Guangdong,גוואנז'ו
+121,en,he_IL,H1N1,H1N1
+122,en,he_IL,H1N1 virus,H1N1 וירוס
+123,en,he_IL,hand disinfectant,מחטא ידיים
+124,en,he_IL,hand sanitizer,מחטא ידיים
+125,en,he_IL,health care provider,ספק שירותי בריאות
+126,en,he_IL,health crisis,משבר בריאותי
+127,en,he_IL,health plan carrier,בעל ביטוח רפואי
+128,en,he_IL,health services,שירותי הבריאות
+129,en,he_IL,heart failure,אי ספיקת לב
+130,en,he_IL,high fever,חום גבוה
+131,en,he_IL,HIV,איידס
+132,en,he_IL,hospitalize,מאושפז
+133,en,he_IL,household bleach,אקונומיקה ביתית
+134,en,he_IL,Hubei,הוביי
+135,en,he_IL,hydrogen peroxide,מי חמצן
+136,en,he_IL,hygiene,הגיינה
+137,en,he_IL,immune system,מערכת חיסונית
+138,en,he_IL,immunity,חסינות
+139,en,he_IL,immunocompromised,לא מחוסן
+140,en,he_IL,immunologist,אימונולוג
+141,en,he_IL,incubation,דגירה
+142,en,he_IL,incubation period,תקופת הדגירה
+143,en,he_IL,indirect contact,קשר עקיף
+144,en,he_IL,infect,להדביק
+145,en,he_IL,infection,זיהום
+146,en,he_IL,infectious,מדבק
+147,en,he_IL,infectivity,זיהום
+148,en,he_IL,influenza,שפעת
+149,en,he_IL,initial transmission event,אירוע ההעברה הראשוני
+150,en,he_IL,intensive care equipment,ציוד טיפול נמרץ
+151,en,he_IL,intermediate host,מארח ביניים (זמני)
+152,en,he_IL,intrauterine,תוך רחמי
+153,en,he_IL,intubation,אינטובציה
+154,en,he_IL,isolation,בידוד
+155,en,he_IL,Isopropanol,איזופרופנול
+156,en,he_IL,laboratory test kit,ערכת בדיקת מעבדה
+157,en,he_IL,laboratory testing,בדיקת מעבדה
+158,en,he_IL,lack of testing,חוסר בבדיקות
+159,en,he_IL,lack of tests,חוסר בערכות בדיקה
+160,en,he_IL,latest updates,עדכונים אחרונים
+161,en,he_IL,liver failure,כשל בכבד
+162,en,he_IL,local public health authority,משרד הבריאות
+163,en,he_IL,lockdown,סגר
+164,en,he_IL,lungs,ריאות
+165,en,he_IL,masks,מסיכות
+166,en,he_IL,measles,חצבת
+167,en,he_IL,mechanical ventilation,אוורור מכני
+168,en,he_IL,media coverage,סיקור תקשורתי
+169,en,he_IL,medical care,טיפול רפואי
+170,en,he_IL,MERS,וירוס הגמלים
+171,en,he_IL,MERS CoV,ןירוס הגמלים CoV
+172,en,he_IL,microbiologist,מיקרוביולוג
+173,en,he_IL,mild cough,שיעול קל
+174,en,he_IL,mortality rate,שיעור תמותה
+175,en,he_IL,multi-organ failure,כשל רב מערכתי
+176,en,he_IL,nasal congestion,גודש באף
+177,en,he_IL,neutral detergent,חומר ניקוי ניטרלי
+178,en,he_IL,new normal,הנורמלי החדש
+179,en,he_IL,novel corona virus,וירוס הקורונה החדש
+180,en,he_IL,novel coronavirus,וירוסהקורונה החדש
+181,en,he_IL,novel coronavirus outbreak,התפרצות וירוס הקורונה החדש
+182,en,he_IL,novel virus,הוירוס החדש
+183,en,he_IL,online medical consultation,יעוץ רפואי אונליין
+184,en,he_IL,onset,התחלה
+185,en,he_IL,outbreak,התפרצות
+186,en,he_IL,outbreak readiness,מוכנות להתפרצות
+187,en,he_IL,overall case fatality,מספר מקרי המוות סך הכל
+188,en,he_IL,pandemic,מגיפה
+189,en,he_IL,pangolin,פנגולין
+190,en,he_IL,pathogen,פטוגן (מחולל מחלה)
+191,en,he_IL,pathology,פתולוגיה
+192,en,he_IL,patient care equipment,ציוד לטיפול בחולים
+193,en,he_IL,personal protective equipment,ציוד הגנה אישי
+194,en,he_IL,person-to-person transmission,העברה בין אדם לאדם
+195,en,he_IL,phlegm,ליחה
+196,en,he_IL,physical contact,מגע פיזי
+197,en,he_IL,plague,מגיפה
+198,en,he_IL,pneumonia,דלקת ריאות
+199,en,he_IL,pneumonias,דלקת ריאות
+200,en,he_IL,positive test,תוצאה חיובית
+201,en,he_IL,precaution,אמצעי זהירות
+202,en,he_IL,precautionary,זהירות
+203,en,he_IL,pre-existing condition,מחלות רקע
+204,en,he_IL,preparedness,מוכנות
+205,en,he_IL,prognosis,איבחון
+206,en,he_IL,protect myself,להגן על עצמי
+207,en,he_IL,protect others,הגן על אחרים
+208,en,he_IL,protect yourself,הגן על עצמך
+209,en,he_IL,protective measures,אמצעי הגנה
+210,en,he_IL,public health crisis,משבר בריאות הציבור
+211,en,he_IL,pulmonary tissue damage,נזק לרקמות הריאה
+212,en,he_IL,quarantine,הסגר
+213,en,he_IL,rapid risk assessment,הערכת סיכון זריזה
+214,en,he_IL,reagent,מגיב
+215,en,he_IL,regular flu,שפעת רגילה
+216,en,he_IL,reinfection,זיהום מחדש
+217,en,he_IL,renal disease,מחלת כליות
+218,en,he_IL,renal failure,כשל ריאתי
+219,en,he_IL,respirator,הנשמה
+220,en,he_IL,respiratory,נשימה
+221,en,he_IL,respiratory disease,מחלה נשימתית
+222,en,he_IL,respiratory distress,מצוקה נשימתית
+223,en,he_IL,respiratory droplets,טיפות מדרכי הנשימה
+224,en,he_IL,respiratory hygiene,הגיינה נשימתית
+225,en,he_IL,respiratory illness,מחלה נשימתית
+226,en,he_IL,respiratory syndrome,תסמונת נשימתית
+227,en,he_IL,respiratory tract disease,מחלה בדרכי הנשימה
+228,en,he_IL,restrictions,הגבלות
+229,en,he_IL,resurge,תחיה
+230,en,he_IL,RNA,חומצה ריבונוקלאית
+231,en,he_IL,rubeola,אדמת
+232,en,he_IL,runny nose,מנוזל
+233,en,he_IL,SARS,סארס
+234,en,he_IL,SARS-CoV-2,CoVסארס-2
+235,en,he_IL,SARS-CoV,CoV-סארס
+236,en,he_IL,sars-related coronavirus,סארס מקושר לקורונה
+237,en,he_IL,seasonal flu,שפעת עונתית
+238,en,he_IL,seasonal influenza,שפעת עונתית
+239,en,he_IL,secretion,הפרשות
+240,en,he_IL,self-quarantine,בידוד עצמי
+241,en,he_IL,sepsis,אלח דם
+242,en,he_IL,septic shock,הלם ספטי
+243,en,he_IL,Severe Acute Respiratory Syndrome,תסמונת נשימתית חריפה
+244,en,he_IL,shortness of breath,קוצר נשימה
+245,en,he_IL,sickened,חולה
+246,en,he_IL,sickness,חולי
+247,en,he_IL,sneeze,התעטשות
+248,en,he_IL,sneezes,התעטשויות
+249,en,he_IL,sneezing,להתעטש
+250,en,he_IL,social distancing,ריחוק חברתי
+251,en,he_IL,sore throat,כאב גרון
+252,en,he_IL,spanish flu,השפעת הספרדית
+253,en,he_IL,specimen collection,אסיפת דגימות
+254,en,he_IL,spread,התפשטות
+255,en,he_IL,sputum,כיח
+256,en,he_IL,stigmatisation,סטיגמטיזציה
+257,en,he_IL,supportive,תומך
+258,en,he_IL,surface,משטח
+259,en,he_IL,surfaces,משטחים
+260,en,he_IL,suspected infection,חשד לזיהום
+261,en,he_IL,swab,ספוגית
+262,en,he_IL,swine flu,שפעת החזירים
+263,en,he_IL,symptom,תסמין
+264,en,he_IL,symptomatic,תסמיני
+265,en,he_IL,symptoms,תסמינים
+266,en,he_IL,targeted disinfection,חיטוי ממוקד
+267,en,he_IL,test kit,ערכת בדיקה
+268,en,he_IL,testing error,שגיאת בדיקה
+269,en,he_IL,tissue damage,נזק לרקמות
+270,en,he_IL,tp shortage,"חוסר בנ""ט"
+271,en,he_IL,toilet paper shortage,חוסר בנייר טואלט
+272,en,he_IL,touch,נגע
+273,en,he_IL,touching,לנגוע
+274,en,he_IL,transmissibility,מעבר
+275,en,he_IL,transmissible,ניתן להעברה
+276,en,he_IL,transmission,הפצה
+277,en,he_IL,transmission potential,פוטנציאל העברה
+278,en,he_IL,typical flu,שפעת אופיינית
+279,en,he_IL,underlying disease,מחלה חבויה
+280,en,he_IL,updates,עדכונים
+281,en,he_IL,vaccine,חיסון
+282,en,he_IL,vaccines,חיסונים
+283,en,he_IL,ventilation,איוורור
+284,en,he_IL,ventilator,מאוורר
+285,en,he_IL,ventilators,מאווררים
+286,en,he_IL,viral infection,זיהום ויראלי
+287,en,he_IL,viral outbreak,התפרצות ויראלית
+288,en,he_IL,viral pandemic,מגיפה ויראלית
+289,en,he_IL,viral pneumonia,דלקת ריאות ויראלית
+290,en,he_IL,virtual care,טיפול וירטואלי
+291,en,he_IL,virulence,ארסיות
+292,en,he_IL,virus itself,הוירוס עצמו
+293,en,he_IL,virus outbreak,התפרצות הוירוס
+294,en,he_IL,virus scare,בהלת הוירוס
+295,en,he_IL,virus spreads,הפצת הוירוס
+296,en,he_IL,virus strain,זן הוירוס
+297,en,he_IL,viral transmission,הדבקה ויראלית
+298,en,he_IL,vivid-19,vivid-19
+299,en,he_IL,washing hands,שטיפת ידיים
+300,en,he_IL,washing ones hands,לשטוף ידיים
+301,en,he_IL,wash your hands,שטוף את הידיים שלך
+302,en,he_IL,white blood cell count,ספירת כדוריות דם לבנות
+303,en,he_IL,widespread transmission,הדבקה נרחבת
+304,en,he_IL,working from home,עבודה מהבית
+305,en,he_IL,WFH,"עמה""ב (עבודה מהבית)"
+306,en,he_IL,Wuhan,ווהאן

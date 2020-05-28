@@ -1,0 +1,613 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,es_XX,1918 flu,La gripe de 1918
+2,en,es_XX,acute bronchitis,Bronquitis aguda
+3,en,es_XX,acute respiratory disease,enfermedades respiratorias agudas
+4,en,es_XX,AIDS,SIDA
+5,en,es_XX,airborne droplets,gotas suspendidas en el aire
+6,en,es_XX,airway,vía respiratoria
+7,en,es_XX,alcohol-based,a base de alcohol
+8,en,es_XX,alcohol-based hand rub,desinfectante de manos a base de alcohol
+9,en,es_XX,alcohol-based hand sanitizer,desinfectante de manos a base de alcohol
+10,en,es_XX,alveolar disease,enfermedad alveolar
+11,en,es_XX,an epidemic,una epidemia
+12,en,es_XX,annual flu,gripe anual
+13,en,es_XX,anti-inflammatory drug,antiinflamatorio
+14,en,es_XX,antiviral drug,antiviral
+15,en,es_XX,antiviral treatment,tratamiento antiviral
+16,en,es_XX,assay,ensayo
+17,en,es_XX,asymptomatic,asintomático
+18,en,es_XX,avian flu,gripe aviar
+19,en,es_XX,Black Plague,Peste negra
+20,en,es_XX,blood pressure,presión sanguínea
+21,en,es_XX,body fluid,fluido corporal
+22,en,es_XX,breathing,respiración
+23,en,es_XX,bubonic plague,peste bubónica
+24,en,es_XX,c19,c19
+25,en,es_XX,cv19,cv19
+26,en,es_XX,case fatality rate,tasa de letalidad
+27,en,es_XX,causative agent,agente causal
+28,en,es_XX,CDC,CDC
+29,en,es_XX,chemical disinfection,desinfección química
+30,en,es_XX,chest x-ray,radiografía de tórax
+31,en,es_XX,clinical diagnosis,diagnóstico clínico
+32,en,es_XX,clinical trial,ensayo clínico
+33,en,es_XX,close contact,contacto cercano
+34,en,es_XX,cvirus,cvirus
+35,en,es_XX,chronic respiratory disease,enfermedades respiratorias crónicas
+36,en,es_XX,common cold,resfriado común
+37,en,es_XX,common flu,gripe común
+38,en,es_XX,communicable disease,enfermedad infecciosa
+39,en,es_XX,community spread,propagación en la comunidad
+40,en,es_XX,community transmission,transmisión del virus en la comunidad
+41,en,es_XX,compromised immune system,sistema inmune comprometido
+42,en,es_XX,contagion,contagio
+43,en,es_XX,contagious,contagioso
+44,en,es_XX,contagiousness,contagioso
+45,en,es_XX,corona,corona
+46,en,es_XX,corona virus,corona virus
+47,en,es_XX,corona virus epidemic,epidemia de virus corona
+48,en,es_XX,corona virus outbreak,brote de virus corona
+49,en,es_XX,corona virus scare,posible corona virus
+50,en,es_XX,coronavirus,coronavirus
+51,en,es_XX,coronavirus cases,casos de coronavirus
+52,en,es_XX,coronavirus outbreak,brote de coronavirus
+53,en,es_XX,coronavirus pandemic,pandemia de coronavirus
+54,en,es_XX,coronavirus scare,posible coronavirus
+55,en,es_XX,cough,tos
+56,en,es_XX,cough etiquette,etiqueta de tos
+57,en,es_XX,coughing,toser
+58,en,es_XX,cov 19,cov 19
+59,en,es_XX,cov19,cov19
+60,en,es_XX,COVID,COVID
+61,en,es_XX,COVID-19 crisis,crisis de COVID-19
+62,en,es_XX,covid-19,covid-19
+63,en,es_XX,covid19,covid19
+64,en,es_XX,COVID-19 epidemic,epidemia de COVID-19
+65,en,es_XX,COVID-19 outbreak,brote de COVID-19
+66,en,es_XX,COVID-19 pandemic,pandemia de COVID-19
+67,en,es_XX,COVID 19,COVID 19
+68,en,es_XX,current crisis,crisis actual
+69,en,es_XX,current health crisis,crisis sanitaria actual
+70,en,es_XX,current outbreak,brote actual
+71,en,es_XX,current pandemic,pandemia actual
+72,en,es_XX,CV,CV
+73,en,es_XX,CV-19,CV-19
+74,en,es_XX,deadly,mortal
+75,en,es_XX,deadly virus,virus mortal
+76,en,es_XX,death rate,tasa de mortalidad
+77,en,es_XX,death toll,muertes
+78,en,es_XX,decontaminate,descontaminar
+79,en,es_XX,detectable,detectable
+80,en,es_XX,detergent,detergente
+81,en,es_XX,difficulty breathing,dificultad para respirar
+82,en,es_XX,diabetes,diabetes
+83,en,es_XX,diagnosable disease,enfermedad diagnosticable
+84,en,es_XX,diagnostic protocol,protocolo de diagnóstico
+85,en,es_XX,diagnostic testing,pruebas diagnósticas
+86,en,es_XX,disease itself,enfermedad en sí
+87,en,es_XX,disease outbreak,brote de la enfermedad
+88,en,es_XX,disinfectant,desinfectante
+89,en,es_XX,disposable,desechable
+90,en,es_XX,droplet transmission,transmisión por gotitas
+91,en,es_XX,droplets,gotas
+92,en,es_XX,dry cough,tos seca
+93,en,es_XX,dry surface contamination,contaminación de la superficie seca
+94,en,es_XX,ebola,ebola
+95,en,es_XX,effective treatment,tratamiento efectivo
+96,en,es_XX,electron microscope,microscopio electrónico
+97,en,es_XX,emergency department,departamento de emergencias
+98,en,es_XX,epidemic,epidemia
+99,en,es_XX,epidemic curve,curva epidémica
+100,en,es_XX,epidemic peak,pico epidémico
+101,en,es_XX,epidemiologist,epidemiólogo
+102,en,es_XX,exposure,exposición
+103,en,es_XX,extreme caution,precaución extrema
+104,en,es_XX,eye protection,proteccion ocular
+105,en,es_XX,face mask,mascarilla
+106,en,es_XX,face masks,mascarillas
+107,en,es_XX,family cluster,grupo familiar
+108,en,es_XX,fatality rate,tasa de mortalidad
+109,en,es_XX,fecal contamination,contaminación fecal
+110,en,es_XX,fever,fiebre
+111,en,es_XX,flatten the infection curve,aplanar la curva de infección
+112,en,es_XX,flu,gripe
+113,en,es_XX,food safety,seguridad alimentaria
+114,en,es_XX,formaldehyde,formaldehído
+115,en,es_XX,gastroenteritis,gastroenteritis
+116,en,es_XX,germicide,germicida
+117,en,es_XX,global pandemic,pandemia mundial
+118,en,es_XX,global warming,calentamiento global
+119,en,es_XX,good respiratory hygiene,buena higiene respiratoria
+120,en,es_XX,Guangdong,Guangdong
+121,en,es_XX,H1N1,H1N1
+122,en,es_XX,H1N1 virus,virus H1N1
+123,en,es_XX,hand disinfectant,desinfectante para manos
+124,en,es_XX,hand sanitizer,desinfectante para manos
+125,en,es_XX,health care provider,proveedor de salud
+126,en,es_XX,health crisis,crisis de salud
+127,en,es_XX,health plan carrier,aseguradora del plan de salud
+128,en,es_XX,health services,servicios de salud
+129,en,es_XX,heart failure,insuficiencia cardíaca
+130,en,es_XX,high fever,fiebre alta
+131,en,es_XX,HIV,VIH
+132,en,es_XX,hospitalize,hospitalizar
+133,en,es_XX,household bleach,lejía de uso doméstico
+134,en,es_XX,Hubei,Hubei
+135,en,es_XX,hydrogen peroxide,peróxido de hidrógeno
+136,en,es_XX,hygiene,higiene
+137,en,es_XX,immune system,sistema inmune
+138,en,es_XX,immunity,inmunidad
+139,en,es_XX,immunocompromised,inmunocomprometido
+140,en,es_XX,immunologist,inmunólogo
+141,en,es_XX,incubation,incubación
+142,en,es_XX,incubation period,periodo de incubación
+143,en,es_XX,indirect contact,contacto indirecto
+144,en,es_XX,infect,infecta
+145,en,es_XX,infection,infección
+146,en,es_XX,infectious,infeccioso
+147,en,es_XX,infectivity,infectividad
+148,en,es_XX,influenza,influenza
+149,en,es_XX,initial transmission event,evento de transmisión inicial
+150,en,es_XX,intensive care equipment,equipos de cuidados intensivos
+151,en,es_XX,intermediate host,anfitrión intermedio
+152,en,es_XX,intrauterine,intrauterino
+153,en,es_XX,intubation,intubación
+154,en,es_XX,isolation,aislamiento
+155,en,es_XX,Isopropanol,isopropanol
+156,en,es_XX,laboratory test kit,kit de pruebas de laboratorio
+157,en,es_XX,laboratory testing,pruebas de laboratorio
+158,en,es_XX,lack of testing,falta de pruebas
+159,en,es_XX,lack of tests,falta de tests
+160,en,es_XX,latest updates,últimas noticias
+161,en,es_XX,liver failure,insuficiencia hepática
+162,en,es_XX,local public health authority,autoridad local de salud pública
+163,en,es_XX,lockdown,encierro
+164,en,es_XX,lungs,pulmones
+165,en,es_XX,masks,mascarillas
+166,en,es_XX,measles,sarampión
+167,en,es_XX,mechanical ventilation,ventilación mecánica
+168,en,es_XX,media coverage,cobertura mediática
+169,en,es_XX,medical care,cuidado médico
+170,en,es_XX,MERS,MERS
+171,en,es_XX,MERS CoV,MERS CoV
+172,en,es_XX,microbiologist,microbiólogo
+173,en,es_XX,mild cough,tos leve
+174,en,es_XX,mortality rate,tasa de mortalidad
+175,en,es_XX,multi-organ failure,insuficiencia multiorgánica
+176,en,es_XX,nasal congestion,congestión nasal
+177,en,es_XX,neutral detergent,detergente neutro
+178,en,es_XX,new normal,nueva normalidad
+179,en,es_XX,novel corona virus,nuevo virus corona
+180,en,es_XX,novel coronavirus,nuevo coronavirus
+181,en,es_XX,novel coronavirus outbreak,nuevo brote de coronavirus
+182,en,es_XX,novel virus,nuevo virus
+183,en,es_XX,online medical consultation,consulta médica en línea
+184,en,es_XX,onset,inicio
+185,en,es_XX,outbreak,brote
+186,en,es_XX,outbreak readiness,preparación ante el estallido
+187,en,es_XX,overall case fatality,tasa de letalidad general
+188,en,es_XX,pandemic,pandemia
+189,en,es_XX,pangolin,pangolin
+190,en,es_XX,pathogen,patógeno
+191,en,es_XX,pathology,patología
+192,en,es_XX,patient care equipment,equipo de atención al paciente
+193,en,es_XX,personal protective equipment,equipo de protección personal
+194,en,es_XX,person-to-person transmission,transmisión de persona a persona
+195,en,es_XX,phlegm,flema
+196,en,es_XX,physical contact,contacto físico
+197,en,es_XX,plague,plaga
+198,en,es_XX,pneumonia,neumonía
+199,en,es_XX,pneumonias,neumonías
+200,en,es_XX,positive test,prueba positiva
+201,en,es_XX,precaution,precaución
+202,en,es_XX,precautionary,cautelares
+203,en,es_XX,pre-existing condition,condición preexistente
+204,en,es_XX,preparedness,preparación
+205,en,es_XX,prognosis,pronóstico
+206,en,es_XX,protect myself,protegerme
+207,en,es_XX,protect others,proteger a otros
+208,en,es_XX,protect yourself,protegerse
+209,en,es_XX,protective measures,medidas de protección
+210,en,es_XX,public health crisis,crisis de salud pública
+211,en,es_XX,pulmonary tissue damage,daño del tejido pulmonar
+212,en,es_XX,quarantine,cuarentena
+213,en,es_XX,rapid risk assessment,evaluación rápida del riesgo
+214,en,es_XX,reagent,reactivo
+215,en,es_XX,regular flu,gripe regular
+216,en,es_XX,reinfection,reinfección
+217,en,es_XX,renal disease,enfermedad renal
+218,en,es_XX,renal failure,insuficiencia renal
+219,en,es_XX,respirator,respirador
+220,en,es_XX,respiratory,respiratorio
+221,en,es_XX,respiratory disease,enfermedad respiratoria
+222,en,es_XX,respiratory distress,dificultad respiratoria
+223,en,es_XX,respiratory droplets,gotitas respiratorias
+224,en,es_XX,respiratory hygiene,higiene respiratoria
+225,en,es_XX,respiratory illness,enfermedad respiratorias
+226,en,es_XX,respiratory syndrome,síndrome respiratorio
+227,en,es_XX,respiratory tract disease,enfermedad de las vías respiratorias
+228,en,es_XX,restrictions,restricciones
+229,en,es_XX,resurge,resurgimiento
+230,en,es_XX,RNA,ARN
+231,en,es_XX,rubeola,rubéola
+232,en,es_XX,runny nose,nariz que moquea
+233,en,es_XX,SARS,SARS
+234,en,es_XX,SARS-CoV-2,SARS-CoV-2
+235,en,es_XX,SARS-CoV,SARS-CoV
+236,en,es_XX,sars-related coronavirus,coronavirus relacionados con sars
+237,en,es_XX,seasonal flu,gripe estacional
+238,en,es_XX,seasonal influenza,gripe estacional
+239,en,es_XX,secretion,secresión
+240,en,es_XX,self-quarantine,auto-cuarentena
+241,en,es_XX,sepsis,sepsis
+242,en,es_XX,septic shock,shock séptico
+243,en,es_XX,Severe Acute Respiratory Syndrome,Síndrome Respiratorio Agudo Severo
+244,en,es_XX,shortness of breath,dificultad para respirar
+245,en,es_XX,sickened,enfermado
+246,en,es_XX,sickness,enfermedad
+247,en,es_XX,sneeze,estornudo
+248,en,es_XX,sneezes,estornudos
+249,en,es_XX,sneezing,estornudar
+250,en,es_XX,social distancing,distanciamiento social
+251,en,es_XX,sore throat,dolor de garganta
+252,en,es_XX,spanish flu,gripe española
+253,en,es_XX,specimen collection,colección de especímenes
+254,en,es_XX,spread,propagación
+255,en,es_XX,sputum,esputo
+256,en,es_XX,stigmatisation,estigmatización
+257,en,es_XX,supportive,apoyo
+258,en,es_XX,surface,superficie
+259,en,es_XX,surfaces,superficies
+260,en,es_XX,suspected infection,sospecha de infección
+261,en,es_XX,swab,muestra
+262,en,es_XX,swine flu,gripe porcina
+263,en,es_XX,symptom,síntoma
+264,en,es_XX,symptomatic,sintomático
+265,en,es_XX,symptoms,síntomas
+266,en,es_XX,targeted disinfection,desinfección focalizada
+267,en,es_XX,test kit,kit de prueba
+268,en,es_XX,testing error,error de prueba
+269,en,es_XX,tissue damage,daño a los tejidos
+270,en,es_XX,tp shortage,escasez de papel higiénico
+271,en,es_XX,toilet paper shortage,escasez de papel higiénico
+272,en,es_XX,touch,toque
+273,en,es_XX,touching,tocar
+274,en,es_XX,transmissibility,transmisibilidad
+275,en,es_XX,transmissible,transmisible
+276,en,es_XX,transmission,transmisión
+277,en,es_XX,transmission potential,potencial de transmisión
+278,en,es_XX,typical flu,gripe típica
+279,en,es_XX,underlying disease,enfermedad subyacente
+280,en,es_XX,updates,actualizaciones
+281,en,es_XX,vaccine,vacuna
+282,en,es_XX,vaccines,vacunas
+283,en,es_XX,ventilation,ventilación
+284,en,es_XX,ventilator,ventilador
+285,en,es_XX,ventilators,ventiladores
+286,en,es_XX,viral infection,infección viral
+287,en,es_XX,viral outbreak,brote viral
+288,en,es_XX,viral pandemic,pandemia viral
+289,en,es_XX,viral pneumonia,neumonía viral
+290,en,es_XX,virtual care,cuidado virtual
+291,en,es_XX,virulence,virulencia
+292,en,es_XX,virus itself,el virus mismo
+293,en,es_XX,virus outbreak,brote de virus
+294,en,es_XX,virus scare,miedo al virus
+295,en,es_XX,virus spreads,diseminación del virus
+296,en,es_XX,virus strain,cepa de virus
+297,en,es_XX,viral transmission,transmisión viral
+298,en,es_XX,vivid-19,vivid-19
+299,en,es_XX,washing hands,lavado de manos
+300,en,es_XX,washing ones hands,lavarse las manos
+301,en,es_XX,wash your hands,lávate las manos
+302,en,es_XX,white blood cell count,conteo de células blancas
+303,en,es_XX,widespread transmission,transmisión generalizada
+304,en,es_XX,working from home,trabajar desde casa
+305,en,es_XX,WFH,Teletrabajo
+306,en,es_XX,Wuhan,Wuhan
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,
+,,es_XX,,

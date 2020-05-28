@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ms_MY,1918 flu,1918 flu
+2,en,ms_MY,acute bronchitis,bronkitis akut
+3,en,ms_MY,acute respiratory disease,penyakit pernafasan akut
+4,en,ms_MY,AIDS,Sindrom Kurang Daya Tahan
+5,en,ms_MY,airborne droplets,titisan bawaan udara
+6,en,ms_MY,airway,salur udara
+7,en,ms_MY,alcohol-based,berasaskan alkohol
+8,en,ms_MY,alcohol-based hand rub,penggosok tangan berasasskan alkohol
+9,en,ms_MY,alcohol-based hand sanitizer,pembersih tangan berasaskan alkohol
+10,en,ms_MY,alveolar disease,penyakit alveolar
+11,en,ms_MY,an epidemic,satu wabak
+12,en,ms_MY,annual flu,flu tahunan
+13,en,ms_MY,anti-inflammatory drug,ubat anti-radang
+14,en,ms_MY,antiviral drug,ubat antivirus
+15,en,ms_MY,antiviral treatment,rawatan antivirus
+16,en,ms_MY,assay,cerakin
+17,en,ms_MY,asymptomatic,asimptomatic
+18,en,ms_MY,avian flu,selesema burung
+19,en,ms_MY,Black Plague,Wabak Hawar
+20,en,ms_MY,blood pressure,tekanan darah
+21,en,ms_MY,body fluid,cecair badan
+22,en,ms_MY,breathing,pernafasan
+23,en,ms_MY,bubonic plague,wabak bubon
+24,en,ms_MY,c19,c19
+25,en,ms_MY,cv19,cv19
+26,en,ms_MY,case fatality rate,kadar kematian kes
+27,en,ms_MY,causative agent,agen penyebab
+28,en,ms_MY,CDC,CDC
+29,en,ms_MY,chemical disinfection,disinfektan bahan kimia
+30,en,ms_MY,chest x-ray,x-ray dada
+31,en,ms_MY,clinical diagnosis,diagnosis klinikal
+32,en,ms_MY,clinical trial,percubaan klinikal
+33,en,ms_MY,close contact,hubungan rapat
+34,en,ms_MY,cvirus,cvirus
+35,en,ms_MY,chronic respiratory disease,penyakit pernafasan kronik
+36,en,ms_MY,common cold,demam selesema biasa
+37,en,ms_MY,common flu,selesema biasa
+38,en,ms_MY,communicable disease,penyakit berjangkit
+39,en,ms_MY,community spread,penyebaran komuniti
+40,en,ms_MY,community transmission,penularan komuniti
+41,en,ms_MY,compromised immune system,sistem daya tahan lemah
+42,en,ms_MY,contagion,penjangkitan
+43,en,ms_MY,contagious,berjangkit
+44,en,ms_MY,contagiousness,keadaan berjangkit
+45,en,ms_MY,corona,korona
+46,en,ms_MY,corona virus,korona virus
+47,en,ms_MY,corona virus epidemic,epidemik koronavirus
+48,en,ms_MY,corona virus outbreak,wabak koronavirus
+49,en,ms_MY,corona virus scare,ketakutan koronavirus
+50,en,ms_MY,coronavirus,koronavirus
+51,en,ms_MY,coronavirus cases,kes koronavirus
+52,en,ms_MY,coronavirus outbreak,wabak koronavirus
+53,en,ms_MY,coronavirus pandemic,pandemik koronavirus
+54,en,ms_MY,coronavirus scare,ketakutan koronavirus
+55,en,ms_MY,cough,batuk
+56,en,ms_MY,cough etiquette,adab ketika batuk
+57,en,ms_MY,coughing,terbatuk-batuk
+58,en,ms_MY,cov 19,COVID-19
+59,en,ms_MY,cov19,cov19
+60,en,ms_MY,COVID,COVID-19
+61,en,ms_MY,COVID-19 crisis,krisis COVID-19
+62,en,ms_MY,covid-19,COVID-19
+63,en,ms_MY,covid19,COVID-19
+64,en,ms_MY,COVID-19 epidemic,COVID-19 epidemik
+65,en,ms_MY,COVID-19 outbreak,wabak COVID-19
+66,en,ms_MY,COVID-19 pandemic,COVID-19 pandemik
+67,en,ms_MY,COVID 19,COVID -19
+68,en,ms_MY,current crisis,krisis semasa
+69,en,ms_MY,current health crisis,krisis kesihatan semasa
+70,en,ms_MY,current outbreak,wabak semasa
+71,en,ms_MY,current pandemic,pandemik semasa
+72,en,ms_MY,CV,COVID-19
+73,en,ms_MY,CV-19,COVID-19
+74,en,ms_MY,deadly,maut
+75,en,ms_MY,deadly virus,virus pembawa maut
+76,en,ms_MY,death rate,kadar kematian
+77,en,ms_MY,death toll,jumlah kematianl
+78,en,ms_MY,decontaminate,mendekontaminasi
+79,en,ms_MY,detectable,boleh dikesan
+80,en,ms_MY,detergent,detergen
+81,en,ms_MY,difficulty breathing,kesusahan bernafas
+82,en,ms_MY,diabetes,diabetes
+83,en,ms_MY,diagnosable disease,penyakit didiagnosis
+84,en,ms_MY,diagnostic protocol,protokol diagnostik
+85,en,ms_MY,diagnostic testing,ujian diagnostik
+86,en,ms_MY,disease itself,penyakit itu sendiri
+87,en,ms_MY,disease outbreak,wabak penyakit
+88,en,ms_MY,disinfectant,disinfektan
+89,en,ms_MY,disposable,pakai buang
+90,en,ms_MY,droplet transmission,penyebaran melalui titisan
+91,en,ms_MY,droplets,titisan
+92,en,ms_MY,dry cough,batuk kering
+93,en,ms_MY,dry surface contamination,pencemaran permukaan kering
+94,en,ms_MY,ebola,Ebola
+95,en,ms_MY,effective treatment,rawatan berkesan
+96,en,ms_MY,electron microscope,Mikroskop elektron
+97,en,ms_MY,emergency department,Jabatan kecemasan
+98,en,ms_MY,epidemic,epidemik
+99,en,ms_MY,epidemic curve,lengkung epidemik
+100,en,ms_MY,epidemic peak,puncak epidemik
+101,en,ms_MY,epidemiologist,ahli epidemiologi
+102,en,ms_MY,exposure,pendedahan
+103,en,ms_MY,extreme caution,berhati-hati
+104,en,ms_MY,eye protection,perlindungan mata
+105,en,ms_MY,face mask,topeng muka
+106,en,ms_MY,face masks,topeng muka
+107,en,ms_MY,family cluster,kluster keluarga
+108,en,ms_MY,fatality rate,kadar kematian
+109,en,ms_MY,fecal contamination,kontaminasi najis
+110,en,ms_MY,fever,demam
+111,en,ms_MY,flatten the infection curve,memusnahkan lengkungan jangkitan
+112,en,ms_MY,flu,selesema
+113,en,ms_MY,food safety,keselamatan makanan
+114,en,ms_MY,formaldehyde,formaldehid
+115,en,ms_MY,gastroenteritis,radang perut dan usus
+116,en,ms_MY,germicide,germisid
+117,en,ms_MY,global pandemic,pandermik global
+118,en,ms_MY,global warming,pemanasan global
+119,en,ms_MY,good respiratory hygiene,kebersihan pernafasan yang baik
+120,en,ms_MY,Guangdong,Guangdong
+121,en,ms_MY,H1N1,H1N1
+122,en,ms_MY,H1N1 virus,virus H1N1
+123,en,ms_MY,hand disinfectant,disinfektan tangan
+124,en,ms_MY,hand sanitizer,pembersih tangan
+125,en,ms_MY,health care provider,pembekal penjagaan kesihatan
+126,en,ms_MY,health crisis,krisis kesihatan
+127,en,ms_MY,health plan carrier,pembawa plan kesihatan
+128,en,ms_MY,health services,perkhidmatan kesihatan
+129,en,ms_MY,heart failure,kegagalan jantung
+130,en,ms_MY,high fever,demam panas
+131,en,ms_MY,HIV,HIV
+132,en,ms_MY,hospitalize,dimasukkan ke hospital
+133,en,ms_MY,household bleach,luntur seisi rumah
+134,en,ms_MY,Hubei,Hubei
+135,en,ms_MY,hydrogen peroxide,hidrogen peroksida
+136,en,ms_MY,hygiene,kebersihan
+137,en,ms_MY,immune system,sistem immunisasi
+138,en,ms_MY,immunity,keimunan
+139,en,ms_MY,immunocompromised,immunisasi lemah
+140,en,ms_MY,immunologist,ahli immunologi
+141,en,ms_MY,incubation,pengeraman
+142,en,ms_MY,incubation period,tempoh pengeraman
+143,en,ms_MY,indirect contact,tanpa bersentuhan
+144,en,ms_MY,infect,jangkit
+145,en,ms_MY,infection,jangkitan
+146,en,ms_MY,infectious,boleh berjangkit
+147,en,ms_MY,infectivity,kadar jangkitan
+148,en,ms_MY,influenza,influenza
+149,en,ms_MY,initial transmission event,kejadian penyebaran awal
+150,en,ms_MY,intensive care equipment,alat penjagaan rapi
+151,en,ms_MY,intermediate host,perumah pengantara
+152,en,ms_MY,intrauterine,dalam rahim
+153,en,ms_MY,intubation,intubasi
+154,en,ms_MY,isolation,pengasingan
+155,en,ms_MY,Isopropanol,Iso-propanol
+156,en,ms_MY,laboratory test kit,kit ujian makmal
+157,en,ms_MY,laboratory testing,ujian makmal
+158,en,ms_MY,lack of testing,kekurangan pengujian
+159,en,ms_MY,lack of tests,kekurangan ujian
+160,en,ms_MY,latest updates,maklumat terkini
+161,en,ms_MY,liver failure,kegagalan hati
+162,en,ms_MY,local public health authority,pihak berkuasa kesihatan awam tempatan
+163,en,ms_MY,lockdown,lockdown
+164,en,ms_MY,lungs,paru-paru
+165,en,ms_MY,masks,mask
+166,en,ms_MY,measles,campak
+167,en,ms_MY,mechanical ventilation,ventilasi mekanikal
+168,en,ms_MY,media coverage,liputan media
+169,en,ms_MY,medical care,penjagaan perubatan
+170,en,ms_MY,MERS,MERS
+171,en,ms_MY,MERS CoV,MERS CoV
+172,en,ms_MY,microbiologist,ahli mikrobiologi
+173,en,ms_MY,mild cough,batuk ringan
+174,en,ms_MY,mortality rate,kadar kematian
+175,en,ms_MY,multi-organ failure,kegagalan beberapa organ
+176,en,ms_MY,nasal congestion,hidung tersumbat
+177,en,ms_MY,neutral detergent,detergan neutral
+178,en,ms_MY,new normal,normal baru
+179,en,ms_MY,novel corona virus,novel koronavirus
+180,en,ms_MY,novel coronavirus,novel koronavirus
+181,en,ms_MY,novel coronavirus outbreak,wanovel coronavirus outbreak
+182,en,ms_MY,novel virus,novel virus
+183,en,ms_MY,online medical consultation,konsultasi perubatan dalam talian
+184,en,ms_MY,onset,permulaan
+185,en,ms_MY,outbreak,wabak
+186,en,ms_MY,outbreak readiness,kesediaan menghadapi wabak
+187,en,ms_MY,overall case fatality,kes kematian keseluruhan
+188,en,ms_MY,pandemic,pandermik
+189,en,ms_MY,pangolin,tenggiling
+190,en,ms_MY,pathogen,patogen
+191,en,ms_MY,pathology,darah
+192,en,ms_MY,patient care equipment,alat penjagaan pesakit
+193,en,ms_MY,personal protective equipment,alat perlindungan perseorangan
+194,en,ms_MY,person-to-person transmission,penyebaran orang ke orang
+195,en,ms_MY,phlegm,kahak
+196,en,ms_MY,physical contact,hubungan fizikal
+197,en,ms_MY,plague,wabak
+198,en,ms_MY,pneumonia,radang paru-paru
+199,en,ms_MY,pneumonias,pneumonias
+200,en,ms_MY,positive test,ujian positf
+201,en,ms_MY,precaution,langkah berjaga-jaga
+202,en,ms_MY,precautionary,berjaga-jaga
+203,en,ms_MY,pre-existing condition,keadaan yang telah sedia ada
+204,en,ms_MY,preparedness,kesediaan
+205,en,ms_MY,prognosis,ramalan
+206,en,ms_MY,protect myself,lindung diri sendiri
+207,en,ms_MY,protect others,lindung orang lain
+208,en,ms_MY,protect yourself,lindung diri anda
+209,en,ms_MY,protective measures,langkah perlindungan
+210,en,ms_MY,public health crisis,krisis kesihatan awam
+211,en,ms_MY,pulmonary tissue damage,kerosakan tisu paru-paru
+212,en,ms_MY,quarantine,kuarantin
+213,en,ms_MY,rapid risk assessment,penilaian risiko yang pantas
+214,en,ms_MY,reagent,reagen
+215,en,ms_MY,regular flu,selesema biasa
+216,en,ms_MY,reinfection,jangkitan semula
+217,en,ms_MY,renal disease,penyakit buah pinggang
+218,en,ms_MY,renal failure,kegagalan buah pinggang
+219,en,ms_MY,respirator,alat pernafasan
+220,en,ms_MY,respiratory,sistem pernafasan
+221,en,ms_MY,respiratory disease,penyakit berkaitan pernafasan
+222,en,ms_MY,respiratory distress,kesusahan bernafas
+223,en,ms_MY,respiratory droplets,titisan pernafasan
+224,en,ms_MY,respiratory hygiene,kebersihan pernafasan
+225,en,ms_MY,respiratory illness,penyakit berkaitan pernafasan
+226,en,ms_MY,respiratory syndrome,sindrom pernafasan
+227,en,ms_MY,respiratory tract disease,penyakit saluran pernafasan
+228,en,ms_MY,restrictions,sekatan
+229,en,ms_MY,resurge,bertahan semula
+230,en,ms_MY,RNA,RiboNukleik Asid
+231,en,ms_MY,rubeola,rubeola
+232,en,ms_MY,runny nose,hingus
+233,en,ms_MY,SARS,SinSARS
+234,en,ms_MY,SARS-CoV-2,SARS-CoV-2
+235,en,ms_MY,SARS-CoV,SARS-CoV
+236,en,ms_MY,sars-related coronavirus,sars-berkaitan koronavirus
+237,en,ms_MY,seasonal flu,selesema bermusim
+238,en,ms_MY,seasonal influenza,influenza bermusim
+239,en,ms_MY,secretion,rembesan
+240,en,ms_MY,self-quarantine,kuarantin-diri sendiri
+241,en,ms_MY,sepsis,sepsis
+242,en,ms_MY,septic shock,kejutan septik
+243,en,ms_MY,Severe Acute Respiratory Syndrome,Sindrom Pernafasan Akut yang Teruk
+244,en,ms_MY,shortness of breath,sesak nafas
+245,en,ms_MY,sickened,sakit
+246,en,ms_MY,sickness,kesakitan
+247,en,ms_MY,sneeze,bersin
+248,en,ms_MY,sneezes,bersin
+249,en,ms_MY,sneezing,sneezing
+250,en,ms_MY,social distancing,menjarakkan antara satu sama lain
+251,en,ms_MY,sore throat,sakit tekat
+252,en,ms_MY,spanish flu,Spanish Flu
+253,en,ms_MY,specimen collection,pengumpulan spesimen
+254,en,ms_MY,spread,penyebaran
+255,en,ms_MY,sputum,mukus
+256,en,ms_MY,stigmatisation,perlabelan
+257,en,ms_MY,supportive,menyokong
+258,en,ms_MY,surface,permukaansurface
+259,en,ms_MY,surfaces,pemukaan
+260,en,ms_MY,suspected infection,disyaki dijangkiti
+261,en,ms_MY,swab,menyapu
+262,en,ms_MY,swine flu,selesema babi
+263,en,ms_MY,symptom,gejala
+264,en,ms_MY,symptomatic,simptomatik
+265,en,ms_MY,symptoms,gejala-gejala
+266,en,ms_MY,targeted disinfection,disinfectan sasaran
+267,en,ms_MY,test kit,kit ujian
+268,en,ms_MY,testing error,ralat ujian
+269,en,ms_MY,tissue damage,kerosakan tisu
+270,en,ms_MY,tp shortage,kekurangan tp
+271,en,ms_MY,toilet paper shortage,kekurangan tisu tandas
+272,en,ms_MY,touch,sentuh
+273,en,ms_MY,touching,sentuhan
+274,en,ms_MY,transmissibility,keupayaan penyebaran
+275,en,ms_MY,transmissible,boleh disebarkan
+276,en,ms_MY,transmission,penularan
+277,en,ms_MY,transmission potential,potensi penyebaran
+278,en,ms_MY,typical flu,selesema biasa
+279,en,ms_MY,underlying disease,penyakit tersembunyi
+280,en,ms_MY,updates,kemas kini
+281,en,ms_MY,vaccine,vaksin
+282,en,ms_MY,vaccines,vaksin
+283,en,ms_MY,ventilation,pengudaraan
+284,en,ms_MY,ventilator,lubang angin
+285,en,ms_MY,ventilators,lubang angin
+286,en,ms_MY,viral infection,jangkitan virus
+287,en,ms_MY,viral outbreak,wabak virus
+288,en,ms_MY,viral pandemic,virus pandemik
+289,en,ms_MY,viral pneumonia,virus pneumonia
+290,en,ms_MY,virtual care,penjagaan maya
+291,en,ms_MY,virulence,kevirulenan
+292,en,ms_MY,virus itself,virus itu sendiri
+293,en,ms_MY,virus outbreak,wabak virus
+294,en,ms_MY,virus scare,ketakutan pada virus
+295,en,ms_MY,virus spreads,penyebaran virus
+296,en,ms_MY,virus strain,strain virus
+297,en,ms_MY,viral transmission,penyebaran virus
+298,en,ms_MY,vivid-19,COVID-19
+299,en,ms_MY,washing hands,membasuh tangan
+300,en,ms_MY,washing ones hands,orang membasuh tangan
+301,en,ms_MY,wash your hands,basuh tangan anda
+302,en,ms_MY,white blood cell count,white blood cell count
+303,en,ms_MY,widespread transmission,penyebaran menyeluruh
+304,en,ms_MY,working from home,bekerja dari rumah
+305,en,ms_MY,WFH,WFH
+306,en,ms_MY,Wuhan,Wuhan

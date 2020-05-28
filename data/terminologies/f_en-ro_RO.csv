@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ro_RO,1918 flu,gripa din 1918
+2,en,ro_RO,acute bronchitis,bronșită acută
+3,en,ro_RO,acute respiratory disease,boală acută a aparatului respirator
+4,en,ro_RO,AIDS,SIDA
+5,en,ro_RO,airborne droplets,picături purtate de aer
+6,en,ro_RO,airway,cale respiratorie
+7,en,ro_RO,alcohol-based,pe bază de alcool
+8,en,ro_RO,alcohol-based hand rub,soluție dezinfectantă pe bază de alcool
+9,en,ro_RO,alcohol-based hand sanitizer,dezinfectant de mâini pe bază de alcool
+10,en,ro_RO,alveolar disease,boală alveolară
+11,en,ro_RO,an epidemic,epidemie
+12,en,ro_RO,annual flu,gripă sezonieră
+13,en,ro_RO,anti-inflammatory drug,medicament antiinflamator
+14,en,ro_RO,antiviral drug,medicament antiviral
+15,en,ro_RO,antiviral treatment,tratament antiviral
+16,en,ro_RO,assay,prelevarea unei probe
+17,en,ro_RO,asymptomatic,asimptomatic
+18,en,ro_RO,avian flu,gripă aviară
+19,en,ro_RO,Black Plague,ciumă neagră
+20,en,ro_RO,blood pressure,tensiune arterială
+21,en,ro_RO,body fluid,fluid biologic
+22,en,ro_RO,breathing,respirație
+23,en,ro_RO,bubonic plague,ciumă bubonică
+24,en,ro_RO,c19,c19
+25,en,ro_RO,cv19,cv19
+26,en,ro_RO,case fatality rate,rată de fatalitate a cazurilor
+27,en,ro_RO,causative agent,agent patogen
+28,en,ro_RO,CDC,CDC
+29,en,ro_RO,chemical disinfection,dezinfectare chimică
+30,en,ro_RO,chest x-ray,radiografie toracică
+31,en,ro_RO,clinical diagnosis,diagnostic clinic
+32,en,ro_RO,clinical trial,studiu clinic
+33,en,ro_RO,close contact,contact apropiat
+34,en,ro_RO,cvirus,cvirus
+35,en,ro_RO,chronic respiratory disease,boală cronică a aparatului respirator
+36,en,ro_RO,common cold,răceală comună
+37,en,ro_RO,common flu,gripă comună
+38,en,ro_RO,communicable disease,boală transmisibilă
+39,en,ro_RO,community spread,răspândire comunitară
+40,en,ro_RO,community transmission,transmitere comunitară
+41,en,ro_RO,compromised immune system,sistem imunitar compromis
+42,en,ro_RO,contagion,contaminare
+43,en,ro_RO,contagious,contagios
+44,en,ro_RO,contagiousness,contagiozitate
+45,en,ro_RO,corona,corona
+46,en,ro_RO,corona virus,coronavirus
+47,en,ro_RO,corona virus epidemic,epidemie de coronavirus
+48,en,ro_RO,corona virus outbreak,focar de coronavirus
+49,en,ro_RO,corona virus scare,teamă de coronavirus
+50,en,ro_RO,coronavirus,coronavirus
+51,en,ro_RO,coronavirus cases,cazuri de coronavirus
+52,en,ro_RO,coronavirus outbreak,focar de coronavirus
+53,en,ro_RO,coronavirus pandemic,pandemie de coronavirus
+54,en,ro_RO,coronavirus scare,teamă de coronavirus
+55,en,ro_RO,cough,tuse
+56,en,ro_RO,cough etiquette,etichetă în caz de tuse
+57,en,ro_RO,coughing,tuse
+58,en,ro_RO,cov 19,cov 19
+59,en,ro_RO,cov19,cov19
+60,en,ro_RO,COVID,COVID
+61,en,ro_RO,COVID-19 crisis,criză COVID-19
+62,en,ro_RO,covid-19,covid-19
+63,en,ro_RO,covid19,covid19
+64,en,ro_RO,COVID-19 epidemic,epidemie de COVID-19
+65,en,ro_RO,COVID-19 outbreak,focar de COVID-19
+66,en,ro_RO,COVID-19 pandemic,pandemie de COVID-19
+67,en,ro_RO,COVID 19,COVID 19
+68,en,ro_RO,current crisis,criză actuală
+69,en,ro_RO,current health crisis,criză medicală actuală
+70,en,ro_RO,current outbreak,epidemie actuală
+71,en,ro_RO,current pandemic,pandemie actuală
+72,en,ro_RO,CV,CV
+73,en,ro_RO,CV-19,CV-19
+74,en,ro_RO,deadly,letal
+75,en,ro_RO,deadly virus,virus letal
+76,en,ro_RO,death rate,rata mortalității
+77,en,ro_RO,death toll,numărul deceselor
+78,en,ro_RO,decontaminate,decontaminare
+79,en,ro_RO,detectable,detectabil
+80,en,ro_RO,detergent,detergent
+81,en,ro_RO,difficulty breathing,dificultăți de respirație
+82,en,ro_RO,diabetes,diabet
+83,en,ro_RO,diagnosable disease,boală diagnosticabilă
+84,en,ro_RO,diagnostic protocol,protocol de diagnostic
+85,en,ro_RO,diagnostic testing,test de diagnostic
+86,en,ro_RO,disease itself,boală propriu-zisă
+87,en,ro_RO,disease outbreak,focar de boală
+88,en,ro_RO,disinfectant,dezinfectant
+89,en,ro_RO,disposable,de unică folosință
+90,en,ro_RO,droplet transmission,transmitere prin picături
+91,en,ro_RO,droplets,picături
+92,en,ro_RO,dry cough,tuse seacă
+93,en,ro_RO,dry surface contamination,contaminare suprafață uscată
+94,en,ro_RO,ebola,ebola
+95,en,ro_RO,effective treatment,tratament eficient
+96,en,ro_RO,electron microscope,microscop electronic
+97,en,ro_RO,emergency department,departament de urgență
+98,en,ro_RO,epidemic,epidemiologic
+99,en,ro_RO,epidemic curve,curbă epidemiologică
+100,en,ro_RO,epidemic peak,vârf epidemiologic
+101,en,ro_RO,epidemiologist,epidemiolog
+102,en,ro_RO,exposure,expunere
+103,en,ro_RO,extreme caution,precauție sporită
+104,en,ro_RO,eye protection,ochelari de protecție
+105,en,ro_RO,face mask,mască chirurgicală
+106,en,ro_RO,face masks,măști chirurgicale
+107,en,ro_RO,family cluster,grup familial
+108,en,ro_RO,fatality rate,rată de fatalitate
+109,en,ro_RO,fecal contamination,contaminare prin materii fecale
+110,en,ro_RO,fever,febră
+111,en,ro_RO,flatten the infection curve,aplatizarea curbei de infecție
+112,en,ro_RO,flu,gripă
+113,en,ro_RO,food safety,siguranță alimentară
+114,en,ro_RO,formaldehyde,formaldehidă
+115,en,ro_RO,gastroenteritis,gastroenterită
+116,en,ro_RO,germicide,germicid
+117,en,ro_RO,global pandemic,pandemie globală
+118,en,ro_RO,global warming,încălzire globală
+119,en,ro_RO,good respiratory hygiene,igienă corespunzătoare a sistemului respirator
+120,en,ro_RO,Guangdong,Guangdong
+121,en,ro_RO,H1N1,H1N1
+122,en,ro_RO,H1N1 virus,virusul H1N1
+123,en,ro_RO,hand disinfectant,dezinfectant de mâini
+124,en,ro_RO,hand sanitizer,dezinfectant de mâini
+125,en,ro_RO,health care provider,furnizor de servicii medicale
+126,en,ro_RO,health crisis,criză medicală
+127,en,ro_RO,health plan carrier,furnizor de asigurări de sănătate
+128,en,ro_RO,health services,servicii medicale
+129,en,ro_RO,heart failure,insuficiență cardiacă
+130,en,ro_RO,high fever,febră ridicată
+131,en,ro_RO,HIV,HIV
+132,en,ro_RO,hospitalize,spitalizare
+133,en,ro_RO,household bleach,înălbitor universal
+134,en,ro_RO,Hubei,Hubei
+135,en,ro_RO,hydrogen peroxide,apă oxigenată
+136,en,ro_RO,hygiene,igienă
+137,en,ro_RO,immune system,sistem imunitar
+138,en,ro_RO,immunity,imunitate
+139,en,ro_RO,immunocompromised,imunocompromis
+140,en,ro_RO,immunologist,imunolog
+141,en,ro_RO,incubation,incubație
+142,en,ro_RO,incubation period,perioadă de incubație
+143,en,ro_RO,indirect contact,contact indirect
+144,en,ro_RO,infect,infectare
+145,en,ro_RO,infection,infecție
+146,en,ro_RO,infectious,infecțios
+147,en,ro_RO,infectivity,infecțiozitate
+148,en,ro_RO,influenza,gripă
+149,en,ro_RO,initial transmission event,eveniment de transmitere inițial
+150,en,ro_RO,intensive care equipment,echipament pentru terapie intensivă
+151,en,ro_RO,intermediate host,gazdă intermediară
+152,en,ro_RO,intrauterine,intrauterin
+153,en,ro_RO,intubation,intubare
+154,en,ro_RO,isolation,izolare
+155,en,ro_RO,Isopropanol,izopropanol
+156,en,ro_RO,laboratory test kit,set de testare în laborator
+157,en,ro_RO,laboratory testing,testare în laborator
+158,en,ro_RO,lack of testing,tastare deficitară
+159,en,ro_RO,lack of tests,deficit de teste
+160,en,ro_RO,latest updates,ultimele noutăți
+161,en,ro_RO,liver failure,insuficiență hepatică
+162,en,ro_RO,local public health authority,autoritate locală de sănătate publică
+163,en,ro_RO,lockdown,carantină
+164,en,ro_RO,lungs,plămâni
+165,en,ro_RO,masks,măști
+166,en,ro_RO,measles,rujeolă
+167,en,ro_RO,mechanical ventilation,ventilație mecanică
+168,en,ro_RO,media coverage,acoperire mediatică
+169,en,ro_RO,medical care,îngrijire medicală
+170,en,ro_RO,MERS,sindromul respirator din Orientul Mijlociu
+171,en,ro_RO,MERS CoV,coronavirusul sindromului respirator din Orientul Mijlociu
+172,en,ro_RO,microbiologist,microbiolog
+173,en,ro_RO,mild cough,tuse ușoară
+174,en,ro_RO,mortality rate,rata mortalității
+175,en,ro_RO,multi-organ failure,insuficiență multiviscerală
+176,en,ro_RO,nasal congestion,congestie nazală
+177,en,ro_RO,neutral detergent,detergent neutru
+178,en,ro_RO,new normal,noua stare a lucrurilor
+179,en,ro_RO,novel corona virus,noul corona virus
+180,en,ro_RO,novel coronavirus,noul coronavirus
+181,en,ro_RO,novel coronavirus outbreak,noul focar de coronavirus
+182,en,ro_RO,novel virus,noul virus
+183,en,ro_RO,online medical consultation,consultație medicală online
+184,en,ro_RO,onset,apariție
+185,en,ro_RO,outbreak,epidemie
+186,en,ro_RO,outbreak readiness,capacitatea de a face față epidemiei
+187,en,ro_RO,overall case fatality,fatalitatea generală a cazurilor
+188,en,ro_RO,pandemic,pandemie
+189,en,ro_RO,pangolin,pangolin
+190,en,ro_RO,pathogen,patogen
+191,en,ro_RO,pathology,patologie
+192,en,ro_RO,patient care equipment,echipament pentru îngrijirea pacienților
+193,en,ro_RO,personal protective equipment,echipament individual de protecție
+194,en,ro_RO,person-to-person transmission,transmitere de la persoană la persoană
+195,en,ro_RO,phlegm,flegmă
+196,en,ro_RO,physical contact,contact fizic
+197,en,ro_RO,plague,ciumă
+198,en,ro_RO,pneumonia,pneumonie
+199,en,ro_RO,pneumonias,cazuri de pneumonie
+200,en,ro_RO,positive test,test pozitiv
+201,en,ro_RO,precaution,precauție
+202,en,ro_RO,precautionary,preventiv
+203,en,ro_RO,pre-existing condition,afecțiune preexistentă
+204,en,ro_RO,preparedness,nivel de pregătire
+205,en,ro_RO,prognosis,prognoză
+206,en,ro_RO,protect myself,mă protejez
+207,en,ro_RO,protect others,protejarea celorlalți
+208,en,ro_RO,protect yourself,protejează-te
+209,en,ro_RO,protective measures,măsuri de protecție
+210,en,ro_RO,public health crisis,criza sistemului de sănătate publică
+211,en,ro_RO,pulmonary tissue damage,deteriorarea țesutului pulmonar
+212,en,ro_RO,quarantine,carantină
+213,en,ro_RO,rapid risk assessment,evaluarea rapidă a riscului
+214,en,ro_RO,reagent,reactiv
+215,en,ro_RO,regular flu,gripă obișnuită
+216,en,ro_RO,reinfection,reinfectare
+217,en,ro_RO,renal disease,boală renală
+218,en,ro_RO,renal failure,insuficiență renală
+219,en,ro_RO,respirator,respirator
+220,en,ro_RO,respiratory,respirator
+221,en,ro_RO,respiratory disease,boală a aparatului respirator
+222,en,ro_RO,respiratory distress,insuficiență respiratorie
+223,en,ro_RO,respiratory droplets,picături de secreții respiratorii
+224,en,ro_RO,respiratory hygiene,igiena sistemului respirator
+225,en,ro_RO,respiratory illness,boală respiratorie
+226,en,ro_RO,respiratory syndrome,sindrom respirator
+227,en,ro_RO,respiratory tract disease,boală a tractului respirator
+228,en,ro_RO,restrictions,restricții
+229,en,ro_RO,resurge,resuscitare
+230,en,ro_RO,RNA,RNA
+231,en,ro_RO,rubeola,rubeolă
+232,en,ro_RO,runny nose,rinoree
+233,en,ro_RO,SARS,SARS
+234,en,ro_RO,SARS-CoV-2,SARS-CoV-2
+235,en,ro_RO,SARS-CoV,SARS-CoV
+236,en,ro_RO,sars-related coronavirus,coronavirusul sindromului respirator acut sever
+237,en,ro_RO,seasonal flu,gripă sezonieră
+238,en,ro_RO,seasonal influenza,gripă sezonieră
+239,en,ro_RO,secretion,secreție
+240,en,ro_RO,self-quarantine,carantină autoimpusă
+241,en,ro_RO,sepsis,septicemie
+242,en,ro_RO,septic shock,șoc septic
+243,en,ro_RO,Severe Acute Respiratory Syndrome,sindromul respirator acut sever
+244,en,ro_RO,shortness of breath,dificultăți de respirație
+245,en,ro_RO,sickened,bolnav
+246,en,ro_RO,sickness,boală
+247,en,ro_RO,sneeze,strănut
+248,en,ro_RO,sneezes,strănuturi
+249,en,ro_RO,sneezing,strănut
+250,en,ro_RO,social distancing,distanțare socială
+251,en,ro_RO,sore throat,durere în gât
+252,en,ro_RO,spanish flu,gripă spaniolă
+253,en,ro_RO,specimen collection,colectare de probe
+254,en,ro_RO,spread,răspândire
+255,en,ro_RO,sputum,spută
+256,en,ro_RO,stigmatisation,stigmatizare
+257,en,ro_RO,supportive,încurajator
+258,en,ro_RO,surface,suprafață
+259,en,ro_RO,surfaces,suprafețe
+260,en,ro_RO,suspected infection,suspiciune de infecție
+261,en,ro_RO,swab,tampon
+262,en,ro_RO,swine flu,gripă porcină
+263,en,ro_RO,symptom,simptom
+264,en,ro_RO,symptomatic,simptomatic
+265,en,ro_RO,symptoms,simptome
+266,en,ro_RO,targeted disinfection,dezinfecție organizată
+267,en,ro_RO,test kit,set de testare
+268,en,ro_RO,testing error,eroare de testare
+269,en,ro_RO,tissue damage,deteriorare țesut
+270,en,ro_RO,tp shortage,penurie de hârtie igienică
+271,en,ro_RO,toilet paper shortage,penurie de hârtie igienică
+272,en,ro_RO,touch,atingere
+273,en,ro_RO,touching,atingere
+274,en,ro_RO,transmissibility,transmisibilitate
+275,en,ro_RO,transmissible,transmisibil
+276,en,ro_RO,transmission,transmitere
+277,en,ro_RO,transmission potential,potențial de transmitere
+278,en,ro_RO,typical flu,gripă comună
+279,en,ro_RO,underlying disease,boală subiacentă
+280,en,ro_RO,updates,noutăți
+281,en,ro_RO,vaccine,vaccin
+282,en,ro_RO,vaccines,vaccinuri
+283,en,ro_RO,ventilation,ventilație
+284,en,ro_RO,ventilator,ventilator
+285,en,ro_RO,ventilators,ventilatoare
+286,en,ro_RO,viral infection,infecție virală
+287,en,ro_RO,viral outbreak,epidemie virală
+288,en,ro_RO,viral pandemic,pandemie virală
+289,en,ro_RO,viral pneumonia,pneumonie virală
+290,en,ro_RO,virtual care,consultații online
+291,en,ro_RO,virulence,virulență
+292,en,ro_RO,virus itself,virus propriu-zis
+293,en,ro_RO,virus outbreak,epidemie virală
+294,en,ro_RO,virus scare,teamă de virus
+295,en,ro_RO,virus spreads,răspândire virus
+296,en,ro_RO,virus strain,tulpină de virus
+297,en,ro_RO,viral transmission,transmitere virală
+298,en,ro_RO,vivid-19,vivid-19
+299,en,ro_RO,washing hands,spălarea mâinilor
+300,en,ro_RO,washing ones hands,spălarea propriilor mâini
+301,en,ro_RO,wash your hands,spală-te pe mâini
+302,en,ro_RO,white blood cell count,număr de leucocite
+303,en,ro_RO,widespread transmission,transmitere pe scară largă
+304,en,ro_RO,working from home,lucru de acasă
+305,en,ro_RO,WFH,WFH
+306,en,ro_RO,Wuhan,Wuhan

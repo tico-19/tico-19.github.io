@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ns_ZA,1918 flu,mphsikela wa 1918
+2,en,ns_ZA,acute bronchitis,bolwetši bja mafahla
+3,en,ns_ZA,acute respiratory disease,bolwetši bja go hema
+4,en,ns_ZA,AIDS,bolwetši bja AIDS
+5,en,ns_ZA,airborne droplets,marothodi a lego moyeng
+6,en,ns_ZA,airway,mo go sepelago moya
+7,en,ns_ZA,alcohol-based,e tswakilwe ka alkhohol
+8,en,ns_ZA,alcohol-based hand rub,setlolo sa diatla seo se nago le alkhohol
+9,en,ns_ZA,alcohol-based hand sanitizer,setlolo sa go hlwekiša diatla seo se nago le alkhohol
+10,en,ns_ZA,alveolar disease,bolwetši bja mafahla
+11,en,ns_ZA,an epidemic,go ata ga bolwetši
+12,en,ns_ZA,annual flu,mphsikela wa ngwaga
+13,en,ns_ZA,anti-inflammatory drug,sehlare sa go fokotša go ruruga
+14,en,ns_ZA,antiviral drug,sehlare sa go lwantšha ditwatši
+15,en,ns_ZA,antiviral treatment,kalafo ya go lwantšha ditwatši
+16,en,ns_ZA,assay,nyakišišo ya malwetši
+17,en,ns_ZA,asymptomatic,go se be le maswao
+18,en,ns_ZA,avian flu,mphsikela wa avian
+19,en,ns_ZA,Black Plague,kotlo ya Batho baso
+20,en,ns_ZA,blood pressure,madi a magolo
+21,en,ns_ZA,body fluid,diela tša mmele
+22,en,ns_ZA,breathing,go hema
+23,en,ns_ZA,bubonic plague,bolwetši bja dikgofa
+24,en,ns_ZA,c19,c19
+25,en,ns_ZA,cv19,cv19
+26,en,ns_ZA,case fatality rate,tekanyo ya batho bao ba hlokofalago
+27,en,ns_ZA,causative agent,sebaki
+28,en,ns_ZA,CDC,CDC
+29,en,ns_ZA,chemical disinfection,khemikhale ya
+30,en,ns_ZA,chest x-ray,x-ray ya mafahla
+31,en,ns_ZA,clinical diagnosis,tlhahlobo ya kliniki
+32,en,ns_ZA,clinical trial,diteko tša kliniki
+33,en,ns_ZA,close contact,Selo seo se lego kgauswi
+34,en,ns_ZA,cvirus,twatši ya c
+35,en,ns_ZA,chronic respiratory disease,Bolwetši bjo bo sa felego bja go hema
+36,en,ns_ZA,common cold,mphsikela o tlwalegilego
+37,en,ns_ZA,common flu,mphsikela o tlwaelegilego
+38,en,ns_ZA,communicable disease,bolwetši bjo bo fetelago
+39,en,ns_ZA,community spread,phetetšo ya batho
+40,en,ns_ZA,community transmission,go fetetšwa ga batho
+41,en,ns_ZA,compromised immune system,mašole a mmele ao a lego tekong
+42,en,ns_ZA,contagion,go fetela
+43,en,ns_ZA,contagious,bolwetši bjo bo fetelago
+44,en,ns_ZA,contagiousness,go fetela
+45,en,ns_ZA,corona,khorona
+46,en,ns_ZA,corona virus,twatši ya khorona
+47,en,ns_ZA,corona virus epidemic,leuba la twatši ya khorona
+48,en,ns_ZA,corona virus outbreak,go ata ga twatši ya khorona
+49,en,ns_ZA,corona virus scare,tšhošetšo ya twatši ya khorona
+50,en,ns_ZA,coronavirus,twatšiyakhorona
+51,en,ns_ZA,coronavirus cases,dipego tša twatši ya khorona
+52,en,ns_ZA,coronavirus outbreak,go ata ga twatši ya khorona
+53,en,ns_ZA,coronavirus pandemic,bolwetši bja twatši ya khorona
+54,en,ns_ZA,coronavirus scare,tšhošetšo ya twatši ya khorona
+55,en,ns_ZA,cough,go gohlola
+56,en,ns_ZA,cough etiquette,mekgwa e mebotse ge o gohlola
+57,en,ns_ZA,coughing,Go gohlola
+58,en,ns_ZA,cov 19,cov 19
+59,en,ns_ZA,cov19,cov19
+60,en,ns_ZA,COVID,COVID
+61,en,ns_ZA,COVID-19 crisis,Mathata a COVID-19
+62,en,ns_ZA,covid-19,covid-19
+63,en,ns_ZA,covid19,covid19
+64,en,ns_ZA,COVID-19 epidemic,Bolwetši bja COVID-19
+65,en,ns_ZA,COVID-19 outbreak,Go ata ga COVID-19
+66,en,ns_ZA,COVID-19 pandemic,Bolwetši bja molokwanarite bja COVID-19
+67,en,ns_ZA,COVID 19,COVID 19
+68,en,ns_ZA,current crisis,Bothata bjo go lebanwego le bjona
+69,en,ns_ZA,current health crisis,Bothata bja tša maphelo bjo go lebanwego le bjona
+70,en,ns_ZA,current outbreak,Go ata ga bolwetši bjo go lebanwego le bjona
+71,en,ns_ZA,current pandemic,Bolwetši bja molokwanarite bjo go lebanwego le bjona
+72,en,ns_ZA,CV,CV
+73,en,ns_ZA,CV-19,CV-19
+74,en,ns_ZA,deadly,ya bolaya
+75,en,ns_ZA,deadly virus,Twatši e bolayago
+76,en,ns_ZA,death rate,Tekanyo ya mahu
+77,en,ns_ZA,death toll,Palo ya mahu
+78,en,ns_ZA,decontaminate,Go tloša ga twatši
+79,en,ns_ZA,detectable,Go lemoga
+80,en,ns_ZA,detergent,Sehlwekiši
+81,en,ns_ZA,difficulty breathing,Go thatafalelwa ke go hema
+82,en,ns_ZA,diabetes,Bolwetši bja swikiri
+83,en,ns_ZA,diagnosable disease,Bolwetši bjo bo hlahlobjago
+84,en,ns_ZA,diagnostic protocol,Tshepedišo ya go hwetša bolwetši
+85,en,ns_ZA,diagnostic testing,Teko ya go hwetša bolwetši
+86,en,ns_ZA,disease itself,Bolwetši ka bobona
+87,en,ns_ZA,disease outbreak,Go ata ga bolwetši
+88,en,ns_ZA,disinfectant,Go hwekiša
+89,en,ns_ZA,disposable,Selo sa go lahlwa
+90,en,ns_ZA,droplet transmission,go fetetšwa ga marothodi
+91,en,ns_ZA,droplets,marothodi
+92,en,ns_ZA,dry cough,Go gohlola mo go omilego
+93,en,ns_ZA,dry surface contamination,Bokagodimo bja selo bjo bo šilafaditšwego
+94,en,ns_ZA,ebola,ebola
+95,en,ns_ZA,effective treatment,Kalafo
+96,en,ns_ZA,electron microscope,Maekhroskoupo wa elektron
+97,en,ns_ZA,emergency department,Lefapha la boemo bja tšhoganetšo
+98,en,ns_ZA,epidemic,Go ata ga bolwetši
+99,en,ns_ZA,epidemic curve,Go gola ga go ata ga bolwetši
+100,en,ns_ZA,epidemic peak,tekanyo ya go ata ga bolwetši
+101,en,ns_ZA,epidemiologist,setsebi sa malwetši ao a fetelago
+102,en,ns_ZA,exposure,go ka fetelwa
+103,en,ns_ZA,extreme caution,go ba šedi kudu
+104,en,ns_ZA,eye protection,go šireletša mahlo
+105,en,ns_ZA,face mask,maske wa sefahlego
+106,en,ns_ZA,face masks,Dimask tša sefahlego
+107,en,ns_ZA,family cluster,Go tlalelana ga lapa
+108,en,ns_ZA,fatality rate,Tekanyo ya mahu
+109,en,ns_ZA,fecal contamination,Tšhilafatšo ya mantle
+110,en,ns_ZA,fever,Letadi
+111,en,ns_ZA,flatten the infection curve,Go fokotša ga go ata ga malwetši
+112,en,ns_ZA,flu,mphsikela
+113,en,ns_ZA,food safety,Tšhireletšego ya dijo
+114,en,ns_ZA,formaldehyde,formaldehyde
+115,en,ns_ZA,gastroenteritis,Bolwetši bja mala
+116,en,ns_ZA,germicide,Sebolaya ditwatši
+117,en,ns_ZA,global pandemic,Bolwetši bja lefase ka moka
+118,en,ns_ZA,global warming,Go ruthela ga lefase
+119,en,ns_ZA,good respiratory hygiene,Tlhokomelo e botse ya tša go hema
+120,en,ns_ZA,Guangdong,Guangdong
+121,en,ns_ZA,H1N1,H1N1
+122,en,ns_ZA,H1N1 virus,Twatši ya H1N1
+123,en,ns_ZA,hand disinfectant,Go hlwekiša seatla
+124,en,ns_ZA,hand sanitizer,Sehlwekiši sa seatla
+125,en,ns_ZA,health care provider,Moabi wa tša tlhokomelo ya maphelo
+126,en,ns_ZA,health crisis,Mathata a tša maphelo
+127,en,ns_ZA,health plan carrier,Leano la tša kalafo
+128,en,ns_ZA,health services,Ditirelo tša maphelo
+129,en,ns_ZA,heart failure,Go ema ga pelo
+130,en,ns_ZA,high fever,Letadi le legolo
+131,en,ns_ZA,HIV,HIV
+132,en,ns_ZA,hospitalize,Go ba sepetlele
+133,en,ns_ZA,household bleach,bleach ya ka ntlong
+134,en,ns_ZA,Hubei,hubei
+135,en,ns_ZA,hydrogen peroxide,hydrogen peroxide
+136,en,ns_ZA,hygiene,tša bohlweki
+137,en,ns_ZA,immune system,mašole a mmele
+138,en,ns_ZA,immunity,go se fetele ke bolwetši
+139,en,ns_ZA,immunocompromised,go se itwele ga mašole a mmele
+140,en,ns_ZA,immunologist,setsebi sa go šoma ka mašole a mmele
+141,en,ns_ZA,incubation,go tswalelelwa
+142,en,ns_ZA,incubation period,nako ya go tswalelelwa
+143,en,ns_ZA,indirect contact,go se kopane le batho ka go lebanya
+144,en,ns_ZA,infect,go fetela
+145,en,ns_ZA,infection,fetetšwe
+146,en,ns_ZA,infectious,fetela
+147,en,ns_ZA,infectivity,go fetela
+148,en,ns_ZA,influenza,mphsikela o kotsi
+149,en,ns_ZA,initial transmission event,nako yeo bolwetši bo tsenego ka yona
+150,en,ns_ZA,intensive care equipment,ditlabakelo tša kalafo tše di tseneletšego
+151,en,ns_ZA,intermediate host,go ikatiša
+152,en,ns_ZA,intrauterine,intrauterine
+153,en,ns_ZA,intubation,go tsenywa ga phaepe mogolong
+154,en,ns_ZA,isolation,go ikarola
+155,en,ns_ZA,Isopropanol,Isopropanol
+156,en,ns_ZA,laboratory test kit,ditlabakelo tša diteko tša laborothi
+157,en,ns_ZA,laboratory testing,diteko tša laborothi
+158,en,ns_ZA,lack of testing,go hlokagala ga batho ba go lekwa
+159,en,ns_ZA,lack of tests,go hlokagala ga diteko
+160,en,ns_ZA,latest updates,tša moragorago
+161,en,ns_ZA,liver failure,go hwa ga sebete
+162,en,ns_ZA,local public health authority,baemedi ba tša maphelo ba lefelong leo
+163,en,ns_ZA,lockdown,notlela
+164,en,ns_ZA,lungs,mafahla
+165,en,ns_ZA,masks,dimask
+166,en,ns_ZA,measles,mmoko
+167,en,ns_ZA,mechanical ventilation,dilo tša go thuša go hema
+168,en,ns_ZA,media coverage,kakaretšo ya mekero ya ditaba
+169,en,ns_ZA,medical care,tlhokomelo ya tša kalafo
+170,en,ns_ZA,MERS,MERS
+171,en,ns_ZA,MERS CoV,MERS CoV
+172,en,ns_ZA,microbiologist,Setsebi sa diphedi tše dinyenyane
+173,en,ns_ZA,mild cough,Go gohlola ga magareng
+174,en,ns_ZA,mortality rate,tekanyo ya mahu
+175,en,ns_ZA,multi-organ failure,Go hwa ga ditho tše dintšhi
+176,en,ns_ZA,nasal congestion,Go thibana dinko
+177,en,ns_ZA,neutral detergent,Sehlwekiši sa gohle
+178,en,ns_ZA,new normal,Selo se sefsa seo se tlwaelegilego
+179,en,ns_ZA,novel corona virus,twatši e mpsha ya khorona
+180,en,ns_ZA,novel coronavirus,twatšiyakhorona e mpsha
+181,en,ns_ZA,novel coronavirus outbreak,Go ata ga twatši e mpsha ya khorona
+182,en,ns_ZA,novel virus,Twatši e mpsha
+183,en,ns_ZA,online medical consultation,go tsoma kalafo inthanetheng
+184,en,ns_ZA,onset,mathomo
+185,en,ns_ZA,outbreak,go ata
+186,en,ns_ZA,outbreak readiness,go itokišeletša go ata
+187,en,ns_ZA,overall case fatality,kakaretšo ya dipego tša mahu
+188,en,ns_ZA,pandemic,bolwetši bja molokwanarite
+189,en,ns_ZA,pangolin,pangolin
+190,en,ns_ZA,pathogen,twatši e bakago bolwetši
+191,en,ns_ZA,pathology,go ithuta ka dibaki tša bolwetši
+192,en,ns_ZA,patient care equipment,ditlabakelo tša go šireletša molwetši
+193,en,ns_ZA,personal protective equipment,ditlabakelo tša go itšhireletša
+194,en,ns_ZA,person-to-person transmission,go fetetša ga motho
+195,en,ns_ZA,phlegm,sehuba
+196,en,ns_ZA,physical contact,go kgoma selo
+197,en,ns_ZA,plague,kotlo
+198,en,ns_ZA,pneumonia,bolwetši bja mafahla
+199,en,ns_ZA,pneumonias,bolwetši bja mafahla
+200,en,ns_ZA,positive test,diteko tša go bontšha gore bolwetši bo gona
+201,en,ns_ZA,precaution,tlhokomelo
+202,en,ns_ZA,precautionary,go itlhokomela
+203,en,ns_ZA,pre-existing condition,boemo bjo bo bego bo dutše bo le gona
+204,en,ns_ZA,preparedness,go itokišeletša
+205,en,ns_ZA,prognosis,go umaka ga mafelelo a bolwetši
+206,en,ns_ZA,protect myself,go itšhireletša
+207,en,ns_ZA,protect others,šireletša ba bangwe
+208,en,ns_ZA,protect yourself,itšhireletše
+209,en,ns_ZA,protective measures,dikgato tša go itšhireletša
+210,en,ns_ZA,public health crisis,mathata a tša maphelo a batho bohle
+211,en,ns_ZA,pulmonary tissue damage,go gobala ga ditlhalenama tša maswafo
+212,en,ns_ZA,quarantine,go itswalelela
+213,en,ns_ZA,rapid risk assessment,go lekolwa ga go ba kotsing
+214,en,ns_ZA,reagent,khemikhale ya go dira diteko
+215,en,ns_ZA,regular flu,mphsikela wa ka mehla
+216,en,ns_ZA,reinfection,go fetela gape
+217,en,ns_ZA,renal disease,bolwetši bja diphsio
+218,en,ns_ZA,renal failure,go se sa šoma ga diphsio
+219,en,ns_ZA,respirator,selo sa go hema
+220,en,ns_ZA,respiratory,mohemo
+221,en,ns_ZA,respiratory disease,bolwetši bja go hema
+222,en,ns_ZA,respiratory distress,kgateletšego ya go hema
+223,en,ns_ZA,respiratory droplets,marothodi a mohemo
+224,en,ns_ZA,respiratory hygiene,tlhweko ya go hema
+225,en,ns_ZA,respiratory illness,bolwetši bja go hema
+226,en,ns_ZA,respiratory syndrome,bolwetši bja mafahla
+227,en,ns_ZA,respiratory tract disease,bolwetši bja phaepe ya go hema
+228,en,ns_ZA,restrictions,dithibelo
+229,en,ns_ZA,resurge,go tsoga
+230,en,ns_ZA,RNA,RNA
+231,en,ns_ZA,rubeola,mmoko
+232,en,ns_ZA,runny nose,go tšwa mamina
+233,en,ns_ZA,SARS,SARS
+234,en,ns_ZA,SARS-CoV-2,SARS-CoV-2
+235,en,ns_ZA,SARS-CoV,SARS CoV
+236,en,ns_ZA,sars-related coronavirus,twatši ya khorona yeo e sepedišanago le sars
+237,en,ns_ZA,seasonal flu,mphsikela wa dihla
+238,en,ns_ZA,seasonal influenza,mphsikela wa dihla
+239,en,ns_ZA,secretion,go tšweletša
+240,en,ns_ZA,self-quarantine,go itswalelela
+241,en,ns_ZA,sepsis,ntho
+242,en,ns_ZA,septic shock,Go hwa ditho
+243,en,ns_ZA,Severe Acute Respiratory Syndrome,Bolwetši bjo bo Tseneletšego bja go Hema
+244,en,ns_ZA,shortness of breath,go felelwa ke moya
+245,en,ns_ZA,sickened,go fetišetšwa ka bolwetši
+246,en,ns_ZA,sickness,bolwetši
+247,en,ns_ZA,sneeze,ethimola
+248,en,ns_ZA,sneezes,ethimola
+249,en,ns_ZA,sneezing,go ethimola
+250,en,ns_ZA,social distancing,go ikarola
+251,en,ns_ZA,sore throat,mogolo o bohloko
+252,en,ns_ZA,spanish flu,mphsikela wa spain
+253,en,ns_ZA,specimen collection,go tšewa ga selo seo se lekolwago
+254,en,ns_ZA,spread,Go ata
+255,en,ns_ZA,sputum,sehuba
+256,en,ns_ZA,stigmatisation,Go swaya motho
+257,en,ns_ZA,supportive,Go thekga
+258,en,ns_ZA,surface,bokagodimo ga selo
+259,en,ns_ZA,surfaces,Bokagodimo ga dilo
+260,en,ns_ZA,suspected infection,bolwetši bjo bo umakwago
+261,en,ns_ZA,swab,swap
+262,en,ns_ZA,swine flu,mphsikela wa dikolobe
+263,en,ns_ZA,symptom,leswao
+264,en,ns_ZA,symptomatic,leswao
+265,en,ns_ZA,symptoms,maswao
+266,en,ns_ZA,targeted disinfection,mo go swanetšego go hlwekišwa
+267,en,ns_ZA,test kit,ditlabakelo tša diteko
+268,en,ns_ZA,testing error,phošo ya teko
+269,en,ns_ZA,tissue damage,go gobala ga
+270,en,ns_ZA,tp shortage,go hlaela ga pampiri
+271,en,ns_ZA,toilet paper shortage,go hlaela ga pampiri ya ka ntlwaneng
+272,en,ns_ZA,touch,kgoma
+273,en,ns_ZA,touching,go kgoma
+274,en,ns_ZA,transmissibility,Selo seo se fetelanago
+275,en,ns_ZA,transmissible,go fetela
+276,en,ns_ZA,transmission,phetetšo
+277,en,ns_ZA,transmission potential,selo seo se ka feteletšegago
+278,en,ns_ZA,typical flu,mphsikela o tlwaelegilego
+279,en,ns_ZA,underlying disease,bolwetši bjo bo iphihlilego
+280,en,ns_ZA,updates,go bea nakong
+281,en,ns_ZA,vaccine,moento
+282,en,ns_ZA,vaccines,moento
+283,en,ns_ZA,ventilation,tshepedišo ya moya
+284,en,ns_ZA,ventilator,setsenyamoya
+285,en,ns_ZA,ventilators,ditsenyamoya
+286,en,ns_ZA,viral infection,ntho ya twatši
+287,en,ns_ZA,viral outbreak,go ata ga twatši
+288,en,ns_ZA,viral pandemic,twatši ya molokwanarite
+289,en,ns_ZA,viral pneumonia,twatši ya pneumonia
+290,en,ns_ZA,virtual care,kalafo ya inthaneteng
+291,en,ns_ZA,virulence,bogolo bja bolwetši
+292,en,ns_ZA,virus itself,twatši ya boyona
+293,en,ns_ZA,virus outbreak,go ata ga twatši
+294,en,ns_ZA,virus scare,tšhošetšo ya twatši
+295,en,ns_ZA,virus spreads,go phatlalala ga twatši
+296,en,ns_ZA,virus strain,mohuta wa twatši
+297,en,ns_ZA,viral transmission,phetelo ya ditwatši
+298,en,ns_ZA,vivid-19,vivid-19
+299,en,ns_ZA,washing hands,go hlapa diatla
+300,en,ns_ZA,washing ones hands,go hlapa diatla tša motho
+301,en,ns_ZA,wash your hands,hlapa diatla tša gago
+302,en,ns_ZA,white blood cell count,tekanyo ya disele tše tšhweu le tše khwibidu
+303,en,ns_ZA,widespread transmission,go fetela mo go atilego
+304,en,ns_ZA,working from home,go šoma o le gae
+305,en,ns_ZA,WFH,WHF
+306,en,ns_ZA,Wuhan,Wuhan

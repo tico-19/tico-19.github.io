@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,cb_IQ,1918 flu,şewba 1918
+2,en,cb_IQ,acute bronchitis,bronşîta giran
+3,en,cb_IQ,acute respiratory disease,nexweşiya giran a nefesê
+4,en,cb_IQ,AIDS,Êydz
+5,en,cb_IQ,airborne droplets,Dilopkeyên di hewayê de
+6,en,cb_IQ,airway,rêya hewayî
+7,en,cb_IQ,alcohol-based,ji alkolê
+8,en,cb_IQ,alcohol-based hand rub,mizdanka alkolî ya destan
+9,en,cb_IQ,alcohol-based hand sanitizer,paqijkera alkolî ya destan
+10,en,cb_IQ,alveolar disease,nexweşiya piriyan
+11,en,cb_IQ,an epidemic,nexweşiya jêgir
+12,en,cb_IQ,annual flu,şewba salane
+13,en,cb_IQ,anti-inflammatory drug,madeya dijî werimînê
+14,en,cb_IQ,antiviral drug,madeya dijî vayrusan
+15,en,cb_IQ,antiviral treatment,dermanê dijî vayrusan
+16,en,cb_IQ,assay,ceribandin
+17,en,cb_IQ,asymptomatic,bêyî nîşane
+18,en,cb_IQ,avian flu,şewba mirîşkan
+19,en,cb_IQ,Black Plague,nexweşiya reşavê
+20,en,cb_IQ,blood pressure,tansiyona xwînê
+21,en,cb_IQ,body fluid,aveka bedenê
+22,en,cb_IQ,breathing,bêhnkişandin
+23,en,cb_IQ,bubonic plague,nexweşiya reşava kevirkî
+24,en,cb_IQ,c19,c19
+25,en,cb_IQ,cv19,cv19
+26,en,cb_IQ,case fatality rate,qasa mirinbariya nexweşan
+27,en,cb_IQ,causative agent,hokara çêbûnê
+28,en,cb_IQ,CDC,CDC
+29,en,cb_IQ,chemical disinfection,pakkirina kîmyayî
+30,en,cb_IQ,chest x-ray,tîrêja-x ya sîngî
+31,en,cb_IQ,clinical diagnosis,jêfêmkirina klînîkî
+32,en,cb_IQ,clinical trial,ceribandina klînîkî
+33,en,cb_IQ,close contact,pêwedniya nêzîk
+34,en,cb_IQ,cvirus,cvayrus
+35,en,cb_IQ,chronic respiratory disease,nexweşiya domdar a nefesê
+36,en,cb_IQ,common cold,sermalêdana asayî
+37,en,cb_IQ,common flu,şewba asayî
+38,en,cb_IQ,communicable disease,nexweşiya guhêzbar
+39,en,cb_IQ,community spread,berbelavbûna civakî
+40,en,cb_IQ,community transmission,veguhestina civakî
+41,en,cb_IQ,compromised immune system,pergala lihevkirî ya ewlebûnê
+42,en,cb_IQ,contagion,nexweşiya vegir
+43,en,cb_IQ,contagious,jêgir
+44,en,cb_IQ,contagiousness,jêgirbûn
+45,en,cb_IQ,corona,korona
+46,en,cb_IQ,corona virus,korona vayrus
+47,en,cb_IQ,corona virus epidemic,jêgirbûna koronavayrusê
+48,en,cb_IQ,corona virus outbreak,belavbûna korona vayrusê
+49,en,cb_IQ,corona virus scare,tirsa ji korona vayrusê
+50,en,cb_IQ,coronavirus,koronavayrus
+51,en,cb_IQ,coronavirus cases,kesên tûşî koronavayrusê
+52,en,cb_IQ,coronavirus outbreak,belavbûna koronavayrusê
+53,en,cb_IQ,coronavirus pandemic,giştgirbûna koronavayrusê
+54,en,cb_IQ,coronavirus scare,tirsa ji koronavayrusê
+55,en,cb_IQ,cough,kuxîn
+56,en,cb_IQ,cough etiquette,berçespa kuxînê
+57,en,cb_IQ,coughing,kuxik
+58,en,cb_IQ,cov 19,kov 19
+59,en,cb_IQ,cov19,kov19
+60,en,cb_IQ,COVID,KOVÎD
+61,en,cb_IQ,COVID-19 crisis,qeyrana KOVÎD-19
+62,en,cb_IQ,covid-19,kovîd-19
+63,en,cb_IQ,covid19,kovîd19
+64,en,cb_IQ,COVID-19 epidemic,jêgirbûna KOVÎD-19
+65,en,cb_IQ,COVID-19 outbreak,belavbûna KOVÎD-19
+66,en,cb_IQ,COVID-19 pandemic,giştgirbûna KOVÎD-19
+67,en,cb_IQ,COVID 19,KOVÎD-19
+68,en,cb_IQ,current crisis,qeyrana niha
+69,en,cb_IQ,current health crisis,qeyrana niha ya tenduristiyê
+70,en,cb_IQ,current outbreak,belavbûna niha
+71,en,cb_IQ,current pandemic,giştgirbûna niha
+72,en,cb_IQ,CV,KV
+73,en,cb_IQ,CV-19,CV-19
+74,en,cb_IQ,deadly,mirinbar
+75,en,cb_IQ,deadly virus,vayrusa mirinbar
+76,en,cb_IQ,death rate,qasa mirinê
+77,en,cb_IQ,death toll,mesrefa mirinê
+78,en,cb_IQ,decontaminate,paqijkirina gemarê
+79,en,cb_IQ,detectable,nasînbar
+80,en,cb_IQ,detergent,madeyên paqijkirinê
+81,en,cb_IQ,difficulty breathing,bêhnkişandina dijwar
+82,en,cb_IQ,diabetes,nexweşiya şekir
+83,en,cb_IQ,diagnosable disease,nexweşiya jêfêmbar
+84,en,cb_IQ,diagnostic protocol,protokola jêfêmkirinê
+85,en,cb_IQ,diagnostic testing,testa jêfêmkirinê
+86,en,cb_IQ,disease itself,nexweşî bixwe
+87,en,cb_IQ,disease outbreak,belavbûna nexweşiyê
+88,en,cb_IQ,disinfectant,madeya paqijkar
+89,en,cb_IQ,disposable,berdest
+90,en,cb_IQ,droplet transmission,veguhestina dilopkeyan
+91,en,cb_IQ,droplets,dilopke
+92,en,cb_IQ,dry cough,kuxika ziwa
+93,en,cb_IQ,dry surface contamination,gemarbûna rûveka ziwa
+94,en,cb_IQ,ebola,îbola
+95,en,cb_IQ,effective treatment,dermanê kêrhatî
+96,en,cb_IQ,electron microscope,mîkroskopa elektronî
+97,en,cb_IQ,emergency department,beşa lezgîn
+98,en,cb_IQ,epidemic,jêrgir
+99,en,cb_IQ,epidemic curve,kevana jêgirbûnê
+100,en,cb_IQ,epidemic peak,lûtkeya jêgirbûnê
+101,en,cb_IQ,epidemiologist,pisporê nexweşiyên jêgir
+102,en,cb_IQ,exposure,ketin ber
+103,en,cb_IQ,extreme caution,hemetebûna zêde
+104,en,cb_IQ,eye protection,parastina çavan
+105,en,cb_IQ,face mask,rûpêç
+106,en,cb_IQ,face masks,rûbendan
+107,en,cb_IQ,family cluster,koma malbatî
+108,en,cb_IQ,fatality rate,qasa kujindeyiyê
+109,en,cb_IQ,fecal contamination,gemara ji gû
+110,en,cb_IQ,fever,ta
+111,en,cb_IQ,flatten the infection curve,rastkirina kevana tûşbûnê
+112,en,cb_IQ,flu,şewb
+113,en,cb_IQ,food safety,ewlebûna xwarinê
+114,en,cb_IQ,formaldehyde,formaldêhîd
+115,en,cb_IQ,gastroenteritis,werimîna zik
+116,en,cb_IQ,germicide,gemarkuj
+117,en,cb_IQ,global pandemic,giştgirbûna cîhanî
+118,en,cb_IQ,global warming,germbûna cîhanî
+119,en,cb_IQ,good respiratory hygiene,paqijiya baş a nefesê
+120,en,cb_IQ,Guangdong,Guangdong
+121,en,cb_IQ,H1N1,H1N1
+122,en,cb_IQ,H1N1 virus,vayrusa H1N1
+123,en,cb_IQ,hand disinfectant,madeya paqijkar a destan
+124,en,cb_IQ,hand sanitizer,madeya şûştina destan
+125,en,cb_IQ,health care provider,muqatekarê tendurisityê
+126,en,cb_IQ,health crisis,qeyrana tenduristiyê
+127,en,cb_IQ,health plan carrier,berpirsê plana tenduristiyê
+128,en,cb_IQ,health services,xizmetên tenduristiyê
+129,en,cb_IQ,heart failure,têkçûna tenduristiyê
+130,en,cb_IQ,high fever,taya zêde
+131,en,cb_IQ,HIV,HIV
+132,en,cb_IQ,hospitalize,razandin
+133,en,cb_IQ,household bleach,madeyên paqijiyê yên malê
+134,en,cb_IQ,Hubei,Hûbey
+135,en,cb_IQ,hydrogen peroxide,hîdrojên pêroksîd
+136,en,cb_IQ,hygiene,paqijî
+137,en,cb_IQ,immune system,pergala ewlebûnê
+138,en,cb_IQ,immunity,ewlebûn
+139,en,cb_IQ,immunocompromised,lihevkirina ewlebûnê
+140,en,cb_IQ,immunologist,pisporê ewlebûna nexweşiyan
+141,en,cb_IQ,incubation,veşartîbûn
+142,en,cb_IQ,incubation period,dema veşartîbûnê
+143,en,cb_IQ,indirect contact,pêwendiya nerasterast
+144,en,cb_IQ,infect,tûş kirin
+145,en,cb_IQ,infection,tûşbûn
+146,en,cb_IQ,infectious,jêkvegir
+147,en,cb_IQ,infectivity,jêkvegirî
+148,en,cb_IQ,influenza,anflûanza
+149,en,cb_IQ,initial transmission event,rûdana yekemîn veguhestin
+150,en,cb_IQ,intensive care equipment,amûrên muqatebûna baldarane
+151,en,cb_IQ,intermediate host,mazûvanê navbeynê
+152,en,cb_IQ,intrauterine,amûra hundirîn
+153,en,cb_IQ,intubation,xistina boriyê nava
+154,en,cb_IQ,isolation,cudasazî
+155,en,cb_IQ,Isopropanol,îzopropanol
+156,en,cb_IQ,laboratory test kit,qutiya testa ezmûngehê
+157,en,cb_IQ,laboratory testing,testa ezmûngehê
+158,en,cb_IQ,lack of testing,nebûna testkirinê
+159,en,cb_IQ,lack of tests,nebûna testan
+160,en,cb_IQ,latest updates,birojbûnên dawîn
+161,en,cb_IQ,liver failure,têkçûna kezebê
+162,en,cb_IQ,local public health authority,rayedarê xwecihî yê tenduristiya giştî
+163,en,cb_IQ,lockdown,qifilkirin
+164,en,cb_IQ,lungs,pişik
+165,en,cb_IQ,masks,rûpêçan
+166,en,cb_IQ,measles,xalên sorikê
+167,en,cb_IQ,mechanical ventilation,hewadana mekanîkî
+168,en,cb_IQ,media coverage,dapoşana medyayî
+169,en,cb_IQ,medical care,muqatebûna bijîşkî
+170,en,cb_IQ,MERS,MERS
+171,en,cb_IQ,MERS CoV,MERS CoV
+172,en,cb_IQ,microbiologist,pisporê mîkrobiyolojiyê
+173,en,cb_IQ,mild cough,kuxika nerm
+174,en,cb_IQ,mortality rate,qasa mirinbariyê
+175,en,cb_IQ,multi-organ failure,têkçûna çend endaman
+176,en,cb_IQ,nasal congestion,xilta poz
+177,en,cb_IQ,neutral detergent,madeya paqijkirinê ya bêbandor
+178,en,cb_IQ,new normal,asayî ya nû
+179,en,cb_IQ,novel corona virus,korona vayrusa nû
+180,en,cb_IQ,novel coronavirus,koronavayrusa nû
+181,en,cb_IQ,novel coronavirus outbreak,belavbûna koronavayrusa nû
+182,en,cb_IQ,novel virus,vayrusa nû
+183,en,cb_IQ,online medical consultation,hevpirsîna internetî ya bijîşkî
+184,en,cb_IQ,onset,destpêk
+185,en,cb_IQ,outbreak,belavbûna nesaxiyê
+186,en,cb_IQ,outbreak readiness,amadebûna belevbûnê
+187,en,cb_IQ,overall case fatality,mirinbariya giştî ya kesan
+188,en,cb_IQ,pandemic,giştgirbûn
+189,en,cb_IQ,pangolin,mûrîxwar
+190,en,cb_IQ,pathogen,patojên
+191,en,cb_IQ,pathology,egernasî
+192,en,cb_IQ,patient care equipment,amûrên muqatebûna nexweşan
+193,en,cb_IQ,personal protective equipment,amûrên parastina kesan
+194,en,cb_IQ,person-to-person transmission,veguhestina kes-bi-kes
+195,en,cb_IQ,phlegm,xilt û kêm
+196,en,cb_IQ,physical contact,pêwendiya bedenî
+197,en,cb_IQ,plague,reşav
+198,en,cb_IQ,pneumonia,tengenefes
+199,en,cb_IQ,pneumonias,tengenefesî
+200,en,cb_IQ,positive test,testa erê
+201,en,cb_IQ,precaution,hemetebûn
+202,en,cb_IQ,precautionary,hemetetî
+203,en,cb_IQ,pre-existing condition,merca berî-hebûnê
+204,en,cb_IQ,preparedness,amadebûn
+205,en,cb_IQ,prognosis,pêşbînya nexweşiyê
+206,en,cb_IQ,protect myself,xwe diparêzim
+207,en,cb_IQ,protect others,kesên din diparêzim
+208,en,cb_IQ,protect yourself,xwe biparêzin
+209,en,cb_IQ,protective measures,kiryarên parastinê
+210,en,cb_IQ,public health crisis,qeyrana tenduristiya giştî
+211,en,cb_IQ,pulmonary tissue damage,ziyana tevna pişikan
+212,en,cb_IQ,quarantine,varzêkirin û ragirtin
+213,en,cb_IQ,rapid risk assessment,nirxandina zû ya metirsiyê
+214,en,cb_IQ,reagent,nîşana nasandinê
+215,en,cb_IQ,regular flu,şewba rêkûpêk
+216,en,cb_IQ,reinfection,dîsan tûşbûn
+217,en,cb_IQ,renal disease,nexweşiya gurçikan
+218,en,cb_IQ,renal failure,têkçûna gurçikan
+219,en,cb_IQ,respirator,rêspîrator
+220,en,cb_IQ,respiratory,nefesî
+221,en,cb_IQ,respiratory disease,nexweşiya nefesiyê
+222,en,cb_IQ,respiratory distress,aloziya nefesî
+223,en,cb_IQ,respiratory droplets,dilopkeyên nefesê
+224,en,cb_IQ,respiratory hygiene,paqijiya nefesiyê
+225,en,cb_IQ,respiratory illness,nexweşiya henaseyê
+226,en,cb_IQ,respiratory syndrome,sendroma nefesiyê
+227,en,cb_IQ,respiratory tract disease,nexweşiya rêya nefesê
+228,en,cb_IQ,restrictions,kêmsînorî
+229,en,cb_IQ,resurge,dîsan derketin
+230,en,cb_IQ,RNA,RNA
+231,en,cb_IQ,rubeola,sorsorik
+232,en,cb_IQ,runny nose,ava poz
+233,en,cb_IQ,SARS,SARS
+234,en,cb_IQ,SARS-CoV-2,SARS-CoV-2
+235,en,cb_IQ,SARS-CoV,SARS-CoV
+236,en,cb_IQ,sars-related coronavirus,koronavayrus têkildarî sars’ê
+237,en,cb_IQ,seasonal flu,şewba demsalî
+238,en,cb_IQ,seasonal influenza,anflûanzaya demsalî
+239,en,cb_IQ,secretion,hatina av û kêmê
+240,en,cb_IQ,self-quarantine,xwe varzêkirin
+241,en,cb_IQ,sepsis,werimîna sor
+242,en,cb_IQ,septic shock,şoka werimîna sor
+243,en,cb_IQ,Severe Acute Respiratory Syndrome,Sendroma Nefesê ya Gelekî Giran
+244,en,cb_IQ,shortness of breath,kêmhatina bêhnkişandinê
+245,en,cb_IQ,sickened,nexweşkirin
+246,en,cb_IQ,sickness,nexweşî
+247,en,cb_IQ,sneeze,bênijîn
+248,en,cb_IQ,sneezes,dibênije
+249,en,cb_IQ,sneezing,pijmîn
+250,en,cb_IQ,social distancing,dûrbûna civakî
+251,en,cb_IQ,sore throat,gewrî-êş
+252,en,cb_IQ,spanish flu,şewba Spanyayî
+253,en,cb_IQ,specimen collection,koma mînakan
+254,en,cb_IQ,spread,belavbûn
+255,en,cb_IQ,sputum,tûk
+256,en,cb_IQ,stigmatisation,berçesp lêdan
+257,en,cb_IQ,supportive,piştevan
+258,en,cb_IQ,surface,rûvek
+259,en,cb_IQ,surfaces,rûvekan
+260,en,cb_IQ,suspected infection,tûşbûna gumanbar
+261,en,cb_IQ,swab,pakkarî
+262,en,cb_IQ,swine flu,şewba berazan
+263,en,cb_IQ,symptom,nîşane
+264,en,cb_IQ,symptomatic,nîşaneyî
+265,en,cb_IQ,symptoms,nîşaneyan
+266,en,cb_IQ,targeted disinfection,pakkirina armancdar
+267,en,cb_IQ,test kit,qutiya testê
+268,en,cb_IQ,testing error,şaşiya testê
+269,en,cb_IQ,tissue damage,ziyana tevnê
+270,en,cb_IQ,tp shortage,kêmbûna tp
+271,en,cb_IQ,toilet paper shortage,kêmbûna destmala destavê
+272,en,cb_IQ,touch,destlêdan
+273,en,cb_IQ,touching,dest lêdan
+274,en,cb_IQ,transmissibility,veguhestinbarî
+275,en,cb_IQ,transmissible,veguhestinbar
+276,en,cb_IQ,transmission,veguhestin
+277,en,cb_IQ,transmission potential,potansiyêla veguhestinê
+278,en,cb_IQ,typical flu,şewba mînak
+279,en,cb_IQ,underlying disease,nexweşiya diyarbûyî
+280,en,cb_IQ,updates,birojbûn
+281,en,cb_IQ,vaccine,vaksîn
+282,en,cb_IQ,vaccines,vaksînan
+283,en,cb_IQ,ventilation,hewadan
+284,en,cb_IQ,ventilator,dezgeha hewadanê
+285,en,cb_IQ,ventilators,dezgehên hewadanê
+286,en,cb_IQ,viral infection,tûşbûna vayrusî
+287,en,cb_IQ,viral outbreak,belavbûna vayrusî
+288,en,cb_IQ,viral pandemic,giştgirbûna vayrusî
+289,en,cb_IQ,viral pneumonia,tengenefesiya vayrusî
+290,en,cb_IQ,virtual care,muqatebûna vayrusî
+291,en,cb_IQ,virulence,vayrusgirbûn
+292,en,cb_IQ,virus itself,vayrus bixwe
+293,en,cb_IQ,virus outbreak,belavbûna vayrusê
+294,en,cb_IQ,virus scare,tirsa ji vayrusê
+295,en,cb_IQ,virus spreads,vayrus belav dibe
+296,en,cb_IQ,virus strain,westandina vayrusê
+297,en,cb_IQ,viral transmission,veguhestina vayrusê
+298,en,cb_IQ,vivid-19,vivid-19
+299,en,cb_IQ,washing hands,şûştina destan
+300,en,cb_IQ,washing ones hands,şûştina destên hevdu
+301,en,cb_IQ,wash your hands,destên xwe bişon
+302,en,cb_IQ,white blood cell count,hejmara selûlên sipî yên xwînê
+303,en,cb_IQ,widespread transmission,veguhestina berfireh
+304,en,cb_IQ,working from home,karkirina ji malê
+305,en,cb_IQ,WFH,WFH
+306,en,cb_IQ,Wuhan,Wuhan

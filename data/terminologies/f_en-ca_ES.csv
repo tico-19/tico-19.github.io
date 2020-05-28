@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ca_ES,1918 flu,grip de 1918
+2,en,ca_ES,acute bronchitis,bronquitis aguda
+3,en,ca_ES,acute respiratory disease,malaltia respiratòria aguda
+4,en,ca_ES,AIDS,SIDA
+5,en,ca_ES,airborne droplets,gotes aèries
+6,en,ca_ES,airway,via aèria
+7,en,ca_ES,alcohol-based,a base d’alcohol
+8,en,ca_ES,alcohol-based hand rub,producte a base d’alcohol per fregar-se les mans
+9,en,ca_ES,alcohol-based hand sanitizer,desinfectant de mans a base d’alcohol
+10,en,ca_ES,alveolar disease,malaltia alveolar
+11,en,ca_ES,an epidemic,una epidèmia
+12,en,ca_ES,annual flu,grip anual
+13,en,ca_ES,anti-inflammatory drug,fàrmac antiinflamatori
+14,en,ca_ES,antiviral drug,fàrmac antivíric
+15,en,ca_ES,antiviral treatment,tractament antivíric
+16,en,ca_ES,assay,assaig
+17,en,ca_ES,asymptomatic,asimptomàtic
+18,en,ca_ES,avian flu,grip aviària
+19,en,ca_ES,Black Plague,pesta negra
+20,en,ca_ES,blood pressure,pressió arterial
+21,en,ca_ES,body fluid,fluid corporal
+22,en,ca_ES,breathing,respirar
+23,en,ca_ES,bubonic plague,pesta bubònica
+24,en,ca_ES,c19,c19
+25,en,ca_ES,cv19,cv19
+26,en,ca_ES,case fatality rate,taxa de letalitat
+27,en,ca_ES,causative agent,agent causatiu
+28,en,ca_ES,CDC,CDC
+29,en,ca_ES,chemical disinfection,desinfecció química
+30,en,ca_ES,chest x-ray,radiografia del tòrax
+31,en,ca_ES,clinical diagnosis,diagnòstic clínic
+32,en,ca_ES,clinical trial,assaig clínic
+33,en,ca_ES,close contact,contacte proper
+34,en,ca_ES,cvirus,cvirus
+35,en,ca_ES,chronic respiratory disease,malaltia respiratòria crònica
+36,en,ca_ES,common cold,refredat comú
+37,en,ca_ES,common flu,grip comuna
+38,en,ca_ES,communicable disease,malaltia contagiosa
+39,en,ca_ES,community spread,propagació comunitària
+40,en,ca_ES,community transmission,transmissió comunitària
+41,en,ca_ES,compromised immune system,sistema immunitari compromès
+42,en,ca_ES,contagion,contagi
+43,en,ca_ES,contagious,contagiós
+44,en,ca_ES,contagiousness,contagiositat
+45,en,ca_ES,corona,corona
+46,en,ca_ES,corona virus,coronavirus
+47,en,ca_ES,corona virus epidemic,epidèmia de coronavirus
+48,en,ca_ES,corona virus outbreak,brot de coronavirus
+49,en,ca_ES,corona virus scare,alarma pel coronavirus
+50,en,ca_ES,coronavirus,coronavirus
+51,en,ca_ES,coronavirus cases,casos de coronavirus
+52,en,ca_ES,coronavirus outbreak,brot de coronavirus
+53,en,ca_ES,coronavirus pandemic,pandèmia de coronavirus
+54,en,ca_ES,coronavirus scare,alarma pel coronavirus
+55,en,ca_ES,cough,tos
+56,en,ca_ES,cough etiquette,protocol en tossir
+57,en,ca_ES,coughing,tossir
+58,en,ca_ES,cov 19,cov 19
+59,en,ca_ES,cov19,cov19
+60,en,ca_ES,COVID,COVID
+61,en,ca_ES,COVID-19 crisis,crisi de COVID-19
+62,en,ca_ES,covid-19,covid-19
+63,en,ca_ES,covid19,covid19
+64,en,ca_ES,COVID-19 epidemic,epidèmia de COVID-19
+65,en,ca_ES,COVID-19 outbreak,brot de COVID-19
+66,en,ca_ES,COVID-19 pandemic,pandèmia de COVID-19
+67,en,ca_ES,COVID 19,COVID 19
+68,en,ca_ES,current crisis,crisi actual
+69,en,ca_ES,current health crisis,crisi sanitària actual
+70,en,ca_ES,current outbreak,brot actual
+71,en,ca_ES,current pandemic,pandèmia actual
+72,en,ca_ES,CV,CV
+73,en,ca_ES,CV-19,CV-19
+74,en,ca_ES,deadly,mortal
+75,en,ca_ES,deadly virus,virus mortal
+76,en,ca_ES,death rate,taxa de mortalitat
+77,en,ca_ES,death toll,nombre de morts
+78,en,ca_ES,decontaminate,descontaminar
+79,en,ca_ES,detectable,detectable
+80,en,ca_ES,detergent,detergent
+81,en,ca_ES,difficulty breathing,dificultat per respirar
+82,en,ca_ES,diabetes,diabetis
+83,en,ca_ES,diagnosable disease,malaltia diagnosticable
+84,en,ca_ES,diagnostic protocol,protocol diagnòstic
+85,en,ca_ES,diagnostic testing,proves diagnòstiques
+86,en,ca_ES,disease itself,la malaltia en si mateixa
+87,en,ca_ES,disease outbreak,brot de la malaltia
+88,en,ca_ES,disinfectant,desinfectant
+89,en,ca_ES,disposable,d’un sol ús
+90,en,ca_ES,droplet transmission,transmissió per gotes
+91,en,ca_ES,droplets,gotes
+92,en,ca_ES,dry cough,tos seca
+93,en,ca_ES,dry surface contamination,contaminació de superfícies seques
+94,en,ca_ES,ebola,ebola
+95,en,ca_ES,effective treatment,tractament eficaç
+96,en,ca_ES,electron microscope,microscopi electrònic
+97,en,ca_ES,emergency department,departament d’emergències
+98,en,ca_ES,epidemic,epidèmia
+99,en,ca_ES,epidemic curve,corba epidèmica
+100,en,ca_ES,epidemic peak,pic epidèmic
+101,en,ca_ES,epidemiologist,epidemiòleg
+102,en,ca_ES,exposure,exposició
+103,en,ca_ES,extreme caution,precaució extrema
+104,en,ca_ES,eye protection,protecció ocular
+105,en,ca_ES,face mask,màscara facial
+106,en,ca_ES,face masks,màscares facials
+107,en,ca_ES,family cluster,grup familiar
+108,en,ca_ES,fatality rate,taxa de letalitat
+109,en,ca_ES,fecal contamination,contaminació fecal
+110,en,ca_ES,fever,febre
+111,en,ca_ES,flatten the infection curve,aplanar la corba d’infeccions
+112,en,ca_ES,flu,grip
+113,en,ca_ES,food safety,seguretat alimentària
+114,en,ca_ES,formaldehyde,formaldehid
+115,en,ca_ES,gastroenteritis,gastroenteritis
+116,en,ca_ES,germicide,antisèptic
+117,en,ca_ES,global pandemic,pandèmia global
+118,en,ca_ES,global warming,escalfament global
+119,en,ca_ES,good respiratory hygiene,bona higiene respiratòria
+120,en,ca_ES,Guangdong,Guangdong
+121,en,ca_ES,H1N1,H1N1
+122,en,ca_ES,H1N1 virus,virus H1N1
+123,en,ca_ES,hand disinfectant,desinfectant de mans
+124,en,ca_ES,hand sanitizer,desinfectant de mans
+125,en,ca_ES,health care provider,professional de la salut
+126,en,ca_ES,health crisis,crisi sanitària
+127,en,ca_ES,health plan carrier,empresa d’assegurances mèdiques
+128,en,ca_ES,health services,serveis sanitaris
+129,en,ca_ES,heart failure,fallida cardíaca
+130,en,ca_ES,high fever,febre alta
+131,en,ca_ES,HIV,VIH
+132,en,ca_ES,hospitalize,hospitalitzar
+133,en,ca_ES,household bleach,lleixiu domèstic
+134,en,ca_ES,Hubei,Hubei
+135,en,ca_ES,hydrogen peroxide,aigua oxigenada
+136,en,ca_ES,hygiene,higiene
+137,en,ca_ES,immune system,sistema immunitari
+138,en,ca_ES,immunity,immunitat
+139,en,ca_ES,immunocompromised,immunocompromès
+140,en,ca_ES,immunologist,immunòleg
+141,en,ca_ES,incubation,incubació
+142,en,ca_ES,incubation period,període d’incubació
+143,en,ca_ES,indirect contact,contacte indirecte
+144,en,ca_ES,infect,infectar
+145,en,ca_ES,infection,infecció
+146,en,ca_ES,infectious,infecciós
+147,en,ca_ES,infectivity,infecciositat
+148,en,ca_ES,influenza,grip
+149,en,ca_ES,initial transmission event,esdeveniment de transmissió inicial
+150,en,ca_ES,intensive care equipment,equip de cures intensives
+151,en,ca_ES,intermediate host,hoste intermedi
+152,en,ca_ES,intrauterine,intrauterí
+153,en,ca_ES,intubation,intubació
+154,en,ca_ES,isolation,aïllament
+155,en,ca_ES,Isopropanol,isopropanol
+156,en,ca_ES,laboratory test kit,equip de proves de laboratori
+157,en,ca_ES,laboratory testing,proves de laboratori
+158,en,ca_ES,lack of testing,falta de proves
+159,en,ca_ES,lack of tests,falta de proves
+160,en,ca_ES,latest updates,últimes novetats
+161,en,ca_ES,liver failure,fallida hepàtica
+162,en,ca_ES,local public health authority,autoritat sanitària pública local
+163,en,ca_ES,lockdown,confinament
+164,en,ca_ES,lungs,pulmons
+165,en,ca_ES,masks,màscares
+166,en,ca_ES,measles,xarampió
+167,en,ca_ES,mechanical ventilation,respiració assistida
+168,en,ca_ES,media coverage,cobertura mediàtica
+169,en,ca_ES,medical care,assistència sanitària
+170,en,ca_ES,MERS,MERS
+171,en,ca_ES,MERS CoV,MERS CoV
+172,en,ca_ES,microbiologist,microbiòleg
+173,en,ca_ES,mild cough,tos lleu
+174,en,ca_ES,mortality rate,taxa de mortalitat
+175,en,ca_ES,multi-organ failure,fallida multiorgànica
+176,en,ca_ES,nasal congestion,congestió nasal
+177,en,ca_ES,neutral detergent,detergent neutre
+178,en,ca_ES,new normal,nova normalitat
+179,en,ca_ES,novel corona virus,nou coronavirus
+180,en,ca_ES,novel coronavirus,nou coronavirus
+181,en,ca_ES,novel coronavirus outbreak,nou brot de coronavirus
+182,en,ca_ES,novel virus,nou virus
+183,en,ca_ES,online medical consultation,consulta mèdica a internet
+184,en,ca_ES,onset,debut
+185,en,ca_ES,outbreak,brot
+186,en,ca_ES,outbreak readiness,preparacions per al brot
+187,en,ca_ES,overall case fatality,letalitat total
+188,en,ca_ES,pandemic,pandèmia
+189,en,ca_ES,pangolin,pangolí
+190,en,ca_ES,pathogen,patogen
+191,en,ca_ES,pathology,patologia
+192,en,ca_ES,patient care equipment,equip d’assistència al pacient
+193,en,ca_ES,personal protective equipment,equip de protecció personal
+194,en,ca_ES,person-to-person transmission,transmissió de persona a persona
+195,en,ca_ES,phlegm,flegma
+196,en,ca_ES,physical contact,contacte físic
+197,en,ca_ES,plague,pesta
+198,en,ca_ES,pneumonia,pneumònia
+199,en,ca_ES,pneumonias,pneumònies
+200,en,ca_ES,positive test,prova positiva
+201,en,ca_ES,precaution,precaució
+202,en,ca_ES,precautionary,preventiu
+203,en,ca_ES,pre-existing condition,afecció preexistent
+204,en,ca_ES,preparedness,preparació
+205,en,ca_ES,prognosis,pronòstic
+206,en,ca_ES,protect myself,protegir-me a mi mateix
+207,en,ca_ES,protect others,protegir els altres
+208,en,ca_ES,protect yourself,protegir-te tu mateix
+209,en,ca_ES,protective measures,mesures de protecció
+210,en,ca_ES,public health crisis,crisi sanitària pública
+211,en,ca_ES,pulmonary tissue damage,dany del teixit pulmonar
+212,en,ca_ES,quarantine,quarantena
+213,en,ca_ES,rapid risk assessment,avaluació ràpida de riscs
+214,en,ca_ES,reagent,reactiu
+215,en,ca_ES,regular flu,grip comuna
+216,en,ca_ES,reinfection,reinfecció
+217,en,ca_ES,renal disease,malaltia renal
+218,en,ca_ES,renal failure,fallida renal
+219,en,ca_ES,respirator,respirador
+220,en,ca_ES,respiratory,respiratori
+221,en,ca_ES,respiratory disease,malaltia respiratòria
+222,en,ca_ES,respiratory distress,destret respiratori
+223,en,ca_ES,respiratory droplets,gotes respiratòries
+224,en,ca_ES,respiratory hygiene,higiene respiratòria
+225,en,ca_ES,respiratory illness,malaltia respiratòria
+226,en,ca_ES,respiratory syndrome,síndrome respiratòria
+227,en,ca_ES,respiratory tract disease,malaltia de les vies respiratòries
+228,en,ca_ES,restrictions,restriccions
+229,en,ca_ES,resurge,ressorgiment
+230,en,ca_ES,RNA,ARN
+231,en,ca_ES,rubeola,xarampió
+232,en,ca_ES,runny nose,mucositat
+233,en,ca_ES,SARS,SARS
+234,en,ca_ES,SARS-CoV-2,SARS-CoV-2
+235,en,ca_ES,SARS-CoV,SARS-CoV
+236,en,ca_ES,sars-related coronavirus,coronavirus relacionat amb el SARS
+237,en,ca_ES,seasonal flu,grip estacional
+238,en,ca_ES,seasonal influenza,grip estacional
+239,en,ca_ES,secretion,secreció
+240,en,ca_ES,self-quarantine,quarantena personal
+241,en,ca_ES,sepsis,sèpsia
+242,en,ca_ES,septic shock,xoc sèptic
+243,en,ca_ES,Severe Acute Respiratory Syndrome,síndrome respiratòria aguda greu
+244,en,ca_ES,shortness of breath,respiració superficial
+245,en,ca_ES,sickened,malalt
+246,en,ca_ES,sickness,malaltia
+247,en,ca_ES,sneeze,esternut
+248,en,ca_ES,sneezes,esternuts
+249,en,ca_ES,sneezing,esternudar
+250,en,ca_ES,social distancing,distanciació social
+251,en,ca_ES,sore throat,mal de coll
+252,en,ca_ES,spanish flu,grip espanyola
+253,en,ca_ES,specimen collection,recollida d’espècimen
+254,en,ca_ES,spread,propagació
+255,en,ca_ES,sputum,esput
+256,en,ca_ES,stigmatisation,estigmatització
+257,en,ca_ES,supportive,de suport
+258,en,ca_ES,surface,superfície
+259,en,ca_ES,surfaces,superfícies
+260,en,ca_ES,suspected infection,sospita d’infecció
+261,en,ca_ES,swab,escovilló
+262,en,ca_ES,swine flu,grip porcina
+263,en,ca_ES,symptom,símptoma
+264,en,ca_ES,symptomatic,simptomàtic
+265,en,ca_ES,symptoms,símptomes
+266,en,ca_ES,targeted disinfection,desinfecció específica
+267,en,ca_ES,test kit,equip de proves
+268,en,ca_ES,testing error,error a les proves
+269,en,ca_ES,tissue damage,dany del teixit
+270,en,ca_ES,tp shortage,manca de paper higiènic
+271,en,ca_ES,toilet paper shortage,manca de paper higiènic
+272,en,ca_ES,touch,contacte
+273,en,ca_ES,touching,tocar
+274,en,ca_ES,transmissibility,transmissibilitat
+275,en,ca_ES,transmissible,transmissible
+276,en,ca_ES,transmission,transmissió
+277,en,ca_ES,transmission potential,potencial de transmissió
+278,en,ca_ES,typical flu,grip comuna
+279,en,ca_ES,underlying disease,malaltia subjacent
+280,en,ca_ES,updates,novetats
+281,en,ca_ES,vaccine,vacuna
+282,en,ca_ES,vaccines,vacunes
+283,en,ca_ES,ventilation,ventilació
+284,en,ca_ES,ventilator,respirador
+285,en,ca_ES,ventilators,respiradors
+286,en,ca_ES,viral infection,virosi
+287,en,ca_ES,viral outbreak,brot víric
+288,en,ca_ES,viral pandemic,pandèmia vírica
+289,en,ca_ES,viral pneumonia,pneumònia vírica
+290,en,ca_ES,virtual care,assistència virtual
+291,en,ca_ES,virulence,virulència
+292,en,ca_ES,virus itself,el virus en si mateix
+293,en,ca_ES,virus outbreak,brot víric
+294,en,ca_ES,virus scare,alarma pel virus
+295,en,ca_ES,virus spreads,propagació del virus
+296,en,ca_ES,virus strain,soca del virus
+297,en,ca_ES,viral transmission,transmissió vírica
+298,en,ca_ES,vivid-19,vivid-19
+299,en,ca_ES,washing hands,rentar-se les mans
+300,en,ca_ES,washing ones hands,rentar-se les mans
+301,en,ca_ES,wash your hands,rentar-te les mans
+302,en,ca_ES,white blood cell count,recompte de glòbuls blancs
+303,en,ca_ES,widespread transmission,transmissió estesa
+304,en,ca_ES,working from home,teletreball
+305,en,ca_ES,WFH,teletreball
+306,en,ca_ES,Wuhan,Wuhan

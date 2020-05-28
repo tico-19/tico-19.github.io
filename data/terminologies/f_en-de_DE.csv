@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,de_DE,1918 flu,Grippe von 1918
+2,en,de_DE,acute bronchitis,akute Bronchitis
+3,en,de_DE,acute respiratory disease,akute Atemwegserkrankung
+4,en,de_DE,AIDS,AIDS
+5,en,de_DE,airborne droplets,Tröpfcheninfektion
+6,en,de_DE,airway,Atemweg
+7,en,de_DE,alcohol-based,auf Alkoholbasis
+8,en,de_DE,alcohol-based hand rub,alkoholhaltige Lösung
+9,en,de_DE,alcohol-based hand sanitizer,Händedesinfektionsmittel auf Alkoholbasis
+10,en,de_DE,alveolar disease,Alveolarkrankheit
+11,en,de_DE,an epidemic,eine Epidemie
+12,en,de_DE,annual flu,jährliche Grippe
+13,en,de_DE,anti-inflammatory drug,entzündungshemmendes Medikament
+14,en,de_DE,antiviral drug,antivirales Medikament
+15,en,de_DE,antiviral treatment,antivirale Behandlung
+16,en,de_DE,assay,Probe
+17,en,de_DE,asymptomatic,asymptomatisch
+18,en,de_DE,avian flu,Vogelgrippe
+19,en,de_DE,Black Plague,Schwarze Pest
+20,en,de_DE,blood pressure,Blutdruck
+21,en,de_DE,body fluid,Körperflüssigkeit
+22,en,de_DE,breathing,Atmung
+23,en,de_DE,bubonic plague,Beulenpest
+24,en,de_DE,c19,C19
+25,en,de_DE,cv19,CV19
+26,en,de_DE,case fatality rate,Todesfallrate
+27,en,de_DE,causative agent,Erreger
+28,en,de_DE,CDC,CDC
+29,en,de_DE,chemical disinfection,chemische Desinfektion
+30,en,de_DE,chest x-ray,Röntgenaufnahme der Lunge
+31,en,de_DE,clinical diagnosis,klinische Diagnose
+32,en,de_DE,clinical trial,klinischer Versuch
+33,en,de_DE,close contact,enger Kontakt
+34,en,de_DE,cvirus,CVirus
+35,en,de_DE,chronic respiratory disease,chronische Atemwegserkrankung
+36,en,de_DE,common cold,Erkältung
+37,en,de_DE,common flu,gewöhnliche Grippe
+38,en,de_DE,communicable disease,übertragbare Krankheit
+39,en,de_DE,community spread,in der Gesellschaft verbreitet
+40,en,de_DE,community transmission,Übertragung in der Gesellschaft
+41,en,de_DE,compromised immune system,geschwächtes Immunsystem
+42,en,de_DE,contagion,Ansteckung
+43,en,de_DE,contagious,ansteckend
+44,en,de_DE,contagiousness,Schädlichkeit
+45,en,de_DE,corona,Corona
+46,en,de_DE,corona virus,Corona-Virus
+47,en,de_DE,corona virus epidemic,Coronavirus-Epidemie
+48,en,de_DE,corona virus outbreak,Ausbruch des Coronavirus
+49,en,de_DE,corona virus scare,Angst vor dem Coronavirus
+50,en,de_DE,coronavirus,Coronavirus
+51,en,de_DE,coronavirus cases,Coronavirus-Fälle
+52,en,de_DE,coronavirus outbreak,Coronavirus-Ausbruch
+53,en,de_DE,coronavirus pandemic,Coronavirus-Pandemie
+54,en,de_DE,coronavirus scare,Angst vor dem Coronavirus
+55,en,de_DE,cough,Husten
+56,en,de_DE,cough etiquette,Husten-Etikette
+57,en,de_DE,coughing,Husten
+58,en,de_DE,cov 19,COV 19
+59,en,de_DE,cov19,COV19
+60,en,de_DE,COVID,COVID
+61,en,de_DE,COVID-19 crisis,COVID-19-Krise
+62,en,de_DE,covid-19,Covid-19
+63,en,de_DE,covid19,Covid19
+64,en,de_DE,COVID-19 epidemic,COVID-19-Epidemie
+65,en,de_DE,COVID-19 outbreak,COVID-19-Ausbruch
+66,en,de_DE,COVID-19 pandemic,COVID-19-Pandemie
+67,en,de_DE,COVID 19,COVID 19
+68,en,de_DE,current crisis,aktuelle Krise
+69,en,de_DE,current health crisis,aktuelle Gesundheitskrise
+70,en,de_DE,current outbreak,aktueller Ausbruch
+71,en,de_DE,current pandemic,aktuelle Pandemie
+72,en,de_DE,CV,CV
+73,en,de_DE,CV-19,CV-19
+74,en,de_DE,deadly,tödlich
+75,en,de_DE,deadly virus,tödlicher Virus
+76,en,de_DE,death rate,Todesrate
+77,en,de_DE,death toll,Todesrate
+78,en,de_DE,decontaminate,dekontaminieren
+79,en,de_DE,detectable,nachweisbar
+80,en,de_DE,detergent,Reinigungsmittelmittel
+81,en,de_DE,difficulty breathing,Atembeschwerden
+82,en,de_DE,diabetes,Diabetes
+83,en,de_DE,diagnosable disease,diagnostizierbare Krankheit
+84,en,de_DE,diagnostic protocol,Diagnoseprotokoll
+85,en,de_DE,diagnostic testing,diagnostische Tests
+86,en,de_DE,disease itself,die Krankheit selbst
+87,en,de_DE,disease outbreak,Krankheitsausbruch
+88,en,de_DE,disinfectant,Desinfektionsmittel
+89,en,de_DE,disposable,Einwegartikel
+90,en,de_DE,droplet transmission,Tröpfchenübertragung
+91,en,de_DE,droplets,Tröpfchen
+92,en,de_DE,dry cough,trockener Husten
+93,en,de_DE,dry surface contamination,Kontamination trockener Oberflächen
+94,en,de_DE,ebola,Ebola
+95,en,de_DE,effective treatment,wirksame Behandlung
+96,en,de_DE,electron microscope,Elektronenmikroskop
+97,en,de_DE,emergency department,Notaufnahme
+98,en,de_DE,epidemic,Epidemie
+99,en,de_DE,epidemic curve,Epidemie-Kurve
+100,en,de_DE,epidemic peak,Höhepunkt der Epidemie
+101,en,de_DE,epidemiologist,Epidemiologe
+102,en,de_DE,exposure,Exposition
+103,en,de_DE,extreme caution,extreme Vorsicht
+104,en,de_DE,eye protection,Augenschutz
+105,en,de_DE,face mask,Gesichtsmaske
+106,en,de_DE,face masks,Gesichtsmasken
+107,en,de_DE,family cluster,Familien-Cluster
+108,en,de_DE,fatality rate,Sterblichkeitsrate
+109,en,de_DE,fecal contamination,fäkale Verunreinigung
+110,en,de_DE,fever,Fieber
+111,en,de_DE,flatten the infection curve,die Infektionskurve abflachen
+112,en,de_DE,flu,Grippe
+113,en,de_DE,food safety,Lebensmittelsicherheit
+114,en,de_DE,formaldehyde,Formaldehyd
+115,en,de_DE,gastroenteritis,Gastroenteritis
+116,en,de_DE,germicide,keimtötendes Mittel
+117,en,de_DE,global pandemic,globale Pandemie
+118,en,de_DE,global warming,globale Erwärmung
+119,en,de_DE,good respiratory hygiene,gute Atemwegshygiene
+120,en,de_DE,Guangdong,Guangdong
+121,en,de_DE,H1N1,H1N1
+122,en,de_DE,H1N1 virus,H1N1-Virus
+123,en,de_DE,hand disinfectant,Händedesinfektionsmittel
+124,en,de_DE,hand sanitizer,Handdesinfektionsmittel
+125,en,de_DE,health care provider,Gesundheitsdienstleister
+126,en,de_DE,health crisis,Gesundheitskrise
+127,en,de_DE,health plan carrier,Träger des Gesundheitsplans
+128,en,de_DE,health services,Gesundheitsdienste
+129,en,de_DE,heart failure,Herzinsuffizienz
+130,en,de_DE,high fever,hohes Fieber
+131,en,de_DE,HIV,HIV
+132,en,de_DE,hospitalize,hospitalisieren
+133,en,de_DE,household bleach,Haushaltsbleichmittel
+134,en,de_DE,Hubei,Hubei
+135,en,de_DE,hydrogen peroxide,Wasserstoffperoxid
+136,en,de_DE,hygiene,Hygiene
+137,en,de_DE,immune system,Immunsystem
+138,en,de_DE,immunity,Immunität
+139,en,de_DE,immunocompromised,immungeschwächt
+140,en,de_DE,immunologist,Immunologe
+141,en,de_DE,incubation,Inkubation
+142,en,de_DE,incubation period,Inkubationszeit
+143,en,de_DE,indirect contact,indirekter Kontakt
+144,en,de_DE,infect,infizieren
+145,en,de_DE,infection,Infektion
+146,en,de_DE,infectious,ansteckend
+147,en,de_DE,infectivity,Infektiosität
+148,en,de_DE,influenza,Influenza
+149,en,de_DE,initial transmission event,Erstes Übertragungsereignis
+150,en,de_DE,intensive care equipment,Ausrüstung für die Intensivpflege
+151,en,de_DE,intermediate host,Zwischenwirt
+152,en,de_DE,intrauterine,intrauterin
+153,en,de_DE,intubation,Intubation
+154,en,de_DE,isolation,Isolation
+155,en,de_DE,Isopropanol,Isopropanol
+156,en,de_DE,laboratory test kit,Labor-Testkit
+157,en,de_DE,laboratory testing,Laboruntersuchungen
+158,en,de_DE,lack of testing,Fehlen von Tests
+159,en,de_DE,lack of tests,fehlende Tests
+160,en,de_DE,latest updates,neueste Updates
+161,en,de_DE,liver failure,Leberversagen
+162,en,de_DE,local public health authority,lokale Gesundheitsbehörde
+163,en,de_DE,lockdown,Sperrung
+164,en,de_DE,lungs,Lunge
+165,en,de_DE,masks,Masken
+166,en,de_DE,measles,Masern
+167,en,de_DE,mechanical ventilation,mechanische Beatmung
+168,en,de_DE,media coverage,Medienberichterstattung
+169,en,de_DE,medical care,medizinische Versorgung
+170,en,de_DE,MERS,MERS
+171,en,de_DE,MERS CoV,MERS-CoV
+172,en,de_DE,microbiologist,Mikrobiologe
+173,en,de_DE,mild cough,leichter Husten
+174,en,de_DE,mortality rate,Sterblichkeitsrate
+175,en,de_DE,multi-organ failure,Multiorganversagen
+176,en,de_DE,nasal congestion,verstopfte Nase
+177,en,de_DE,neutral detergent,neutrales Reinigungsmittel
+178,en,de_DE,new normal,neue Normalität
+179,en,de_DE,novel corona virus,Neues Corona-Virus
+180,en,de_DE,novel coronavirus,neues Coronavirus
+181,en,de_DE,novel coronavirus outbreak,Neuer Coronavirus-Ausbruch
+182,en,de_DE,novel virus,neuer Virus
+183,en,de_DE,online medical consultation,medizinische Online-Beratung
+184,en,de_DE,onset,Beginn
+185,en,de_DE,outbreak,Ausbruch
+186,en,de_DE,outbreak readiness,Ausbruchsbereitschaft
+187,en,de_DE,overall case fatality,Zahl der Todesopfer insgesamt
+188,en,de_DE,pandemic,Pandemie
+189,en,de_DE,pangolin,Schuppentier
+190,en,de_DE,pathogen,pathogen
+191,en,de_DE,pathology,Pathologie
+192,en,de_DE,patient care equipment,Ausrüstung für die Patientenpflege
+193,en,de_DE,personal protective equipment,persönliche Schutzausrüstung
+194,en,de_DE,person-to-person transmission,Person-zu-Person-Übertragung
+195,en,de_DE,phlegm,Phlegma
+196,en,de_DE,physical contact,körperlicher Kontakt
+197,en,de_DE,plague,Pest
+198,en,de_DE,pneumonia,Lungenentzündung
+199,en,de_DE,pneumonias,Pneumonien
+200,en,de_DE,positive test,positiver Test
+201,en,de_DE,precaution,Vorsichtsmaßnahmen
+202,en,de_DE,precautionary,vorsorglich
+203,en,de_DE,pre-existing condition,Vorerkrankung
+204,en,de_DE,preparedness,Bereitschaft
+205,en,de_DE,prognosis,Prognose
+206,en,de_DE,protect myself,mich selbst schützen
+207,en,de_DE,protect others,andere schützen
+208,en,de_DE,protect yourself,schützen Sie sich
+209,en,de_DE,protective measures,Schutzmaßnahmen
+210,en,de_DE,public health crisis,Krise für die öffentlichen Gesundheit
+211,en,de_DE,pulmonary tissue damage,Lungengewebsschäden
+212,en,de_DE,quarantine,Quarantäne
+213,en,de_DE,rapid risk assessment,schnelle Risikobewertung
+214,en,de_DE,reagent,Reagenz
+215,en,de_DE,regular flu,normale Grippe
+216,en,de_DE,reinfection,Reinfektion
+217,en,de_DE,renal disease,Nierenerkrankung
+218,en,de_DE,renal failure,Nierenversagen
+219,en,de_DE,respirator,Atemschutzgerät
+220,en,de_DE,respiratory,respiratorisch
+221,en,de_DE,respiratory disease,Atemwegserkrankung
+222,en,de_DE,respiratory distress,Atemnot
+223,en,de_DE,respiratory droplets,Sekrettröpfchen
+224,en,de_DE,respiratory hygiene,Atmungshygiene
+225,en,de_DE,respiratory illness,Atemwegserkrankung
+226,en,de_DE,respiratory syndrome,respiratorisches Syndrom
+227,en,de_DE,respiratory tract disease,Erkrankung der Atemwege
+228,en,de_DE,restrictions,Einschränkungen
+229,en,de_DE,resurge,wiederaufleben
+230,en,de_DE,RNA,RNS
+231,en,de_DE,rubeola,Masern
+232,en,de_DE,runny nose,laufende Nase
+233,en,de_DE,SARS,SARS
+234,en,de_DE,SARS-CoV-2,SARS-CoV-2
+235,en,de_DE,SARS-CoV,SARS-CoV
+236,en,de_DE,sars-related coronavirus,Sars-verwandtes Coronavirus
+237,en,de_DE,seasonal flu,saisonale Grippe
+238,en,de_DE,seasonal influenza,saisonale Influenza
+239,en,de_DE,secretion,Sekretion
+240,en,de_DE,self-quarantine,Selbst-Quarantäne
+241,en,de_DE,sepsis,Sepsis
+242,en,de_DE,septic shock,septischer Schock
+243,en,de_DE,Severe Acute Respiratory Syndrome,Schweres Akutes Respiratorisches Syndrom
+244,en,de_DE,shortness of breath,Kurzatmigkeit
+245,en,de_DE,sickened,erkrankt
+246,en,de_DE,sickness,Krankheit
+247,en,de_DE,sneeze,Niesen
+248,en,de_DE,sneezes,niest
+249,en,de_DE,sneezing,Niesen
+250,en,de_DE,social distancing,soziale Distanzierung
+251,en,de_DE,sore throat,Halsschmerzen
+252,en,de_DE,spanish flu,Spanische Grippe
+253,en,de_DE,specimen collection,Probensammlung
+254,en,de_DE,spread,Verbreitung
+255,en,de_DE,sputum,Sputum
+256,en,de_DE,stigmatisation,Stigmatisierung
+257,en,de_DE,supportive,unterstützend
+258,en,de_DE,surface,Oberfläche
+259,en,de_DE,surfaces,Oberflächen
+260,en,de_DE,suspected infection,Vermutete Infektion
+261,en,de_DE,swab,Tupfer
+262,en,de_DE,swine flu,Schweinegrippe
+263,en,de_DE,symptom,Symptom
+264,en,de_DE,symptomatic,symptomatisch
+265,en,de_DE,symptoms,Symptome
+266,en,de_DE,targeted disinfection,gezielte Desinfektion
+267,en,de_DE,test kit,Testkit
+268,en,de_DE,testing error,Testfehler
+269,en,de_DE,tissue damage,Gewebeschaden
+270,en,de_DE,tp shortage,TP-Mangel
+271,en,de_DE,toilet paper shortage,Mangel an Toilettenpapier
+272,en,de_DE,touch,berühren
+273,en,de_DE,touching,berührend
+274,en,de_DE,transmissibility,Übertragbarkeit
+275,en,de_DE,transmissible,übertragbar
+276,en,de_DE,transmission,Übertragung
+277,en,de_DE,transmission potential,Übertragungspotenzial
+278,en,de_DE,typical flu,typische Grippe
+279,en,de_DE,underlying disease,Grunderkrankung
+280,en,de_DE,updates,Aktualisierungen
+281,en,de_DE,vaccine,Impfstoff
+282,en,de_DE,vaccines,Impfstoffe
+283,en,de_DE,ventilation,Beatmung
+284,en,de_DE,ventilator,Beatmungsgerät
+285,en,de_DE,ventilators,Beatmungsgeräte
+286,en,de_DE,viral infection,Virusinfektion
+287,en,de_DE,viral outbreak,Virusausbruch
+288,en,de_DE,viral pandemic,Virus-Pandemie
+289,en,de_DE,viral pneumonia,virale Lungenentzündung
+290,en,de_DE,virtual care,virtuelle Betreuung
+291,en,de_DE,virulence,Virulenz
+292,en,de_DE,virus itself,Virus selbst
+293,en,de_DE,virus outbreak,Virenausbruch
+294,en,de_DE,virus scare,Virus-Angst
+295,en,de_DE,virus spreads,Virus verbreitet sich
+296,en,de_DE,virus strain,Virenstamm
+297,en,de_DE,viral transmission,Virusübertragung
+298,en,de_DE,vivid-19,Vivid-19
+299,en,de_DE,washing hands,Hände waschen
+300,en,de_DE,washing ones hands,Hände waschen
+301,en,de_DE,wash your hands,Waschen Sie Ihre Hände
+302,en,de_DE,white blood cell count,Anzahl der weißen Blutkörperchen
+303,en,de_DE,widespread transmission,flächendeckende Übertragung
+304,en,de_DE,working from home,von zu Hause aus arbeiten
+305,en,de_DE,WFH,WFH
+306,en,de_DE,Wuhan,Wuhan

@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,jv_ID,1918 flu,flu 1918
+2,en,jv_ID,acute bronchitis,bronkitis akut
+3,en,jv_ID,acute respiratory disease,penyakit ambegan akut
+4,en,jv_ID,AIDS,AIDS
+5,en,jv_ID,airborne droplets,tetesan saka udhara
+6,en,jv_ID,airway,saluran ambegan
+7,en,jv_ID,alcohol-based,bahan dasar alkohol
+8,en,jv_ID,alcohol-based hand rub,sabun tangan bahan dhasare alkohol
+9,en,jv_ID,alcohol-based hand sanitizer,sanitizer tangan bahan dhasare alkohol
+10,en,jv_ID,alveolar disease,penyakit alveolar
+11,en,jv_ID,an epidemic,wabah
+12,en,jv_ID,annual flu,flu biasa
+13,en,jv_ID,anti-inflammatory drug,obat anti-inflamasi
+14,en,jv_ID,antiviral drug,obat antivirus
+15,en,jv_ID,antiviral treatment,prawatan antivirus
+16,en,jv_ID,assay,uji kadar logam
+17,en,jv_ID,asymptomatic,asimtomatik
+18,en,jv_ID,avian flu,flu avian
+19,en,jv_ID,Black Plague,Wabah Bahaya
+20,en,jv_ID,blood pressure,tekanan getih
+21,en,jv_ID,body fluid,cairan awak
+22,en,jv_ID,breathing,ambegan
+23,en,jv_ID,bubonic plague,wabah pes
+24,en,jv_ID,c19,c19
+25,en,jv_ID,cv19,cv19
+26,en,jv_ID,case fatality rate,tingkat fatalitas kasus
+27,en,jv_ID,causative agent,agen penyebab
+28,en,jv_ID,CDC,CDC
+29,en,jv_ID,chemical disinfection,disinfektan kimia
+30,en,jv_ID,chest x-ray,x-ray dada
+31,en,jv_ID,clinical diagnosis,diagnosis klinis
+32,en,jv_ID,clinical trial,percobaan klinis
+33,en,jv_ID,close contact,kontak cedhak
+34,en,jv_ID,cvirus,cvirus
+35,en,jv_ID,chronic respiratory disease,penyakit ambegan kronis
+36,en,jv_ID,common cold,pilek biasa
+37,en,jv_ID,common flu,flu biasa
+38,en,jv_ID,communicable disease,penyakit nular
+39,en,jv_ID,community spread,sebarane komunitas
+40,en,jv_ID,community transmission,transmisi komunitas
+41,en,jv_ID,compromised immune system,sistem imun keganggu
+42,en,jv_ID,contagion,pangulan
+43,en,jv_ID,contagious,ngula
+44,en,jv_ID,contagiousness,pangulan
+45,en,jv_ID,corona,corona
+46,en,jv_ID,corona virus,virus corona
+47,en,jv_ID,corona virus epidemic,wabah virus corona
+48,en,jv_ID,corona virus outbreak,kedadeyan linuwih virus corona
+49,en,jv_ID,corona virus scare,kaweden virus corona
+50,en,jv_ID,coronavirus,virus corona
+51,en,jv_ID,coronavirus cases,kasus virus corona
+52,en,jv_ID,coronavirus outbreak,kedadeyan linuwih virus corona
+53,en,jv_ID,coronavirus pandemic,pandemik virus corona
+54,en,jv_ID,coronavirus scare,kaweden virus corona
+55,en,jv_ID,cough,watuk
+56,en,jv_ID,cough etiquette,tata carane watuk
+57,en,jv_ID,coughing,watuk
+58,en,jv_ID,cov 19,cov 19
+59,en,jv_ID,cov19,cov19
+60,en,jv_ID,COVID,COVID
+61,en,jv_ID,COVID-19 crisis,krisis COVID-19
+62,en,jv_ID,covid-19,covid-19
+63,en,jv_ID,covid19,covid19
+64,en,jv_ID,COVID-19 epidemic,wabah COVID-19
+65,en,jv_ID,COVID-19 outbreak,kadadeyan linuwih COVID-19
+66,en,jv_ID,COVID-19 pandemic,pandemik COVID-19
+67,en,jv_ID,COVID 19,COVID 19
+68,en,jv_ID,current crisis,krisis wektu iki
+69,en,jv_ID,current health crisis,krisis kesehatan wektu iki
+70,en,jv_ID,current outbreak,kadadeyan linuwih wektu iki
+71,en,jv_ID,current pandemic,pandemik wektu iki
+72,en,jv_ID,CV,CV
+73,en,jv_ID,CV-19,CV-19
+74,en,jv_ID,deadly,mateni
+75,en,jv_ID,deadly virus,virus mateni
+76,en,jv_ID,death rate,tingkat kepaten
+77,en,jv_ID,death toll,korban mati
+78,en,jv_ID,decontaminate,menehi disinfektan
+79,en,jv_ID,detectable,bisa dilacak
+80,en,jv_ID,detergent,detergen
+81,en,jv_ID,difficulty breathing,susah ambegan
+82,en,jv_ID,diabetes,diabetes
+83,en,jv_ID,diagnosable disease,penyakit sing bisa didiagnosa
+84,en,jv_ID,diagnostic protocol,protokol diagnosa
+85,en,jv_ID,diagnostic testing,nguji diagnosa
+86,en,jv_ID,disease itself,penyakit iku dhewe
+87,en,jv_ID,disease outbreak,kedadeyan linuwih penyakit
+88,en,jv_ID,disinfectant,disinfektan
+89,en,jv_ID,disposable,dienggo sepisan
+90,en,jv_ID,droplet transmission,nyebar saka cipratan
+91,en,jv_ID,droplets,cipratan
+92,en,jv_ID,dry cough,watuk garing
+93,en,jv_ID,dry surface contamination,kontaminasi lumah garing
+94,en,jv_ID,ebola,ebola
+95,en,jv_ID,effective treatment,prawatan efektif
+96,en,jv_ID,electron microscope,mikroskop elekton
+97,en,jv_ID,emergency department,departemen darurat
+98,en,jv_ID,epidemic,wabah
+99,en,jv_ID,epidemic curve,kurva wabah
+100,en,jv_ID,epidemic peak,puncak wabah
+101,en,jv_ID,epidemiologist,epidemiologi
+102,en,jv_ID,exposure,pangiriman
+103,en,jv_ID,extreme caution,bebaya nemen
+104,en,jv_ID,eye protection,nglindhungi mripat
+105,en,jv_ID,face mask,masker rai
+106,en,jv_ID,face masks,masker rai
+107,en,jv_ID,family cluster,kelompok kaluwarga
+108,en,jv_ID,fatality rate,tingkat fatalitas
+109,en,jv_ID,fecal contamination,kontaminasi tinja
+110,en,jv_ID,fever,demam
+111,en,jv_ID,flatten the infection curve,ngudunake kurva infeksi
+112,en,jv_ID,flu,flu
+113,en,jv_ID,food safety,keslametane panganan
+114,en,jv_ID,formaldehyde,formaldehida
+115,en,jv_ID,gastroenteritis,gastroenteritis
+116,en,jv_ID,germicide,germisida
+117,en,jv_ID,global pandemic,pandemik global
+118,en,jv_ID,global warming,pemanasan global
+119,en,jv_ID,good respiratory hygiene,keresikan ambegan sing apik
+120,en,jv_ID,Guangdong,Guangdong
+121,en,jv_ID,H1N1,H1N1
+122,en,jv_ID,H1N1 virus,virus H1N1
+123,en,jv_ID,hand disinfectant,disinfektan tangan
+124,en,jv_ID,hand sanitizer,sanitizer tangan
+125,en,jv_ID,health care provider,panyedhiya prawatan kesehatan
+126,en,jv_ID,health crisis,krisis kesehatan
+127,en,jv_ID,health plan carrier,sing gawe rencana kesehatan
+128,en,jv_ID,health services,layanan kesehatan
+129,en,jv_ID,heart failure,gagal jantung
+130,en,jv_ID,high fever,demam dhuwur
+131,en,jv_ID,HIV,HIV
+132,en,jv_ID,hospitalize,melbu rumah sakit
+133,en,jv_ID,household bleach,mutihake alat rumah tangga
+134,en,jv_ID,Hubei,Hubei
+135,en,jv_ID,hydrogen peroxide,hidrogen peroksida
+136,en,jv_ID,hygiene,keresikan
+137,en,jv_ID,immune system,sistem imun
+138,en,jv_ID,immunity,imunitas
+139,en,jv_ID,immunocompromised,imun keganggu
+140,en,jv_ID,immunologist,ahli imun
+141,en,jv_ID,incubation,inkubasi
+142,en,jv_ID,incubation period,wektu inkubasi
+143,en,jv_ID,indirect contact,kontak ora langsung
+144,en,jv_ID,infect,nginfeksi
+145,en,jv_ID,infection,infeksi
+146,en,jv_ID,infectious,bisa nginfeksi
+147,en,jv_ID,infectivity,infektivitas
+148,en,jv_ID,influenza,influenza
+149,en,jv_ID,initial transmission event,kedadeyan penyebaran wiwitan
+150,en,jv_ID,intensive care equipment,peralatan prawatan intensif
+151,en,jv_ID,intermediate host,hospes perantara
+152,en,jv_ID,intrauterine,intrauterine
+153,en,jv_ID,intubation,intubasi
+154,en,jv_ID,isolation,isolasi
+155,en,jv_ID,Isopropanol,Isopropanol
+156,en,jv_ID,laboratory test kit,alat uji laboratorium
+157,en,jv_ID,laboratory testing,uji laboratorium
+158,en,jv_ID,lack of testing,kurang tes
+159,en,jv_ID,lack of tests,kurang tes
+160,en,jv_ID,latest updates,kabar anyar
+161,en,jv_ID,liver failure,gagal hati
+162,en,jv_ID,local public health authority,otoritas kesehatan masyarakat lokal
+163,en,jv_ID,lockdown,karantina wilayah
+164,en,jv_ID,lungs,paru-paru
+165,en,jv_ID,masks,masker
+166,en,jv_ID,measles,campak
+167,en,jv_ID,mechanical ventilation,ventilasi mekanis
+168,en,jv_ID,media coverage,liputan media
+169,en,jv_ID,medical care,prawatan medis
+170,en,jv_ID,MERS,MERS
+171,en,jv_ID,MERS CoV,MERS CoV
+172,en,jv_ID,microbiologist,ahli mikro biologi
+173,en,jv_ID,mild cough,watuk entheng
+174,en,jv_ID,mortality rate,tingkat kepaten
+175,en,jv_ID,multi-organ failure,kegagalan multi-organ
+176,en,jv_ID,nasal congestion,irung mampet
+177,en,jv_ID,neutral detergent,detergen netral
+178,en,jv_ID,new normal,normal anyar
+179,en,jv_ID,novel corona virus,virus novel corona
+180,en,jv_ID,novel coronavirus,virus novel corona
+181,en,jv_ID,novel coronavirus outbreak,kedadeyan linuwih virus novel corona
+182,en,jv_ID,novel virus,virus novel
+183,en,jv_ID,online medical consultation,konsultasi medis online
+184,en,jv_ID,onset,gempuran
+185,en,jv_ID,outbreak,kedadeyan linuwih
+186,en,jv_ID,outbreak readiness,katrangan kedadeayn linuwih
+187,en,jv_ID,overall case fatality,sekabehane fatalitas kasus
+188,en,jv_ID,pandemic,pandemik
+189,en,jv_ID,pangolin,trenggiling
+190,en,jv_ID,pathogen,patogen
+191,en,jv_ID,pathology,patologi
+192,en,jv_ID,patient care equipment,peralatan prawatan pasien
+193,en,jv_ID,personal protective equipment,peralatan kanggo nglindhungi awak
+194,en,jv_ID,person-to-person transmission,panyebaran wong nang wong
+195,en,jv_ID,phlegm,dahak
+196,en,jv_ID,physical contact,kontak fisik
+197,en,jv_ID,plague,wabah
+198,en,jv_ID,pneumonia,pneumonia
+199,en,jv_ID,pneumonias,pneumonia
+200,en,jv_ID,positive test,tes positif
+201,en,jv_ID,precaution,pangeling wiwitan
+202,en,jv_ID,precautionary,pangeling wiwitan
+203,en,jv_ID,pre-existing condition,kahanan saduruhge
+204,en,jv_ID,preparedness,kesiapan
+205,en,jv_ID,prognosis,prakiraan
+206,en,jv_ID,protect myself,nglindhungi awak dhewe
+207,en,jv_ID,protect others,nglindhungi wong liya
+208,en,jv_ID,protect yourself,nglindhungi awakmu dhewe
+209,en,jv_ID,protective measures,langkah-langkah nglindhungi
+210,en,jv_ID,public health crisis,krisis kesehatan masyarakat
+211,en,jv_ID,pulmonary tissue damage,karusakan jaringan paru-paru
+212,en,jv_ID,quarantine,karantina
+213,en,jv_ID,rapid risk assessment,pambiji risiko cepet
+214,en,jv_ID,reagent,agen keloro
+215,en,jv_ID,regular flu,flu biasa
+216,en,jv_ID,reinfection,infeksi maneh
+217,en,jv_ID,renal disease,penyakit ginjel
+218,en,jv_ID,renal failure,gagal ginjel
+219,en,jv_ID,respirator,respirator
+220,en,jv_ID,respiratory,ambegan
+221,en,jv_ID,respiratory disease,penyakit ambegan
+222,en,jv_ID,respiratory distress,penyakit ambegan
+223,en,jv_ID,respiratory droplets,cipatran ambegan
+224,en,jv_ID,respiratory hygiene,keresikan saluran ambegan
+225,en,jv_ID,respiratory illness,penyakit ambegan
+226,en,jv_ID,respiratory syndrome,sindrom ambegan
+227,en,jv_ID,respiratory tract disease,riwayat penyakit ambegan
+228,en,jv_ID,restrictions,watesan
+229,en,jv_ID,resurge,mlumpat maneh
+230,en,jv_ID,RNA,RNA
+231,en,jv_ID,rubeola,rubeola
+232,en,jv_ID,runny nose,irung meler
+233,en,jv_ID,SARS,SARS
+234,en,jv_ID,SARS-CoV-2,SARS-Cov-2
+235,en,jv_ID,SARS-CoV,SARS-Cov
+236,en,jv_ID,sars-related coronavirus,virus hubungane sars
+237,en,jv_ID,seasonal flu,flu mangsan
+238,en,jv_ID,seasonal influenza,influenza mangsan
+239,en,jv_ID,secretion,sekresi
+240,en,jv_ID,self-quarantine,karantina mandiri
+241,en,jv_ID,sepsis,sepsis
+242,en,jv_ID,septic shock,syok septik
+243,en,jv_ID,Severe Acute Respiratory Syndrome,Sindrom Ambegan Akut Parah
+244,en,jv_ID,shortness of breath,ambegan cekak
+245,en,jv_ID,sickened,lara
+246,en,jv_ID,sickness,lelara
+247,en,jv_ID,sneeze,wahing
+248,en,jv_ID,sneezes,wahing
+249,en,jv_ID,sneezing,wahing
+250,en,jv_ID,social distancing,njaga kadohan
+251,en,jv_ID,sore throat,lara tenggorokan
+252,en,jv_ID,spanish flu,flu spanyol
+253,en,jv_ID,specimen collection,kumpulan spesimen
+254,en,jv_ID,spread,nyebar
+255,en,jv_ID,sputum,kahak
+256,en,jv_ID,stigmatisation,stigmatisasi
+257,en,jv_ID,supportive,ndhukung
+258,en,jv_ID,surface,lumahing
+259,en,jv_ID,surfaces,lumahing
+260,en,jv_ID,suspected infection,kirane kena infeksi
+261,en,jv_ID,swab,swab
+262,en,jv_ID,swine flu,flu babi
+263,en,jv_ID,symptom,gejala
+264,en,jv_ID,symptomatic,ngalami gejala
+265,en,jv_ID,symptoms,gejala
+266,en,jv_ID,targeted disinfection,target disinfektan
+267,en,jv_ID,test kit,alat tes
+268,en,jv_ID,testing error,kesalahan tes
+269,en,jv_ID,tissue damage,kerusakan jaringan
+270,en,jv_ID,tp shortage,kekurangan tisu toilet
+271,en,jv_ID,toilet paper shortage,kekurangan tisu toilet
+272,en,jv_ID,touch,demekan
+273,en,jv_ID,touching,ndemek
+274,en,jv_ID,transmissibility,kamungkinan nyebar
+275,en,jv_ID,transmissible,bisa nyebar
+276,en,jv_ID,transmission,panyebaran
+277,en,jv_ID,transmission potential,potensi panyebaran
+278,en,jv_ID,typical flu,flu khusus
+279,en,jv_ID,underlying disease,penyakit sing ndhasari
+280,en,jv_ID,updates,kabar anyar
+281,en,jv_ID,vaccine,vaksin
+282,en,jv_ID,vaccines,vaksin
+283,en,jv_ID,ventilation,ventilasi
+284,en,jv_ID,ventilator,ventilator
+285,en,jv_ID,ventilators,ventilator
+286,en,jv_ID,viral infection,infeksi virus
+287,en,jv_ID,viral outbreak,kedadeyan linuwih virus
+288,en,jv_ID,viral pandemic,pandemik virus
+289,en,jv_ID,viral pneumonia,virus pneumonia
+290,en,jv_ID,virtual care,prawatan virus
+291,en,jv_ID,virulence,keracunan
+292,en,jv_ID,virus itself,virus iku dhewe
+293,en,jv_ID,virus outbreak,kedadeyan linuwih virus
+294,en,jv_ID,virus scare,kaweden virus
+295,en,jv_ID,virus spreads,penyebarane virus
+296,en,jv_ID,virus strain,galur virus
+297,en,jv_ID,viral transmission,penyebarane virus
+298,en,jv_ID,vivid-19,vivid-19
+299,en,jv_ID,washing hands,wisuh tangan
+300,en,jv_ID,washing ones hands,ngisuhi tangane wong
+301,en,jv_ID,wash your hands,wisuhana tanganmu
+302,en,jv_ID,white blood cell count,cacahe sel getih putih
+303,en,jv_ID,widespread transmission,kerja saka omah
+304,en,jv_ID,working from home,Kerja saka omah
+305,en,jv_ID,WFH,KSO
+306,en,jv_ID,Wuhan,Wuhan

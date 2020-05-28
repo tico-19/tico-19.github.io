@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,so_SO,1918 flu,hergebka 1918
+2,en,so_SO,acute bronchitis,bronkiita daran
+3,en,so_SO,acute respiratory disease,Cudurka neef mareenka oo daran
+4,en,so_SO,AIDS,AIDS-ka
+5,en,so_SO,airborne droplets,Dhibco hawada mara
+6,en,so_SO,airway,hawada mara
+7,en,so_SO,alcohol-based,ka sameysan alkahool
+8,en,so_SO,alcohol-based hand rub,gacan dhaqaha ka sameysan alkahool
+9,en,so_SO,alcohol-based hand sanitizer,gacan nadiifiyaha ka sameysan alkahool
+10,en,so_SO,alveolar disease,cudurka alveolar-ka
+11,en,so_SO,an epidemic,aadka u faafa
+12,en,so_SO,annual flu,hergebka sanadlaha ah
+13,en,so_SO,anti-inflammatory drug,daawada anti-inflammatory-ga
+14,en,so_SO,antiviral drug,daawada ka hortagga fayruuska
+15,en,so_SO,antiviral treatment,daweynta ka hortagga fayruuska
+16,en,so_SO,assay,assay-ga
+17,en,so_SO,asymptomatic,aan lahayn calaamadaha cudurka
+18,en,so_SO,avian flu,hergebka avian
+19,en,so_SO,Black Plague,cudurka Madow
+20,en,so_SO,blood pressure,dhiig kar
+21,en,so_SO,body fluid,biyaha jirka
+22,en,so_SO,breathing,neefsashada
+23,en,so_SO,bubonic plague,cudurka bubooniga
+24,en,so_SO,c19,c19
+25,en,so_SO,cv19,cv19
+26,en,so_SO,case fatality rate,heerka dhimashada cudurka
+27,en,so_SO,causative agent,dhaliyaha cudurka
+28,en,so_SO,CDC,CDC
+29,en,so_SO,chemical disinfection,ku dilista jeermiska ee kiimikada
+30,en,so_SO,chest x-ray,raajatada xabadka
+31,en,so_SO,clinical diagnosis,ogaanshaha cudurka
+32,en,so_SO,clinical trial,tijaabinta dawooyinka
+33,en,so_SO,close contact,udhawaanshaha aadka u dhaw
+34,en,so_SO,cvirus,feyruuska c
+35,en,so_SO,chronic respiratory disease,Cudurka neef mareenka ee halista ah
+36,en,so_SO,common cold,hergeb
+37,en,so_SO,common flu,hergen
+38,en,so_SO,communicable disease,cudurada laka la qaado
+39,en,so_SO,community spread,kufaafa bulshada
+40,en,so_SO,community transmission,u kala gudba bulshada
+41,en,so_SO,compromised immune system,adkeynta difaaca jirka
+42,en,so_SO,contagion,faafa
+43,en,so_SO,contagious,laka la qaadi kara
+44,en,so_SO,contagiousness,si fudud u faafa
+45,en,so_SO,corona,koroona
+46,en,so_SO,corona virus,fayruuska koroona
+47,en,so_SO,corona virus epidemic,feyruuska koroona ee aadka u faafa
+48,en,so_SO,corona virus outbreak,feyruuska koroona ee dilaacay
+49,en,so_SO,corona virus scare,baqdinta fayruuska koroona
+50,en,so_SO,coronavirus,feyruuska koroona
+51,en,so_SO,coronavirus cases,kiisaska feyruuska koroona
+52,en,so_SO,coronavirus outbreak,feyruuska koroona ee dilaacay
+53,en,so_SO,coronavirus pandemic,feyruuska koroona ee aadka u faafa
+54,en,so_SO,coronavirus scare,baqdinta feyruuska koroona
+55,en,so_SO,cough,qunfaca
+56,en,so_SO,cough etiquette,adaabta qunfaca
+57,en,so_SO,coughing,qunficidda
+58,en,so_SO,cov 19,cov 19
+59,en,so_SO,cov19,cov19
+60,en,so_SO,COVID,COVID
+61,en,so_SO,COVID-19 crisis,dhibaatada COVID-19
+62,en,so_SO,covid-19,covid-19
+63,en,so_SO,covid19,covid19
+64,en,so_SO,COVID-19 epidemic,COVID-19 ee aadka u faafa
+65,en,so_SO,COVID-19 outbreak,COVID-19 ee dilaacay
+66,en,so_SO,COVID-19 pandemic,COVID-19 ee aadka u faafa
+67,en,so_SO,COVID 19,COVID 19
+68,en,so_SO,current crisis,dhibaatada hadda taagan
+69,en,so_SO,current health crisis,dhibaatada cafimaad ee hadda taagan
+70,en,so_SO,current outbreak,dillaaca cudur ee hadda taagan
+71,en,so_SO,current pandemic,cudurka hadda faafaaya
+72,en,so_SO,CV,CV
+73,en,so_SO,CV-19,CV-19
+74,en,so_SO,deadly,halista ah
+75,en,so_SO,deadly virus,feyruuska halista ah
+76,en,so_SO,death rate,heerka dhimashada
+77,en,so_SO,death toll,cadadka dhimashada
+78,en,so_SO,decontaminate,bixinta halista
+79,en,so_SO,detectable,la dareemi kara
+80,en,so_SO,detergent,sabuun
+81,en,so_SO,difficulty breathing,ku adkaanta neefsashada
+82,en,so_SO,diabetes,cudurka macaanka
+83,en,so_SO,diagnosable disease,cudur la ogaani kara
+84,en,so_SO,diagnostic protocol,qaabka baaritaanka
+85,en,so_SO,diagnostic testing,baritaanka ogaanshaha cudurka
+86,en,so_SO,disease itself,cudurka laf ahantiisa
+87,en,so_SO,disease outbreak,cudurka dilaacay
+88,en,so_SO,disinfectant,dilaha jeermiska
+89,en,so_SO,disposable,hal jeer la adeegsani karo
+90,en,so_SO,droplet transmission,lagu kala qaadi kara dhibcaha
+91,en,so_SO,droplets,dhibcaha
+92,en,so_SO,dry cough,qunfac angagan
+93,en,so_SO,dry surface contamination,wasakheynta goobaha angagan
+94,en,so_SO,ebola,eboola
+95,en,so_SO,effective treatment,daweyn wax tar leh
+96,en,so_SO,electron microscope,miikariskoobka elektaroonigga ah
+97,en,so_SO,emergency department,waaxda emergency-ga
+98,en,so_SO,epidemic,faafi kara
+99,en,so_SO,epidemic curve,curve-ga faafidda
+100,en,so_SO,epidemic peak,heerka faafidda
+101,en,so_SO,epidemiologist,khabiirka ka hortagga cudurada
+102,en,so_SO,exposure,helista cudurka
+103,en,so_SO,extreme caution,taxadar dheeri ah
+104,en,so_SO,eye protection,ilaalinta indhaha
+105,en,so_SO,face mask,maaska wajiga
+106,en,so_SO,face masks,maasaska wajiga
+107,en,so_SO,family cluster,qeybaha qoyska
+108,en,so_SO,fatality rate,heerka dhimashada
+109,en,so_SO,fecal contamination,ku wasakheynta saxaraha
+110,en,so_SO,fever,qandha
+111,en,so_SO,flatten the infection curve,fidinta curve-ka cudurka
+112,en,so_SO,flu,hergebka
+113,en,so_SO,food safety,badqabka cunada
+114,en,so_SO,formaldehyde,formaldehyde-ka
+115,en,so_SO,gastroenteritis,gastrigga
+116,en,so_SO,germicide,babi’yaha jermiska
+117,en,so_SO,global pandemic,ku faafa dunida
+118,en,so_SO,global warming,kuleelka dunida
+119,en,so_SO,good respiratory hygiene,nadaafad wanaagsan ee neef mareynka
+120,en,so_SO,Guangdong,Guangdong
+121,en,so_SO,H1N1,H1N1
+122,en,so_SO,H1N1 virus,feyruuska H1N1
+123,en,so_SO,hand disinfectant,gacmaha jeermiska ka dila
+124,en,so_SO,hand sanitizer,nadiifiyaha gacmaha
+125,en,so_SO,health care provider,bixiyaha daryeelka cafimaadka
+126,en,so_SO,health crisis,dhibaatada cafimaadka
+127,en,so_SO,health plan carrier,gudbiyaha qorshaha caafimaad
+128,en,so_SO,health services,adeegga cafimaad
+129,en,so_SO,heart failure,wadna istaag
+130,en,so_SO,high fever,qandha daran
+131,en,so_SO,HIV,HIV
+132,en,so_SO,hospitalize,isbitaal la dhigay
+133,en,so_SO,household bleach,kiimikada guriga lagu adeegsato
+134,en,so_SO,Hubei,Hubei
+135,en,so_SO,hydrogen peroxide,hydrogen peroxide-ka
+136,en,so_SO,hygiene,nadaafadda
+137,en,so_SO,immune system,nidaamka difaaca jirka
+138,en,so_SO,immunity,difaaca
+139,en,so_SO,immunocompromised,difaaca jirka oo daciif ah
+140,en,so_SO,immunologist,khabiirka difaaca jirka
+141,en,so_SO,incubation,intuu fayruuska jirka ku juraaya
+142,en,so_SO,incubation period,mudaduu fayruuska jirka ku juraaya
+143,en,so_SO,indirect contact,isku dhawaanshaha aan tooska ahayn
+144,en,so_SO,infect,ku faafay
+145,en,so_SO,infection,cudur
+146,en,so_SO,infectious,cudur keena
+147,en,so_SO,infectivity,fafi kara
+148,en,so_SO,influenza,hergeb daran
+149,en,so_SO,initial transmission event,dhacdada hore ee gudbinta
+150,en,so_SO,intensive care equipment,qalabka daryeelka deg-degga ah
+151,en,so_SO,intermediate host,hoygalinta dhexe
+152,en,so_SO,intrauterine,minka dhexdiisa
+153,en,so_SO,intubation,galinta tuubada
+154,en,so_SO,isolation,kali ahaanta
+155,en,so_SO,Isopropanol,Isopropanol-ka
+156,en,so_SO,laboratory test kit,qalabka barista ee sheybaarka
+157,en,so_SO,laboratory testing,barista sheybaarka
+158,en,so_SO,lack of testing,baritaan la’aanta
+159,en,so_SO,lack of tests,baris la’aanta
+160,en,so_SO,latest updates,warbixinta ugu dambeysay
+161,en,so_SO,liver failure,beerka oo fadhiista
+162,en,so_SO,local public health authority,mamulka maxaliga ee cafimaadka dadweyne
+163,en,so_SO,lockdown,xirista
+164,en,so_SO,lungs,sambabaha
+165,en,so_SO,masks,maasaska
+166,en,so_SO,measles,jadeecada
+167,en,so_SO,mechanical ventilation,neefsashada laga caawiye
+168,en,so_SO,media coverage,ceymiska cafimaadka
+169,en,so_SO,medical care,daryeelka cafimaad
+170,en,so_SO,MERS,MERS
+171,en,so_SO,MERS CoV,MERS CoV
+172,en,so_SO,microbiologist,khabiirka aqoonta unugyada
+173,en,so_SO,mild cough,qunfaca yar
+174,en,so_SO,mortality rate,heerka dhimashada aadka u badan
+175,en,so_SO,multi-organ failure,unugyada badan oo shaqeyni waaye
+176,en,so_SO,nasal congestion,sanka oo caburma
+177,en,so_SO,neutral detergent,sabuun caadi ah
+178,en,so_SO,new normal,normaal cusub
+179,en,so_SO,novel corona virus,fayruuska koroona ee novel-ka ah
+180,en,so_SO,novel coronavirus,feyruuska koroona ee novel-ka ah
+181,en,so_SO,novel coronavirus outbreak,feyruuska koroona novel-ka ee dilaacay
+182,en,so_SO,novel virus,fayruuska novel-ka ah
+183,en,so_SO,online medical consultation,latashiga cafimaad ee online-ka ah
+184,en,so_SO,onset,bilawga hore
+185,en,so_SO,outbreak,dillaaca
+186,en,so_SO,outbreak readiness,isku diyaarinta dillaaca
+187,en,so_SO,overall case fatality,kiisaska dhimashada guud
+188,en,so_SO,pandemic,faafii kara
+189,en,so_SO,pangolin,xayawaanka pangolin-ka
+190,en,so_SO,pathogen,waxyaabaha dhaliya cudurada
+191,en,so_SO,pathology,aqoonta waxyaabaha dhaliya cudurka
+192,en,so_SO,patient care equipment,qqalabka daryeelka bukaanka
+193,en,so_SO,personal protective equipment,qalabka difaaca shakhsiga
+194,en,so_SO,person-to-person transmission,isku gudbinta shakhsi ka shakhsi
+195,en,so_SO,phlegm,qaaxa
+196,en,so_SO,physical contact,is taabashada jir ahaanata ah
+197,en,so_SO,plague,cudurka
+198,en,so_SO,pneumonia,cudurka limooniyada
+199,en,so_SO,pneumonias,leh cudurka limooniyada
+200,en,so_SO,positive test,barista tuseysa inaad cudrka leedahay
+201,en,so_SO,precaution,taxadarka
+202,en,so_SO,precautionary,taxadarka leh
+203,en,so_SO,pre-existing condition,xaaladaha sii jiray
+204,en,so_SO,preparedness,isku diyaarinta
+205,en,so_SO,prognosis,waxa keeni kara
+206,en,so_SO,protect myself,ilalinta nafteyda
+207,en,so_SO,protect others,ilaalinta kuwa kale
+208,en,so_SO,protect yourself,ilaalinta naftaada
+209,en,so_SO,protective measures,tallabooyinka taxadarka leh
+210,en,so_SO,public health crisis,dhibaatada cafimaad dadweyne
+211,en,so_SO,pulmonary tissue damage,burburka unugyada sambabada
+212,en,so_SO,quarantine,karantiil
+213,en,so_SO,rapid risk assessment,qiimeynta halista ee deg deg ah
+214,en,so_SO,reagent,reagent-ga
+215,en,so_SO,regular flu,hergebka joogtada ah
+216,en,so_SO,reinfection,dib u abuurista cudurka
+217,en,so_SO,renal disease,cudurka kiliyaha
+218,en,so_SO,renal failure,kilyaha oo shaqeyni waayo
+219,en,so_SO,respirator,qalabka lagu neefsada
+220,en,so_SO,respiratory,neef mareynka
+221,en,so_SO,respiratory disease,Cudurka neef mareenka
+222,en,so_SO,respiratory distress,dhibaatada neef mareenka
+223,en,so_SO,respiratory droplets,dhibacaha ka soo baxa neef mareenka
+224,en,so_SO,respiratory hygiene,nadaafad neef mareenka
+225,en,so_SO,respiratory illness,xanuunka neef mareenka
+226,en,so_SO,respiratory syndrome,xanuunka neef mareenka
+227,en,so_SO,respiratory tract disease,cudurka neef mareenka
+228,en,so_SO,restrictions,xayiraadaha
+229,en,so_SO,resurge,dib u soo nolaanshaha
+230,en,so_SO,RNA,RNA
+231,en,so_SO,rubeola,cudurka rubeola
+232,en,so_SO,runny nose,diif sanka ka socda
+233,en,so_SO,SARS,SARS
+234,en,so_SO,SARS-CoV-2,SARS-CoV-2
+235,en,so_SO,SARS-CoV,SARS-CoV
+236,en,so_SO,sars-related coronavirus,feyruuska koroona ee la xiriira sars
+237,en,so_SO,seasonal flu,hergebka sanadlaha ah
+238,en,so_SO,seasonal influenza,hergebka sanadlaha ah ee daran
+239,en,so_SO,secretion,dhacaan bixinta
+240,en,so_SO,self-quarantine,is-karantiilka
+241,en,so_SO,sepsis,sepsiiska
+242,en,so_SO,septic shock,halista seeptika
+243,en,so_SO,Severe Acute Respiratory Syndrome,xanuunka neef mareenka ee aadka u daran
+244,en,so_SO,shortness of breath,neefsashada oo yaraata
+245,en,so_SO,sickened,xanuunsan
+246,en,so_SO,sickness,xanuun
+247,en,so_SO,sneeze,hatisha
+248,en,so_SO,sneezes,hantisha
+249,en,so_SO,sneezing,hatishada
+250,en,so_SO,social distancing,ka fogaanshaha dadka
+251,en,so_SO,sore throat,dhuun xanuun
+252,en,so_SO,spanish flu,hergebka spanishka
+253,en,so_SO,specimen collection,uruurinta cayinaadka
+254,en,so_SO,spread,faafinta
+255,en,so_SO,sputum,xaaka
+256,en,so_SO,stigmatisation,faquuqa
+257,en,so_SO,supportive,tageera bixiya
+258,en,so_SO,surface,aaga
+259,en,so_SO,surfaces,aagagga
+260,en,so_SO,suspected infection,xanuunka looga shakiye
+261,en,so_SO,swab,swab-ka
+262,en,so_SO,swine flu,hergebka dofaarka
+263,en,so_SO,symptom,astaanta
+264,en,so_SO,symptomatic,leh astaanta
+265,en,so_SO,symptoms,astaamaha
+266,en,so_SO,targeted disinfection,dilista jeermiska ee lala beegsaday
+267,en,so_SO,test kit,qalabka barista
+268,en,so_SO,testing error,kahaldka baritaanka
+269,en,so_SO,tissue damage,burburka unugga
+270,en,so_SO,tp shortage,yaraanta tp
+271,en,so_SO,toilet paper shortage,yaraanta warqadaha musqusha
+272,en,so_SO,touch,taabo
+273,en,so_SO,touching,taabashada
+274,en,so_SO,transmissibility,la gudbini kara
+275,en,so_SO,transmissible,gudbi kara
+276,en,so_SO,transmission,gudbinta
+277,en,so_SO,transmission potential,suuragal ah in la gudbiya
+278,en,so_SO,typical flu,hergeb caadi ah
+279,en,so_SO,underlying disease,cudur la hubo
+280,en,so_SO,updates,warbixin cusub
+281,en,so_SO,vaccine,talaal
+282,en,so_SO,vaccines,talaallo
+283,en,so_SO,ventilation,goobaha dabeesha
+284,en,so_SO,ventilator,dabeel bixiyaha
+285,en,so_SO,ventilators,dabeel bixiyayaasha
+286,en,so_SO,viral infection,cudurka feyruuska ah
+287,en,so_SO,viral outbreak,dillaaca cudurka feyruuska
+288,en,so_SO,viral pandemic,ku faafi kara dunida
+289,en,so_SO,viral pneumonia,feyruuska cudurka limooniyada
+290,en,so_SO,virtual care,daryeelka hawada laisku mariya
+291,en,so_SO,virulence,halista cudurka
+292,en,so_SO,virus itself,feyruuska laf ahantiisa
+293,en,so_SO,virus outbreak,feyruuska dilaacay
+294,en,so_SO,virus scare,baqdinta feyruuska
+295,en,so_SO,virus spreads,feyruuska faafa
+296,en,so_SO,virus strain,xakameynta feyruuska
+297,en,so_SO,viral transmission,gudbinta veyruuska
+298,en,so_SO,vivid-19,vivid-19
+299,en,so_SO,washing hands,gacma dhaqashada
+300,en,so_SO,washing ones hands,dhaqista gacmaha ee qofka
+301,en,so_SO,wash your hands,gacmahaaga dhaq
+302,en,so_SO,white blood cell count,cadadka unugyada dhiiga cad
+303,en,so_SO,widespread transmission,isku gudbinta xaddhaafka ah
+304,en,so_SO,working from home,guriga oo laga dhexshaqeeya
+305,en,so_SO,WFH,WFH
+306,en,so_SO,Wuhan,Wuhan

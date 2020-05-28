@@ -3,3 +3,4 @@ description: [Providing machine-readable translation data related to the covid-1
 show_downloads: false
 theme: jekyll-theme-minimal
 github.is_project_page: false
+google_analytics: "UA-167817988-1"

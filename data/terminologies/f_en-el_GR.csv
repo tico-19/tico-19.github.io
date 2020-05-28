@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,el_GR,1918 flu,γρίπη 1918
+2,en,el_GR,acute bronchitis,οξεία βρογχίτιδα
+3,en,el_GR,acute respiratory disease,οξεία αναπνευστική νόσος
+4,en,el_GR,AIDS,AIDS
+5,en,el_GR,airborne droplets,αερομεταφερόμενα σταγονίδια
+6,en,el_GR,airway,αναπνευστική οδός
+7,en,el_GR,alcohol-based,με βάση το αλκοόλ
+8,en,el_GR,alcohol-based hand rub,αλοιφή χεριών με βάση το αλκοόλ
+9,en,el_GR,alcohol-based hand sanitizer,απολυμαντικό χεριών με βάση το αλκοόλ
+10,en,el_GR,alveolar disease,νόσος κυψελίδας
+11,en,el_GR,an epidemic,μια επιδημία
+12,en,el_GR,annual flu,ετήσια γρίπη
+13,en,el_GR,anti-inflammatory drug,αντιφλεγμονώδες φάρμακο
+14,en,el_GR,antiviral drug,αντιικό
+15,en,el_GR,antiviral treatment,αντιική θεραπεία
+16,en,el_GR,assay,χημική εξέταση
+17,en,el_GR,asymptomatic,ασυμπτωματικό
+18,en,el_GR,avian flu,γρίπη των πτηνών
+19,en,el_GR,Black Plague,Μαύρη Πανώλη
+20,en,el_GR,blood pressure,πίεση αίματος
+21,en,el_GR,body fluid,υγρό σώματος
+22,en,el_GR,breathing,αναπνοή
+23,en,el_GR,bubonic plague,βουβωνική πανώλη
+24,en,el_GR,c19,c19
+25,en,el_GR,cv19,cv19
+26,en,el_GR,case fatality rate,ποσοστό θνησιμότητας
+27,en,el_GR,causative agent,αιτιολογικός παράγοντας
+28,en,el_GR,CDC,CDC
+29,en,el_GR,chemical disinfection,χημική απολύμανση
+30,en,el_GR,chest x-ray,ακτινογραφία θώρακος
+31,en,el_GR,clinical diagnosis,κλινική διάγνωση
+32,en,el_GR,clinical trial,κλινική δοκιμή
+33,en,el_GR,close contact,στενή επαφή
+34,en,el_GR,cvirus,cvirus
+35,en,el_GR,chronic respiratory disease,χρόνια αναπνευστική νόσος
+36,en,el_GR,common cold,κοινό κρυολόγημα
+37,en,el_GR,common flu,κοινή γρίπη
+38,en,el_GR,communicable disease,μεταδοτική ασθένεια
+39,en,el_GR,community spread,εξάπλωση στην κοινότητα
+40,en,el_GR,community transmission,μετάδοση στην κοινότητα
+41,en,el_GR,compromised immune system,εξασθενημένο ανοσοποιητικό σύστημα
+42,en,el_GR,contagion,μετάδοση ασθένειας
+43,en,el_GR,contagious,μεταδοτική ασθένεια
+44,en,el_GR,contagiousness,μεταδοτικότητα
+45,en,el_GR,corona,κορόνα
+46,en,el_GR,corona virus,κορονοϊός
+47,en,el_GR,corona virus epidemic,επιδημία κορονοϊού
+48,en,el_GR,corona virus outbreak,εμφάνιση κορονοϊού
+49,en,el_GR,corona virus scare,φόβος κορονοϊού
+50,en,el_GR,coronavirus,κορονοϊός
+51,en,el_GR,coronavirus cases,κρούσματα κορονοϊού
+52,en,el_GR,coronavirus outbreak,εμφάνιση κορονοϊού
+53,en,el_GR,coronavirus pandemic,πανδημία κορονοϊού
+54,en,el_GR,coronavirus scare,φόβος κορονοϊού
+55,en,el_GR,cough,βήχας
+56,en,el_GR,cough etiquette,σωστός τρόπος βήχα
+57,en,el_GR,coughing,βήξιμο
+58,en,el_GR,cov 19,cov 19
+59,en,el_GR,cov19,cov19
+60,en,el_GR,COVID,COVID
+61,en,el_GR,COVID-19 crisis,κρίση COVID-19
+62,en,el_GR,covid-19,covid-19
+63,en,el_GR,covid19,covid19
+64,en,el_GR,COVID-19 epidemic,επιδημία COVID-19
+65,en,el_GR,COVID-19 outbreak,εμφάνιση COVID-19
+66,en,el_GR,COVID-19 pandemic,πανδημία COVID-19
+67,en,el_GR,COVID 19,COVID 19
+68,en,el_GR,current crisis,τρέχουσα κρίση
+69,en,el_GR,current health crisis,τρέχουσα κρίση υγείας
+70,en,el_GR,current outbreak,τρέχουσα εμφάνιση
+71,en,el_GR,current pandemic,τρέχουσα πανδημία
+72,en,el_GR,CV,CV
+73,en,el_GR,CV-19,CV-19
+74,en,el_GR,deadly,θανατηφόρο
+75,en,el_GR,deadly virus,θανατηφόρος ιός
+76,en,el_GR,death rate,ποσοστό θνησιμότητας
+77,en,el_GR,death toll,απολογισμός νεκρών
+78,en,el_GR,decontaminate,απολυμαίνω
+79,en,el_GR,detectable,ανιχνεύσιμο
+80,en,el_GR,detergent,απορρυπαντικό
+81,en,el_GR,difficulty breathing,δυσκολία στην αναπνοή
+82,en,el_GR,diabetes,διαβήτης
+83,en,el_GR,diagnosable disease,διαγνώσιμη ασθένεια
+84,en,el_GR,diagnostic protocol,διαγνωστικό πρωτόκολλο
+85,en,el_GR,diagnostic testing,διαγνωστική εξέταση
+86,en,el_GR,disease itself,η ίδια η ασθένεια
+87,en,el_GR,disease outbreak,εμφάνιση ασθένειας
+88,en,el_GR,disinfectant,απολυμαντικό
+89,en,el_GR,disposable,μιας χρήσης
+90,en,el_GR,droplet transmission,μετάδοση σταγονιδίων
+91,en,el_GR,droplets,σταγονίδια
+92,en,el_GR,dry cough,ξηρός βήχας
+93,en,el_GR,dry surface contamination,επιμόλυνση ξηρής επιφάνειας
+94,en,el_GR,ebola,έμπολα
+95,en,el_GR,effective treatment,αποτελεσματική φροντίδα
+96,en,el_GR,electron microscope,ηλεκτρονικό μικροσκόπιο
+97,en,el_GR,emergency department,τμήμα επειγόντων περιστατικών
+98,en,el_GR,epidemic,επιδημία
+99,en,el_GR,epidemic curve,επιδημική καμπύλη
+100,en,el_GR,epidemic peak,επιδημική κορύφωση
+101,en,el_GR,epidemiologist,επιδημιολόγος
+102,en,el_GR,exposure,έκθεση
+103,en,el_GR,extreme caution,εξαιρετική προσοχή
+104,en,el_GR,eye protection,προστασία ματιών
+105,en,el_GR,face mask,μάσκα προσώπου
+106,en,el_GR,face masks,μάσκες προσώπου
+107,en,el_GR,family cluster,σύμπλεγμα οικογένειας
+108,en,el_GR,fatality rate,ποσοστό θνησιμότητας
+109,en,el_GR,fecal contamination,επιμόλυνση από κόπρανα
+110,en,el_GR,fever,πυρετός
+111,en,el_GR,flatten the infection curve,εξομάλυνση μολυσματικής καμπύλης
+112,en,el_GR,flu,γρίπη
+113,en,el_GR,food safety,ασφάλεια τροφίμων
+114,en,el_GR,formaldehyde,φορμαλδεΰδη
+115,en,el_GR,gastroenteritis,γαστρεντερίτιδα
+116,en,el_GR,germicide,μικροβιοκτόνο
+117,en,el_GR,global pandemic,παγκόσμια πανδημία
+118,en,el_GR,global warming,παγκόσμια υπερθέρμανση
+119,en,el_GR,good respiratory hygiene,καλή αναπνευστική υγιεινή
+120,en,el_GR,Guangdong,Guangdong
+121,en,el_GR,H1N1,H1N1
+122,en,el_GR,H1N1 virus,ιός H1N1
+123,en,el_GR,hand disinfectant,απολυμαντικό χεριών
+124,en,el_GR,hand sanitizer,απολυμαντικό χεριών
+125,en,el_GR,health care provider,πάροχος ιατρικής φροντίδας
+126,en,el_GR,health crisis,κρίση υγείας
+127,en,el_GR,health plan carrier,φορέας προγράμματος υγείας
+128,en,el_GR,health services,υπηρεσίες υγείας
+129,en,el_GR,heart failure,συγκοπή
+130,en,el_GR,high fever,υψηλός πυρετός
+131,en,el_GR,HIV,HIV
+132,en,el_GR,hospitalize,είσοδος σε νοσοκομείο
+133,en,el_GR,household bleach,χλωρίνη οικιακής χρήσης
+134,en,el_GR,Hubei,Hubei
+135,en,el_GR,hydrogen peroxide,υπεροξείδιο του υδρογόνου
+136,en,el_GR,hygiene,υγιεινή
+137,en,el_GR,immune system,ανοσοποιητικό σύστημα
+138,en,el_GR,immunity,ανοσία
+139,en,el_GR,immunocompromised,ανοσοκατεσταλμένο
+140,en,el_GR,immunologist,ανοσολόγος
+141,en,el_GR,incubation,επώαση
+142,en,el_GR,incubation period,περίοδος επώασης
+143,en,el_GR,indirect contact,έμμεση επαφή
+144,en,el_GR,infect,μολύνω
+145,en,el_GR,infection,μόλυνση
+146,en,el_GR,infectious,μολυσματικό
+147,en,el_GR,infectivity,μολυσματικότητα
+148,en,el_GR,influenza,γρίπη
+149,en,el_GR,initial transmission event,αρχικό συμβάν μετάδοσης
+150,en,el_GR,intensive care equipment,εξοπλισμός εντατικής θεραπείας
+151,en,el_GR,intermediate host,ενδιάμεσος φορέας
+152,en,el_GR,intrauterine,ενδομήτριο
+153,en,el_GR,intubation,διασωλήνωση
+154,en,el_GR,isolation,απομόνωση
+155,en,el_GR,Isopropanol,Ισοπροπανόλη
+156,en,el_GR,laboratory test kit,εργαστηριακό κιτ δοκιμής
+157,en,el_GR,laboratory testing,εργαστηριακές εξετάσεις
+158,en,el_GR,lack of testing,έλλειψη εξετάσεων
+159,en,el_GR,lack of tests,έλλειψη εξετάσεων
+160,en,el_GR,latest updates,τελευταίες ενημερώσεις
+161,en,el_GR,liver failure,ηπατική ανεπάρκεια
+162,en,el_GR,local public health authority,τοπική αρχή δημόσιας υγείας
+163,en,el_GR,lockdown,αποκλεισμός
+164,en,el_GR,lungs,πνεύμονες
+165,en,el_GR,masks,μάσκες
+166,en,el_GR,measles,ιλαρά
+167,en,el_GR,mechanical ventilation,μηχανικός αερισμός
+168,en,el_GR,media coverage,κάλυψη από τα μέσα
+169,en,el_GR,medical care,ιατρική φροντίδα
+170,en,el_GR,MERS,MERS
+171,en,el_GR,MERS CoV,MERS CoV
+172,en,el_GR,microbiologist,μικροβιολόγος
+173,en,el_GR,mild cough,ελαφρύς βήχας
+174,en,el_GR,mortality rate,ποσοστό θνησιμότητας
+175,en,el_GR,multi-organ failure,πολυοργανική ανεπάρκεια
+176,en,el_GR,nasal congestion,ρινική συμφόρηση
+177,en,el_GR,neutral detergent,ουδέτερο απορρυπαντικό
+178,en,el_GR,new normal,νέο κανονικό
+179,en,el_GR,novel corona virus,νέος κορονοϊός
+180,en,el_GR,novel coronavirus,νέος κορονοϊός
+181,en,el_GR,novel coronavirus outbreak,εμφάνιση νέου κορονοϊού
+182,en,el_GR,novel virus,νέος κορονοϊός
+183,en,el_GR,online medical consultation,online ιατρικές συμβουλές
+184,en,el_GR,onset,έναρξη
+185,en,el_GR,outbreak,ξέσπασμα
+186,en,el_GR,outbreak readiness,ετοιμότητα για ξέσπασμα
+187,en,el_GR,overall case fatality,συνολικής θνησιμότητα
+188,en,el_GR,pandemic,πανδημία
+189,en,el_GR,pangolin,πάνγκολιν
+190,en,el_GR,pathogen,παθογόνο
+191,en,el_GR,pathology,παθολογία
+192,en,el_GR,patient care equipment,εξοπλισμός φροντίδας ασθενών
+193,en,el_GR,personal protective equipment,εξοπλισμός προσωπικής προστασίας
+194,en,el_GR,person-to-person transmission,μετάδοση από άτομο σε άτομο
+195,en,el_GR,phlegm,φλέγμα
+196,en,el_GR,physical contact,φυσική επαφή
+197,en,el_GR,plague,πανώλη
+198,en,el_GR,pneumonia,πνευμονία
+199,en,el_GR,pneumonias,πνευμονίες
+200,en,el_GR,positive test,θετική εξέταση
+201,en,el_GR,precaution,προφύλαξη
+202,en,el_GR,precautionary,προληπτικό
+203,en,el_GR,pre-existing condition,προϋπάρχουσα κατάσταση
+204,en,el_GR,preparedness,ετοιμότητα
+205,en,el_GR,prognosis,πρόγνωση
+206,en,el_GR,protect myself,αυτοπροστασία
+207,en,el_GR,protect others,προστασία άλλων
+208,en,el_GR,protect yourself,αυτοπροστασία
+209,en,el_GR,protective measures,προστατευτικά μέτρα
+210,en,el_GR,public health crisis,κρίση δημόσιας υγείας
+211,en,el_GR,pulmonary tissue damage,πνευμονική βλάβη ιστών
+212,en,el_GR,quarantine,καραντίνα
+213,en,el_GR,rapid risk assessment,ταχεία αξιολόγηση κινδύνου
+214,en,el_GR,reagent,αντιδραστήριο
+215,en,el_GR,regular flu,τυπική γρίπη
+216,en,el_GR,reinfection,επαναμόλυνση
+217,en,el_GR,renal disease,νεφρική νόσος
+218,en,el_GR,renal failure,νεφρική ανεπάρκεια
+219,en,el_GR,respirator,αναπνευστήρας
+220,en,el_GR,respiratory,αναπνευστικό
+221,en,el_GR,respiratory disease,αναπνευστική ασθένεια
+222,en,el_GR,respiratory distress,αναπνευστική δυσχέρεια
+223,en,el_GR,respiratory droplets,αναπνευστικά σταγονίδια
+224,en,el_GR,respiratory hygiene,αναπνευστική υγιεινή
+225,en,el_GR,respiratory illness,αναπνευστική ασθένεια
+226,en,el_GR,respiratory syndrome,αναπνευστικό σύνδρομο
+227,en,el_GR,respiratory tract disease,ασθένεια αναπνευστικής οδού
+228,en,el_GR,restrictions,περιορισμοί
+229,en,el_GR,resurge,επανεμφάνιση
+230,en,el_GR,RNA,RNA
+231,en,el_GR,rubeola,ιλαρά
+232,en,el_GR,runny nose,μύτη που τρέχει
+233,en,el_GR,SARS,SARS
+234,en,el_GR,SARS-CoV-2,SARS-CoV-2
+235,en,el_GR,SARS-CoV,SARS-CoV
+236,en,el_GR,sars-related coronavirus,κορονοϊός σχετικός με sars
+237,en,el_GR,seasonal flu,εποχική γρίπη
+238,en,el_GR,seasonal influenza,εποχική γρίπη
+239,en,el_GR,secretion,έκκριση
+240,en,el_GR,self-quarantine,αυτο-καραντίνα
+241,en,el_GR,sepsis,σήψη
+242,en,el_GR,septic shock,σηπτικό σοκ
+243,en,el_GR,Severe Acute Respiratory Syndrome,Σοβαρό Οξύ Αναπνευστικό Σύνδρομο
+244,en,el_GR,shortness of breath,δυσκολία στην αναπνοή
+245,en,el_GR,sickened,εξασθένηση
+246,en,el_GR,sickness,ασθένεια
+247,en,el_GR,sneeze,φτάρνισμα
+248,en,el_GR,sneezes,φταρνίσματα
+249,en,el_GR,sneezing,φτάρνισμα
+250,en,el_GR,social distancing,κοινωνική αποστασιοποίηση
+251,en,el_GR,sore throat,πονόλαιμος
+252,en,el_GR,spanish flu,ισπανική γρίπη
+253,en,el_GR,specimen collection,συλλογή δείγματος
+254,en,el_GR,spread,εξάπλωση
+255,en,el_GR,sputum,πτύελο
+256,en,el_GR,stigmatisation,στιγματισμός
+257,en,el_GR,supportive,υποστηρικτικό
+258,en,el_GR,surface,επιφάνεια
+259,en,el_GR,surfaces,επιφάνειες
+260,en,el_GR,suspected infection,υποψία μόλυνσης
+261,en,el_GR,swab,μάκτρο
+262,en,el_GR,swine flu,γρίπη των χοίρων
+263,en,el_GR,symptom,σύμπτωμα
+264,en,el_GR,symptomatic,συμπτωματικό
+265,en,el_GR,symptoms,συμπτώματα
+266,en,el_GR,targeted disinfection,στοχευμένη απολύμανση
+267,en,el_GR,test kit,κιτ εξέτασης
+268,en,el_GR,testing error,σφάλμα εξέτασης
+269,en,el_GR,tissue damage,τραυματισμός ιστού
+270,en,el_GR,tp shortage,έλλειψη χαρτιού υγείας
+271,en,el_GR,toilet paper shortage,έλλειψη χαρτιού υγείας
+272,en,el_GR,touch,άγγιγμα
+273,en,el_GR,touching,άγγιγμα
+274,en,el_GR,transmissibility,μεταδοτικότητα
+275,en,el_GR,transmissible,μεταδοτικό
+276,en,el_GR,transmission,μετάδοση
+277,en,el_GR,transmission potential,δυναμικό μετάδοσης
+278,en,el_GR,typical flu,τυπική γρίπη
+279,en,el_GR,underlying disease,υποκείμενη αρρώστια
+280,en,el_GR,updates,ενημερώσεις
+281,en,el_GR,vaccine,εμβόλιο
+282,en,el_GR,vaccines,εμβόλια
+283,en,el_GR,ventilation,εξαερισμός
+284,en,el_GR,ventilator,εξαεριστήρας
+285,en,el_GR,ventilators,εξαεριστήρες
+286,en,el_GR,viral infection,ιογενής λοίμωξη
+287,en,el_GR,viral outbreak,ιογενής επιδημία
+288,en,el_GR,viral pandemic,ιογενής πανδημία
+289,en,el_GR,viral pneumonia,ιογενής πνευμονία
+290,en,el_GR,virtual care,εξ αποστάσεως φροντίδα
+291,en,el_GR,virulence,επιδημικότητα
+292,en,el_GR,virus itself,ο ιός ο ίδιος
+293,en,el_GR,virus outbreak,επιδημία ιού
+294,en,el_GR,virus scare,φόβος ιού
+295,en,el_GR,virus spreads,εξάπλωση ιού
+296,en,el_GR,virus strain,στέλεχος ιού
+297,en,el_GR,viral transmission,μετάδοση ιού
+298,en,el_GR,vivid-19,vivid-19
+299,en,el_GR,washing hands,πλύσιμο χεριών
+300,en,el_GR,washing ones hands,να πλένει κάποιος τα χέρια του
+301,en,el_GR,wash your hands,να πλένετε τα χέρια σας
+302,en,el_GR,white blood cell count,μέτρηση λευκών αιμοσφαιρίων
+303,en,el_GR,widespread transmission,ευρεία μετάδοση
+304,en,el_GR,working from home,εργασία από το σπίτι
+305,en,el_GR,WFH,Εργασία Από Το Σπίτι
+306,en,el_GR,Wuhan,Wuhan

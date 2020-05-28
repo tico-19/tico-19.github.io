@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,sl_SI,1918 flu,1918 gripa
+2,en,sl_SI,acute bronchitis,akutni bronhitis
+3,en,sl_SI,acute respiratory disease,akutna respiratorna bolezen
+4,en,sl_SI,AIDS,AIDS
+5,en,sl_SI,airborne droplets,kapljice v zraku
+6,en,sl_SI,airway,zračna pot
+7,en,sl_SI,alcohol-based,na osnovi alkohola
+8,en,sl_SI,alcohol-based hand rub,razkužilo za roke na osnovi alkohola
+9,en,sl_SI,alcohol-based hand sanitizer,razkužilo za roke na osnovi alkohola
+10,en,sl_SI,alveolar disease,alveolarna bolezen
+11,en,sl_SI,an epidemic,epidemija
+12,en,sl_SI,annual flu,letna gripa
+13,en,sl_SI,anti-inflammatory drug,protivnetno zdravilo
+14,en,sl_SI,antiviral drug,protivirusno zdravilo
+15,en,sl_SI,antiviral treatment,protivirusno zdravljenje
+16,en,sl_SI,assay,poskus
+17,en,sl_SI,asymptomatic,asimptomatsko
+18,en,sl_SI,avian flu,ptičja gripa
+19,en,sl_SI,Black Plague,Črna kuga
+20,en,sl_SI,blood pressure,krvni tlak
+21,en,sl_SI,body fluid,telesna tekočina
+22,en,sl_SI,breathing,dihanje
+23,en,sl_SI,bubonic plague,črna kuga
+24,en,sl_SI,c19,c19
+25,en,sl_SI,cv19,cv19
+26,en,sl_SI,case fatality rate,stopnja smrtnosti primera
+27,en,sl_SI,causative agent,povzročitelj
+28,en,sl_SI,CDC,Centri za nadzor bolezni
+29,en,sl_SI,chemical disinfection,kemijsko razkuževanje
+30,en,sl_SI,chest x-ray,rentgen prsnega koša
+31,en,sl_SI,clinical diagnosis,klinična diagnoza
+32,en,sl_SI,clinical trial,klinično preizkušanje
+33,en,sl_SI,close contact,bližnji stik
+34,en,sl_SI,cvirus,cvirus
+35,en,sl_SI,chronic respiratory disease,kronična respiratorna bolezen
+36,en,sl_SI,common cold,navadni prehlad
+37,en,sl_SI,common flu,navadna gripa
+38,en,sl_SI,communicable disease,nalezljiva bolezen
+39,en,sl_SI,community spread,širjenje v skupnosti
+40,en,sl_SI,community transmission,prenos v skupnosti
+41,en,sl_SI,compromised immune system,prizadeti imunski sistem
+42,en,sl_SI,contagion,okužba
+43,en,sl_SI,contagious,nalezljiv
+44,en,sl_SI,contagiousness,nalezljivost
+45,en,sl_SI,corona,korona
+46,en,sl_SI,corona virus,koronavirus
+47,en,sl_SI,corona virus epidemic,epidemija koronavirusa
+48,en,sl_SI,corona virus outbreak,izbruh koronavirusa
+49,en,sl_SI,corona virus scare,strah pred koronavirusom
+50,en,sl_SI,coronavirus,koronavirus
+51,en,sl_SI,coronavirus cases,primeri koronavirusa
+52,en,sl_SI,coronavirus outbreak,izbruh koronavirusa
+53,en,sl_SI,coronavirus pandemic,pandemija koronavirusa
+54,en,sl_SI,coronavirus scare,strah pred koronavirusom
+55,en,sl_SI,cough,kašelj
+56,en,sl_SI,cough etiquette,etiketa kašlja
+57,en,sl_SI,coughing,kašljanje
+58,en,sl_SI,cov 19,cov 19
+59,en,sl_SI,cov19,cov19
+60,en,sl_SI,COVID,COVID
+61,en,sl_SI,COVID-19 crisis,COVID-19 kriza
+62,en,sl_SI,covid-19,covid-19
+63,en,sl_SI,covid19,covid19
+64,en,sl_SI,COVID-19 epidemic,COVID-19 epidemija
+65,en,sl_SI,COVID-19 outbreak,COVID-19 izbruh
+66,en,sl_SI,COVID-19 pandemic,COVID-19 pandemija
+67,en,sl_SI,COVID 19,COVID 19
+68,en,sl_SI,current crisis,trenutna kriza
+69,en,sl_SI,current health crisis,trenutna zdravstvena kriza
+70,en,sl_SI,current outbreak,trenutni izbruh
+71,en,sl_SI,current pandemic,trenutna pandemija
+72,en,sl_SI,CV,CV
+73,en,sl_SI,CV-19,CV-19
+74,en,sl_SI,deadly,smrtonosno
+75,en,sl_SI,deadly virus,smrtonosen virus
+76,en,sl_SI,death rate,stopnja smrtnosti
+77,en,sl_SI,death toll,število smrti
+78,en,sl_SI,decontaminate,dekontaminirati
+79,en,sl_SI,detectable,zaznavno
+80,en,sl_SI,detergent,detergent
+81,en,sl_SI,difficulty breathing,težave z dihanjem
+82,en,sl_SI,diabetes,sladkorna bolezen
+83,en,sl_SI,diagnosable disease,diagnosticirana bolezen
+84,en,sl_SI,diagnostic protocol,protokol postavljanja diagnoze
+85,en,sl_SI,diagnostic testing,diagnostično testiranje
+86,en,sl_SI,disease itself,sama bolezen
+87,en,sl_SI,disease outbreak,izbruh bolezni
+88,en,sl_SI,disinfectant,razkužilo
+89,en,sl_SI,disposable,za enkratno uporabo
+90,en,sl_SI,droplet transmission,kapljični prenos
+91,en,sl_SI,droplets,kapljice
+92,en,sl_SI,dry cough,suh kašelj
+93,en,sl_SI,dry surface contamination,okuženost suhe površine
+94,en,sl_SI,ebola,ebola
+95,en,sl_SI,effective treatment,učinkovito zdravljenje
+96,en,sl_SI,electron microscope,elektronski mikroskop
+97,en,sl_SI,emergency department,urgentni oddelek
+98,en,sl_SI,epidemic,epidemija
+99,en,sl_SI,epidemic curve,krivulja epidemije
+100,en,sl_SI,epidemic peak,vrh epidemije
+101,en,sl_SI,epidemiologist,epidemiolog
+102,en,sl_SI,exposure,izpostavljenost
+103,en,sl_SI,extreme caution,izredna previdnost
+104,en,sl_SI,eye protection,zaščita oči
+105,en,sl_SI,face mask,obrazna maska
+106,en,sl_SI,face masks,obrazne maske
+107,en,sl_SI,family cluster,skupina družinskih članov
+108,en,sl_SI,fatality rate,stopnja umrljivosti
+109,en,sl_SI,fecal contamination,fekalna kontaminacija
+110,en,sl_SI,fever,vročina
+111,en,sl_SI,flatten the infection curve,sploščiti krivuljo okužbe
+112,en,sl_SI,flu,gripa
+113,en,sl_SI,food safety,varnost živil
+114,en,sl_SI,formaldehyde,formaldehid
+115,en,sl_SI,gastroenteritis,gastroenteritis
+116,en,sl_SI,germicide,germicid
+117,en,sl_SI,global pandemic,svetovna pandemija
+118,en,sl_SI,global warming,globalno ogrevanje
+119,en,sl_SI,good respiratory hygiene,dobra higiena dihanja
+120,en,sl_SI,Guangdong,Guangdong
+121,en,sl_SI,H1N1,H1N1
+122,en,sl_SI,H1N1 virus,H1N1 virus
+123,en,sl_SI,hand disinfectant,razkužilo za roke
+124,en,sl_SI,hand sanitizer,razkužilo za roke
+125,en,sl_SI,health care provider,izvajalec zdravstvene oskrbe
+126,en,sl_SI,health crisis,zdravstvena kriza
+127,en,sl_SI,health plan carrier,nosilec zdravstvenega načrta
+128,en,sl_SI,health services,zdravstvene storitve
+129,en,sl_SI,heart failure,odpoved srca
+130,en,sl_SI,high fever,visoka vročina
+131,en,sl_SI,HIV,HIV
+132,en,sl_SI,hospitalize,hospitalizirati
+133,en,sl_SI,household bleach,belilo za gospodinjstvo
+134,en,sl_SI,Hubei,Hubei
+135,en,sl_SI,hydrogen peroxide,vodikov peroksid
+136,en,sl_SI,hygiene,higiena
+137,en,sl_SI,immune system,imunski sistem
+138,en,sl_SI,immunity,imunost
+139,en,sl_SI,immunocompromised,oslabljen imunski sistem
+140,en,sl_SI,immunologist,imunolog
+141,en,sl_SI,incubation,inkubacija
+142,en,sl_SI,incubation period,inkubacijska doba
+143,en,sl_SI,indirect contact,nedirektni kontakt
+144,en,sl_SI,infect,okužiti
+145,en,sl_SI,infection,okužba
+146,en,sl_SI,infectious,kužen
+147,en,sl_SI,infectivity,kužnost
+148,en,sl_SI,influenza,gripa
+149,en,sl_SI,initial transmission event,dogodek začetnega prenosa
+150,en,sl_SI,intensive care equipment,oprema za intenzivno nego
+151,en,sl_SI,intermediate host,vmesni gostitelj
+152,en,sl_SI,intrauterine,znotraj maternice
+153,en,sl_SI,intubation,intubacija
+154,en,sl_SI,isolation,izolacija
+155,en,sl_SI,Isopropanol,Izopropanol
+156,en,sl_SI,laboratory test kit,komplet za laboratorijsko testiranje
+157,en,sl_SI,laboratory testing,laboratorijsko testiranje
+158,en,sl_SI,lack of testing,pomanjkanje testiranja
+159,en,sl_SI,lack of tests,pomanjkanje testov
+160,en,sl_SI,latest updates,zadnji podatki
+161,en,sl_SI,liver failure,odpoved ledvic
+162,en,sl_SI,local public health authority,lokalni organ za javno zdravje
+163,en,sl_SI,lockdown,karantena
+164,en,sl_SI,lungs,pljuča
+165,en,sl_SI,masks,maske
+166,en,sl_SI,measles,ošpice
+167,en,sl_SI,mechanical ventilation,mehansko predihavanje
+168,en,sl_SI,media coverage,medijska pokritost
+169,en,sl_SI,medical care,zdravstvena oskrba
+170,en,sl_SI,MERS,MERS
+171,en,sl_SI,MERS CoV,MERS CoV
+172,en,sl_SI,microbiologist,mikrobiolog
+173,en,sl_SI,mild cough,blag kašelj
+174,en,sl_SI,mortality rate,stopnja umrljivosti
+175,en,sl_SI,multi-organ failure,odpoved večih organov
+176,en,sl_SI,nasal congestion,zamašen nos
+177,en,sl_SI,neutral detergent,nevtralen detergent
+178,en,sl_SI,new normal,nova definicija običajnega
+179,en,sl_SI,novel corona virus,nov korona virus
+180,en,sl_SI,novel coronavirus,nov koronavirus
+181,en,sl_SI,novel coronavirus outbreak,nov izbruh koronavirusa
+182,en,sl_SI,novel virus,nov virus
+183,en,sl_SI,online medical consultation,spletno zdravniško posvetovanje
+184,en,sl_SI,onset,začetek
+185,en,sl_SI,outbreak,izbruh
+186,en,sl_SI,outbreak readiness,pripravljenost na izbruh
+187,en,sl_SI,overall case fatality,splošna stopnja smrtnosti primera
+188,en,sl_SI,pandemic,pandemija
+189,en,sl_SI,pangolin,luskavec
+190,en,sl_SI,pathogen,patogen
+191,en,sl_SI,pathology,patologija
+192,en,sl_SI,patient care equipment,oprema za nego bolnika
+193,en,sl_SI,personal protective equipment,oprema za osebno zaščito
+194,en,sl_SI,person-to-person transmission,prenos iz osebe na osebo
+195,en,sl_SI,phlegm,sluz
+196,en,sl_SI,physical contact,fizični kontakt
+197,en,sl_SI,plague,kuga
+198,en,sl_SI,pneumonia,pljučnica
+199,en,sl_SI,pneumonias,pljučnice
+200,en,sl_SI,positive test,pozitivni test
+201,en,sl_SI,precaution,previdnost
+202,en,sl_SI,precautionary,previdnostni
+203,en,sl_SI,pre-existing condition,predhodno zdravstveno stanje
+204,en,sl_SI,preparedness,pripravljenost
+205,en,sl_SI,prognosis,prognoza
+206,en,sl_SI,protect myself,zaščititi se
+207,en,sl_SI,protect others,zaščititi druge
+208,en,sl_SI,protect yourself,zaščititi sebe
+209,en,sl_SI,protective measures,zaščitni ukrepi
+210,en,sl_SI,public health crisis,kriza javnega zdravja
+211,en,sl_SI,pulmonary tissue damage,poškodba pljučnega tkiva
+212,en,sl_SI,quarantine,karantena
+213,en,sl_SI,rapid risk assessment,hitra ocena tveganja
+214,en,sl_SI,reagent,reagent
+215,en,sl_SI,regular flu,navadna gripa
+216,en,sl_SI,reinfection,ponovna okužba
+217,en,sl_SI,renal disease,bolezen ledvic
+218,en,sl_SI,renal failure,odpoved ledvic
+219,en,sl_SI,respirator,respirator
+220,en,sl_SI,respiratory,dihalni
+221,en,sl_SI,respiratory disease,dihalna bolezen
+222,en,sl_SI,respiratory distress,dihalna stiska
+223,en,sl_SI,respiratory droplets,kapljice ob dihanju
+224,en,sl_SI,respiratory hygiene,higiena dihanja
+225,en,sl_SI,respiratory illness,dihalna bolezen
+226,en,sl_SI,respiratory syndrome,respiratorni sindrom
+227,en,sl_SI,respiratory tract disease,bolezen dihal
+228,en,sl_SI,restrictions,omejitve
+229,en,sl_SI,resurge,ponovitev
+230,en,sl_SI,RNA,RNA
+231,en,sl_SI,rubeola,ošpice
+232,en,sl_SI,runny nose,izcedek iz nosu
+233,en,sl_SI,SARS,SARS
+234,en,sl_SI,SARS-CoV-2,SARS-CoV-2
+235,en,sl_SI,SARS-CoV,SARS-CoV
+236,en,sl_SI,sars-related coronavirus,koronavirus, povezan s sarsom
+237,en,sl_SI,seasonal flu,sezonska gripa
+238,en,sl_SI,seasonal influenza,sezonska gripa
+239,en,sl_SI,secretion,izločanje
+240,en,sl_SI,self-quarantine,samokarantena
+241,en,sl_SI,sepsis,sepsa
+242,en,sl_SI,septic shock,septični šok
+243,en,sl_SI,Severe Acute Respiratory Syndrome,Hud akutni respiratorni sindrom
+244,en,sl_SI,shortness of breath,pomanjkanje zraka
+245,en,sl_SI,sickened,oboleli
+246,en,sl_SI,sickness,obolelost
+247,en,sl_SI,sneeze,kihniti
+248,en,sl_SI,sneezes,kihanja
+249,en,sl_SI,sneezing,kihanje
+250,en,sl_SI,social distancing,socialna izoliranost
+251,en,sl_SI,sore throat,vneto grlo
+252,en,sl_SI,spanish flu,španska gripa
+253,en,sl_SI,specimen collection,odvzem vzorcev
+254,en,sl_SI,spread,širjenje
+255,en,sl_SI,sputum,izmeček
+256,en,sl_SI,stigmatisation,stigmatizacija
+257,en,sl_SI,supportive,v oporo
+258,en,sl_SI,surface,površina
+259,en,sl_SI,surfaces,površine
+260,en,sl_SI,suspected infection,sum na okužbo
+261,en,sl_SI,swab,bris
+262,en,sl_SI,swine flu,prašičja gripa
+263,en,sl_SI,symptom,simptom
+264,en,sl_SI,symptomatic,simptomatski
+265,en,sl_SI,symptoms,simptomi
+266,en,sl_SI,targeted disinfection,usmerjeno razkuževanje
+267,en,sl_SI,test kit,komplet za testiranje
+268,en,sl_SI,testing error,napake pri testiranju
+269,en,sl_SI,tissue damage,poškodba tkiva
+270,en,sl_SI,tp shortage,pomanjkanje tp
+271,en,sl_SI,toilet paper shortage,pomanjkanje toaletnega papirja
+272,en,sl_SI,touch,dotik
+273,en,sl_SI,touching,dotikanje
+274,en,sl_SI,transmissibility,prenosljivost
+275,en,sl_SI,transmissible,prenosljiv
+276,en,sl_SI,transmission,prenos
+277,en,sl_SI,transmission potential,potencial za prenos
+278,en,sl_SI,typical flu,tipična gripa
+279,en,sl_SI,underlying disease,osnovna bolezen
+280,en,sl_SI,updates,novice
+281,en,sl_SI,vaccine,cepivo
+282,en,sl_SI,vaccines,cepiva
+283,en,sl_SI,ventilation,predihavanje
+284,en,sl_SI,ventilator,ventilator
+285,en,sl_SI,ventilators,ventilatorji
+286,en,sl_SI,viral infection,virusna okužba
+287,en,sl_SI,viral outbreak,izbruh virusa
+288,en,sl_SI,viral pandemic,virusna pandemija
+289,en,sl_SI,viral pneumonia,virusna pljučnica
+290,en,sl_SI,virtual care,virtualna oskrba
+291,en,sl_SI,virulence,virulenca
+292,en,sl_SI,virus itself,sam virus
+293,en,sl_SI,virus outbreak,izbruh virusa
+294,en,sl_SI,virus scare,preplah pred virusi
+295,en,sl_SI,virus spreads,širjenje virusa
+296,en,sl_SI,virus strain,sev virusa
+297,en,sl_SI,viral transmission,virusni prenos
+298,en,sl_SI,vivid-19,vivid-19
+299,en,sl_SI,washing hands,umivanje rok
+300,en,sl_SI,washing ones hands,umivanje rok
+301,en,sl_SI,wash your hands,umivaj si roke
+302,en,sl_SI,white blood cell count,število belih krvnih celic
+303,en,sl_SI,widespread transmission,visoka razširjenost
+304,en,sl_SI,working from home,delo od doma
+305,en,sl_SI,WFH,Svetovna zdravstvena zveza
+306,en,sl_SI,Wuhan,Wuhan

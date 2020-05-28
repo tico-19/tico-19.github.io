@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,bg_BG,1918 flu,грипът през 1918 г.
+2,en,bg_BG,acute bronchitis,остър бронхит
+3,en,bg_BG,acute respiratory disease,остра респираторна болест
+4,en,bg_BG,AIDS,СПИН
+5,en,bg_BG,airborne droplets,въздушни капчици
+6,en,bg_BG,airway,дихателни пътища
+7,en,bg_BG,alcohol-based,на алкохолна основа
+8,en,bg_BG,alcohol-based hand rub,гел за ръце на алкохолна основа
+9,en,bg_BG,alcohol-based hand sanitizer,дезинфектант за ръце на алкохолна основа
+10,en,bg_BG,alveolar disease,алвеоларна болест
+11,en,bg_BG,an epidemic,епидемия
+12,en,bg_BG,annual flu,годишен грип
+13,en,bg_BG,anti-inflammatory drug,противовъзпалително лекарство
+14,en,bg_BG,antiviral drug,противовирусно лекарство
+15,en,bg_BG,antiviral treatment,противовирусно лечение
+16,en,bg_BG,assay,проба
+17,en,bg_BG,asymptomatic,асимптоматично
+18,en,bg_BG,avian flu,птичи грип
+19,en,bg_BG,Black Plague,Черна чума
+20,en,bg_BG,blood pressure,кръвно налягане
+21,en,bg_BG,body fluid,телесна течност
+22,en,bg_BG,breathing,дишане
+23,en,bg_BG,bubonic plague,чума
+24,en,bg_BG,c19,c19
+25,en,bg_BG,cv19,cv19
+26,en,bg_BG,case fatality rate,коефициент на смъртност на случаите
+27,en,bg_BG,causative agent,причинител
+28,en,bg_BG,CDC,ЦКЗ
+29,en,bg_BG,chemical disinfection,химична дезинфекция
+30,en,bg_BG,chest x-ray,рентгенография на гръдния кош
+31,en,bg_BG,clinical diagnosis,клинична диагноза
+32,en,bg_BG,clinical trial,клинично изпитване
+33,en,bg_BG,close contact,близък контакт
+34,en,bg_BG,cvirus,коронавирус
+35,en,bg_BG,chronic respiratory disease,хронична респираторна болест
+36,en,bg_BG,common cold,обикновена настинка
+37,en,bg_BG,common flu,обикновен грип
+38,en,bg_BG,communicable disease,заразна болест
+39,en,bg_BG,community spread,разпространение в общността
+40,en,bg_BG,community transmission,предаване в общността
+41,en,bg_BG,compromised immune system,компрометирана имунна система
+42,en,bg_BG,contagion,зараза
+43,en,bg_BG,contagious,заразен
+44,en,bg_BG,contagiousness,заразност
+45,en,bg_BG,corona,корона
+46,en,bg_BG,corona virus,коронавирус
+47,en,bg_BG,corona virus epidemic,епидемия от коронавирус
+48,en,bg_BG,corona virus outbreak,огнище на коронавирус
+49,en,bg_BG,corona virus scare,страх от коронавирус
+50,en,bg_BG,coronavirus,коронавирус
+51,en,bg_BG,coronavirus cases,случаи на коронавирус
+52,en,bg_BG,coronavirus outbreak,огнище на коронавирус
+53,en,bg_BG,coronavirus pandemic,пандемия от коронавирус
+54,en,bg_BG,coronavirus scare,страх от коронавирус
+55,en,bg_BG,cough,кашлица
+56,en,bg_BG,cough etiquette,етикет при кашлица
+57,en,bg_BG,coughing,кашляне
+58,en,bg_BG,cov 19,cov 19
+59,en,bg_BG,cov19,cov19
+60,en,bg_BG,COVID,COVID
+61,en,bg_BG,COVID-19 crisis,кризисна ситуация поради COVID-19
+62,en,bg_BG,covid-19,covid-19
+63,en,bg_BG,covid19,covid19
+64,en,bg_BG,COVID-19 epidemic,епидемия от COVID-19
+65,en,bg_BG,COVID-19 outbreak,огнище на COVID-19
+66,en,bg_BG,COVID-19 pandemic,пандемия от COVID-19
+67,en,bg_BG,COVID 19,COVID 19
+68,en,bg_BG,current crisis,текуща кризисна ситуация
+69,en,bg_BG,current health crisis,текуща здравна криза
+70,en,bg_BG,current outbreak,текущо огнище
+71,en,bg_BG,current pandemic,текуща пандемия
+72,en,bg_BG,CV,CV
+73,en,bg_BG,CV-19,CV-19
+74,en,bg_BG,deadly,смъртоносен
+75,en,bg_BG,deadly virus,смъртоносен вирус
+76,en,bg_BG,death rate,смъртност
+77,en,bg_BG,death toll,брой на умрелите
+78,en,bg_BG,decontaminate,обеззаразяване
+79,en,bg_BG,detectable,откриваем
+80,en,bg_BG,detergent,почистващ препарат
+81,en,bg_BG,difficulty breathing,затруднено дишане
+82,en,bg_BG,diabetes,диабет
+83,en,bg_BG,diagnosable disease,заболяване, подлежащо на диагностициране
+84,en,bg_BG,diagnostic protocol,диагностичен протокол
+85,en,bg_BG,diagnostic testing,диагностично изследване
+86,en,bg_BG,disease itself,самата болест
+87,en,bg_BG,disease outbreak,огнище на болестта
+88,en,bg_BG,disinfectant,дезинфектант
+89,en,bg_BG,disposable,за еднократна употреба
+90,en,bg_BG,droplet transmission,предаване по въздушно-капков път
+91,en,bg_BG,droplets,капчици
+92,en,bg_BG,dry cough,суха кашлица
+93,en,bg_BG,dry surface contamination,заразяване от суха повърхност
+94,en,bg_BG,ebola,ебола
+95,en,bg_BG,effective treatment,ефективно лечение
+96,en,bg_BG,electron microscope,електронен микроскоп
+97,en,bg_BG,emergency department,спешно отделение
+98,en,bg_BG,epidemic,епидемия
+99,en,bg_BG,epidemic curve,крива на епидемията
+100,en,bg_BG,epidemic peak,пик на епидемията
+101,en,bg_BG,epidemiologist,епидемиолог
+102,en,bg_BG,exposure,излагане
+103,en,bg_BG,extreme caution,изключително внимание
+104,en,bg_BG,eye protection,защита на очите
+105,en,bg_BG,face mask,маска за лице
+106,en,bg_BG,face masks,маски за лице
+107,en,bg_BG,family cluster,семейно струпване
+108,en,bg_BG,fatality rate,коефициент на смъртност
+109,en,bg_BG,fecal contamination,фекално заразяване
+110,en,bg_BG,fever,треска
+111,en,bg_BG,flatten the infection curve,изравняване на кривата на инфекцията
+112,en,bg_BG,flu,грип
+113,en,bg_BG,food safety,безопасност на храните
+114,en,bg_BG,formaldehyde,формалдехид
+115,en,bg_BG,gastroenteritis,гастроентерит
+116,en,bg_BG,germicide,антибактериално
+117,en,bg_BG,global pandemic,глобална пандемия
+118,en,bg_BG,global warming,глобално затопляне
+119,en,bg_BG,good respiratory hygiene,добра дихателна хигиена
+120,en,bg_BG,Guangdong,Гуандун
+121,en,bg_BG,H1N1,H1N1
+122,en,bg_BG,H1N1 virus,вирус H1N1
+123,en,bg_BG,hand disinfectant,дезинфектант за ръце
+124,en,bg_BG,hand sanitizer,дезинфектант за ръце
+125,en,bg_BG,health care provider,доставчик на здравни грижи
+126,en,bg_BG,health crisis,здравна криза
+127,en,bg_BG,health plan carrier,доставчик за здравен план
+128,en,bg_BG,health services,здравни услуги
+129,en,bg_BG,heart failure,сърдечна недостатъчност
+130,en,bg_BG,high fever,висока температура
+131,en,bg_BG,HIV,HIV
+132,en,bg_BG,hospitalize,хоспитализиране
+133,en,bg_BG,household bleach,белина за домашни условия
+134,en,bg_BG,Hubei,Хубей
+135,en,bg_BG,hydrogen peroxide,водороден пероксид
+136,en,bg_BG,hygiene,хигиена
+137,en,bg_BG,immune system,имунна система
+138,en,bg_BG,immunity,имунитет
+139,en,bg_BG,immunocompromised,имунокомпрометиран
+140,en,bg_BG,immunologist,имунолог
+141,en,bg_BG,incubation,инкубация
+142,en,bg_BG,incubation period,инкубационен период
+143,en,bg_BG,indirect contact,непряк контакт
+144,en,bg_BG,infect,заразявам
+145,en,bg_BG,infection,инфекция
+146,en,bg_BG,infectious,заразен
+147,en,bg_BG,infectivity,заразност
+148,en,bg_BG,influenza,инфлуенца
+149,en,bg_BG,initial transmission event,първоначално предаване
+150,en,bg_BG,intensive care equipment,интензивно оборудване
+151,en,bg_BG,intermediate host,междинен гостоприемник
+152,en,bg_BG,intrauterine,вътрематочно
+153,en,bg_BG,intubation,интубация
+154,en,bg_BG,isolation,изолация
+155,en,bg_BG,Isopropanol,изопропанол
+156,en,bg_BG,laboratory test kit,лабораторен комплект за тестване
+157,en,bg_BG,laboratory testing,лабораторно тестване
+158,en,bg_BG,lack of testing,липса на тестване
+159,en,bg_BG,lack of tests,липса на тестове
+160,en,bg_BG,latest updates,най-актуалната информация
+161,en,bg_BG,liver failure,чернодробна недостатъчност
+162,en,bg_BG,local public health authority,местен орган за обществено здраве
+163,en,bg_BG,lockdown,заключване
+164,en,bg_BG,lungs,бели дробове
+165,en,bg_BG,masks,маски
+166,en,bg_BG,measles,морбили
+167,en,bg_BG,mechanical ventilation,механична вентилация
+168,en,bg_BG,media coverage,медийно покритие
+169,en,bg_BG,medical care,медицински грижи
+170,en,bg_BG,MERS,MERS
+171,en,bg_BG,MERS CoV,MERS CoV
+172,en,bg_BG,microbiologist,микробиолог
+173,en,bg_BG,mild cough,лека кашлица
+174,en,bg_BG,mortality rate,смъртност
+175,en,bg_BG,multi-organ failure,многоорганна недостатъчност
+176,en,bg_BG,nasal congestion,запушване на носа
+177,en,bg_BG,neutral detergent,неутрален почистващ препарат
+178,en,bg_BG,new normal,новото нормално
+179,en,bg_BG,novel corona virus,нов коронавирус
+180,en,bg_BG,novel coronavirus,нов коронавирус
+181,en,bg_BG,novel coronavirus outbreak,ново огнище на коронавирус
+182,en,bg_BG,novel virus,нов вирус
+183,en,bg_BG,online medical consultation,онлайн медицинска консултация
+184,en,bg_BG,onset,начало
+185,en,bg_BG,outbreak,огнище
+186,en,bg_BG,outbreak readiness,готовност при избухване на огнище
+187,en,bg_BG,overall case fatality,обща смъртност на случаите
+188,en,bg_BG,pandemic,пандемия
+189,en,bg_BG,pangolin,панголин
+190,en,bg_BG,pathogen,патоген
+191,en,bg_BG,pathology,патология
+192,en,bg_BG,patient care equipment,оборудване за грижи за пациентите
+193,en,bg_BG,personal protective equipment,лично предпазно оборудване
+194,en,bg_BG,person-to-person transmission,предаване от човек на човек
+195,en,bg_BG,phlegm,храчка
+196,en,bg_BG,physical contact,физически контакт
+197,en,bg_BG,plague,чума
+198,en,bg_BG,pneumonia,пневмония
+199,en,bg_BG,pneumonias,пневмонии
+200,en,bg_BG,positive test,положителен тест
+201,en,bg_BG,precaution,предпазна мярка
+202,en,bg_BG,precautionary,предпазен
+203,en,bg_BG,pre-existing condition,предшестващо състояние
+204,en,bg_BG,preparedness,готовност
+205,en,bg_BG,prognosis,прогноза
+206,en,bg_BG,protect myself,предпазвам себе си
+207,en,bg_BG,protect others,предпазвам останалите
+208,en,bg_BG,protect yourself,предпазвайте себе си
+209,en,bg_BG,protective measures,предпазни мерки
+210,en,bg_BG,public health crisis,обществена здравна криза
+211,en,bg_BG,pulmonary tissue damage,увреждане на белодробната тъкан
+212,en,bg_BG,quarantine,карантина
+213,en,bg_BG,rapid risk assessment,бърза оценка на риска
+214,en,bg_BG,reagent,реагент
+215,en,bg_BG,regular flu,стандартен грип
+216,en,bg_BG,reinfection,повторно заразяване
+217,en,bg_BG,renal disease,бъбречна болест
+218,en,bg_BG,renal failure,бъбречна недостатъчност
+219,en,bg_BG,respirator,респиратор
+220,en,bg_BG,respiratory,дихателен
+221,en,bg_BG,respiratory disease,дихателна болест
+222,en,bg_BG,respiratory distress,дихателен дистрес
+223,en,bg_BG,respiratory droplets,дихателни капчици
+224,en,bg_BG,respiratory hygiene,дихателна хигиена
+225,en,bg_BG,respiratory illness,дихателно заболяване
+226,en,bg_BG,respiratory syndrome,респираторен синдром
+227,en,bg_BG,respiratory tract disease,заболяване на дихателните пътища
+228,en,bg_BG,restrictions,ограничения
+229,en,bg_BG,resurge,възстановяване
+230,en,bg_BG,RNA,РНК
+231,en,bg_BG,rubeola,рубеола
+232,en,bg_BG,runny nose,хрема
+233,en,bg_BG,SARS,SARS
+234,en,bg_BG,SARS-CoV-2,SARS-CoV-2
+235,en,bg_BG,SARS-CoV,SARS-CoV
+236,en,bg_BG,sars-related coronavirus,коронавирус, свързан със SARS
+237,en,bg_BG,seasonal flu,сезонен грип
+238,en,bg_BG,seasonal influenza,сезонна инфлуенца
+239,en,bg_BG,secretion,секреция
+240,en,bg_BG,self-quarantine,самоналожена карантина
+241,en,bg_BG,sepsis,сепсис
+242,en,bg_BG,septic shock,септичен шок
+243,en,bg_BG,Severe Acute Respiratory Syndrome,тежък остър респираторен синдром
+244,en,bg_BG,shortness of breath,недостиг на въздух
+245,en,bg_BG,sickened,разболял се
+246,en,bg_BG,sickness,болест
+247,en,bg_BG,sneeze,кихам
+248,en,bg_BG,sneezes,киха
+249,en,bg_BG,sneezing,кихане
+250,en,bg_BG,social distancing,социално дистанциране
+251,en,bg_BG,sore throat,възпалено гърло
+252,en,bg_BG,spanish flu,испански грип
+253,en,bg_BG,specimen collection,събиране на проби
+254,en,bg_BG,spread,разпространение
+255,en,bg_BG,sputum,слюнка
+256,en,bg_BG,stigmatisation,заклеймяване
+257,en,bg_BG,supportive,подкрепящ
+258,en,bg_BG,surface,повърхност
+259,en,bg_BG,surfaces,повърхности
+260,en,bg_BG,suspected infection,подозрение за инфекция
+261,en,bg_BG,swab,тампон
+262,en,bg_BG,swine flu,свински грип
+263,en,bg_BG,symptom,симптом
+264,en,bg_BG,symptomatic,симптоматичен
+265,en,bg_BG,symptoms,симптоми
+266,en,bg_BG,targeted disinfection,целенасочена дезинфекция
+267,en,bg_BG,test kit,комплект за тестване
+268,en,bg_BG,testing error,грешка при тестване
+269,en,bg_BG,tissue damage,увреждане на тъканите
+270,en,bg_BG,tp shortage,недостиг на тх
+271,en,bg_BG,toilet paper shortage,недостиг на тоалетна хартия
+272,en,bg_BG,touch,докосвам
+273,en,bg_BG,touching,докосване
+274,en,bg_BG,transmissibility,предаване
+275,en,bg_BG,transmissible,предаваем
+276,en,bg_BG,transmission,предаване
+277,en,bg_BG,transmission potential,предавателен потенциал
+278,en,bg_BG,typical flu,типичен грип
+279,en,bg_BG,underlying disease,основно заболяване
+280,en,bg_BG,updates,актуализации
+281,en,bg_BG,vaccine,ваксина
+282,en,bg_BG,vaccines,ваксини
+283,en,bg_BG,ventilation,вентилация
+284,en,bg_BG,ventilator,вентилатор
+285,en,bg_BG,ventilators,вентилатори
+286,en,bg_BG,viral infection,вирусна инфекция
+287,en,bg_BG,viral outbreak,вирусно огнище
+288,en,bg_BG,viral pandemic,вирусна пандемия
+289,en,bg_BG,viral pneumonia,вирусна пневмония
+290,en,bg_BG,virtual care,виртуална грижа
+291,en,bg_BG,virulence,вирулентност
+292,en,bg_BG,virus itself,самият вирус
+293,en,bg_BG,virus outbreak,огнище на вируса
+294,en,bg_BG,virus scare,страх от вируса
+295,en,bg_BG,virus spreads,разпространение на вируса
+296,en,bg_BG,virus strain,щам на вируса
+297,en,bg_BG,viral transmission,вирусно предаване
+298,en,bg_BG,vivid-19,vivid-19
+299,en,bg_BG,washing hands,миене на ръцете
+300,en,bg_BG,washing ones hands,мия си ръцете
+301,en,bg_BG,wash your hands,мийте си ръцете
+302,en,bg_BG,white blood cell count,брой на белите кръвни клетки
+303,en,bg_BG,widespread transmission,широко разпространено предаване
+304,en,bg_BG,working from home,работа от вкъщи
+305,en,bg_BG,WFH,WFH
+306,en,bg_BG,Wuhan,Ухан

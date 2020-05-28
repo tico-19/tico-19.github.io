@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ur_PK,1918 flu,1918 کا فلو
+2,en,ur_PK,acute bronchitis,پھیپھڑوں کی شدید سوجن
+3,en,ur_PK,acute respiratory disease,تنفس کی شدید بیماری
+4,en,ur_PK,AIDS,ایڈز (ایسی بیماری جس میں میں جسمانی مدافعت ختم ہو جاتی ہے)
+5,en,ur_PK,airborne droplets,ہوا میں معلق ننھے قطرے
+6,en,ur_PK,airway,جسم میں ہوا کا راستہ
+7,en,ur_PK,alcohol-based,الکحل پر مبنی
+8,en,ur_PK,alcohol-based hand rub,الکحل پر مبنی ہاٹھوں پر ملنے والا
+9,en,ur_PK,alcohol-based hand sanitizer,الکحل پر مبنی ہاتھ صاف کرنے والا
+10,en,ur_PK,alveolar disease,پھیپھڑوں کی ہوا کی تھیلیوں کی بیماری
+11,en,ur_PK,an epidemic,ایک وبائی بیماری
+12,en,ur_PK,annual flu,سالانہ فلو
+13,en,ur_PK,anti-inflammatory drug,دافع سوزش دوا
+14,en,ur_PK,antiviral drug,وائرس کش دوا
+15,en,ur_PK,antiviral treatment,وائرس کش علاج
+16,en,ur_PK,assay,جانچ
+17,en,ur_PK,asymptomatic,بیماری کی علامات کے بغیر
+18,en,ur_PK,avian flu,برڈ فلو
+19,en,ur_PK,Black Plague,کالی طاعون
+20,en,ur_PK,blood pressure,فشار خون
+21,en,ur_PK,body fluid,جسمانی سیال
+22,en,ur_PK,breathing,سانس لینا
+23,en,ur_PK,bubonic plague,گلٹی دار طاعون
+24,en,ur_PK,c19,c19
+25,en,ur_PK,cv19,cv19
+26,en,ur_PK,case fatality rate,اموات کی شرح
+27,en,ur_PK,causative agent,باعث علت محرک
+28,en,ur_PK,CDC,CDC
+29,en,ur_PK,chemical disinfection,کیمیائی دافع چھوت
+30,en,ur_PK,chest x-ray,سینے کا ایکسرے
+31,en,ur_PK,clinical diagnosis,طبی تشخیص
+32,en,ur_PK,clinical trial,طبی آزمائش
+33,en,ur_PK,close contact,قریبی رابطہ
+34,en,ur_PK,cvirus,سی وائرس
+35,en,ur_PK,chronic respiratory disease,سانس کی دیرینہ مرض
+36,en,ur_PK,common cold,زکام
+37,en,ur_PK,common flu,وبائی زُکام
+38,en,ur_PK,communicable disease,متعدی بیماری
+39,en,ur_PK,community spread,مقامی آبادی میں پھیلنا
+40,en,ur_PK,community transmission,مقامی آبادی میں ترسیل
+41,en,ur_PK,compromised immune system,متاثرہ مدافعتی نظام
+42,en,ur_PK,contagion,متعدی مرض
+43,en,ur_PK,contagious,متعدی
+44,en,ur_PK,contagiousness,متعدی ہونا
+45,en,ur_PK,corona,کورونا
+46,en,ur_PK,corona virus,کورونا وائرس (فلو اور تنفس کی بیماریاں پیدا کرنے والا وائرس)
+47,en,ur_PK,corona virus epidemic,کورونا وائرس کی وبا
+48,en,ur_PK,corona virus outbreak,کورونا وائرس کا پھیلنا
+49,en,ur_PK,corona virus scare,کورونا وائرس کی دہشت
+50,en,ur_PK,coronavirus,کورونا وائرس
+51,en,ur_PK,coronavirus cases,کورونا وائرس کے شکار
+52,en,ur_PK,coronavirus outbreak,کورونا وائرس کا پھیلنا
+53,en,ur_PK,coronavirus pandemic,کورونا وائرس کی عالمی وبا
+54,en,ur_PK,coronavirus scare,کورونا وائرس کی دہشت
+55,en,ur_PK,cough,کھانسی
+56,en,ur_PK,cough etiquette,کھانسنے کا مہذب طریقہ
+57,en,ur_PK,coughing,کھنسا
+58,en,ur_PK,cov 19,cov 19
+59,en,ur_PK,cov19,cov19
+60,en,ur_PK,COVID,COVID
+61,en,ur_PK,COVID-19 crisis,COVID-19 کا بحران
+62,en,ur_PK,covid-19,covid-19
+63,en,ur_PK,covid19,covid19
+64,en,ur_PK,COVID-19 epidemic,COVID-19 کی وبا
+65,en,ur_PK,COVID-19 outbreak,COVID-19 کی وبا کا پھوٹنا
+66,en,ur_PK,COVID-19 pandemic,COVID-19 کی عالمگیر وبا
+67,en,ur_PK,COVID 19,COVID 19
+68,en,ur_PK,current crisis,موجودہ بحران
+69,en,ur_PK,current health crisis,صحت کا موجودہ بحران
+70,en,ur_PK,current outbreak,موجودہ پھیلاؤ
+71,en,ur_PK,current pandemic,موجودہ عالمی وبا
+72,en,ur_PK,CV,CV
+73,en,ur_PK,CV-19,CV-19
+74,en,ur_PK,deadly,مہلک
+75,en,ur_PK,deadly virus,مہلک وائرس
+76,en,ur_PK,death rate,اموات کی شرح
+77,en,ur_PK,death toll,اموات کی تعداد
+78,en,ur_PK,decontaminate,انسداد آلودگی کرنا
+79,en,ur_PK,detectable,کھوج کے لائق
+80,en,ur_PK,detergent,صفائی کنندہ
+81,en,ur_PK,difficulty breathing,سانس لینے میں دشواری
+82,en,ur_PK,diabetes,ذیابیطس
+83,en,ur_PK,diagnosable disease,قابل تشخیص مرض
+84,en,ur_PK,diagnostic protocol,تشخیصی ضابطہ
+85,en,ur_PK,diagnostic testing,تشخیصی جانچ
+86,en,ur_PK,disease itself,بیماری بذات خود
+87,en,ur_PK,disease outbreak,بیماری کا پھیلنا
+88,en,ur_PK,disinfectant,جراثیم کش
+89,en,ur_PK,disposable,قابل ضیاع
+90,en,ur_PK,droplet transmission,ننھے قطروں کی ترسیل
+91,en,ur_PK,droplets,ننھے قطروں کی ترسیل
+92,en,ur_PK,dry cough,خشک کھانسی
+93,en,ur_PK,dry surface contamination,خشک سطح کی آلودگی
+94,en,ur_PK,ebola,ابولا وائرس کی بیماری
+95,en,ur_PK,effective treatment,مؤثر علاج
+96,en,ur_PK,electron microscope,الیکٹرانی خوردبین
+97,en,ur_PK,emergency department,ہنگامی محکمہ
+98,en,ur_PK,epidemic,وبا
+99,en,ur_PK,epidemic curve,وبا کی کرو
+100,en,ur_PK,epidemic peak,وبا کی انتہا
+101,en,ur_PK,epidemiologist,ماہر وبائیات
+102,en,ur_PK,exposure,سامنا ہونا
+103,en,ur_PK,extreme caution,انتہائی تنبیہ
+104,en,ur_PK,eye protection,آنکھ کی حفاظت
+105,en,ur_PK,face mask,چہرے کا ماسک
+106,en,ur_PK,face masks,چہرے کے ماسک
+107,en,ur_PK,family cluster,خاندان کا جھرمٹ
+108,en,ur_PK,fatality rate,ہلاکت کی شرح
+109,en,ur_PK,fecal contamination,فضلاتی آلودگی
+110,en,ur_PK,fever,بخار
+111,en,ur_PK,flatten the infection curve,بیماری کی کرو کو ہموار بنائیے
+112,en,ur_PK,flu,فلو
+113,en,ur_PK,food safety,غذائی تحفظ
+114,en,ur_PK,formaldehyde,آتش گیر گیس
+115,en,ur_PK,gastroenteritis,آنت اور معدے کی سوزش
+116,en,ur_PK,germicide,جراثیم کش
+117,en,ur_PK,global pandemic,عالمگیر وبا
+118,en,ur_PK,global warming,گلوبل وارمنگ (پوری دنیا کے درجہ حرارت کا بتدریج بڑھنا)
+119,en,ur_PK,good respiratory hygiene,نظام تنفس کی اچھی حفظان صحت
+120,en,ur_PK,Guangdong,گؤانگ ڈانگ (چین کا جنوبی صوبہ)
+121,en,ur_PK,H1N1,H1N1
+122,en,ur_PK,H1N1 virus,H1N1 وائرس
+123,en,ur_PK,hand disinfectant,ہاتھوں کا جراثیم کش
+124,en,ur_PK,hand sanitizer,ہاتھوں کو صاف کرنے والا
+125,en,ur_PK,health care provider,صحت کی نگہداشت کرنے والا
+126,en,ur_PK,health crisis,صحت کا بحران
+127,en,ur_PK,health plan carrier,صحت کے منصوبے کا ترسیل کار
+128,en,ur_PK,health services,صحت کی خدمات
+129,en,ur_PK,heart failure,خرابئ قلب
+130,en,ur_PK,high fever,تیز بخار
+131,en,ur_PK,HIV,HIV
+132,en,ur_PK,hospitalize,ہسپتال میں داخل ہونا
+133,en,ur_PK,household bleach,گھریلو رنگ کاٹ
+134,en,ur_PK,Hubei,ہوبے (چین کا ایک صوبہ)
+135,en,ur_PK,hydrogen peroxide,ہائڈروجن پر آکسائڈ
+136,en,ur_PK,hygiene,حفظان صحت
+137,en,ur_PK,immune system,مدافعتی نظام
+138,en,ur_PK,immunity,مدافعت
+139,en,ur_PK,immunocompromised,مامونی قلت
+140,en,ur_PK,immunologist,مناعیات کا ماہر
+141,en,ur_PK,incubation,انڈوں پر بیٹھ کر بچے نکالنا
+142,en,ur_PK,incubation period,انڈوں سے بچے نکلنے کا دورانیہ
+143,en,ur_PK,indirect contact,بالواسطہ رابطہ
+144,en,ur_PK,infect,جراثیم سے متاثر ہونا
+145,en,ur_PK,infection,بیماری کا حملہ
+146,en,ur_PK,infectious,چھوت والا
+147,en,ur_PK,infectivity,چھوت کی خاصیت
+148,en,ur_PK,influenza,وبائی زکام
+149,en,ur_PK,initial transmission event,ترسیل کا ابتدائی عمل
+150,en,ur_PK,intensive care equipment,انتہائی نگہداشت کا آلہ
+151,en,ur_PK,intermediate host,وسطی میزبان
+152,en,ur_PK,intrauterine,رحم کے اندر
+153,en,ur_PK,intubation,جسم میں نلکی لگانے کا عمل
+154,en,ur_PK,isolation,علیحدگی
+155,en,ur_PK,Isopropanol,الکحل محلل کے طور پر
+156,en,ur_PK,laboratory test kit,لیباریٹری کی ٹیسٹ کٹ
+157,en,ur_PK,laboratory testing,لیباریٹری کی ٹیسٹنگ
+158,en,ur_PK,lack of testing,ٹیسٹنگ (جانچ) کی کمی
+159,en,ur_PK,lack of tests,ٹیسٹوں کی کمی
+160,en,ur_PK,latest updates,تازہ ترین تجدید
+161,en,ur_PK,liver failure,جگر کی خرابی
+162,en,ur_PK,local public health authority,صحت کا مقامی حکومتی ادارہ
+163,en,ur_PK,lockdown,افراد کا بند رکھنا
+164,en,ur_PK,lungs,پھیپھڑے
+165,en,ur_PK,masks,ماسک
+166,en,ur_PK,measles,خسرہ
+167,en,ur_PK,mechanical ventilation,ہوا کی آمدورفت کا میکانکی نظام
+168,en,ur_PK,media coverage,ذرائع ابلاغ کا احاطہ
+169,en,ur_PK,medical care,طبی نگہداشت
+170,en,ur_PK,MERS,سانس کی شدید متعدی بیماری
+171,en,ur_PK,MERS CoV,کورونا وائرس سے لگنے والی سانس کی شدید متعدی بیماری
+172,en,ur_PK,microbiologist,ماہر خورد حیاتیات
+173,en,ur_PK,mild cough,ہلکی کھانسی
+174,en,ur_PK,mortality rate,شرح اموات
+175,en,ur_PK,multi-organ failure,متعد اعضاء کی خرابی
+176,en,ur_PK,nasal congestion,ناک کا بند ہونا
+177,en,ur_PK,neutral detergent,غیر جانبدار مصفیٰ
+178,en,ur_PK,new normal,نئی کامیابی (صدمے کے بعد)
+179,en,ur_PK,novel corona virus,نیا کورونا وائرس
+180,en,ur_PK,novel coronavirus,نیا کورونا وائرس
+181,en,ur_PK,novel coronavirus outbreak,نئے کورونا وائرس کی وبائی پھوٹ
+182,en,ur_PK,novel virus,نیا مختلف وائرس
+183,en,ur_PK,online medical consultation,آن لائن طبی مشاورت
+184,en,ur_PK,onset,حملہ
+185,en,ur_PK,outbreak,پھوٹ
+186,en,ur_PK,outbreak readiness,پھوٹ کی تیاری
+187,en,ur_PK,overall case fatality,کسی سبب سے کلی ہلاکت
+188,en,ur_PK,pandemic,عالمگیر وبا
+189,en,ur_PK,pangolin,مورخور جانور
+190,en,ur_PK,pathogen,تولد مرض
+191,en,ur_PK,pathology,علم تشخیص
+192,en,ur_PK,patient care equipment,مریض کی نگہداشت کا آلہ
+193,en,ur_PK,personal protective equipment,ذاتی حفاظتی آلہ
+194,en,ur_PK,person-to-person transmission,فرد سے فرد کو منتقلی
+195,en,ur_PK,phlegm,بلغم
+196,en,ur_PK,physical contact,جسمانی رابطہ
+197,en,ur_PK,plague,طاعون
+198,en,ur_PK,pneumonia,نمونیہ
+199,en,ur_PK,pneumonias,نمونیہ
+200,en,ur_PK,positive test,مثبت نتیجہ
+201,en,ur_PK,precaution,احتیاط
+202,en,ur_PK,precautionary,احتیاطی
+203,en,ur_PK,pre-existing condition,پہلے سے موجود کیفیت
+204,en,ur_PK,preparedness,تیاری
+205,en,ur_PK,prognosis,تشخیص
+206,en,ur_PK,protect myself,خود کو بچانا
+207,en,ur_PK,protect others,دوسروں کو بچانا
+208,en,ur_PK,protect yourself,اپنے آپ کو بچانا
+209,en,ur_PK,protective measures,حفاظتی اقدامات
+210,en,ur_PK,public health crisis,عوامی صحت کا بحران
+211,en,ur_PK,pulmonary tissue damage,پھیپھڑے کے ٹشو کا نقصان
+212,en,ur_PK,quarantine,قرنطینہ
+213,en,ur_PK,rapid risk assessment,خطرے کی تیز تشخیص
+214,en,ur_PK,reagent,عامل
+215,en,ur_PK,regular flu,باقاعدہ فلو
+216,en,ur_PK,reinfection,بیماری کا دوبارہ حملہ
+217,en,ur_PK,renal disease,گردوں کی بیماری
+218,en,ur_PK,renal failure,گردوں کی خرابی
+219,en,ur_PK,respirator,آلہِ تنفس
+220,en,ur_PK,respiratory,سانس سے متعلقہ
+221,en,ur_PK,respiratory disease,سانس کی بیماری
+222,en,ur_PK,respiratory distress,سانس کی تکلیف
+223,en,ur_PK,respiratory droplets,سانس میں شامل ننھے قطرے
+224,en,ur_PK,respiratory hygiene,تنفس کا حفظان صحت
+225,en,ur_PK,respiratory illness,سانس کی بیماری
+226,en,ur_PK,respiratory syndrome,سانس کی بیماری کی علامات
+227,en,ur_PK,respiratory tract disease,سانس کی نالی کی بیماری
+228,en,ur_PK,restrictions,پابندیاں
+229,en,ur_PK,resurge,دوبارہ نمودار ہونا
+230,en,ur_PK,RNA,پیامی تیزاب
+231,en,ur_PK,rubeola,چیچک
+232,en,ur_PK,runny nose,بہتی ناک
+233,en,ur_PK,SARS,سانس کی شدید بیماری
+234,en,ur_PK,SARS-CoV-2,کورونا وائرس -2 کی وجہ سے سانس کی شدید بیماری
+235,en,ur_PK,SARS-CoV,کورونا وائرس کی وجہ سے سانس کی شدید بیماری
+236,en,ur_PK,sars-related coronavirus,اسارس سے متعلقہ کورونا وائرس
+237,en,ur_PK,seasonal flu,موسمی وبائی زکام
+238,en,ur_PK,seasonal influenza,موسمی وبائی زکام
+239,en,ur_PK,secretion,خارج کردہ مواد
+240,en,ur_PK,self-quarantine,خود کا لگایا قرنطینہ
+241,en,ur_PK,sepsis,خون میں پیپ پیدا کرنے والا بیکٹیریا
+242,en,ur_PK,septic shock,خون میں بیکٹیریا کی وجہ سے فشار خون میں شدید کمی
+243,en,ur_PK,Severe Acute Respiratory Syndrome,سانس کی شدید بیماری
+244,en,ur_PK,shortness of breath,سانس کی تنگی
+245,en,ur_PK,sickened,متلی میں مبتلا
+246,en,ur_PK,sickness,بیماری
+247,en,ur_PK,sneeze,چھینک
+248,en,ur_PK,sneezes,چھینکیں
+249,en,ur_PK,sneezing,چھینکنا
+250,en,ur_PK,social distancing,دو افراد یا گروہوں کا باہمی فاصلہ
+251,en,ur_PK,sore throat,خراب گلا
+252,en,ur_PK,spanish flu,ہسپانوی وبائی زکام
+253,en,ur_PK,specimen collection,نمونہ لینا
+254,en,ur_PK,spread,پھیلاؤ
+255,en,ur_PK,sputum,بلغم
+256,en,ur_PK,stigmatisation,بد نما داغ لگانا
+257,en,ur_PK,supportive,تائیدی
+258,en,ur_PK,surface,سطح
+259,en,ur_PK,surfaces,سطحیں
+260,en,ur_PK,suspected infection,بیماری کے حملے کا شبہ
+261,en,ur_PK,swab,زخم صاف کرنے کی روئی
+262,en,ur_PK,swine flu,سوائن فلو (انتہائی متعدی زکام)
+263,en,ur_PK,symptom,علامت
+264,en,ur_PK,symptomatic,بیماری کی نشان دہی
+265,en,ur_PK,symptoms,علامات
+266,en,ur_PK,targeted disinfection,اہدافی دافع چھوت
+267,en,ur_PK,test kit,ٹیسٹ کٹ (جانچ کا سامان)
+268,en,ur_PK,testing error,جانچ کی غلطی
+269,en,ur_PK,tissue damage,ٹشو کا نقصان
+270,en,ur_PK,tp shortage,ٹوائلٹ پیپر کی کمی
+271,en,ur_PK,toilet paper shortage,ٹوائلٹ پیپر کی کمی
+272,en,ur_PK,touch,جڑا ہونا
+273,en,ur_PK,touching,متاثر کن
+274,en,ur_PK,transmissibility,انتقال پذیری
+275,en,ur_PK,transmissible,انتقال پذیر
+276,en,ur_PK,transmission,ترسیل
+277,en,ur_PK,transmission potential,ترسیل کا امکان
+278,en,ur_PK,typical flu,عمومی زکام
+279,en,ur_PK,underlying disease,بنیادی بیماری
+280,en,ur_PK,updates,تجدید
+281,en,ur_PK,vaccine,ویکسین
+282,en,ur_PK,vaccines,ویکسینیں
+283,en,ur_PK,ventilation,ہوا کی آمدورفت کا نظام
+284,en,ur_PK,ventilator,ہوا دینے والا آلہ
+285,en,ur_PK,ventilators,ہوا دینے والے آلے
+286,en,ur_PK,viral infection,وائرس سے پھیلنے والی بیماری
+287,en,ur_PK,viral outbreak,وائرس کی وبائی پھوٹ
+288,en,ur_PK,viral pandemic,وائرس کی عالمی وبا
+289,en,ur_PK,viral pneumonia,وائرس کا نمونیہ
+290,en,ur_PK,virtual care,مکمل نگہداشت
+291,en,ur_PK,virulence,انتہائی نقصان دہ
+292,en,ur_PK,virus itself,وائرس اپنے آپ
+293,en,ur_PK,virus outbreak,وائرس کی وبائی پھوٹ
+294,en,ur_PK,virus scare,وائرس کی دہشت
+295,en,ur_PK,virus spreads,وائرس کے پھیلاؤ
+296,en,ur_PK,virus strain,وائرس کا دباؤ
+297,en,ur_PK,viral transmission,وئرس کی منتقلی
+298,en,ur_PK,vivid-19,ووڈ - 19
+299,en,ur_PK,washing hands,ہاتھ دھونا
+300,en,ur_PK,washing ones hands,کسی کے ہاتھ دھونا
+301,en,ur_PK,wash your hands,اپنے ہاتھ دھونا
+302,en,ur_PK,white blood cell count,خون کے سفید خلیوں کی تعداد
+303,en,ur_PK,widespread transmission,کھلے عام منتقلی
+304,en,ur_PK,working from home,گھر سے کام کرنا
+305,en,ur_PK,WFH,ورلڈ فاؤنڈیشن آف ہیموفیلیا
+306,en,ur_PK,Wuhan,ووہان

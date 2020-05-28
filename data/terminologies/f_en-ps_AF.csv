@@ -1,0 +1,307 @@
+id,sourceLang,targetLang,sourceString,targetString
+1,en,ps_AF,1918 flu,د ۱۹۱۸ فلو
+2,en,ps_AF,acute bronchitis,حاد برونایټس
+3,en,ps_AF,acute respiratory disease,حاد تنفسي ناروغی
+4,en,ps_AF,AIDS,ايډز
+5,en,ps_AF,airborne droplets,هوای څاڅکی
+6,en,ps_AF,airway,د هوا لاره
+7,en,ps_AF,alcohol-based,د الکول پراساس
+8,en,ps_AF,alcohol-based hand rub,د الکول پراساس لاسي مسح
+9,en,ps_AF,alcohol-based hand sanitizer,د الکول پراساس لاسي سنیټائزر
+10,en,ps_AF,alveolar disease,د الوولر ناروغي
+11,en,ps_AF,an epidemic,يو وبا
+12,en,ps_AF,annual flu,کلنی فلو
+13,en,ps_AF,anti-inflammatory drug,د انفلاسیون ضد درمل
+14,en,ps_AF,antiviral drug,د انټي وایرل درمل
+15,en,ps_AF,antiviral treatment,د انټي وایرل درمل درملنه
+16,en,ps_AF,assay,خیا
+17,en,ps_AF,asymptomatic,بې علاماتو
+18,en,ps_AF,avian flu,د ایویان فلو
+19,en,ps_AF,Black Plague,تور طاعون
+20,en,ps_AF,blood pressure,د وینی فشار
+21,en,ps_AF,body fluid,بدنی مایع
+22,en,ps_AF,breathing,تنفس
+23,en,ps_AF,bubonic plague,د بوبونیک طاعون
+24,en,ps_AF,c19,c19
+25,en,ps_AF,cv19,cv19
+26,en,ps_AF,case fatality rate,د مړینې کچه
+27,en,ps_AF,causative agent,لامل ایجبټ
+28,en,ps_AF,CDC,سی ډی سی
+29,en,ps_AF,chemical disinfection,کيميايي بېکاره کول
+30,en,ps_AF,chest x-ray,د سينې اکسرې
+31,en,ps_AF,clinical diagnosis,کلینیکي تشخیص
+32,en,ps_AF,clinical trial,کلینیکي ازمونه
+33,en,ps_AF,close contact,نږدې اړیکه
+34,en,ps_AF,cvirus,وایرس
+35,en,ps_AF,chronic respiratory disease,د ساه لنډۍ ناروغي
+36,en,ps_AF,common cold,عام زکام
+37,en,ps_AF,common flu,عام فلو
+38,en,ps_AF,communicable disease,رواني ناروغي
+39,en,ps_AF,community spread,د ټولنې د خپریدو
+40,en,ps_AF,community transmission,د ټولنې لیږد
+41,en,ps_AF,compromised immune system,د معافیت سیستم جوړجاړی
+42,en,ps_AF,contagion,متعدی
+43,en,ps_AF,contagious,وبائی
+44,en,ps_AF,contagiousness,وبائی ناروغي
+45,en,ps_AF,corona,کورونا
+46,en,ps_AF,corona virus,کورونا وایرس
+47,en,ps_AF,corona virus epidemic,کوروناویرس وبا
+48,en,ps_AF,corona virus outbreak,کوروناویرس پراخیدل
+49,en,ps_AF,corona virus scare,کوروناویرس ډارول
+50,en,ps_AF,coronavirus,کوروناویرس
+51,en,ps_AF,coronavirus cases,کوروناویرس قضیې
+52,en,ps_AF,coronavirus outbreak,کوروناویرس پراخیدل
+53,en,ps_AF,coronavirus pandemic,کوروناویرس پراخه
+54,en,ps_AF,coronavirus scare,کوروناویرس ډارول
+55,en,ps_AF,cough,ټوخی
+56,en,ps_AF,cough etiquette,د ټوخی کولو آداب
+57,en,ps_AF,coughing,ټوخی کول
+58,en,ps_AF,cov 19,cov 19
+59,en,ps_AF,cov19,cov 19
+60,en,ps_AF,COVID,COVID
+61,en,ps_AF,COVID-19 crisis,COVID-19 بحرانونه
+62,en,ps_AF,covid-19,covid-19
+63,en,ps_AF,covid19,covid 19
+64,en,ps_AF,COVID-19 epidemic,COVID-19 وبا
+65,en,ps_AF,COVID-19 outbreak,COVID-19 پراخیدل
+66,en,ps_AF,COVID-19 pandemic,COVID-19 وبا
+67,en,ps_AF,COVID 19,COVID 19
+68,en,ps_AF,current crisis,روان بحران
+69,en,ps_AF,current health crisis,اوسنی روغتیا بحران
+70,en,ps_AF,current outbreak,اوسنی خپریدل
+71,en,ps_AF,current pandemic,اوسنی وبا
+72,en,ps_AF,CV,CV
+73,en,ps_AF,CV-19,CV-19
+74,en,ps_AF,deadly,وژونکی
+75,en,ps_AF,deadly virus,وژونکی وایرس
+76,en,ps_AF,death rate,د مړینې کچه
+77,en,ps_AF,death toll,د مړو شمیره
+78,en,ps_AF,decontaminate,پاکول
+79,en,ps_AF,detectable,تشخيص
+80,en,ps_AF,detergent,صابون
+81,en,ps_AF,difficulty breathing,ساه لنډۍ
+82,en,ps_AF,diabetes,شکر
+83,en,ps_AF,diagnosable disease,د تشخیص وړ ناروغي
+84,en,ps_AF,diagnostic protocol,د تشخیص پروتوکول
+85,en,ps_AF,diagnostic testing,تشخیصی ازموینه
+86,en,ps_AF,disease itself,ناروغي پخپله
+87,en,ps_AF,disease outbreak,ناروغي پراخیدل
+88,en,ps_AF,disinfectant,وژونکي
+89,en,ps_AF,disposable,د تزریق وړ
+90,en,ps_AF,droplet transmission,څاڅکی لیږدونه
+91,en,ps_AF,droplets,څاڅکی
+92,en,ps_AF,dry cough,وچ ټوخی
+93,en,ps_AF,dry surface contamination,وچ سطح ککړتیا
+94,en,ps_AF,ebola,ایبولا
+95,en,ps_AF,effective treatment,مؤثره درملنه
+96,en,ps_AF,electron microscope,الکټرون مايکروسکوپ
+97,en,ps_AF,emergency department,اضطراري څانګه
+98,en,ps_AF,epidemic,وبا
+99,en,ps_AF,epidemic curve,وبائی خم
+100,en,ps_AF,epidemic peak,وبائی چوکۍ
+101,en,ps_AF,epidemiologist,د وبا ناروغي
+102,en,ps_AF,exposure,خپرول
+103,en,ps_AF,extreme caution,ډیر احتیاط
+104,en,ps_AF,eye protection,د سترګو ساتنې
+105,en,ps_AF,face mask,د مخ ماسک
+106,en,ps_AF,face masks,د مخ ماسکس
+107,en,ps_AF,family cluster,د کورنۍ نژدې ډله
+108,en,ps_AF,fatality rate,د مړینې کچه
+109,en,ps_AF,fecal contamination,د پاخانې ککړتیا
+110,en,ps_AF,fever,تبه
+111,en,ps_AF,flatten the infection curve,د ناروغۍ کږه چپنه کړئ
+112,en,ps_AF,flu,فلو
+113,en,ps_AF,food safety,د خواړو خوندیتوب
+114,en,ps_AF,formaldehyde,فارمل ډیهایډ
+115,en,ps_AF,gastroenteritis,معدې
+116,en,ps_AF,germicide,جراثيم وژنه
+117,en,ps_AF,global pandemic,نړیواله ناروغي
+118,en,ps_AF,global warming,نړیواله تودوخه
+119,en,ps_AF,good respiratory hygiene,د تنفس ښه روغتیا
+120,en,ps_AF,Guangdong,ګوانګډونگ
+121,en,ps_AF,H1N1,H1N1
+122,en,ps_AF,H1N1 virus,H1N1 وایرس
+123,en,ps_AF,hand disinfectant,لاس پاکونکۍ
+124,en,ps_AF,hand sanitizer,لاس پاکونکۍ
+125,en,ps_AF,health care provider,د روغتیا پاملرنې چمتو کونکی
+126,en,ps_AF,health crisis,د روغتیا بحران
+127,en,ps_AF,health plan carrier,روغتیایی پلان وړونکې
+128,en,ps_AF,health services,روغتیایی خدمتونه
+129,en,ps_AF,heart failure,زړه بدوالی
+130,en,ps_AF,high fever,لوړه تبه
+131,en,ps_AF,HIV,HIV
+132,en,ps_AF,hospitalize,روغتون کې داخلیدل
+133,en,ps_AF,household bleach,کورنی بلیچ
+134,en,ps_AF,Hubei,هوبي
+135,en,ps_AF,hydrogen peroxide,هایډروجن پراکسایډ
+136,en,ps_AF,hygiene,حفظ الصحه
+137,en,ps_AF,immune system,د معافیت سیسټم
+138,en,ps_AF,immunity,معافیت
+139,en,ps_AF,immunocompromised,د معافیت جوړجاړی
+140,en,ps_AF,immunologist,د معافیت پوه
+141,en,ps_AF,incubation,انکیوبیشن
+142,en,ps_AF,incubation period,انکیوبیشن موده
+143,en,ps_AF,indirect contact,غیر مستقیم اړیکه
+144,en,ps_AF,infect,ناروغي
+145,en,ps_AF,infection,ناروغي
+146,en,ps_AF,infectious,انتاني ناروغي
+147,en,ps_AF,infectivity,ناروغۍ
+148,en,ps_AF,influenza,انفلونزا
+149,en,ps_AF,initial transmission event,لومړنی لیږدونې پیښه
+150,en,ps_AF,intensive care equipment,د ډیر پاملرنې وسایل
+151,en,ps_AF,intermediate host,منځني کوربه
+152,en,ps_AF,intrauterine,د رحم د لاری
+153,en,ps_AF,intubation,ټیوبونه لګول
+154,en,ps_AF,isolation,بیلول
+155,en,ps_AF,Isopropanol,اسوپروپانول
+156,en,ps_AF,laboratory test kit,د لابراتوار ازمونې کټ
+157,en,ps_AF,laboratory testing,د لابراتوار ازمونه
+158,en,ps_AF,lack of testing,د ازمونې نشتوالی
+159,en,ps_AF,lack of tests,د ازموینو نشتوالی
+160,en,ps_AF,latest updates,وروستي تازه معلومات
+161,en,ps_AF,liver failure,ځيګر ناکامي
+162,en,ps_AF,local public health authority,د ځايي عامې روغتيا واک
+163,en,ps_AF,lockdown,بندول
+164,en,ps_AF,lungs,سږي
+165,en,ps_AF,masks,ماسکونه
+166,en,ps_AF,measles,شرى
+167,en,ps_AF,mechanical ventilation,میخانیکي هوا ورکول
+168,en,ps_AF,media coverage,د رسنیو پوښښ
+169,en,ps_AF,medical care,صحی پاملرنه
+170,en,ps_AF,MERS,NERS
+171,en,ps_AF,MERS CoV,MERS Cov
+172,en,ps_AF,microbiologist,میکروبیولوژیست
+173,en,ps_AF,mild cough,لږ ټوخی
+174,en,ps_AF,mortality rate,د مړینې کچه
+175,en,ps_AF,multi-organ failure,د کثیر ارګان ناکامي
+176,en,ps_AF,nasal congestion,د پزې جمود
+177,en,ps_AF,neutral detergent,ساده صابون
+178,en,ps_AF,new normal,نوي عادي
+179,en,ps_AF,novel corona virus,ناول کورونوایرس
+180,en,ps_AF,novel coronavirus,ناول کورونوایرس
+181,en,ps_AF,novel coronavirus outbreak,ناول کورونوایرس پراخیدل
+182,en,ps_AF,novel virus,ناول ویروس
+183,en,ps_AF,online medical consultation,آنلاین طبي مشوره
+184,en,ps_AF,onset,پیل
+185,en,ps_AF,outbreak,پراخیدل
+186,en,ps_AF,outbreak readiness,پراخه چمتووالی
+187,en,ps_AF,overall case fatality,په ټوله کې د قضیې مرګ
+188,en,ps_AF,pandemic,پراخه
+189,en,ps_AF,pangolin,پینګولین
+190,en,ps_AF,pathogen,ناروغي
+191,en,ps_AF,pathology,رنځپوهنه
+192,en,ps_AF,patient care equipment,د ناروغ پاملرنې تجهیزات
+193,en,ps_AF,personal protective equipment,ځاني محافظوي توکي
+194,en,ps_AF,person-to-person transmission,له یو شخص څخه بل ته لیږدول
+195,en,ps_AF,phlegm,بلغم
+196,en,ps_AF,physical contact,فزیکي اړیکه
+197,en,ps_AF,plague,وبا
+198,en,ps_AF,pneumonia,نمونیا
+199,en,ps_AF,pneumonias,نمونیا
+200,en,ps_AF,positive test,مثبت ازموینه
+201,en,ps_AF,precaution,احتیاط
+202,en,ps_AF,precautionary,احتیاطي
+203,en,ps_AF,pre-existing condition,مخکې موجود حالت
+204,en,ps_AF,preparedness,چمتووالی
+205,en,ps_AF,prognosis,تشخیص
+206,en,ps_AF,protect myself,خپل ځان ساتنه
+207,en,ps_AF,protect others,د نورو ساتنه
+208,en,ps_AF,protect yourself,خپل ځان وساتئ
+209,en,ps_AF,protective measures,محافظتي اقدامات
+210,en,ps_AF,public health crisis,د عامې روغتیا بحران
+211,en,ps_AF,pulmonary tissue damage,د سږو د نسج زیان
+212,en,ps_AF,quarantine,قرنطين
+213,en,ps_AF,rapid risk assessment,د چټک خطر ارزونه
+214,en,ps_AF,reagent,ریجنټ
+215,en,ps_AF,regular flu,منظم فلو
+216,en,ps_AF,reinfection,بیا انتان
+217,en,ps_AF,renal disease,د پښتورګو ناروغي
+218,en,ps_AF,renal failure,د پښتورګو د ناکامۍ
+219,en,ps_AF,respirator,تنفس
+220,en,ps_AF,respiratory,تنفسي
+221,en,ps_AF,respiratory disease,تنفسي ناروغي
+222,en,ps_AF,respiratory distress,تنفسي ستونزه
+223,en,ps_AF,respiratory droplets,تنفسي څاڅکي
+224,en,ps_AF,respiratory hygiene,د تنفس حفظ الصحه
+225,en,ps_AF,respiratory illness,تنفسي ناروغي
+226,en,ps_AF,respiratory syndrome,تنفسي سنډروم
+227,en,ps_AF,respiratory tract disease,د تنفسي د لاری ناروغۍ
+228,en,ps_AF,restrictions,محدودیتونه
+229,en,ps_AF,resurge,بیا راپورته کیدل
+230,en,ps_AF,RNA,RNA
+231,en,ps_AF,rubeola,روبولا
+232,en,ps_AF,runny nose,بهېدونکې پوزه
+233,en,ps_AF,SARS,SARS
+234,en,ps_AF,SARS-CoV-2,SARS-CoV-2
+235,en,ps_AF,SARS-CoV,SARS-CoV
+236,en,ps_AF,sars-related coronavirus,سرس پورې اړوند کورونویرس
+237,en,ps_AF,seasonal flu,موسمي فلو
+238,en,ps_AF,seasonal influenza,موسمي انفلونزا
+239,en,ps_AF,secretion,ترشح
+240,en,ps_AF,self-quarantine,ځان قرنطين
+241,en,ps_AF,sepsis,سیپسس
+242,en,ps_AF,septic shock,سیپټیک شاک
+243,en,ps_AF,Severe Acute Respiratory Syndrome,شدید تنفسي سنډروم
+244,en,ps_AF,shortness of breath,د ساه لنډۍ
+245,en,ps_AF,sickened,ناروغ شوی
+246,en,ps_AF,sickness,ناروغي
+247,en,ps_AF,sneeze,اتروشۍ
+248,en,ps_AF,sneezes,اتروشۍ
+249,en,ps_AF,sneezing,اتروشۍ کول
+250,en,ps_AF,social distancing,ټولنیز واټن
+251,en,ps_AF,sore throat,د ستوني درد
+252,en,ps_AF,spanish flu,هسپانوي فلو
+253,en,ps_AF,specimen collection,د نمونې ټولګه
+254,en,ps_AF,spread,خپریدل
+255,en,ps_AF,sputum,بلغم
+256,en,ps_AF,stigmatisation,بدنامي
+257,en,ps_AF,supportive,ملاتړ کونکی
+258,en,ps_AF,surface,سطح
+259,en,ps_AF,surfaces,سطحونه
+260,en,ps_AF,suspected infection,شکمن ناروغي
+261,en,ps_AF,swab,جارو
+262,en,ps_AF,swine flu,سوائن فلو
+263,en,ps_AF,symptom,نښې
+264,en,ps_AF,symptomatic,خواصي
+265,en,ps_AF,symptoms,نښې
+266,en,ps_AF,targeted disinfection,په نښه شوی غیر منتن کول
+267,en,ps_AF,test kit,د ازمونې کټ
+268,en,ps_AF,testing error,ازمويښت تېروتنه
+269,en,ps_AF,tissue damage,د نسج زیان
+270,en,ps_AF,tp shortage,د تشناب کاغذونو کمښت
+271,en,ps_AF,toilet paper shortage,د تشناب کاغذونو کمښت
+272,en,ps_AF,touch,تماس
+273,en,ps_AF,touching,لمس کول
+274,en,ps_AF,transmissibility,د لیږد وړتیا
+275,en,ps_AF,transmissible,د لیږد وړ
+276,en,ps_AF,transmission,لېږدول
+277,en,ps_AF,transmission potential,د لیږد وړتیا
+278,en,ps_AF,typical flu,عادی زکام
+279,en,ps_AF,underlying disease,بنيادي ناروغۍ
+280,en,ps_AF,updates,اوسمهالول
+281,en,ps_AF,vaccine,واکسين
+282,en,ps_AF,vaccines,واکسين
+283,en,ps_AF,ventilation,هوا ورکول
+284,en,ps_AF,ventilator,وینټي لیټر
+285,en,ps_AF,ventilators,وینټي لیټرز
+286,en,ps_AF,viral infection,د ویروس انتان
+287,en,ps_AF,viral outbreak,ویروس خپریدل
+288,en,ps_AF,viral pandemic,ویروسي ناروغي
+289,en,ps_AF,viral pneumonia,ویروسي نمونیا
+290,en,ps_AF,virtual care,مجازي پاملرنه
+291,en,ps_AF,virulence,ویروس
+292,en,ps_AF,virus itself,ویروس پخپله
+293,en,ps_AF,virus outbreak,ویروس خپریدل
+294,en,ps_AF,virus scare,ویرس ډارول
+295,en,ps_AF,virus spreads,ویروس خپریدل
+296,en,ps_AF,virus strain,د ویروس فشار
+297,en,ps_AF,viral transmission,ویروس لیږد
+298,en,ps_AF,vivid-19,vivid-19
+299,en,ps_AF,washing hands,لاسونه مینځل
+300,en,ps_AF,washing ones hands,د بل چا لاسونه مینځل
+301,en,ps_AF,wash your hands,خپل لاسونه مینځل
+302,en,ps_AF,white blood cell count,د سپینې وینې حجرې حساب
+303,en,ps_AF,widespread transmission,پراخه لیږدونه
+304,en,ps_AF,working from home,د کور څخه کار کول
+305,en,ps_AF,WFH,WFH
+306,en,ps_AF,Wuhan,ووهان
