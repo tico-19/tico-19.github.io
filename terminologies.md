@@ -20,7 +20,7 @@ These terminologies were created by Facebook and Google and provided as is, free
 ## List of individual language pairs
 
 | Language Pair | terminology1 (facebook) | terminology2(google) |
-| ------------- | ----------------------- | -------------------- |
+| :-----  | :----: | :----: |
 | English - Arabic | [file](data/terminologies/f_en-ar_AR.csv)  | [file](data/terminologies/g_ar_en.csv) |
 | English - Assamese | [file](data/terminologies/f_en-as_IN.csv) |    |
 | English - Bengali | [file](data/terminologies/f_en-bn_IN.csv)  | [file](data/terminologies/g_bn_en.csv) |
