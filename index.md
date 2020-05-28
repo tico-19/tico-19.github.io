@@ -44,21 +44,15 @@ Other COVID19-related collections from our contributors and our friends:
 
 ## Contact
 
-Contact us at `tico19 [dot] 2020 [at] gmail [dot] com`.
+Contact us at:   `tico19 [dot] 2020 [at] gmail [dot] com`.
 
 ## Contributors
 
-<img src="logos/LTI.png" alt="CMU LTI logo" width="150">
-<img src="logos/jhu.jpg" alt="JHU logo" width="150">
-<img src="logos/TWB.png" alt="Translators Without Borders logo" width="150">
-
-<img src="logos/appen.svg" alt="Appen logo" width="150">
-<img src="logos/amazon.png" alt="Amazon logo" width="150">
-<img src="logos/facebook.png" alt="Facebook logo" width="150">
-
-<img src="logos/google.png" alt="Google logo" width="150">
-<img src="logos/Microsoft.png" alt="Microsoft logo" width="150">
-<img src="logos/translated.jpg" alt="Translated logo" width="150">
+| | |
+| :----: | :----: | :----: |
+| <img src="logos/LTI.png" alt="CMU LTI logo" width="150"> | <img src="logos/jhu.jpg" alt="JHU logo" width="150"> <img src="logos/TWB.png" alt="Translators Without Borders logo" width="150"> |
+| <img src="logos/appen.svg" alt="Appen logo" width="150"> | <img src="logos/amazon.png" alt="Amazon logo" width="150"> | <img src="logos/facebook.png" alt="Facebook logo" width="150"> \
+| <img src="logos/google.png" alt="Google logo" width="150"> | <img src="logos/Microsoft.png" alt="Microsoft logo" width="150"> | <img src="logos/translated.jpg" alt="Translated logo" width="150"> |
 
 
 ## License
