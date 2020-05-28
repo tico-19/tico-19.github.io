@@ -19,35 +19,32 @@ These terminologies were created by Facebook and Google and provided as is, free
 
 ## List of individual language pairs
 
+Note: the `reverse` tag means that this file was created using the non-English language as the source.
+
 | Language Pair | Terminology 1 (Facebook) | Terminology 2 (Google) |
 | :-----  | :----: | :----: |
-| English - Arabic | [file](data/terminologies/f_en-ar_AR.csv)  | [file](data/terminologies/g_ar_en.csv) |
-| English - Assamese | [file](data/terminologies/f_en-as_IN.csv) |    |
-| English - Bengali | [file](data/terminologies/f_en-bn_IN.csv)  | [file](data/terminologies/g_bn_en.csv) |
-| English - Sorani Kurdish | [file](data/terminologies/f_en-cb_IQ.csv) |    |
-| English - Czech | [file](data/terminologies/f_en-cs_CZ.csv)  | [file](data/terminologies/g_cs_en.csv) |
-| English - Danish | [file](data/terminologies/f_en-da_DK.csv)  | [file](data/terminologies/g_da_en.csv) |
-| English - German | [file](data/terminologies/f_en-de_DE.csv)  | [file](data/terminologies/g_de_en.csv) |
 | English - Afrikaans | [file](data/terminologies/f_en-af_ZA.csv)  | [file](data/terminologies/g_en_af.csv) |
+| English - Arabic | [file](data/terminologies/f_en-ar_AR.csv)  | [file](data/terminologies/g_en_ar.csv) [reverse](data/terminologies/g_ar_en.csv) |
 | English - Amharic | [file](data/terminologies/f_en-am_ET.csv)  | [file](data/terminologies/g_en_am.csv) |
-| English - Arabic |    | [file](data/terminologies/g_en_ar.csv) |
+| English - Assamese | [file](data/terminologies/f_en-as_IN.csv) |    |
 | English - Azerbaijani | [file](data/terminologies/f_en-az_AZ.csv)  | [file](data/terminologies/g_en_az.csv) |
+| English - Bengali | [file](data/terminologies/f_en-bn_IN.csv)  | [file](data/terminologies/g_en_bn.csv) [reverse](data/terminologies/g_bn_en.csv) |
+| English - Sorani Kurdish | [file](data/terminologies/f_en-cb_IQ.csv) |    |
 | English - Belarusian | [file](data/terminologies/f_en-be_BY.csv)  | [file](data/terminologies/g_en_be.csv) |
 | English - Bulgarian | [file](data/terminologies/f_en-bg_BG.csv)  | [file](data/terminologies/g_en_bg.csv) |
-| English - Bengali |    | [file](data/terminologies/g_en_bn.csv) |
 | English - Bosnian | [file](data/terminologies/f_en-bs_BA.csv)  | [file](data/terminologies/g_en_bs.csv) |
 | English - Catalan | [file](data/terminologies/f_en-ca_ES.csv)  | [file](data/terminologies/g_en_ca.csv) |
 | English - Cebuano | [file](data/terminologies/f_en-cx_PH.csv)  | [file](data/terminologies/g_en_ceb.csv) |
 | English - Corsican |    | [file](data/terminologies/g_en_co.csv) |
-| English - Czech |    | [file](data/terminologies/g_en_cs.csv) |
+| English - Czech | [file](data/terminologies/f_en-cs_CZ.csv)   | [file](data/terminologies/g_en_cs.csv) [reverse](data/terminologies/g_cs_en.csv) |
 | English - Welsh |    | [file](data/terminologies/g_en_cy.csv) |
-| English - Danish |    | [file](data/terminologies/g_en_da.csv) |
-| English - German |    | [file](data/terminologies/g_en_de.csv) |
+| English - Danish | [file](data/terminologies/f_en-da_DK.csv)  | [file](data/terminologies/g_en_da.csv) [reverse](data/terminologies/g_da_en.csv) |
+| English - German | [file](data/terminologies/f_en-de_DE.csv)  | [file](data/terminologies/g_en_de.csv)  [reverse](data/terminologies/g_de_en.csv) |
 | English - Greek | [file](data/terminologies/f_en-el_GR.csv)  | [file](data/terminologies/g_en_el.csv) |
 | English - Esperanto |    | [file](data/terminologies/g_en_eo.csv) |
 | English - Spanish | [file](data/terminologies/f_en-es_XX.csv) |    |
 | English - Spanish (Latin America) |    | [file](data/terminologies/g_en_es-419.csv) [reverse](data/terminologies/g_es-419_en.csv) |
-| English - Spanish (Spain) |    | [file](data/terminologies/g_es-ES_en.csv) |
+| English - Spanish (Spain) |    | [reverse](data/terminologies/g_es-ES_en.csv) |
 | English - Estonian | [file](data/terminologies/f_en-et_EE.csv)  | [file](data/terminologies/g_en_et.csv) |
 | English - Euskara |    | [file](data/terminologies/g_en_eu.csv) |
 | English - Persian | [file](data/terminologies/f_en-fa_IR.csv)  | [file](data/terminologies/g_en_fa.csv) [reverse](data/terminologies/g_fa_en.csv) |
@@ -95,7 +92,7 @@ These terminologies were created by Facebook and Google and provided as is, free
 | English - Malay | [file](data/terminologies/f_en-ms_MY.csv)  | [file](data/terminologies/g_en_ms.csv) [reverse](data/terminologies/g_ms_en.csv) |
 | English - Burmese | [file](data/terminologies/f_en-my_MM.csv)  | [file](data/terminologies/g_en_my.csv) |
 | English - Norwegian (Bokmal) |    | [file](data/terminologies/g_en_nb.csv) |
-| English - Norwegian (Nynorsk) | [file](data/terminologies/f_en-no_XX.csv)  | [file](data/terminologies/g_no_en.csv) |
+| English - Norwegian (Nynorsk) | [file](data/terminologies/f_en-no_XX.csv)  | [reverse](data/terminologies/g_no_en.csv) |
 | English - Nepali | [file](data/terminologies/f_en-ne_NP.csv)  | [file](data/terminologies/g_en_ne.csv) |
 | English - Dutch | [file](data/terminologies/f_en-nl_XX.csv)  | [file](data/terminologies/g_en_nl.csv) [reverse](data/terminologies/g_nl_en.csv) |
 | English - Northern Sotho | [file](data/terminologies/f_en-ns_ZA.csv) |    |
@@ -105,7 +102,7 @@ These terminologies were created by Facebook and Google and provided as is, free
 | English - Polish | [file](data/terminologies/f_en-pl_PL.csv)  | [file](data/terminologies/g_en_pl.csv) |
 | English - Pashto | [file](data/terminologies/f_en-ps_AF.csv)  | [file](data/terminologies/g_en_ps.csv) |
 | English - Portuguese (Brazilian) |    | [file](data/terminologies/g_en_pt-BR.csv) [reverse](data/terminologies/g_pt-BR_en.csv) |
-| English - Portuguese (Portugal) | [file](data/terminologies/f_en-pt_XX.csv) | [file](data/terminologies/g_pt-PT_en.csv) |
+| English - Portuguese (Portugal) | [file](data/terminologies/f_en-pt_XX.csv) | [reverse](data/terminologies/g_pt-PT_en.csv) |
 | English - Romanian | [file](data/terminologies/f_en-ro_RO.csv)  | [file](data/terminologies/g_en_ro.csv) |
 | English - Russian | [file](data/terminologies/f_en-ru_RU.csv)  | [file](data/terminologies/g_en_ru.csv) [reverse](data/terminologies/g_ru_en.csv) |
 | English - Sindhi |    | [file](data/terminologies/g_en_sd.csv) |
