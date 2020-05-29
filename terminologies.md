@@ -22,7 +22,7 @@ These terminologies were created by Facebook and Google and provided as is, free
 Note: the `reverse` tag means that this file was created using the non-English language as the source.
 
 | Language Pair | Terminology 1 (Facebook) | Terminology 2 (Google) |
-| :-----  | :----: | :----: |
+| :--------------------------------------------- | :----: | :----: |
 | English - Afrikaans | [file](data/terminologies/f_en-af_ZA.csv)  | [file](data/terminologies/g_en_af.csv) |
 | English - Arabic | [file](data/terminologies/f_en-ar_AR.csv)  | [file](data/terminologies/g_en_ar.csv) [reverse](data/terminologies/g_ar_en.csv) |
 | English - Amharic | [file](data/terminologies/f_en-am_ET.csv)  | [file](data/terminologies/g_en_am.csv) |
