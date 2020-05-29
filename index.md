@@ -51,7 +51,7 @@ Contact us at:   `tico19 [dot] 2020 [at] gmail [dot] com`.
 
 | | |
 | :----: | :----: | :----: |
-| [<img src="logos/LTI.png" alt="CMU LTI logo" width="200">](lti.cs.cmu.edu) | [<img src="logos/jhu.jpg" alt="JHU logo" width="200">](http://cs.jhu.edu/) | [<img src="logos/TWB.png" alt="Translators Without Borders logo" width="200">](https://translatorswithoutborders.org/) |
+| [<img src="logos/LTI.png" alt="CMU LTI logo" width="200">](https://lti.cs.cmu.edu) | [<img src="logos/jhu.jpg" alt="JHU logo" width="200">](http://cs.jhu.edu/) | [<img src="logos/TWB.png" alt="Translators Without Borders logo" width="200">](https://translatorswithoutborders.org/) |
 | [<img src="logos/appen.svg" alt="Appen logo" width="200">](https://appen.com/) | [<img src="logos/amazon.png" alt="Amazon AWS logo" width="200">](https://aws.amazon.com/) | [<img src="logos/facebook.png" alt="Facebook logo" width="200">](https://www.facebook.com/) |
 | [<img src="logos/google.png" alt="Google logo" width="200">](https://www.google.com/) | [<img src="logos/Microsoft.png" alt="Microsoft logo" width="200">](https://www.microsoft.com/) | [<img src="logos/translated.jpg" alt="Translated logo" width="200">](http://translated.com/) |
 
