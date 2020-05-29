@@ -26,6 +26,7 @@ Translations of covid19-related terms in dozens of languages and locales, provid
 The benchmark will include 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
 Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Congolese Swahili, Tagalog, Tamil, Tigrinya, Urdu, Zulu.
 
+* under construction
 
 ## Other data sources
 
@@ -50,9 +51,11 @@ Contact us at:   `tico19 [dot] 2020 [at] gmail [dot] com`.
 
 | | |
 | :----: | :----: | :----: |
-| <img src="logos/LTI.png" alt="CMU LTI logo" width="200"> | <img src="logos/jhu.jpg" alt="JHU logo" width="200"> | <img src="logos/TWB.png" alt="Translators Without Borders logo" width="200"> |
+| [<img src="logos/LTI.png" alt="CMU LTI logo" width="200">](lti.cs.cmu.edu) | [<img src="logos/jhu.jpg" alt="JHU logo" width="200">](http://cs.jhu.edu/) | [<img src="logos/TWB.png" alt="Translators Without Borders logo" width="200">](https://translatorswithoutborders.org/) |
 | <img src="logos/appen.svg" alt="Appen logo" width="200"> | <img src="logos/amazon.png" alt="Amazon logo" width="200"> | <img src="logos/facebook.png" alt="Facebook logo" width="200"> |
 | <img src="logos/google.png" alt="Google logo" width="200"> | <img src="logos/Microsoft.png" alt="Microsoft logo" width="200"> | <img src="logos/translated.jpg" alt="Translated logo" width="200"> |
+
+After the first phase of the project is completed, we will make a call for further community contributions, stay tuned!
 
 
 ## License

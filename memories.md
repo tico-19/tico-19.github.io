@@ -8,6 +8,7 @@ layout: tico-default
 
 We created translation memoried (in .TMX format) for some language pairs.
 They are free to use under a CC0 license.
+Each file (zipped) is about 400KB.
 
 |  Language Pair | File  |
 | :------------: | :---: |
