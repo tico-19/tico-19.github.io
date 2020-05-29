@@ -11,7 +11,7 @@ To this end, we have so far created:
 
 We have combined the terminologies and other translation data to create translation memories in .tmx format for the majority of the language pairs. 
 
-* Matrix view and additional details [here](memories.html).
+* Additional details and data download [here](memories.html).
 
 
 ## Translated Terminologies
@@ -51,7 +51,7 @@ Contact us at:   `tico19 [dot] 2020 [at] gmail [dot] com`.
 | | |
 | :----: | :----: | :----: |
 | <img src="logos/LTI.png" alt="CMU LTI logo" width="200"> | <img src="logos/jhu.jpg" alt="JHU logo" width="200"> | <img src="logos/TWB.png" alt="Translators Without Borders logo" width="200"> |
-| <img src="logos/appen.svg" alt="Appen logo" width="200"> | <img src="logos/amazon.png" alt="Amazon logo" width="20"> | <img src="logos/facebook.png" alt="Facebook logo" width="200"> |
+| <img src="logos/appen.svg" alt="Appen logo" width="200"> | <img src="logos/amazon.png" alt="Amazon logo" width="200"> | <img src="logos/facebook.png" alt="Facebook logo" width="200"> |
 | <img src="logos/google.png" alt="Google logo" width="200"> | <img src="logos/Microsoft.png" alt="Microsoft logo" width="200"> | <img src="logos/translated.jpg" alt="Translated logo" width="200"> |
 
 
