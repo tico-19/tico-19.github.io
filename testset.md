@@ -1,5 +1,5 @@
 ---
-title: Evaluation Set from TICO-19
+title: TICO-19 Benchmark
 layout: tico-default
 ---
 

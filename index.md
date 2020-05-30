@@ -1,5 +1,5 @@
 ---
-title: Transation Initiative for COVID-19
+title: Translation Initiative for COVID-19
 layout: tico-default
 ---
 

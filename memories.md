@@ -1,5 +1,5 @@
 ---
-title: Transation Memories from TICO-19
+title: TICO-19 Translation Memories
 layout: tico-default
 ---
 
@@ -23,5 +23,5 @@ Each file (zipped) is about 400KB.
 | English - Urdu | [zipped .tmx](data/TM/en_ur.tsv.tmx-2020-4-29_3-10.zip) |
 | English - Zulu | [zipped .tmx](data/TM/en_zu.tsv.tmx-2020-4-29_3-10.zip) |
 
-
+More language pairs coming soon!
 

@@ -1,5 +1,5 @@
 ---
-title: Transation Memories from TICO-19
+title: TICO-19 Terminologies
 layout: tico-default
 ---
 
