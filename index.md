@@ -34,8 +34,8 @@ Other COVID19-related collections from our contributors and our friends (which m
 
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
 * [Neulab](http://www.cs.cmu.edu/~neulab/) members and other collaborators have collected several resources (especially crawled monolingual news data) in this [GitHub repo](https://github.com/neulab/covid19-datashare).
+* Microsoft has published Covid-19 related desktop searches from Bing. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet).
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
-* Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet).
 * An international team of scientists that tries to estimate the number of cases with COVID-19 symptoms in different countries have put out [surveys](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md) in 57 languages. (HT: @juliakreutzer)
 * The [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) has information in 60+ languages.
 * The [EMEA corpus](http://opus.nlpl.eu/EMEA.php) provides pdf conversions of documents from the European Medicines Agency (22 languages, 231 bitexts).
