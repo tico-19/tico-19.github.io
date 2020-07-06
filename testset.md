@@ -9,7 +9,7 @@ layout: tico-default
 The benchmark includes 30 documents (3071 sentences, 69.7k words) translated from English into 36 languages:
 Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, Farsi, French (European), Hausa, Hindi, Indonesian, Kanuri, Khmer (Central), Kinyarwanda, Kurdish Kurmanji, Kurdish Sorani, Lingala, Luganda, Malay, Marathi, Myanmar, Nepali, Nigerian Fulfulde, Nuer, Oromo, Pashto, Portuguese (Brazilian), Russian, Somali, Spanish (Latin American), Swahili, Tagalog, Tamil, Ethiopian Tigrinya, Urdu, Zulu.
 
-Download all data (with pre-defined dev/test splits) here: [zip](#).
+Download all data (with pre-defined dev/test splits) here: [zip](data/tico19-testset.zip).
 
 The paper describing the dataset is here: [pdf](https://arxiv.org/pdf/2007.01788.pdf).
 (Please use this [BibTeX](data/paper/ticopaper.bib) file if you end up using the dataset in an academic paper.)
