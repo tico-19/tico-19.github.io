@@ -11,7 +11,7 @@ Amharic, Arabic (Modern Standard), Bengali, Chinese (Simplified), Dari, Dinka, F
 
 Download all data (with pre-defined dev/test splits) here: [zip](data/tico19-testset.zip).
 
-The paper describing the dataset is here: [pdf](https://arxiv.org/pdf/2007.01788.pdf).
+The paper describing the dataset is here: [pdf](data/paper/ticopaper.pdf).
 (Please use this [BibTeX](data/paper/ticopaper.bib) file if you end up using the dataset in an academic paper.)
 
 We will maintain a matrix of the best reported results (BLEU scores) and systems on each language pair. If you evaluate your MT systems against the benchmark reach out to us!
