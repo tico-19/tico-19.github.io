@@ -54,11 +54,23 @@ The effort has been featured in:
 * [Announcement from TWB](https://translatorswithoutborders.org/TICO-19-announcement) Title: "TWB partners with tech leaders to develop COVID-19 language technology for 37 languages"
 * [Slator article](https://slator.com/machine-translation/twb-big-tech-academia-take-on-covid-19-language-challenge/) Title: "TWB, Big Tech, Academia Take on Covid-19 Language Challenge"
 * [DevEx article](https://www.devex.com/news/opinion-covid-19-calls-for-disrupting-the-way-we-communicate-in-a-crisis-97641) Title: "Opinion: COVID-19 calls for disrupting the way we communicate in a crisis"
+* [Language Magazine article](https://www.languagemagazine.com/2020/07/27/covid-translation-initiative-takes-off/) Title: "COVID Translation Initiative Takes Off"
 
 
 ## Contact
 
 Contact us at:   `tico19 [dot] 2020 [at] gmail [dot] com`.
+
+## Invitation for Contributions
+
+We make a public call for community contributions to the TICO-19  project.
+
+* You can contribute by translating the TICO-19 benchmark in more languages. Ideally, the benchmark will grow to cover as many of the world's languages as possible! However, we note that a large portion of the benchmark includes medical terminology which is important to accurately translate. Thus, we strongly encourage that professional translators handle the technical content, and that you follow a rigorous process of Quality Assurance (e.g. a process similar to the one described in our paper) over the produced translations. Reach out to us and we will be glad to provide details on our QA process.
+* If you are a professional translator and have already produced COVID-19 related content, you can share your translation memory and we will combine and release it with ours. Similarly, if you have compiled terminologies with COVID-19 terms, or if you find errors in our published terminologies, reach out and we will update them accordingly.
+* You can volunteer with Translators without Borders (TWB) if you are fluent in at least one language other than your native language. Whether you are interested in translating medical texts or translating for crisis response, there are engaging projects available to suit all preferences. Professional translators are especially encouraged to apply. Click here to complete the [Translator Application Form](https://trommons.org/register).
+
+All community contributions will be properly acknowledged and labeled as such.
+
 
 ## Contributors
 
