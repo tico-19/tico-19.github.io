@@ -1,6 +1,6 @@
 ---
 title: TICO-19 Benchmark
-layout: tico-default
+layout: tico-default-no-header
 ---
 
 <sup><sub>[back to main page](index.html) </sub></sup>
