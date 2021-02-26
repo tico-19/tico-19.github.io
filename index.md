@@ -40,6 +40,7 @@ The effort has been featured in:
 
 * [Wired article](https://www.wired.com/story/covid-language-translation-problem/) by [Gretchen McCulloch](https://gretchenmcculloch.com/) Title: "Covid-19 Is History’s Biggest Translation Challenge"
 * [The Global Podcast](https://www.stitcher.com/show/the-global-podcast-2/episode/episode-14-twb-and-tico-19-project-80576088) Episode 14: "TWB and TICO-19 Project"
+* A [World Economic Forum article](https://www.weforum.org/agenda/2021/02/covid-19-increased-use-of-ai-here-s-why-its-here-to-stay/) featured TICO-19. Title: "COVID-19 increased the use of AI. Here’s why it’s here to stay"
 * [Facebook AI Blog](https://ai.facebook.com/blog/using-ai-to-help-health-experts-address-the-covid-19-pandemic) Title: "Using AI to help health experts address the COVID-19 pandemic"
 * [Announcement from TWB](https://translatorswithoutborders.org/TICO-19-announcement) Title: "TWB partners with tech leaders to develop COVID-19 language technology for 37 languages"
 * [Slator article](https://slator.com/machine-translation/twb-big-tech-academia-take-on-covid-19-language-challenge/) Title: "TWB, Big Tech, Academia Take on Covid-19 Language Challenge"
